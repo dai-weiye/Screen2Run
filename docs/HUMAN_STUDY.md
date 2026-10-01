@@ -12,7 +12,7 @@ The release also includes:
 - `ratings.schema.json`: the public score schema.
 - `stimuli_manifest.json`: the fixed 60-screen roster, dataset and complexity strata, code-collection round, and stimulus hashes.
 - `code/<item_id>/<method>.xml`: all **180 exact de-identified XML texts shown for code assessment**.
-- `questionnaire_template.html`: an English, blank replication template. It is not a historical questionnaire, an original expert return, or evidence that another collection occurred.
+- `questionnaire_template.html`: a blank English questionnaire for conducting an independent replication study.
 
 All descriptions, field names, and questionnaire interface text in this release are English. Original interface strings and comments inside the displayed XML are research data and may use other languages; they have not been translated or rewritten.
 
@@ -103,7 +103,7 @@ The release does **not** include third-party reference screenshots, rendered scr
 
 The manifest includes reference-display image hashes, candidate capture hashes, display-image hashes, original XML hashes, and supplied display-XML hashes. Original model outputs are stochastic: rerunning a model or rendering different assets is not guaranteed to reproduce the historic bytes. Label such outputs as a new replication, not the original stimuli. Exact original image assets require an authorized artifact distribution; a hash is an identity check, not a download location or a license grant.
 
-The historical display preprocessing converted images to RGB, masked the top 4.5% with the median color in the band immediately below it, resized to height 1,280 pixels with Pillow LANCZOS, and encoded lossless WebP with method 4. For a source height `h`, `cut=round(0.045*h)`; the median band is rows `cut:cut+max(2,h//40)`. Width is scaled proportionally. Library/encoder versions can affect byte hashes; preserve processing provenance. Raters were instructed not to score system status or navigation bars.
+Display preprocessing converted images to RGB, masked the top 4.5% with the median color in the band immediately below it, resized to height 1,280 pixels with Pillow LANCZOS, and encoded lossless WebP with method 4. For a source height `h`, `cut=round(0.045*h)`; the median band is rows `cut:cut+max(2,h//40)`. Width is scaled proportionally. Library/encoder versions can affect byte hashes; preserve processing provenance. Raters were instructed not to score system status or navigation bars.
 
 The supplied XML is the exact assessment text, including references to drawable resources that are not redistributed. It is therefore **not** a standalone Android project. Do not remove those references, rasterize whole reference screens, or replace code with screenshots to reproduce the reported ratings.
 

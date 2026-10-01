@@ -62,7 +62,7 @@ uses the same 120-screen subset. Human ratings retain six participants and both
 
 The three modules are **Initial Code Generation**, **Code Review and Fix**, and
 **Image Filling**. S5 produces the **Reviewed XML**; Image Filling produces the
-**Final XML + assets**. The latter uses UIED and OCR, not the earlier YOLO branch.
+**Final XML + assets**. Image Filling uses UIED and OCR measurements.
 [The correspondence table](docs/METHOD_MAPPING.md) maps the figure and paper to
 the actual entry points and artifacts.
 

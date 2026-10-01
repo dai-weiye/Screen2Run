@@ -125,7 +125,7 @@ and Screen2Run use the same capture and compatibility policy.
 ## Five baselines
 
 `baselines/run_baseline.py` exposes only Direct, CoT, Self-refine, DCGen, and
-LayoutCoder. It has no legacy `full` branch. Direct and CoT each request one XML
+LayoutCoder. Direct and CoT each request one XML
 answer; Self-refine makes one additional refinement request. The original prompt
 templates, request construction, token accounting, response extraction, and retry
 conditions are retained. Budget flags report estimated provider cost; actual
@@ -138,7 +138,7 @@ python -m baselines.layoutcoder_adapter.cli --help
 ```
 
 The DCGen adapter uses the published recursive, one-call-per-node procedure
-(`--pipeline paper`), not the earlier candidate-selection mode. It converts
+(`--pipeline paper`). It converts
 reference coordinates with `reference_width / (1080 / 2.625)` pixels per dp.
 The upstream DCGen source is not redistributed because its local checkout did
 not include a license granting redistribution. Obtain the fixed upstream revision
@@ -211,28 +211,25 @@ python android_harness/batch_render.py --cand work/direct_ready --devices 1 --hi
 Use a distinct candidate name for each method/model run. Scoring instructions are
 in `docs/EVALUATION.md`; baseline candidates do not pass through Screen2Run grounding.
 
-## Source-to-release mapping and permitted changes
+## Runtime modules
 
-| Experimental component | Release component | Changes |
-| --- | --- | --- |
-| `guigpt3_generate.py` | `screen2run/model_sessions.py` | English documentation; imports and resource paths |
-| `guigpt3_batch.py` | `screen2run/run_model_sessions.py` | English CLI/logs; portable screenshot paths |
-| `guigpt3_stage_contract.py` | `screen2run/session_contracts.py` | Module name only |
-| `guigpt3_native_shapes.py` | `screen2run/native_drawables.py` | Module name only |
-| `guigpt3_s5_regression.py` | `screen2run/s5_regression_check.py` | Module name only |
-| `guigpt3_typography_contract.py` | `screen2run/typography_check.py` | Module name only |
-| `s2r_ground.py` | `screen2run/image_filling.py` | Resource and cache locations |
-| `s2r_ground_batch.py` | `screen2run/run_image_filling.py` | Imports and portable input/output roots |
-| Shared Android harness | `android_harness/` | Paths, English documentation, lazy SDK lookup, source-template initialization |
-| Prompt-baseline branch | `baselines/prompt_baselines_run.py` | Extracted unchanged call/extraction/refinement routines into a dedicated CLI |
-| DCGen Android adapter | `baselines/dcgen_adapter/` | Portable paths; separately supplied, source-hash-checked upstream segmentation |
-| LayoutCoder Android adapter | `baselines/layoutcoder_adapter/` | Portable imports and external preprocessing checkout |
+| Module | Responsibility |
+| --- | --- |
+| `screen2run/model_sessions.py` | S1-S5 model sessions |
+| `screen2run/run_model_sessions.py` | Batch generation and request accounting |
+| `screen2run/session_contracts.py` | Intermediate representation checks |
+| `screen2run/native_drawables.py` | Native shape resources |
+| `screen2run/s5_regression_check.py` | Review-repair regression checks |
+| `screen2run/typography_check.py` | Typography checks |
+| `screen2run/image_filling.py` | Runtime grounding and asset binding |
+| `screen2run/run_image_filling.py` | Batch Image Filling |
+| `android_harness/` | Shared Android build and capture |
+| `baselines/prompt_baselines_run.py` | Direct, CoT, and Self-refine requests |
+| `baselines/dcgen_adapter/` | DCGen Android adaptation |
+| `baselines/layoutcoder_adapter/` | LayoutCoder Android adaptation |
 
-No inference prompts, geometry thresholds, score definitions, or recorded results
-are changed by this packaging step. Historical provider error messages retain
-their exact Unicode values through escaped source literals. They are compatibility
-markers, not untranslated user-facing prose. The release does not include the
-earlier deterministic translator as an alternative implementation of S1-S5.
+Provider error identifiers preserve their exact Unicode values through escaped
+source literals for error handling.
 
 ## Offline checks
 

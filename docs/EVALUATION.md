@@ -23,13 +23,17 @@ The released data contain:
 - `data/results/rq1_rows.json`: 600 screens, six methods, 3,600 rows.
 - `data/results/backbone_*_rows.json`: three backbone comparisons, each with
   the same 120-screen subset and six methods, 720 rows per comparison.
-- `data/results/rq2_rows.json`: Full and five redesigned ablations, each with
-  600 screens, 3,600 rows. These are the completed redesigned variants, not the
-  earlier exploratory `no_s1`/`no_s45` result tables.
+- `data/results/rq2_rows.json`: Full and five ablations, each with
+  600 screens, 3,600 rows.
 - `data/results/rq3_bins.json`: the original reference-only complexity groups.
 - `data/human_study/ratings.json`: six raters, 60 interface items and 60 code
   items, three methods, 2,160 method-level records. Raw contact information,
   browser metadata, timestamps, and private source paths are not included.
+
+For one banking screenshot, the Claude-Opus-5 API returned `content_filter`
+with an empty response, so no code was generated. This case remains in the
+120-screen denominator with the predefined failure scores: 0 for similarities
+and 255 for MAE. The Opus study therefore records 119 successful generations.
 
 The human record schema preserves item, rater, and method ordering because the
 two-way bootstrap uses that ordering. `values` contains the five interface
@@ -69,9 +73,9 @@ The active experiment scorer calls `score_pair`, not the optional
 for the released scores. DOM/CSS block extraction is adapted to screenshot OCR;
 matching remains the pinned upstream computation.
 
-The frozen numeric records retain the historical Color-null aggregation values.
+The released numeric records map unresolved Color values to zero.
 Fresh image scoring reports unresolved Color as pending by default. The explicit
-`--legacy-color-null-zero` flag reproduces the historical aggregation rule and
+`--legacy-color-null-zero` flag reproduces the published aggregation rule and
 records every conversion; it does not turn arbitrary extraction errors into zero.
 
 ### Statistical families
@@ -80,18 +84,18 @@ records every conversion; it does not turn arbitrary extraction errors into zero
   the five baselines within each metric and dataset scope; distributional
   Cliff's delta; 2,000 paired bootstrap replicates, seed 7. Paired calculations
   use sorted screen IDs, while displayed means retain input row order.
-- **RQ2 original complete analysis:** seven metrics within each of five
+- **RQ2 seven-metric analysis:** seven metrics within each of five
   variant contrasts and four scopes (All/Easy/Real/Unseen), 140 cells. The paired
   difference is Full minus ablated for similarities, and ablated minus Full for
   MAE. Tests use that oriented difference. Bootstrap: 2,000 replicates, seed
   20260930 plus the metric index, in the frozen cohort order. Output:
   `rq2_data.json`.
-- **RQ2 current paper table:** the same observations, differences, raw p-values,
+- **RQ2 paper table:** the same observations, differences, raw p-values,
   and CIs; Holm is applied separately within the five primary metrics and the
-  two pixel-level metrics. Output: `rq2_paper.json`. Its historical field name
-  `p_holm5` is retained for table compatibility; on SSIM/MAE it denotes the
+  two pixel-level metrics. Output: `rq2_paper.json`. The output field
+  `p_holm5` denotes the five-metric family for primary metrics; on SSIM/MAE it denotes the
   two-metric family. It is not the seven-metric adjustment above.
-- **RQ3 current paper:** four reference properties, three strata each, five
+- **RQ3 paper analysis:** four reference properties, three strata each, five
   primary metrics. In every cell the highest-mean baseline is selected before
   comparison (lowest mean for MAE in the seven-metric output). Holm is within
   each property/stratum's five primary metrics. `rq3_primary.json` has 60 cells;
@@ -176,8 +180,8 @@ and drawable hashes. Its experiment schema is:
 
 Paths are relative to the experiment manifest. Receipts lacking the required
 capture-time hashes are not retroactively promoted to new verified captures.
-The released historical scalar data remain reproducible independently of this
-stricter fresh-capture collection interface.
+The published scalar data can be reproduced independently of the fresh-capture
+collection interface.
 
 ## 4. The five formal RQ2 interventions
 

@@ -20,18 +20,17 @@ deterministic, execution-guided module after those calls.
 | Content preservation | `content_guard.py` | Captured candidate and OCR evidence to retained output or recorded fallback |
 | Final XML + assets | Candidate directory's `full/<screen_id>/final.xml` and `drawables/` | Runnable output used by the common capture harness |
 
-S4 returns a textual review. An archived JSON wrapper is a host-side artifact,
-not a claim that the model produced a JSON review. S5 consumes the complete
-review in one repair request; the legacy prompt identifier
-`s5_issue_by_issue_fix` is retained only to preserve the published prompt recipe.
+S4 returns a textual review, stored with a host-side JSON wrapper. S5 consumes
+the complete review in one repair request using the prompt recipe
+`s5_issue_by_issue_fix`.
 
 The gear in Figure 1 combines grounding and asset binding. Grounding internally
 uses execution and view-hierarchy measurements. The common final build/install/
 capture procedure evaluates all methods and is described in the experimental
 setup rather than as an additional model session.
 
-The image branch contains candidate crops and region coordinates, not YOLOv3
-weights. Text and native controls are represented in XML; detailed imagery is
+The image branch contains candidate crops and region coordinates.
+Text and native controls are represented in XML; detailed imagery is
 recovered as resources. Whole-screen reference-image backgrounds are not an
 alternative rendering mode.
 
