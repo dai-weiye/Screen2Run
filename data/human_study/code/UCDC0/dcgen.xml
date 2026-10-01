@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="411.4239dp"
+    android:layout_height="658.2782dp">
+
+    <FrameLayout
+        android:background="#000000"
+        android:paddingStart="4dp"
+        android:paddingEnd="4dp"
+        android:id="@+id/view_2"
+        android:layout_width="411.4239dp"
+        android:layout_height="17.1427dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:layout_gravity="start|center_vertical"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_gravity="end|center_vertical"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:padding="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="11:54"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:gravity="center_vertical"
+                android:paddingStart="8dp"
+                android:paddingEnd="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:background="#FFFFFF"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:id="@+id/view_3"
+        android:layout_width="411.4239dp"
+        android:layout_height="76.1134dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="17.8284dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="#6D6D6D"
+            android:minHeight="56dp"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:layout_gravity="top|start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:minWidth="24dp"
+                android:minHeight="24dp"
+                android:contentDescription="Menu"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Fnaf Wallpapers HD"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:fontFamily="sans-serif"
+                android:gravity="center_vertical"
+                android:paddingStart="24dp"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:background="#F2F2F2"
+            android:elevation="8dp"
+            android:minWidth="200dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:translationX="-16dp"
+            android:translationY="8dp"
+            android:layout_gravity="top|end"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Rate App"
+                android:textColor="#212121"
+                android:textSize="16sp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="More App"
+                android:textColor="#212121"
+                android:textSize="16sp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <TextView
+        android:text="Fnaf Wallpapers HD"
+        android:textColor="#8A8A8A"
+        android:textSize="24sp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:maxLines="1"
+        android:id="@+id/view_4"
+        android:layout_width="411.4239dp"
+        android:layout_height="32.2282dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="239.6544dp" />
+
+    <ImageView
+        android:src="@drawable/img"
+        android:scaleType="fitCenter"
+        android:contentDescription="Five Nights at Freddy's"
+        android:id="@+id/view_5"
+        android:layout_width="411.4239dp"
+        android:layout_height="85.7133dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="286.2824dp" />
+
+    <TextView
+        android:text="Version 1.0.4"
+        android:textColor="#8A8A8A"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:id="@+id/view_6"
+        android:layout_width="411.4239dp"
+        android:layout_height="25.3711dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="397.7097dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="#FF000000"
+        android:paddingHorizontal="16dp"
+        android:id="@+id/view_7"
+        android:layout_width="411.4239dp"
+        android:layout_height="41.4852dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="616.793dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:tint="#FFFFFFFF"
+            android:paddingHorizontal="28dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:tint="#FFFFFFFF"
+            android:paddingHorizontal="28dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:tint="#FFFFFFFF"
+            android:paddingHorizontal="28dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

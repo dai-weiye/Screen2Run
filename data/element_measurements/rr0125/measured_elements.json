@@ -1,0 +1,121 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        1,
+        196,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        0,
+        7,
+        1199,
+        1684
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        388,
+        1731,
+        810,
+        1788
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        354,
+        156,
+        840,
+        229
+      ],
+      "text": "ARECORD",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        31,
+        293,
+        851,
+        335
+      ],
+      "text": "Graph your progress toward personalized health and fi",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        773,
+        1116,
+        910,
+        1197
+      ],
+      "text": "115",
+      "source": "ocr"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        530,
+        1609,
+        670,
+        1645
+      ],
+      "text": "REGISTER",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0125.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8897521701388889,
+  "ocr_added": 4,
+  "ocr_filled": 0
+}

@@ -1,0 +1,321 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        359,
+        10,
+        407,
+        62
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        229,
+        14,
+        271,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        22,
+        15,
+        135,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        284,
+        16,
+        346,
+        56
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        162,
+        17,
+        207,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        962,
+        24,
+        986,
+        50
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1013,
+        56
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        440,
+        25,
+        454,
+        47
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        407,
+        100,
+        669,
+        196
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "trovo",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        56,
+        121,
+        92,
+        174
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        235,
+        1007,
+        351
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        144,
+        464,
+        433,
+        510
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "+1v| Phone",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        71,
+        465,
+        135,
+        504
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        561,
+        487,
+        648
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        797,
+        272,
+        840
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Username",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        1021,
+        264,
+        1059
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        927,
+        1025,
+        983,
+        1056
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        1174,
+        286,
+        1208
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Date of Birth",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        67,
+        1246,
+        200,
+        1289
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Month",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        641,
+        1249,
+        732,
+        1298
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Day",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        846,
+        1250,
+        945,
+        1294
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Year",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        531,
+        1272,
+        559,
+        1296
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        575,
+        1288,
+        583,
+        1296
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        1417,
+        991,
+        1568
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        506,
+        1650,
+        557,
+        1687
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "or",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        244,
+        1824,
+        287,
+        1872
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1824,
+        833,
+        1872
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1826,
+        560,
+        1871
+      ],
+      "id": 28,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.streamlabs.slobsrc.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.15482747704969926,
+  "ocr_added": 0,
+  "ocr_filled": 9
+}

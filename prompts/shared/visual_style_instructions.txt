@@ -1,0 +1,45 @@
+
+TYPED VISUAL STYLE CONTRACT (observations, not verified ground truth):
+- For every app node output visual_style as an object. An unknown property is
+  omitted or null; {} means not yet observed, NOT a default rectangular surface.
+  System chrome need not receive app styles. Never invent a radius, font size,
+  stroke or hidden pixel to make a declaration look complete.
+- Allowed visual_style keys and fields:
+  background: {kind: "solid", color: "#RRGGBB" or "#AARRGGBB"}, OR
+              {kind: "gradient", start_color, end_color, angle_degrees}.
+              Gradient angles are explicitly observed 0/45/90/135/180/225/270/315.
+  shape: {kind: "rectangle"|"oval"|"circle", corner_radius: quantity or null}.
+         corner_radius is only for a rectangle. A circle must actually be circular;
+         do not relabel a rounded rectangle as a circle or change its bounds.
+  stroke: {color, width: quantity}. A border-only surface needs an explicitly
+          observed transparent solid background (#00000000), not an invented fill.
+  typography: {color, font_size: quantity, font_weight, font_family, font_style,
+               line_height: quantity, letter_spacing: {value,unit:"em"},
+               max_lines, alignment, include_font_padding}.
+         font_weight is "normal"/"bold" or a string weight "100"..."900";
+         font_style is "normal"/"italic"; alignment is "start"/"center"/"end";
+         max_lines is a positive integer only when actually supported by evidence;
+         include_font_padding is boolean only when justified, otherwise null.
+  content_padding: {left: quantity, top: quantity, right: quantity, bottom: quantity}.
+  widget_state: {checked: boolean, enabled: boolean, selected: boolean,
+                 progress_fraction: number in [0,1]} (unknown fields null/omitted).
+- Newly extracted dimensional quantities use {value: finite observed number,
+  unit:"reference_px"}, i.e. original screenshot pixels. Do NOT confuse glyph ink
+  height with font size or a TextView's box. Font family, font metrics and hidden
+  padding often cannot be known exactly from a screenshot; retain that uncertainty.
+  Letter spacing alone uses em and may be negative. No bare unlabelled dimensions.
+- S3/S5 must consume these observations while preserving node IDs. Convert surface
+  dimensions through the declared frame once. Font size in source pixels is not
+  directly an Android sp value: account for target density AND verified font scale;
+  do not copy pixel values as sp or pretend unknown font metrics are exact.
+- Native rectangle/oval/circle/gradient/stroke surfaces are code-generated drawables,
+  NOT screenshot assets. Preserve shape observations in JSON for the host native
+  shape materializer and retain unique mapped XML IDs. Do not invent resource names
+  or embed <shape> inside layout XML. A literal fill alone does not reproduce known
+  corners or stroke; the surface remains pending until its declared resource exists.
+- In S3/S4/S5 verify every full text string fits its native view: width, height,
+  line count, glyph ascenders/descenders, line spacing, content padding, widget
+  minWidth/minHeight and platform default insets matter. No arbitrary singleLine,
+  ellipsize, clipping, font enlargement, fixed tiny text box or duplicate image text.
+  Do not force all text into OCR ink boxes or set every padding/minimum to zero.
+  Report conflicts; preserve real layout and text instead of hiding missing parts.

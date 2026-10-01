@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="411.4286dp"
+    android:layout_height="731.4286dp"
+    android:background="#00A400"
+    android:id="@+id/view_1">
+
+    <FrameLayout
+        android:layout_width="411.4286dp"
+        android:layout_height="27.0476dp"
+        android:background="#007A33"
+        android:id="@+id/view_2"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="#007A33"
+            android:id="@+id/view_3"
+            android:layout_width="173.3333dp"
+            android:layout_height="27.0476dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp">
+
+            <TextView
+                android:text="5:47"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:fontFamily="sans-serif-medium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <ImageView
+            android:background="#0B7A0B"
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:contentDescription="Charging"
+            android:id="@+id/view_4"
+            android:layout_width="28.5714dp"
+            android:layout_height="27.0476dp"
+            android:layout_marginStart="382.8571dp"
+            android:layout_marginTop="0dp" />
+    </FrameLayout>
+
+    <ImageView
+        android:src="@drawable/img"
+        android:scaleType="fitCenter"
+        android:contentDescription="Android robot with hashtag icon"
+        android:id="@+id/view_5"
+        android:layout_width="411.4286dp"
+        android:layout_height="73.5238dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="167.619dp" />
+
+    <TextView
+        android:background="#00A400"
+        android:text="The My Wellbeing app can’t be used on this device"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:gravity="start|center_vertical"
+        android:id="@+id/view_6"
+        android:layout_width="411.4286dp"
+        android:layout_height="49.5238dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="260.9524dp" />
+
+    <TextView
+        android:layout_width="411.4286dp"
+        android:layout_height="68.5714dp"
+        android:text="This may be because your device is rooted, has an unlocked bootloader, or is running a custom ROM."
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:id="@+id/view_7"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="342.8571dp" />
+
+    <FrameLayout
+        android:background="#00CC00"
+        android:paddingLeft="18dp"
+        android:paddingRight="18dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:id="@+id/view_8"
+        android:layout_width="411.4286dp"
+        android:layout_height="74.2857dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="452.9524dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#0D0D0D"
+            android:gravity="center"
+            android:text="CLOSE"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="411.4286dp"
+        android:layout_height="45.3333dp"
+        android:background="#FF000000"
+        android:id="@+id/view_9"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="686.0952dp">
+
+        <FrameLayout
+            android:background="#FF000000"
+            android:id="@+id/view_10"
+            android:layout_width="36.1905dp"
+            android:layout_height="45.3333dp"
+            android:layout_marginStart="290.2857dp"
+            android:layout_marginTop="0dp">
+
+            <View
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:layout_gravity="center"
+                android:background="#FFFFFFFF" />
+        </FrameLayout>
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="centerInside"
+            android:contentDescription=""
+            android:id="@+id/view_11"
+            android:layout_width="35.0476dp"
+            android:layout_height="45.3333dp"
+            android:layout_marginStart="187.8095dp"
+            android:layout_marginTop="0dp" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:contentDescription="Previous"
+            android:id="@+id/view_12"
+            android:layout_width="34.6667dp"
+            android:layout_height="45.3333dp"
+            android:layout_marginStart="84.1905dp"
+            android:layout_marginTop="0dp" />
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,197 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        983,
+        4,
+        1186,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        21,
+        5,
+        292,
+        43
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        152,
+        91,
+        369,
+        142
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "Sell My Car",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        100,
+        90,
+        104
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        111,
+        90,
+        115
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        122,
+        90,
+        126
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        28,
+        218,
+        520,
+        265
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Tell Us About Your Car",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        30,
+        309,
+        1103,
+        346
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Enter your ZIP and use one of these options to look up your car information",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        30,
+        382,
+        406,
+        419
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Why do you need my VIN?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        451,
+        283,
+        534
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        44,
+        595,
+        379,
+        631
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Scan or Enter Your VIN",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1138,
+        602,
+        1151,
+        626
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        44,
+        690,
+        360,
+        731
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "License Plate Lookup",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1138,
+        698,
+        1151,
+        722
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0050.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.0697556423611111,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

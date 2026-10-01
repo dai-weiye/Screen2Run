@@ -1,0 +1,113 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        293,
+        204,
+        955,
+        1696
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        603,
+        61,
+        669
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        924,
+        65,
+        996
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1252,
+        61,
+        1320
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "id": 4,
+      "kind": "text",
+      "bounds": [
+        633,
+        438,
+        675,
+        1493
+      ],
+      "text": "TO ACTIVATE LEADERBOARDSAND ACHIEVEMENTS",
+      "source": "ocr"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        447,
+        608,
+        497,
+        899
+      ],
+      "text": "NOT NOW",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        703,
+        583,
+        752,
+        1398
+      ],
+      "text": "PLEASE SIGN-IN WITH YOUR GOOGLE+",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        449,
+        996,
+        522,
+        1083
+      ],
+      "text": "g+",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        440,
+        1112,
+        504,
+        1344
+      ],
+      "text": "SIGN IN",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0008.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4318559027777778,
+  "ocr_added": 5,
+  "ocr_filled": 0
+}

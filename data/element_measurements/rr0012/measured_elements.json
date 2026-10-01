@@ -1,0 +1,183 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        955,
+        5,
+        1191,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        8,
+        143,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        328,
+        256,
+        869,
+        416
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "\u2022TOPH\u0410TER",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        570,
+        87,
+        628
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        414,
+        579,
+        787,
+        622
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Sign Up with Facebook",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        4,
+        672,
+        84,
+        756
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        425,
+        697,
+        773,
+        728
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "SIGN UP WITH GOOGLE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        447,
+        809,
+        753,
+        853
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Sign Up with Email",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        911,
+        568,
+        957
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Already have an account? Sign In",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0012.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.07886762152777778,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

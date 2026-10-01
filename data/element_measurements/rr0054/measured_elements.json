@@ -1,0 +1,253 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        983,
+        4,
+        1192,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        69,
+        7,
+        98,
+        39
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        118,
+        9,
+        143,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        210,
+        13,
+        244,
+        37
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        80,
+        1199,
+        158
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        399,
+        262,
+        802,
+        310
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Log In to get started!",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        47,
+        409,
+        1151,
+        1077
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        64,
+        430,
+        181,
+        472
+      ],
+      "text": "Log In",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        67,
+        488,
+        134,
+        513
+      ],
+      "text": "Email",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        70,
+        600,
+        181,
+        622
+      ],
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        78,
+        717,
+        248,
+        740
+      ],
+      "text": "Remember me",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        1027,
+        717,
+        1060,
+        737
+      ],
+      "text": "NO",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        73,
+        765,
+        519,
+        793
+      ],
+      "text": "Forgot your password? Call 888.252.7731",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        419,
+        848,
+        500,
+        876
+      ],
+      "text": "Error",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        366,
+        910,
+        589,
+        940
+      ],
+      "text": "Email is required.",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        580,
+        1005,
+        617,
+        1027
+      ],
+      "text": "OK",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0054.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3780412326388889,
+  "ocr_added": 9,
+  "ocr_filled": 1
+}

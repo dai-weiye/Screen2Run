@@ -1,0 +1,229 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1087,
+        5,
+        1192,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        65,
+        6,
+        149,
+        43
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "\u2192",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        21,
+        7,
+        53,
+        39
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        324,
+        91,
+        887,
+        176
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "COVINE mobile",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        510,
+        1131,
+        589
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "For data from your local agency, please select your state and the specific",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        194,
+        981,
+        896,
+        1071
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        932,
+        1011,
+        971,
+        1045
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        194,
+        1137,
+        896,
+        1231
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        932,
+        1168,
+        971,
+        1203
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        1324,
+        1179,
+        1413
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        40,
+        1434,
+        1159,
+        1570
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        1572,
+        39,
+        1823
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        41,
+        1572,
+        1157,
+        1696
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1159,
+        1572,
+        1179,
+        1780
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        47,
+        1699,
+        1151,
+        1791
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0077.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3413125,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

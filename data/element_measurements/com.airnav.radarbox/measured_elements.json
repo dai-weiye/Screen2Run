@@ -1,0 +1,515 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        267,
+        13,
+        314,
+        59
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        333,
+        13,
+        379,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        15,
+        108,
+        56
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        203,
+        15,
+        246,
+        57
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        17,
+        181,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        26,
+        1008,
+        48
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        72,
+        1079,
+        752
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        963,
+        82,
+        1080,
+        108
+      ],
+      "id": 9,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1043,
+        162,
+        1080,
+        190
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Hu",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        984,
+        624,
+        1080,
+        676
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Jones",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        352,
+        753,
+        477,
+        803
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        415,
+        754,
+        558,
+        800
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "\u2022 No ads",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        352,
+        829,
+        399,
+        876
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        417,
+        831,
+        730,
+        873
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "\u2022 No commitment",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        352,
+        902,
+        399,
+        949
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        419,
+        905,
+        717,
+        950
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "\u2022 Cancel anytime",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        448,
+        1033,
+        627,
+        1075
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "SAVE 16%",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        125,
+        1056,
+        952,
+        1193
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        117,
+        1253,
+        959,
+        1432
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        117,
+        1525,
+        959,
+        1668
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        260,
+        1751,
+        819,
+        1775
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "CKID THIC ANDUCE WITY ANG",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        20,
+        75,
+        148,
+        103
+      ],
+      "text": "Paterson",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        343,
+        109,
+        474,
+        126
+      ],
+      "text": "Interstate Park",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        357,
+        84,
+        455,
+        103
+      ],
+      "text": "Palisades",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        61,
+        186,
+        131,
+        210
+      ],
+      "text": "Clifton",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        759,
+        179,
+        862,
+        198
+      ],
+      "text": "Glen Cove",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        14,
+        279,
+        123,
+        299
+      ],
+      "text": "Bloomfield",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        698,
+        276,
+        865,
+        296
+      ],
+      "text": "Hempstead Harbor",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        717,
+        301,
+        846,
+        318
+      ],
+      "text": "Shoreline Park",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        0,
+        352,
+        103,
+        371
+      ],
+      "text": "IstOrange",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        304,
+        315,
+        776,
+        360
+      ],
+      "text": "FULLFLIGHT CARD DETAILS",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        31,
+        396,
+        142,
+        422
+      ],
+      "text": "Newark",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        486,
+        407,
+        513,
+        430
+      ],
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        600,
+        407,
+        625,
+        430
+      ],
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        756,
+        381,
+        837,
+        400
+      ],
+      "text": "Mineola",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        901,
+        346,
+        1005,
+        371
+      ],
+      "text": "Aicksville",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        240,
+        435,
+        377,
+        463
+      ],
+      "text": "New York",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        837,
+        444,
+        977,
+        460
+      ],
+      "text": "East Meadow",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        137,
+        508,
+        921,
+        594
+      ],
+      "text": "Go PREMIUM for only",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        190,
+        614,
+        868,
+        703
+      ],
+      "text": "$ 2.45 per month.",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.airnav.radarbox.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5789501350308642,
+  "ocr_added": 19,
+  "ocr_filled": 7
+}

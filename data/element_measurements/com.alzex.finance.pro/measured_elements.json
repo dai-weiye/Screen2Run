@@ -1,0 +1,347 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        7,
+        246,
+        59
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        24,
+        986,
+        49
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        26,
+        952,
+        48
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        838,
+        123,
+        887,
+        186
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        233,
+        132,
+        493,
+        180
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Transaction",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        60,
+        135,
+        103,
+        177
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        981,
+        137,
+        1034,
+        177
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        572,
+        150,
+        603,
+        165
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        193,
+        1079,
+        1745
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        194,
+        1683,
+        356,
+        1751
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Payee",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        176,
+        248,
+        290,
+        290
+      ],
+      "text": "2034",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        173,
+        315,
+        714,
+        427
+      ],
+      "text": "Thu, Jun 15",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        977,
+        299,
+        1005,
+        332
+      ],
+      "text": "R",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        64,
+        516,
+        98,
+        561
+      ],
+      "text": "D",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        483,
+        480,
+        597,
+        525
+      ],
+      "text": "2032",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        480,
+        617,
+        600,
+        670
+      ],
+      "text": "2033",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        47,
+        726,
+        112,
+        779
+      ],
+      "text": "VIS",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        444,
+        773,
+        631,
+        840
+      ],
+      "text": "2034",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        480,
+        938,
+        600,
+        994
+      ],
+      "text": "2035",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        480,
+        1080,
+        600,
+        1139
+      ],
+      "text": "2036",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        480,
+        1230,
+        597,
+        1281
+      ],
+      "text": "2037",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        47,
+        1328,
+        112,
+        1365
+      ],
+      "text": "Cal",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        480,
+        1367,
+        600,
+        1426
+      ],
+      "text": "2038",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        547,
+        1552,
+        712,
+        1588
+      ],
+      "text": "CANCEL",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        809,
+        1552,
+        871,
+        1588
+      ],
+      "text": "OK",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.alzex.finance.pro.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.830462962962963,
+  "ocr_added": 15,
+  "ocr_filled": 2
+}

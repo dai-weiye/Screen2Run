@@ -1,0 +1,141 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        687,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        77,
+        186,
+        154,
+        228
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        12,
+        187,
+        93,
+        221
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Roooh",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        272,
+        146,
+        315
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "\u2022 Pbxrx",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        11,
+        363,
+        96,
+        401
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Dhfsm",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        71,
+        365,
+        156,
+        406
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        169,
+        1026,
+        203,
+        1062
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        1026,
+        626,
+        1062
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        435,
+        1027,
+        471,
+        1059
+      ],
+      "id": 11,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/1B03261B-8731-4C4A-9FF1-D54153869885.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.045011953923060205,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

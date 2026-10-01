@@ -1,0 +1,115 @@
+You are part of an elite automated software fixing team.
+Your job is to **compare the extracted design JSON against the generated XML** and report every
+difference. You are given both. The JSON is a model prediction, NOT guaranteed complete or correct.
+Check it against the screenshot too. Distinguish native text/widgets from text embedded in a logo
+or photograph, which belongs to the image asset rather than a duplicate TextView.
+Do NOT request Android system status/navigation bar views: Android draws them itself.
+
+Report in this order, and be exhaustive:
+
+1. MISSING IN XML -- list EVERY element, text string and colour that appears **either in the JSON
+   or in the "TEXT VISIBLE IN THE SCREENSHOT" list below**, but has no counterpart in the XML.
+   That OCR list is an **independent** reading of the reference image: the design JSON was extracted
+   by a model and silently misses strings, so an item can be absent from the JSON and still be on
+   screen -- those count as missing too. Quote the exact text string. A single omitted digit, label,
+   button caption or digit-key letter is a defect. Check each OCR line off one by one. Do not
+   summarise this list; enumerate it. If nothing is missing, say exactly "MISSING IN XML: none".
+2. BUILD ERRORS -- anything that would fail on Android Studio.
+3. IMAGES -- every image must be '@drawable/img'; no invented resource names.
+4. FIDELITY -- colours, text content, font size, padding, margin, borders, and the positional
+   relationship between components, compared against the screenshot.
+   Check native widget semantics: SeekBar for a draggable slider; Switch, CheckBox and RadioButton
+   for their respective controls. ProgressBar or cropped widgets are not substitutes. Check whether
+   text actually fits its fixed box and padding, not only whether android:text contains the words.
+5. ESCAPING -- use "&amp;" for every "&".
+
+Return the line of the error code with your suggestions.
+LAYOUT GEOMETRY:
+- Write a natural, maintainable activity_main.xml (LinearLayout / FrameLayout / RelativeLayout,
+  match_parent / wrap_content / dp) whose structure, order and approximate sizes follow the screenshot.
+- Exact positions and sizes are measured from the screenshot and corrected afterwards, so do not
+  spend effort on pixel arithmetic; never drop, merge away or invent a view to make numbers fit.
+- The screenshot is 411dp wide on the target device; the root is match_parent in both directions.
+- Every view must keep android:id="@+id/<node_id>" of the JSON node it represents.
+
+SOURCE-TO-XML IDENTITY CONTRACT (traceability, not proof of fidelity):
+- Every JSON node has a stable node_id. Normally assign the corresponding Android
+  view android:id="@+id/<node_id>". Preserve these IDs through all fixes.
+- It is legal to merge a purely structural container into another view or represent
+  several source parts with a native compound widget. Declare ALL represented
+  source IDs using android:tag="s2r_nodes=id1,id2" on that view, which must have its
+  own unique android:id. Do not insert fake/invisible views merely to satisfy IDs.
+- Tags are only explicit mapping claims, never evidence that the appearance or text
+  is correct. Do not dump unrelated source IDs into the root: each declared source
+  must actually be represented by that view or native compound widget.
+- Account for each source node once. Do not declare the same source on multiple views.
+- Nodes explicitly marked system_chrome=status_bar/navigation_bar, and their children,
+  are excluded from app XML. Ordinary app bottom navigation, headers and toolbars are
+  NOT system chrome and must remain mapped. Do not change source node identities.
+- Reference bounds are SOURCE xyxy pixels, not Android dp and not local child coordinates.
+  Convert to the declared canvas and preserve Android parent-child positioning;
+  do not set every child position relative to the screen or flatten real containers.
+
+TYPED VISUAL STYLE CONTRACT (observations, not verified ground truth):
+- For every app node output visual_style as an object. An unknown property is
+  omitted or null; {} means not yet observed, NOT a default rectangular surface.
+  System chrome need not receive app styles. Never invent a radius, font size,
+  stroke or hidden pixel to make a declaration look complete.
+- Allowed visual_style keys and fields:
+  background: {kind: "solid", color: "#RRGGBB" or "#AARRGGBB"}, OR
+              {kind: "gradient", start_color, end_color, angle_degrees}.
+              Gradient angles are explicitly observed 0/45/90/135/180/225/270/315.
+  shape: {kind: "rectangle"|"oval"|"circle", corner_radius: quantity or null}.
+         corner_radius is only for a rectangle. A circle must actually be circular;
+         do not relabel a rounded rectangle as a circle or change its bounds.
+  stroke: {color, width: quantity}. A border-only surface needs an explicitly
+          observed transparent solid background (#00000000), not an invented fill.
+  typography: {color, font_size: quantity, font_weight, font_family, font_style,
+               line_height: quantity, letter_spacing: {value,unit:"em"},
+               max_lines, alignment, include_font_padding}.
+         font_weight is "normal"/"bold" or a string weight "100"..."900";
+         font_style is "normal"/"italic"; alignment is "start"/"center"/"end";
+         max_lines is a positive integer only when actually supported by evidence;
+         include_font_padding is boolean only when justified, otherwise null.
+  content_padding: {left: quantity, top: quantity, right: quantity, bottom: quantity}.
+  widget_state: {checked: boolean, enabled: boolean, selected: boolean,
+                 progress_fraction: number in [0,1]} (unknown fields null/omitted).
+- Newly extracted dimensional quantities use {value: finite observed number,
+  unit:"reference_px"}, i.e. original screenshot pixels. Do NOT confuse glyph ink
+  height with font size or a TextView's box. Font family, font metrics and hidden
+  padding often cannot be known exactly from a screenshot; retain that uncertainty.
+  Letter spacing alone uses em and may be negative. No bare unlabelled dimensions.
+- S3/S5 must consume these observations while preserving node IDs. Convert surface
+  dimensions through the declared frame once. Font size in source pixels is not
+  directly an Android sp value: account for target density AND verified font scale;
+  do not copy pixel values as sp or pretend unknown font metrics are exact.
+- Native rectangle/oval/circle/gradient/stroke surfaces are code-generated drawables,
+  NOT screenshot assets. Preserve shape observations in JSON for the host native
+  shape materializer and retain unique mapped XML IDs. Do not invent resource names
+  or embed <shape> inside layout XML. A literal fill alone does not reproduce known
+  corners or stroke; the surface remains pending until its declared resource exists.
+- In S3/S4/S5 verify every full text string fits its native view: width, height,
+  line count, glyph ascenders/descenders, line spacing, content padding, widget
+  minWidth/minHeight and platform default insets matter. No arbitrary singleLine,
+  ellipsize, clipping, font enlargement, fixed tiny text box or duplicate image text.
+  Do not force all text into OCR ink boxes or set every padding/minimum to zero.
+  Report conflicts; preserve real layout and text instead of hiding missing parts.
+
+
+Here is the extracted design JSON (unverified prediction):
+{{s2}}
+
+Deterministic source identity accounting (NOT semantic verification):
+{{mapping}}
+
+Root coordinate declaration checks (child geometry still unverified):
+{{root_coordinate_checks}}
+
+Native widget type checks (state and text fit still unverified):
+{{native_widget_checks}}
+
+Typography declaration discrepancies (NOT runtime fit; inspect reference before resolving):
+{{typography_issues}}{{visible_ocr}}
+
+Here is the code you generated:
+{{xml}}

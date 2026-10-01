@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#01D1FF"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <View
+        android:id="@+id/view_2"
+        android:layout_width="33.1dp"
+        android:layout_height="658.3dp"
+        android:background="#000000"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="408.9dp"
+        android:layout_marginLeft="408.9dp"
+        android:layout_marginTop="0.0dp" />
+
+    <FrameLayout
+        android:id="@+id/view_3"
+        android:layout_width="353.1dp"
+        android:layout_height="658.3dp"
+        android:background="#3DD5F4"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="57.9dp"
+        android:layout_marginLeft="57.9dp"
+        android:layout_marginTop="0.0dp">
+
+        <FrameLayout
+            android:id="@+id/view_4"
+            android:layout_width="38.9dp"
+            android:layout_height="103.0dp"
+            android:background="@drawable/img_1"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="244.7dp"
+            android:layout_marginLeft="244.7dp"
+            android:layout_marginTop="9.9dp">
+
+            <ImageView
+                android:id="@+id/view_5"
+                android:layout_width="17.1dp"
+                android:layout_height="69.4dp"
+                android:src="@drawable/img_2"
+                android:contentDescription="T-Shirts"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="9.6dp"
+                android:layout_marginLeft="9.6dp"
+                android:layout_marginTop="16.7dp"
+                android:scaleType="fitXY" />
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/view_6"
+            android:layout_width="107.0dp"
+            android:layout_height="120.0dp"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_3"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="246.2dp"
+            android:layout_marginLeft="246.2dp"
+            android:layout_marginTop="0.0dp" />
+
+        <ImageView
+            android:id="@+id/view_7"
+            android:layout_width="44.2dp"
+            android:layout_height="85.4dp"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_4"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="182.7dp"
+            android:layout_marginLeft="182.7dp"
+            android:layout_marginTop="45.3dp" />
+
+        <ImageView
+            android:id="@+id/view_8"
+            android:layout_width="84.2dp"
+            android:layout_height="89.8dp"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_5"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="230.9dp"
+            android:layout_marginLeft="230.9dp"
+            android:layout_marginTop="122.3dp" />
+
+        <ImageView
+            android:id="@+id/view_9"
+            android:layout_width="294.9dp"
+            android:layout_height="252.4dp"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_6"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="172.4dp" />
+
+        <ImageView
+            android:id="@+id/view_10"
+            android:layout_width="26.7dp"
+            android:layout_height="17.5dp"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_7"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="150.5dp"
+            android:layout_marginLeft="150.5dp"
+            android:layout_marginTop="591.1dp" />
+
+        <ImageView
+            android:id="@+id/view_11"
+            android:layout_width="20.9dp"
+            android:layout_height="121.0dp"
+            android:src="@drawable/img_8"
+            android:contentDescription="for parents"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="318.6dp"
+            android:layout_marginLeft="318.6dp"
+            android:layout_marginTop="533.7dp"
+            android:scaleType="fitXY" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/view_12"
+        android:src="@drawable/img_9"
+        android:layout_width="11.7dp"
+        android:layout_height="22.6dp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="9.3dp"
+        android:layout_marginLeft="9.3dp"
+        android:layout_marginTop="206.7dp"
+        android:scaleType="fitXY" />
+
+    <ImageView
+        android:id="@+id/view_13"
+        android:src="@drawable/img_10"
+        android:layout_width="13.0dp"
+        android:layout_height="24.7dp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="9.3dp"
+        android:layout_marginLeft="9.3dp"
+        android:layout_marginTop="316.8dp"
+        android:scaleType="fitXY" />
+
+    <ImageView
+        android:id="@+id/view_14"
+        android:src="@drawable/img_11"
+        android:layout_width="11.7dp"
+        android:layout_height="23.3dp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="9.3dp"
+        android:layout_marginLeft="9.3dp"
+        android:layout_marginTop="429.3dp"
+        android:scaleType="fitXY" />
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="16.8dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#00D2FF" />
+</FrameLayout>

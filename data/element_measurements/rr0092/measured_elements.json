@@ -1,0 +1,219 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1111,
+        6,
+        1191,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        17,
+        31,
+        27
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        17,
+        46,
+        27
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        210,
+        483,
+        1003,
+        971
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        514,
+        1047,
+        687,
+        1100
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "HELLO",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        204,
+        1145,
+        996,
+        1187
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "You can use the app on your phone and computer",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        528,
+        1629,
+        666,
+        1661
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "LET'S GO",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        553,
+        1726,
+        569,
+        1746
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        589,
+        1726,
+        598,
+        1746
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        600,
+        1726,
+        609,
+        1746
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        625,
+        1726,
+        634,
+        1746
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        636,
+        1726,
+        645,
+        1746
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0092.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.19502994791666667,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

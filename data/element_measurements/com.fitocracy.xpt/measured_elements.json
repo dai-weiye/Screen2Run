@@ -1,0 +1,213 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        13,
+        110,
+        58
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        201,
+        13,
+        247,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        333,
+        13,
+        380,
+        59
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        268,
+        14,
+        313,
+        58
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        180,
+        57
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        962,
+        24,
+        986,
+        49
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        58,
+        158,
+        768,
+        222
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Create New Account",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        937,
+        171,
+        980,
+        213
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        317,
+        259,
+        358
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Your Email",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        659,
+        1004,
+        781
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Minimum of 6 characters required.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        840,
+        1019,
+        987
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        292,
+        1100,
+        784,
+        1144
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Already have an account?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        213,
+        1700,
+        865,
+        1775
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "By creating an account you agree to our",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        292,
+        1866
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 18,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.fitocracy.xpt.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.1947776813271605,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

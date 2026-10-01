@@ -1,0 +1,189 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        11,
+        114,
+        59
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        137,
+        16,
+        176,
+        55
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        909,
+        16,
+        1020,
+        56
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1032,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        193,
+        25,
+        214
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1052,
+        193,
+        1079,
+        219
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        417,
+        341,
+        657,
+        449
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Login",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        224,
+        492,
+        851,
+        544
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Or create an account for free.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        629,
+        1049,
+        905
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        965,
+        1049,
+        1103
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1163,
+        1049,
+        1301
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        330,
+        1401,
+        747,
+        1462
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Forgot password?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        1526,
+        1040,
+        1667
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        44,
+        1685,
+        1033,
+        1775
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 16,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.zenkit.projects.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4325950038580247,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

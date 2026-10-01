@@ -1,0 +1,207 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1087,
+        5,
+        1191,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        22,
+        6,
+        155,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        155,
+        91,
+        287,
+        142
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Sign in",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        362,
+        251,
+        851,
+        379
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "O ancestry",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        397,
+        446,
+        802,
+        519
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        581,
+        572,
+        619,
+        601
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "or",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        266,
+        615,
+        472,
+        639
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Username or email",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        263,
+        770,
+        431,
+        811
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        885,
+        778,
+        929,
+        808
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        397,
+        900,
+        801,
+        972
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        464,
+        1061,
+        733,
+        1092
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "I forgot my password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        434,
+        1123,
+        767,
+        1154
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Sign up for a new account",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0044.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.0781579861111111,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

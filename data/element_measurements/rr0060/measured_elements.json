@@ -1,0 +1,309 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        937,
+        5,
+        1185,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        66,
+        9,
+        148,
+        38
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        33,
+        58,
+        128,
+        154
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        133,
+        73,
+        338,
+        142
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Learn words",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        983,
+        83,
+        1031,
+        130
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1121,
+        84,
+        1149,
+        128
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        87,
+        23,
+        96
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        101,
+        23,
+        110
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        115,
+        23,
+        123
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        186,
+        442,
+        233
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Advanced level change -",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        452,
+        210,
+        474,
+        222
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        562,
+        310,
+        638,
+        363
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "1/5",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        396,
+        393,
+        491,
+        476
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        507,
+        400,
+        587,
+        470
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        611,
+        400,
+        691,
+        470
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        715,
+        400,
+        795,
+        470
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        831,
+        412,
+        857,
+        456
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        528,
+        1077,
+        1761
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1146,
+        650,
+        1199,
+        1637
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        491,
+        667,
+        701,
+        715
+      ],
+      "text": "Round 1",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        460,
+        773,
+        734,
+        804
+      ],
+      "text": "ecologia, ley, y ropa",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        530,
+        1203,
+        667,
+        1242
+      ],
+      "text": "Y BEGIN",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        416,
+        1647,
+        781,
+        1674
+      ],
+      "text": "O of 100 words are correct",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        980,
+        1691,
+        1041,
+        1719
+      ],
+      "text": "\u2022 0%",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0060.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5768645833333333,
+  "ocr_added": 5,
+  "ocr_filled": 3
+}

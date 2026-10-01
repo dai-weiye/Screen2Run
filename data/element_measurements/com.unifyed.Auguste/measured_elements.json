@@ -1,0 +1,205 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        159,
+        8,
+        207,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        288,
+        8,
+        343,
+        64
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        224,
+        9,
+        274,
+        64
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        956,
+        12,
+        1025,
+        59
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        20,
+        13,
+        135,
+        57
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        24,
+        407,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        439,
+        25,
+        455,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        248,
+        1079,
+        1719
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        490,
+        1729,
+        589,
+        1767
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Menu",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        242,
+        1824,
+        287,
+        1872
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1825,
+        560,
+        1871
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        784,
+        1825,
+        833,
+        1872
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        143,
+        660,
+        489,
+        714
+      ],
+      "text": "Q Search Apps",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        88,
+        854,
+        486,
+        915
+      ],
+      "text": "Welcome, Guest",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        88,
+        958,
+        350,
+        1011
+      ],
+      "text": "May 28, 2024",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        122,
+        1294,
+        330,
+        1335
+      ],
+      "text": "Contact Us",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        472,
+        1294,
+        591,
+        1338
+      ],
+      "text": "Log In",
+      "source": "ocr"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.unifyed.Auguste.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6398587369420703,
+  "ocr_added": 5,
+  "ocr_filled": 1
+}

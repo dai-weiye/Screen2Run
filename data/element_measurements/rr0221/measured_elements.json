@@ -1,0 +1,283 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        955,
+        4,
+        1191,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        59,
+        550,
+        1139,
+        1729
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        488,
+        596,
+        709,
+        641
+      ],
+      "text": "\u00a1Falta poco!",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        117,
+        675,
+        184,
+        695
+      ],
+      "text": "E-mail",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        123,
+        801,
+        207,
+        829
+      ],
+      "text": "Brazil",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        123,
+        887,
+        329,
+        918
+      ],
+      "text": "Rio de Janeiro",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        1060,
+        885,
+        1080,
+        901
+      ],
+      "text": "V",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        123,
+        985,
+        416,
+        1013
+      ],
+      "text": "Rio Grande do Norte",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        1060,
+        966,
+        1080,
+        980
+      ],
+      "text": "V",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        123,
+        1080,
+        382,
+        1111
+      ],
+      "text": "Rio Grande do Sul",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        123,
+        1177,
+        260,
+        1206
+      ],
+      "text": "Rond\u00f4nia",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        1058,
+        1225,
+        1086,
+        1250
+      ],
+      "text": "la",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        123,
+        1273,
+        246,
+        1303
+      ],
+      "text": "Roraima",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        123,
+        1367,
+        338,
+        1398
+      ],
+      "text": "Santa Catarina",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        123,
+        1464,
+        271,
+        1496
+      ],
+      "text": "S\u00e3o Paulo",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        123,
+        1559,
+        235,
+        1594
+      ],
+      "text": "Sergipe",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        123,
+        1655,
+        346,
+        1686
+      ],
+      "text": "Distrito Federal",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0221.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.560671875,
+  "ocr_added": 15,
+  "ocr_filled": 0
+}

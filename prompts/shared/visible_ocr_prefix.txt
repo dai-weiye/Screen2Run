@@ -1,0 +1,3 @@
+
+
+TEXT VISIBLE IN THE SCREENSHOT (fallible OCR candidates): check native captions as android:text/hint, and keep text intrinsic to logos inside their image assets. contentDescription is accessibility metadata, NOT visible rendered text. Exclude system chrome and OCR mistakes:

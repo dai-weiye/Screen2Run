@@ -1,0 +1,285 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        194,
+        10,
+        255,
+        61
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        16,
+        12,
+        111,
+        60
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        135,
+        13,
+        182,
+        59
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        333,
+        13,
+        379,
+        58
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        15,
+        312,
+        57
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        62,
+        171,
+        136,
+        243
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        396,
+        178,
+        458,
+        233
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        531,
+        180,
+        871,
+        232
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Sao Paulo - 01",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        904,
+        182,
+        954,
+        232
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        653,
+        386,
+        915,
+        427
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "0,0 kB - 0,0 kB/s",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        233,
+        387,
+        495,
+        428
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "0,0 kB - 0,0 kB/s",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        522,
+        533,
+        629,
+        590
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Q UDP",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        876,
+        535,
+        970,
+        589
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Q",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        99,
+        539,
+        150,
+        589
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        456,
+        539,
+        506,
+        589
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        799,
+        539,
+        851,
+        589
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        180,
+        541,
+        299,
+        585
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "AUTO",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        672,
+        1007,
+        1113
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        681,
+        1126,
+        712,
+        1163
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        400,
+        1165,
+        556,
+        1219
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1025,
+        1419,
+        1049,
+        1444
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 25,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.unlimited.hotspot.vpnbrazil.secure.proxy.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2503496334876543,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

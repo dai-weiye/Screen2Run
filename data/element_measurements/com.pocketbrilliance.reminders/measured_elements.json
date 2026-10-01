@@ -1,0 +1,149 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        8,
+        427,
+        63
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "6 :05 | 0 |",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        910,
+        17,
+        950,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        25,
+        1008,
+        48
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        848,
+        109,
+        1075,
+        195
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        200,
+        118,
+        415,
+        205
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "=Today",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        136,
+        110,
+        142
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        152,
+        110,
+        158
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        168,
+        110,
+        174
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        351,
+        982,
+        726,
+        1039
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "No reminders yet",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.pocketbrilliance.reminders.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.04469569830246914,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

@@ -1,0 +1,277 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        224,
+        8,
+        273,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        293,
+        10,
+        340,
+        61
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        20,
+        14,
+        133,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        959,
+        16,
+        1004,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        166,
+        17,
+        207,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        129,
+        111,
+        184
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        212,
+        131,
+        530,
+        182
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Environment",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        588,
+        407,
+        680,
+        460
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "prod",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        118,
+        416,
+        367,
+        454
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Environment",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        550,
+        504,
+        1031,
+        1247
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        116,
+        557,
+        423,
+        604
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Records all logs",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        117,
+        711,
+        381,
+        752
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Access token",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        121,
+        800,
+        295,
+        842
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "\u2039 No set \u203a",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        118,
+        917,
+        391,
+        955
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Refresh token",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        122,
+        1006,
+        295,
+        1045
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "\u2039 No set \u203a",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        116,
+        1117,
+        338,
+        1161
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Push token",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        122,
+        1210,
+        295,
+        1249
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "\u2039 No set \u203a",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1005,
+        1255,
+        1013,
+        1266
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        138,
+        1306,
+        462,
+        1364
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Verbose push",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        425,
+        1556,
+        651,
+        1619
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Open Log",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        242,
+        1827,
+        290,
+        1878
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1829,
+        835,
+        1877
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        515,
+        1838,
+        563,
+        1875
+      ],
+      "id": 23,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/app.vmire.android.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.20240819879708769,
+  "ocr_added": 0,
+  "ocr_filled": 12
+}

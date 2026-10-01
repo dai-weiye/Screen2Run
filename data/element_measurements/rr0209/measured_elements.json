@@ -1,0 +1,379 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1087,
+        4,
+        1191,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        113,
+        7,
+        149,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        166,
+        9,
+        191,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        430,
+        64,
+        864,
+        146
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        900,
+        74,
+        917,
+        129
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        116,
+        80,
+        196,
+        122
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Live",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        19,
+        82,
+        75,
+        89
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        253,
+        90,
+        299,
+        146
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        95,
+        75,
+        101
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        107,
+        75,
+        113
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        314,
+        108,
+        401,
+        146
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        410,
+        115,
+        427,
+        146
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        934,
+        124,
+        939,
+        146
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        871,
+        132,
+        885,
+        146
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        902,
+        134,
+        927,
+        146
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        557,
+        151,
+        642,
+        179
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "HOME",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        184,
+        584,
+        658
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        584,
+        184,
+        1199,
+        658
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        690,
+        377,
+        1129
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        409,
+        690,
+        789,
+        1129
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        820,
+        690,
+        1199,
+        1129
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1161,
+        377,
+        1600
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        409,
+        1161,
+        789,
+        1600
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        820,
+        1161,
+        1199,
+        1600
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1106,
+        1417,
+        1200,
+        1434
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "COMMUTE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1632,
+        377,
+        1823
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        409,
+        1632,
+        788,
+        1823
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        820,
+        1632,
+        1199,
+        1823
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 35,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0209.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8027994791666667,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

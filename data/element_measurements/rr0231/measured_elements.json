@@ -1,0 +1,147 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        110,
+        3,
+        153,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1002,
+        3,
+        1192,
+        45
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        161,
+        4,
+        292,
+        46
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        20,
+        10,
+        50,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        75,
+        11,
+        92,
+        34
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        67,
+        37,
+        99,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        154,
+        93,
+        422,
+        141
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Search history",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        56,
+        98,
+        87,
+        130
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        981,
+        934,
+        1022
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Please do your first search to get some history",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1620,
+        1199,
+        1820
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0231.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.1324262152777778,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

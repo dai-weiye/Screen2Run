@@ -1,0 +1,299 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1076,
+        7,
+        1188,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        16,
+        143,
+        32
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        17,
+        175,
+        27
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        177,
+        17,
+        190,
+        27
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1103,
+        87,
+        1151,
+        141
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        996,
+        90,
+        1034,
+        138
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        206,
+        1044,
+        336
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Military jet crashes at Dayton Air Show practice",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        108,
+        436,
+        1019,
+        1158
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        910,
+        1202,
+        1192,
+        1235
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "View more media 1 @",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        33,
+        1317,
+        1121,
+        1401
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "A law enforcement official confirmed a military jet is on its top at the Dayton",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        34,
+        1447,
+        1039,
+        1481
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "No injuries were immediately reported, The Associated Press reported.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        33,
+        1527,
+        1151,
+        1609
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "The Dayton Daily News reported an eye witness confirmed a Thunderbird F-16",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        34,
+        1655,
+        1105,
+        1689
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "The area was experiencing heavy rain, according to the Dayton Daily News.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        34,
+        1735,
+        1118,
+        1817
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "The opening ceremonies for the Dayton Air Show is slated for Saturday. The",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        625,
+        940,
+        653,
+        991
+      ],
+      "text": "ISAF",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0230.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5059856770833333,
+  "ocr_added": 1,
+  "ocr_filled": 7
+}

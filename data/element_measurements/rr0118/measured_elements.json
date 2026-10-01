@@ -1,0 +1,169 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1087,
+        6,
+        1189,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        113,
+        7,
+        149,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        88,
+        130
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        183,
+        1151,
+        367
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Popular GPS Device Brands",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        473,
+        1122,
+        655
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "How to Use a GPS Device",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        711,
+        1152,
+        943
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "GPS Device Uses",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0118.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3044826388888889,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

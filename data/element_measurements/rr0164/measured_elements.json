@@ -1,0 +1,255 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        65,
+        7,
+        101,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        7,
+        149,
+        43
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        262,
+        10,
+        289,
+        40
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1117,
+        10,
+        1188,
+        40
+      ],
+      "id": 9,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        96,
+        277,
+        134
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Omlet Arcade",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        397,
+        264,
+        803,
+        362
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "DIMLET ARCADE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        540,
+        427,
+        659,
+        475
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Log in",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        382,
+        503,
+        408,
+        540
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        357,
+        513,
+        813,
+        598
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Invalid Omlet ID. Omlet ID must be 6-20 characters",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        382,
+        632,
+        408,
+        667
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        356,
+        640,
+        788,
+        708
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        357,
+        745,
+        620,
+        781
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Forgot password?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        545,
+        828,
+        653,
+        936
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0164.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.07160503472222222,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

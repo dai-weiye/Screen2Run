@@ -1,0 +1,261 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        20,
+        5,
+        52,
+        40
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        119,
+        8,
+        143,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1124,
+        10,
+        1189,
+        40
+      ],
+      "id": 6,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        601,
+        1199,
+        1250
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        107,
+        1251,
+        156,
+        1255
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1119,
+        1275,
+        1199,
+        1354
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1028,
+        1286,
+        1099,
+        1361
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        11,
+        628,
+        929,
+        767
+      ],
+      "text": "oseweight",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        36,
+        741,
+        969,
+        892
+      ],
+      "text": "Tone your Body",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        166,
+        855,
+        972,
+        1035
+      ],
+      "text": "Beginners",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        382,
+        1031,
+        835,
+        1140
+      ],
+      "text": "30 MIN",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        276,
+        1168,
+        634,
+        1235
+      ],
+      "text": "Lumowell",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        22,
+        1217,
+        70,
+        1239
+      ],
+      "text": "0:00",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        887,
+        1216,
+        952,
+        1239
+      ],
+      "text": "31:37",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        982,
+        1208,
+        1086,
+        1245
+      ],
+      "text": "You Tube",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0046.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3495052083333333,
+  "ocr_added": 8,
+  "ocr_filled": 1
+}

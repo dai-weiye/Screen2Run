@@ -1,0 +1,261 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1062,
+        7,
+        1191,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        18,
+        8,
+        158,
+        40
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        80,
+        108,
+        306,
+        157
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Stop after...",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        517,
+        243,
+        683,
+        281
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "5 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        508,
+        375,
+        693,
+        410
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "10 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        506,
+        502,
+        694,
+        542
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "15 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        504,
+        632,
+        694,
+        672
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "20 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        504,
+        761,
+        694,
+        801
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "25 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        505,
+        893,
+        694,
+        931
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "30 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        504,
+        1022,
+        694,
+        1062
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "35 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        506,
+        1152,
+        693,
+        1192
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "40 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        505,
+        1282,
+        693,
+        1322
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "45 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        507,
+        1415,
+        692,
+        1450
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "50 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        506,
+        1545,
+        692,
+        1580
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "55 minutes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        546,
+        1672,
+        656,
+        1712
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "1 hour",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 21,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0112.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.04925607638888889,
+  "ocr_added": 0,
+  "ocr_filled": 14
+}

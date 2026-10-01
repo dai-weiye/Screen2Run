@@ -1,0 +1,187 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        15,
+        11,
+        113,
+        60
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        176,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        908,
+        15,
+        1022,
+        59
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        162,
+        146,
+        989,
+        243
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "\u2039 Sign in to your account",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        58,
+        156,
+        104,
+        228
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        42,
+        387,
+        1034,
+        1775
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        320,
+        575,
+        744,
+        689
+      ],
+      "text": "ticketing",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        243,
+        809,
+        695,
+        857
+      ],
+      "text": "Username/e-mail*",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        245,
+        1076,
+        519,
+        1129
+      ],
+      "text": "Password*",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        413,
+        1303,
+        675,
+        1359
+      ],
+      "text": "SIGN IN",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        195,
+        1496,
+        740,
+        1549
+      ],
+      "text": "Forgot your password?",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        193,
+        1638,
+        851,
+        1694
+      ],
+      "text": "New to TickeTing? Sign Up!",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.ticketingevents.app.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7131616512345679,
+  "ocr_added": 6,
+  "ocr_filled": 1
+}

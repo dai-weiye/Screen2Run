@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="411.4dp"
+        android:layout_height="83.6dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="3.4dp"
+        android:layout_marginLeft="3.4dp"
+        android:layout_marginTop="0.0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_3"
+            android:layout_width="117.9dp"
+            android:layout_height="26.1dp"
+            android:fontFamily="sans-serif-medium"
+            android:includeFontPadding="false"
+            android:text="android_gui"
+            android:textColor="#FFFFFF"
+            android:textSize="21.2sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="12.9dp"
+            android:layout_marginLeft="12.9dp"
+            android:layout_marginTop="44.0dp"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="11.7sp"
+            android:autoSizeMaxTextSize="21.2sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_4"
+        android:layout_width="411.4dp"
+        android:layout_height="521.7dp"
+        android:background="@drawable/shape_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="3.4dp"
+        android:layout_marginLeft="3.4dp"
+        android:layout_marginTop="83.6dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <RadioButton
+            android:id="@+id/view_5"
+            android:layout_width="80.4dp"
+            android:layout_height="18.9dp"
+            android:checked="false"
+            android:enabled="true"
+            android:fontFamily="sans-serif"
+            android:text="Bgink"
+            android:textColor="#000000"
+            android:textSize="14.1sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="14.4dp"
+            android:layout_marginLeft="14.4dp"
+            android:layout_marginTop="33.4dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_6"
+        android:layout_width="411.4dp"
+        android:layout_height="34.5dp"
+        android:background="@drawable/shape_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="3.4dp"
+        android:layout_marginLeft="3.4dp"
+        android:layout_marginTop="605.4dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <Button
+            android:id="@+id/view_7"
+            android:layout_width="102.9dp"
+            android:layout_height="34.5dp"
+            android:alpha="0.4"
+            android:background="@android:color/transparent"
+            android:enabled="false"
+            android:gravity="center"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:paddingTop="0dp"
+            android:paddingBottom="0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="0.0dp" />
+
+        <Button
+            android:id="@+id/view_8"
+            android:layout_width="102.9dp"
+            android:layout_height="34.5dp"
+            android:background="@android:color/transparent"
+            android:enabled="true"
+            android:gravity="center"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:paddingTop="0dp"
+            android:paddingBottom="0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="102.9dp"
+            android:layout_marginLeft="102.9dp"
+            android:layout_marginTop="0.0dp" />
+
+        <Button
+            android:id="@+id/view_9"
+            android:layout_width="102.9dp"
+            android:layout_height="34.5dp"
+            android:background="@android:color/transparent"
+            android:enabled="true"
+            android:gravity="center"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:paddingTop="0dp"
+            android:paddingBottom="0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="205.7dp"
+            android:layout_marginLeft="205.7dp"
+            android:layout_marginTop="0.0dp" />
+
+        <Button
+            android:id="@+id/view_10"
+            android:layout_width="102.9dp"
+            android:layout_height="34.5dp"
+            android:background="@android:color/transparent"
+            android:enabled="true"
+            android:gravity="center"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:paddingTop="0dp"
+            android:paddingBottom="0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="308.6dp"
+            android:layout_marginLeft="308.6dp"
+            android:layout_marginTop="0.0dp" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="26.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#303F9F" />
+</FrameLayout>

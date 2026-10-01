@@ -1,0 +1,149 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        3,
+        165,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1002,
+        5,
+        1191,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        527,
+        430,
+        670,
+        599
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        440,
+        588,
+        758,
+        710
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "aSKfm",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        498,
+        939,
+        701,
+        966
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Get started with:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        1011,
+        589,
+        1108
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        609,
+        1011,
+        1168,
+        1108
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        31,
+        1127,
+        1168,
+        1224
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        464,
+        1302,
+        732,
+        1335
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Have account? Log in",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0072.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.1377144097222222,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

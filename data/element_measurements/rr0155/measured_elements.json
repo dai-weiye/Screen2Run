@@ -1,0 +1,289 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        13,
+        2,
+        57,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1049,
+        5,
+        1185,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        10,
+        150,
+        39
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        984,
+        51,
+        996,
+        85
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        32,
+        678,
+        1166,
+        1099
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        541,
+        1127,
+        658,
+        1175
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Sign In",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        791,
+        1208,
+        858,
+        1299
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        339,
+        1231,
+        385,
+        1299
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        393,
+        1231,
+        451,
+        1298
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        459,
+        1231,
+        526,
+        1299
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        534,
+        1231,
+        602,
+        1323
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        609,
+        1231,
+        677,
+        1299
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        714,
+        1231,
+        783,
+        1300
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        680,
+        1233,
+        706,
+        1326
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        366,
+        1339,
+        831,
+        1512
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Get started",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        502,
+        1569,
+        772,
+        1599
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Continue with Facebook",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        408,
+        1570,
+        423,
+        1596
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        452,
+        1644,
+        818,
+        1715
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        379,
+        1740,
+        819,
+        1812
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 26,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0155.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.29730946180555556,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

@@ -1,0 +1,199 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1087,
+        6,
+        1188,
+        41
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        95,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        29,
+        80,
+        1169,
+        638
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        680,
+        783,
+        710
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Contact Customer Service",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        43,
+        818,
+        1156,
+        890
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "\u00a92017 Total System Services, Inc.\u00aeAll rights reserved worldwide. TSYS and NetSpend",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        931,
+        1169,
+        1212
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "The PayPal Prepaid Mastercard is issued by The Bancorp Bank, Member FDIC, pursuant",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        88,
+        1268,
+        1104,
+        1295
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Mastercard is a registered trademark of Mastercard International Incorporated.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        204,
+        1351,
+        987,
+        1381
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Card may be used everywhere Debit Mastercard is accepted.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        120,
+        1434,
+        1076,
+        1465
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "All other trademarks and service marks belong to their respective owners.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        245,
+        1502,
+        953,
+        1532
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Login to see Cardholder Agreement and Privacy Policy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        512,
+        1591,
+        686,
+        1619
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Version 4.6.0",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0241.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5071766493055555,
+  "ocr_added": 0,
+  "ocr_filled": 8
+}

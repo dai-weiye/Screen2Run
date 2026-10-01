@@ -1,0 +1,251 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        66,
+        8,
+        100,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1088,
+        9,
+        1189,
+        41
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        120,
+        17,
+        127,
+        27
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        129,
+        17,
+        142,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        94,
+        281,
+        135
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Oodles Books",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        999,
+        98,
+        1031,
+        130
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1111,
+        98,
+        1143,
+        130
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        31,
+        221,
+        444,
+        265
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Free Classic Books",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        295,
+        1199,
+        584
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1064,
+        317,
+        1200,
+        362
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "DOVER\u2022 THRIET\u2022EDITIONS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        603,
+        1167,
+        740
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        31,
+        784,
+        395,
+        825
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Free Audiobooks",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        857,
+        1199,
+        1102
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        31,
+        1121,
+        1167,
+        1258
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        31,
+        1294,
+        1167,
+        1823
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0057.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6934865451388889,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

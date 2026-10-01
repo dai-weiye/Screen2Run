@@ -1,0 +1,155 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        74,
+        87,
+        1108,
+        1824
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        401,
+        57,
+        603
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        37,
+        845,
+        41,
+        872
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        26,
+        910,
+        41,
+        930
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        26,
+        937,
+        41,
+        955
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        968,
+        41,
+        1162
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        10,
+        1164,
+        41,
+        1263
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1181,
+        1374,
+        1199,
+        1422
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        1638,
+        17,
+        1650
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1651,
+        68,
+        1824
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        92,
+        303,
+        1103,
+        473
+      ],
+      "text": "BOUNCING",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0235.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7967973090277778,
+  "ocr_added": 1,
+  "ocr_filled": 0
+}

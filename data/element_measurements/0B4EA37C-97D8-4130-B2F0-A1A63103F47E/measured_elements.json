@@ -1,0 +1,215 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        686,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        192,
+        170,
+        261
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        192,
+        666,
+        261
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        241,
+        205,
+        319,
+        247
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        403,
+        206,
+        488,
+        247
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        171,
+        208,
+        257,
+        240
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "OFIKD",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        340,
+        208,
+        428,
+        240
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Nghcm",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        309,
+        160,
+        350
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        207,
+        309,
+        323,
+        350
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        412,
+        309,
+        490,
+        350
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        180,
+        310,
+        263,
+        342
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Mkknc",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        311,
+        99,
+        345
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Nwuhp",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        344,
+        311,
+        428,
+        345
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Wngvb",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        436,
+        1026,
+        469,
+        1062
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        1026,
+        626,
+        1062
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        1027,
+        205,
+        1059
+      ],
+      "id": 18,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/0B4EA37C-97D8-4130-B2F0-A1A63103F47E.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.08971147576613779,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

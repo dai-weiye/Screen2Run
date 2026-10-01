@@ -1,0 +1,211 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        11,
+        123,
+        59
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        145,
+        13,
+        174,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        267,
+        13,
+        313,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        333,
+        13,
+        379,
+        58
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        909,
+        17,
+        1019,
+        57
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        208,
+        18,
+        242,
+        53
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        304,
+        194,
+        417,
+        306
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        425,
+        229,
+        782,
+        273
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "S stockEdge Social",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        32,
+        571,
+        1043,
+        1207
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        202,
+        1276,
+        872,
+        1375
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "We are Under Maintenance.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        423,
+        1507,
+        654,
+        1632
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        1702,
+        813,
+        1775
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        435,
+        622,
+        474,
+        656
+      ],
+      "text": "+",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        776,
+        776,
+        824,
+        1200
+      ],
+      "text": "XXXXXXXXXXI",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.stockedge.social.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4002748842592593,
+  "ocr_added": 2,
+  "ocr_filled": 2
+}

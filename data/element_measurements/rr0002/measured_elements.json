@@ -1,0 +1,131 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        3,
+        148,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        955,
+        5,
+        1192,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        151,
+        89,
+        278,
+        146
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "Log In",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        56,
+        98,
+        87,
+        129
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        273,
+        363,
+        307
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Email or Username",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        384,
+        219,
+        422
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        875,
+        502,
+        1144,
+        529
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "FORGOT PASSWORD",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        640,
+        1159,
+        712
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0002.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.058483940972222224,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

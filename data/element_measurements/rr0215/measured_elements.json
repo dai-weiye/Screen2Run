@@ -1,0 +1,337 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        955,
+        5,
+        1190,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        455,
+        72,
+        506,
+        141
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1060,
+        80,
+        1089,
+        116
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1137,
+        80,
+        1173,
+        116
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        508,
+        85,
+        748,
+        144
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Liberty Mutual.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        91,
+        75,
+        101
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        107,
+        75,
+        117
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1041,
+        116,
+        1184,
+        147
+      ],
+      "id": 11,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        13,
+        122,
+        75,
+        133
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        213,
+        271,
+        388,
+        441
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        807,
+        304,
+        998,
+        407
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        779,
+        492,
+        1028,
+        616
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "View",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        180,
+        493,
+        423,
+        615
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Manage",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        830,
+        801,
+        974,
+        991
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        235,
+        815,
+        370,
+        1005
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        172,
+        1050,
+        434,
+        1170
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Make a",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        697,
+        1060,
+        1114,
+        1182
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Visit",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        258,
+        1356,
+        326,
+        1430
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        820,
+        1388,
+        954,
+        1467
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        214,
+        1430,
+        394,
+        1540
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        808,
+        1477,
+        963,
+        1539
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        970,
+        1499,
+        998,
+        1533
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        782,
+        1603,
+        1026,
+        1729
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Get a Free",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        78,
+        1615,
+        526,
+        1739
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "Tools for everyday",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 30,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0215.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.18368272569444444,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

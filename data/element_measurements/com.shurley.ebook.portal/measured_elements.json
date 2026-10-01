@@ -1,0 +1,125 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        12,
+        113,
+        60
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        138,
+        15,
+        177,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1872,
+        16,
+        1895,
+        55
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1802,
+        24,
+        1817,
+        49
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1828,
+        24,
+        1851,
+        49
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1753,
+        25,
+        1792,
+        48
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        3,
+        106,
+        472,
+        177
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "dummy_user_input",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1644,
+        450,
+        1883,
+        557
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        455,
+        984,
+        503,
+        1026
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1416,
+        985,
+        1462,
+        1031
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        938,
+        987,
+        980,
+        1029
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 1080,
+  "image": "Unseen/com.shurley.ebook.portal.png",
+  "width": 1920,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.03552806712962963,
+  "ocr_added": 0,
+  "ocr_filled": 1
+}

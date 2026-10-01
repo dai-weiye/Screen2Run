@@ -1,0 +1,18 @@
+
+SOURCE-TO-XML IDENTITY CONTRACT (traceability, not proof of fidelity):
+- Every JSON node has a stable node_id. Normally assign the corresponding Android
+  view android:id="@+id/<node_id>". Preserve these IDs through all fixes.
+- It is legal to merge a purely structural container into another view or represent
+  several source parts with a native compound widget. Declare ALL represented
+  source IDs using android:tag="s2r_nodes=id1,id2" on that view, which must have its
+  own unique android:id. Do not insert fake/invisible views merely to satisfy IDs.
+- Tags are only explicit mapping claims, never evidence that the appearance or text
+  is correct. Do not dump unrelated source IDs into the root: each declared source
+  must actually be represented by that view or native compound widget.
+- Account for each source node once. Do not declare the same source on multiple views.
+- Nodes explicitly marked system_chrome=status_bar/navigation_bar, and their children,
+  are excluded from app XML. Ordinary app bottom navigation, headers and toolbars are
+  NOT system chrome and must remain mapped. Do not change source node identities.
+- Reference bounds are SOURCE xyxy pixels, not Android dp and not local child coordinates.
+  Convert to the declared canvas and preserve Android parent-child positioning;
+  do not set every child position relative to the screen or flatten real containers.

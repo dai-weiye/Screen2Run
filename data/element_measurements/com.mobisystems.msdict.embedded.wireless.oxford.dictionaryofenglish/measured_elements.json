@@ -1,0 +1,143 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        11,
+        137,
+        59
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        163,
+        13,
+        202,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        229,
+        13,
+        268,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        296,
+        13,
+        334,
+        58
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        357,
+        13,
+        403,
+        58
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1032,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        911,
+        17,
+        949,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        969,
+        26,
+        1008,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        441,
+        30,
+        453,
+        42
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        249,
+        672,
+        827,
+        1248
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        242,
+        1824,
+        288,
+        1877
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        788,
+        1826,
+        830,
+        1869
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        515,
+        1827,
+        561,
+        1874
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.17156876929012346,
+  "ocr_added": 0,
+  "ocr_filled": 0
+}

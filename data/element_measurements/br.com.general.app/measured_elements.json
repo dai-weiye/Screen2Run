@@ -1,0 +1,379 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        13,
+        377,
+        57
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        910,
+        17,
+        1020,
+        55
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1033,
+        21,
+        1055,
+        55
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        195,
+        230,
+        202
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        842,
+        195,
+        907,
+        223
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        844,
+        226,
+        907,
+        555
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        156,
+        256,
+        842,
+        647
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        174,
+        680,
+        560,
+        730
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "dummy_user_input",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        75,
+        689,
+        139,
+        739
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        150,
+        805,
+        283,
+        851
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Senha",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        888,
+        48,
+        989
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        75,
+        890,
+        121,
+        950
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        919,
+        893,
+        983,
+        947
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        162,
+        903,
+        172,
+        914
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        177,
+        903,
+        187,
+        914
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        192,
+        903,
+        202,
+        914
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        207,
+        903,
+        217,
+        914
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        222,
+        903,
+        232,
+        914
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        237,
+        903,
+        248,
+        914
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        252,
+        903,
+        263,
+        914
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        267,
+        903,
+        278,
+        914
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        282,
+        903,
+        293,
+        914
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        297,
+        903,
+        308,
+        914
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        312,
+        903,
+        323,
+        914
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        327,
+        903,
+        338,
+        914
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        342,
+        903,
+        353,
+        914
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        357,
+        903,
+        368,
+        914
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        372,
+        903,
+        383,
+        914
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        387,
+        903,
+        398,
+        914
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        69,
+        1063,
+        1007,
+        1192
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        946,
+        1372,
+        1007,
+        1432
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        69,
+        1378,
+        538,
+        1427
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        561,
+        1385,
+        888,
+        1422
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "SOLICITAR MINHA SENHA",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        292,
+        1866
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 35,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/br.com.general.app.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2504369212962963,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

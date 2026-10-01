@@ -1,0 +1,343 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        210,
+        412,
+        1148,
+        1508
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        603,
+        61,
+        669
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        142,
+        638,
+        171,
+        726
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "Cancel",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        924,
+        65,
+        996
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        1190,
+        173,
+        1276
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Agree",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        1252,
+        61,
+        1320
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        631,
+        1557,
+        677,
+        1860
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        604,
+        1578,
+        613,
+        1587
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        602,
+        1601,
+        615,
+        1698
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        602,
+        1703,
+        615,
+        1859
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        1861,
+        154,
+        1887
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        228,
+        446,
+        270,
+        1468
+      ],
+      "text": "may not copy the written materials accompanying the Software.",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        271,
+        447,
+        310,
+        1401
+      ],
+      "text": "necessary to use it on a single computer.You agree that you",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        312,
+        440,
+        360,
+        1360
+      ],
+      "text": "EULA.You agree you will not copy the Software except as",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        352,
+        440,
+        400,
+        1480
+      ],
+      "text": "exclusive right to use the copy of the Software provided with this",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        393,
+        446,
+        439,
+        1418
+      ],
+      "text": "Beatronik grants to you a personal, nontransferable and non-",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        441,
+        443,
+        481,
+        676
+      ],
+      "text": "License Grant",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        522,
+        441,
+        568,
+        1161
+      ],
+      "text": "agree to be bound by the terms of this EULA.",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        563,
+        441,
+        609,
+        1382
+      ],
+      "text": "copying or otherwise using the SOFTWARE PRODUCT, you",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        606,
+        447,
+        650,
+        1353
+      ],
+      "text": "download, install, copy or use the Software. By installing,",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        645,
+        444,
+        693,
+        1471
+      ],
+      "text": "Beatronik.If you do not agree with the terms of this EULA, do not",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        692,
+        444,
+        734,
+        1328
+      ],
+      "text": "between you (either an individual or a single entity) and",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        731,
+        444,
+        770,
+        1473
+      ],
+      "text": "This End User License Agreement (\"EULA') is a legal agreement",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        770,
+        443,
+        817,
+        916
+      ],
+      "text": "End User License Agreement",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        857,
+        444,
+        896,
+        734
+      ],
+      "text": "licensed, not sold.",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        900,
+        446,
+        944,
+        1359
+      ],
+      "text": "property laws and treaties. This SOFTWARE PRODUCT is",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        940,
+        444,
+        982,
+        1390
+      ],
+      "text": "international copyright treaties, as well as other intellectual",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        985,
+        444,
+        1024,
+        1446
+      ],
+      "text": "This SOFTWARE PRODUCT is protected by copyright laws and",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        1097,
+        522,
+        1133,
+        633
+      ],
+      "text": "EULA",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0163.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.45969791666666665,
+  "ocr_added": 18,
+  "ocr_filled": 2
+}

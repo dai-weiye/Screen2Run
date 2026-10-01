@@ -1,0 +1,277 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        161,
+        7,
+        197,
+        43
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1078,
+        7,
+        1184,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        214,
+        9,
+        239,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        10,
+        287,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        358,
+        10,
+        385,
+        40
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        11,
+        337,
+        39
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        120,
+        17,
+        127,
+        27
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        129,
+        17,
+        142,
+        27
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        453,
+        116,
+        749,
+        189
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "GEARHEADS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        120,
+        159,
+        188
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        240,
+        1159,
+        328
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        906,
+        602,
+        922
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        582,
+        910,
+        592,
+        925
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        615,
+        935,
+        631,
+        941
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        571,
+        945,
+        593,
+        966
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        606,
+        945,
+        627,
+        966
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        954,
+        602,
+        970
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        539,
+        984,
+        660,
+        1023
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Loading",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0198.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.06634375,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

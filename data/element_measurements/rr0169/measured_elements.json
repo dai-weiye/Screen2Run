@@ -1,0 +1,95 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        3,
+        151,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        955,
+        5,
+        1191,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        43,
+        80,
+        1155,
+        184
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        230,
+        918,
+        964,
+        959
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "No results found for \"pub:Free-Ringtones-Inc\"",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0169.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.07305381944444445,
+  "ocr_added": 0,
+  "ocr_filled": 1
+}

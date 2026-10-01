@@ -1,0 +1,145 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        957,
+        12,
+        1025,
+        60
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        15,
+        13,
+        109,
+        57
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        201,
+        13,
+        247,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        334,
+        13,
+        380,
+        59
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        268,
+        14,
+        313,
+        58
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        180,
+        57
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1032,
+        16,
+        1055,
+        55
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        417,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        950,
+        110,
+        1041,
+        184
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        387,
+        114,
+        690,
+        182
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Locations",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.PhoHaNoi.BLogicOrderOnline.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.02400800540123457,
+  "ocr_added": 0,
+  "ocr_filled": 1
+}

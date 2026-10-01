@@ -1,0 +1,339 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        12,
+        113,
+        60
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        201,
+        13,
+        247,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        267,
+        13,
+        313,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        333,
+        13,
+        379,
+        58
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        143,
+        17,
+        175,
+        54
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        980,
+        119,
+        1032,
+        193
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        212,
+        130,
+        764,
+        184
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Kristoni Boro Methai",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        136,
+        110,
+        142
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        152,
+        110,
+        158
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        168,
+        110,
+        174
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        283,
+        92,
+        351
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        155,
+        289,
+        890,
+        336
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Abraham Isahak, Jakobni Iswr-423",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        152,
+        434,
+        768,
+        486
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "@",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        22,
+        442,
+        97,
+        525
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        153,
+        581,
+        796,
+        633
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "A",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        595,
+        90,
+        659
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        74,
+        688,
+        1003,
+        1158
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        50,
+        759,
+        71,
+        776
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        154,
+        1170,
+        889,
+        1223
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Ang rongjayw Jisu bwkangbai-342",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        1211,
+        84,
+        1275
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        153,
+        1315,
+        840,
+        1372
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Ang rongjayw Swrgwni Iswra-59",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        40,
+        1365,
+        84,
+        1429
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        153,
+        1464,
+        789,
+        1518
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "Ang solo kwnadwngmwn-340",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        33,
+        1518,
+        87,
+        1584
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        154,
+        1611,
+        730,
+        1665
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Angi Jiu Orai rongjayw-310",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        33,
+        1673,
+        87,
+        1737
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 30,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/kristoni.boro.bodo.metai.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3671793016975309,
+  "ocr_added": 0,
+  "ocr_filled": 8
+}

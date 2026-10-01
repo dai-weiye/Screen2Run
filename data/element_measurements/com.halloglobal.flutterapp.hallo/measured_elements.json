@@ -1,0 +1,197 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        159,
+        8,
+        207,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        231,
+        8,
+        271,
+        64
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        297,
+        8,
+        335,
+        64
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        8,
+        407,
+        64
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        20,
+        12,
+        132,
+        59
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        957,
+        15,
+        1024,
+        59
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        439,
+        24,
+        455,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        237,
+        117,
+        840,
+        184
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Continue with Email",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        47,
+        128,
+        87,
+        184
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        360,
+        1023,
+        504
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        560,
+        1023,
+        712
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        768,
+        1023,
+        912
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        992,
+        1020,
+        1144
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        351,
+        1206,
+        726,
+        1261
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Forgot Password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        244,
+        1824,
+        287,
+        1872
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1824,
+        833,
+        1872
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1826,
+        560,
+        1871
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.halloglobal.flutterapp.hallo.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.26176005064893954,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

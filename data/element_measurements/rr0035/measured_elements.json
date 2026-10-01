@@ -1,0 +1,159 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        13,
+        2,
+        57,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        65,
+        6,
+        298,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1112,
+        9,
+        1189,
+        42
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        536,
+        75,
+        666,
+        121
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "About",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        19,
+        76,
+        67,
+        124
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        338,
+        255,
+        862,
+        385
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Version 4.4.800.201703131948",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        50,
+        1669,
+        1146,
+        1717
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Traffic Information Provided by INRIX \u00a9 2016. All rights reserved.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0035.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.06628168402777777,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

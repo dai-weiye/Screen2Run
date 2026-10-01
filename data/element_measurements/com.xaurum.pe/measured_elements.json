@@ -1,0 +1,187 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        202,
+        9,
+        251,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        13,
+        112,
+        58
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        336,
+        13,
+        380,
+        60
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        136,
+        16,
+        183,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        271,
+        16,
+        311,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        975,
+        120,
+        1039,
+        192
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        376,
+        445,
+        624,
+        696
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        631,
+        512,
+        695,
+        542
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        631,
+        632,
+        671,
+        696
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        268,
+        1232,
+        809,
+        1288
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Welcome to PE-online",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        1360,
+        1049,
+        1536
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        1567,
+        30,
+        1745
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        434,
+        1621,
+        642,
+        1687
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "ON",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        242,
+        1824,
+        287,
+        1872
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1825,
+        560,
+        1871
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        784,
+        1825,
+        833,
+        1872
+      ],
+      "id": 16,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.xaurum.pe.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.12502136752136753,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

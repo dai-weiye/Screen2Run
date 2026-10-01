@@ -1,0 +1,8 @@
+
+LAYOUT GEOMETRY:
+- Write a natural, maintainable activity_main.xml (LinearLayout / FrameLayout / RelativeLayout,
+  match_parent / wrap_content / dp) whose structure, order and approximate sizes follow the screenshot.
+- Exact positions and sizes are measured from the screenshot and corrected afterwards, so do not
+  spend effort on pixel arithmetic; never drop, merge away or invent a view to make numbers fit.
+- The screenshot is 411dp wide on the target device; the root is match_parent in both directions.
+- Every view must keep android:id="@+id/<node_id>" of the JSON node it represents.

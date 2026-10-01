@@ -1,0 +1,379 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        118,
+        9,
+        143,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        214,
+        10,
+        241,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        10,
+        287,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1086,
+        11,
+        1188,
+        40
+      ],
+      "id": 8,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        52,
+        1199,
+        1393
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        494,
+        1734,
+        704,
+        1761
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Help | Contact us",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        446,
+        387,
+        748,
+        442
+      ],
+      "text": "TrackView",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        469,
+        516,
+        731,
+        547
+      ],
+      "text": "Terms of Services",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        120,
+        608,
+        586,
+        645
+      ],
+      "text": "Cybrook Software Terms of Services",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        123,
+        698,
+        1021,
+        731
+      ],
+      "text": "Thank you for using Cybrook websites, products, services and software",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        120,
+        740,
+        1013,
+        773
+      ],
+      "text": "(referred to as Software hereafter). By using our Software, you agree to",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        120,
+        784,
+        633,
+        815
+      ],
+      "text": "these terms. Please read them carefully.",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        123,
+        871,
+        377,
+        899
+      ],
+      "text": "Use of our Software",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        120,
+        957,
+        1049,
+        988
+      ],
+      "text": "You must follow any policies and terms made available to you by Cybrook",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        120,
+        996,
+        1058,
+        1033
+      ],
+      "text": "in order to use Cybrook Software. Please only use our Software legally and",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        120,
+        1041,
+        1063,
+        1074
+      ],
+      "text": "lawfully. You will be personally liable if you don't use our Software lawfully.",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        123,
+        1086,
+        1072,
+        1119
+      ],
+      "text": "For example, you can only monitor the places and track the devices that are",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        123,
+        1127,
+        1058,
+        1161
+      ],
+      "text": "permitted by law. We may suspend or stop providing our Services to you if",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        120,
+        1169,
+        1013,
+        1203
+      ],
+      "text": "you do not comply with our terms or policies. Your use of our Software",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        123,
+        1214,
+        988,
+        1247
+      ],
+      "text": "does not give you ownership of any intellectual property rights in our",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        123,
+        1256,
+        1033,
+        1289
+      ],
+      "text": "Software. In connection with your use of our Software, we may send you",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        293,
+        1334,
+        407,
+        1365
+      ],
+      "text": "Disagree",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        812,
+        1336,
+        888,
+        1365
+      ],
+      "text": "Agree",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0099.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7079661458333333,
+  "ocr_added": 17,
+  "ocr_filled": 1
+}

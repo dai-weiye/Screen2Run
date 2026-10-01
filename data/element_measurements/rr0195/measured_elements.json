@@ -1,0 +1,201 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        13,
+        1,
+        58,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1000,
+        3,
+        1192,
+        44
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        64,
+        5,
+        291,
+        42
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        45,
+        94,
+        307,
+        139
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "Select a photo",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        570,
+        210,
+        629,
+        241
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "ALL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        278,
+        1199,
+        669
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        139,
+        671,
+        255,
+        686
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Create beautifu vidlecs from your photos",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        676,
+        393,
+        1070
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        401,
+        676,
+        795,
+        1071
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        804,
+        676,
+        1198,
+        1071
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1078,
+        394,
+        1473
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        401,
+        1078,
+        796,
+        1473
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        803,
+        1078,
+        1199,
+        1473
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1480,
+        1199,
+        1824
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        788,
+        1615,
+        1200,
+        1734
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Sill Paints",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0195.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8058151041666667,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

@@ -1,0 +1,11 @@
+Roboto Static Regular, Version 2.138; 2017
+Roboto Variable Regular, Version 3.005; 2022
+Copyright 2011 Google Inc. All Rights Reserved.
+
+RobotoStatic-Regular.ttf and Roboto-Regular.ttf are redistributed without
+modification. Both embedded name-table licenses declare the Apache License,
+Version 2.0. The complete
+license text accompanies this font in LICENSE-APACHE-2.0.txt.
+
+The static font measures text geometry. The variable font measures stroke
+weight across the original weight-axis settings.

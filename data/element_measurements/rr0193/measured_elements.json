@@ -1,0 +1,281 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        3,
+        149,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1004,
+        7,
+        1189,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        152,
+        90,
+        288,
+        142
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "Sign Up",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        88,
+        130
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        192,
+        159,
+        222
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "First Name",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        539,
+        235,
+        571,
+        267
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        638,
+        235,
+        799,
+        266
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Last Name",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1127,
+        235,
+        1159,
+        267
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        633,
+        313,
+        736,
+        351
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Female",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        316,
+        174,
+        350
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "5/30/2017",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        523,
+        317,
+        555,
+        349
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        557,
+        327,
+        577,
+        338
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1145,
+        327,
+        1165,
+        338
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        34,
+        422,
+        125,
+        462
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Email",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1127,
+        427,
+        1159,
+        459
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        38,
+        522,
+        184,
+        554
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1127,
+        523,
+        1159,
+        555
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        625,
+        81,
+        661
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        110,
+        625,
+        509,
+        661
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "l agree to the Terms of Use",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        112,
+        738,
+        1088,
+        813
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "y Don't miss out on free stuff! Keep me informed of special offers and",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        45,
+        757,
+        81,
+        794
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0193.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.0649453125,
+  "ocr_added": 0,
+  "ocr_filled": 9
+}

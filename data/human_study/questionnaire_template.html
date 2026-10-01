@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Interface and XML assessment: English replication template</title>
+<style>
+*{box-sizing:border-box}body{font:16px/1.5 system-ui,sans-serif;color:#172033;background:#f3f5f8;margin:0}main{max-width:1500px;margin:auto;padding:24px}section{background:white;padding:20px;border:1px solid #ccd4df;border-radius:8px;margin-bottom:16px}h1{font-size:26px}h2{font-size:20px}button,input,select{font:inherit}button{padding:8px 14px;margin:4px;cursor:pointer}.notice{background:#fff6dc;padding:12px}.toolbar{position:sticky;top:0;background:#f3f5f8;padding:8px;z-index:2}.candidates{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.candidate{border:1px solid #ccd4df;padding:12px;min-width:0}img{max-width:100%;max-height:65vh;object-fit:contain}pre{white-space:pre;overflow:auto;max-height:65vh;font:13px/1.5 monospace;background:#f6f7f9;padding:12px}.question{display:flex;gap:10px;justify-content:space-between;margin:12px 0}#status{font-weight:bold}#error{color:#a51523}details{margin:12px 0}@media(max-width:900px){.candidates{grid-template-columns:1fr}main{padding:12px}}
+</style></head><body><main>
+<h1>Interface and XML assessment</h1>
+<p class="notice">Blank English replication template. This is not a historical questionnaire or an existing participant response. No answers are prefilled. This page makes no network requests.</p>
+<section><h2>Participant instructions</h2><p>Judge each anonymous candidate independently. Do not infer its source, discuss your answers with others, or use automated rating tools. Visual and code candidate positions are independent. Preserve unfavorable judgments as well as favorable ones. You may pause or withdraw.</p>
+<p>Visual scores: 1 = almost entirely different; 2 = clearly different; 3 = broadly similar with visible errors; 4 = minor differences; 5 = almost indistinguishable. Code scores: 1 = very poor; 2 = poor; 3 = fair; 4 = good; 5 = very good. Rank 1 is best and rank 3 is worst; ties are not allowed.</p>
+<p>Do not score system status or navigation bars. For code tasks, assess the displayed XML as a development starting point without running it. Do not copy visual rankings into code judgments.</p>
+<label><input id="consent" type="checkbox"> I understand this assessment and agree to participate.</label>
+<p>Load the blind task JSON supplied by the organizer: <input id="load" type="file" accept=".json,application/json"></p>
+<p>Answers remain in this tab only. Download a progress copy before closing. The organizer must preserve your file; do not treat a progress export as a completed study.</p></section>
+<div class="toolbar"><button id="prev" disabled>Previous</button><button id="next" disabled>Next</button><button id="download" disabled>Download answers or progress</button><span id="status">No tasks loaded</span><p id="error" role="alert"></p></div>
+<div id="task"></div>
+<details><summary>Organizer task-bundle format</summary><p>Use a new opaque study ID and one pseudonymous rater ID. Supply authorized image data URIs only; no methods, answer keys, contact details, or existing scores may be included. Each task needs item_id, track (visual/code), reference_image, and candidates. Labels must be A/B/C for visual images or X/Y/Z for code strings. This template does not reproduce historic display assignments.</p></details>
+</main><script>
+'use strict';
+const $=id=>document.getElementById(id);
+const dimensions={visual:{overall:'Overall similarity',layout:'Layout and position',text:'Text content and typography',image:'Images, icons, and logos',style:'Style and color'},code:{readability:'Readability',maintainability:'Maintainability',practice:'Android layout practice',usability:'Use as a development starting point'}};
+let bundle=null,index=0,answers={};
+const key=t=>t.track+'|'+t.item_id;
+const imageOK=s=>typeof s==='string'&&/^data:image\/(png|jpeg|webp);base64,[A-Za-z0-9+/=\r\n]+$/.test(s);
+function fail(s){$('error').textContent=s;}
+function checkBundle(x){
+ if(!x||x.schema!=='screen2run-blind-template/1'||typeof x.study_id!=='string'||!x.study_id||!/^R[1-6]$/.test(x.rater_id)||!Array.isArray(x.tasks)||!x.tasks.length)throw Error('Invalid task bundle.');
+ const seen=new Set();
+ for(const t of x.tasks){
+  if(!t||!dimensions[t.track]||typeof t.item_id!=='string'||!t.item_id||!imageOK(t.reference_image))throw Error('Invalid task or reference image.');
+  const labels=t.track==='visual'?['A','B','C']:['X','Y','Z'];
+  if(!t.candidates||Object.keys(t.candidates).sort().join()!==labels.join())throw Error('Exactly three anonymous candidates are required.');
+  if(seen.has(key(t)))throw Error('Duplicate task.');seen.add(key(t));
+  for(const l of labels)if(typeof t.candidates[l]!=='string'||(t.track==='visual'&&!imageOK(t.candidates[l])))throw Error('Invalid candidate content.');
+ }
+}
+function done(t){const row=answers[key(t)]||{},ls=Object.keys(t.candidates),ds=Object.keys(dimensions[t.track]);return ls.every(l=>row[l]&&ds.every(d=>Number.isInteger(row[l][d])&&row[l][d]>=1&&row[l][d]<=5)&&(t.track!=='visual'||[0,1].includes(row[l].replace)))&&ls.map(l=>row[l]&&row[l].rank).sort().join()==='1,2,3';}
+function make(tag,text){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;return e;}
+function update(){const n=bundle.tasks.filter(done).length;$('status').textContent='Task '+(index+1)+'/'+bundle.tasks.length+' · completed '+n+'/'+bundle.tasks.length;$('prev').disabled=index===0;$('next').disabled=index===bundle.tasks.length-1;}
+function control(t,l,d,title,options){
+ const q=make('label'),caption=make('span',title),s=make('select');q.className='question';s.appendChild(new Option('Select',''));
+ for(const [v,txt] of options)s.appendChild(new Option(txt,String(v)));
+ const row=answers[key(t)];if(row[l][d]!==undefined)s.value=String(row[l][d]);
+ s.addEventListener('change',()=>{const value=s.value===''?undefined:Number(s.value);if(d==='rank'&&value!==undefined){const prior=row[l].rank;for(const other of Object.keys(t.candidates))if(other!==l&&row[other].rank===value){if(prior===undefined)delete row[other].rank;else row[other].rank=prior;}}if(value===undefined)delete row[l][d];else row[l][d]=value;if(d==='rank')render();else update();});q.append(caption,s);return q;
+}
+function render(){
+ fail('');const t=bundle.tasks[index],where=$('task');where.replaceChildren();
+ const section=make('section'),h=make('h2',(t.track==='visual'?'Visual':'Code')+' assessment'),ref=make('img');ref.src=t.reference_image;ref.alt='Reference interface';section.append(h,make('p','Reference interface'),ref);
+ const row=answers[key(t)]||(answers[key(t)]={}),grid=make('div');grid.className='candidates';
+ for(const [label,content] of Object.entries(t.candidates)){row[label]||(row[label]={});const box=make('article');box.className='candidate';box.appendChild(make('h3','Candidate '+label));if(t.track==='visual'){const im=make('img');im.src=content;im.alt='Candidate '+label;box.appendChild(im);}else{const pre=make('pre',content);box.appendChild(pre);}
+  for(const [d,title] of Object.entries(dimensions[t.track]))box.appendChild(control(t,label,d,title,[1,2,3,4,5].map(v=>[v,String(v)])));
+  if(t.track==='visual')box.appendChild(control(t,label,'replace','Could replace the reference visually?',[[0,'No'],[1,'Yes']]));
+  box.appendChild(control(t,label,'rank',t.track==='visual'?'Similarity rank':'Development preference rank',[[1,'1 (best)'],[2,'2'],[3,'3 (worst)']]));grid.appendChild(box);
+ }
+ section.appendChild(grid);where.appendChild(section);update();
+}
+$('load').addEventListener('change',async e=>{try{const x=JSON.parse(await e.target.files[0].text());checkBundle(x);if(bundle&&!confirm('Load a new study and clear the current tab? Download progress first.'))return;bundle=x;answers={};index=0;$('consent').checked=false;$('download').disabled=false;render();}catch(e){fail(e.message);}});
+$('prev').onclick=()=>{if(index>0){index--;render();}};
+$('next').onclick=()=>{if(!$('consent').checked)return fail('Please provide consent before proceeding.');if(!done(bundle.tasks[index]))return fail('Complete all scores and a unique ranking first.');index++;render();};
+$('download').onclick=()=>{const complete=$('consent').checked&&bundle.tasks.every(done);const result={schema:'screen2run-replication-return/1',study_id:bundle.study_id,rater_id:bundle.rater_id,consent:$('consent').checked,complete,answers};const blob=new Blob([JSON.stringify(result,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=make('a');a.href=url;a.download='replication_'+bundle.rater_id+(complete?'_complete':'_progress')+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);};
+</script></body></html>

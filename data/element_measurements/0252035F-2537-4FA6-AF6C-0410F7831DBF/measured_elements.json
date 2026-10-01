@@ -1,0 +1,131 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        687,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        22,
+        73,
+        220,
+        118
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        188,
+        149,
+        231
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "\u2022Ynqcy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        11,
+        272,
+        91,
+        308
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Yshhy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        554,
+        274,
+        632,
+        307
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "\u2022 \u2022 Begey",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        112,
+        280,
+        534,
+        303
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        169,
+        1026,
+        203,
+        1062
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        438,
+        1026,
+        467,
+        1062
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1026,
+        627,
+        1061
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/0252035F-2537-4FA6-AF6C-0410F7831DBF.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.05002852640730276,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

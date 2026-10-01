@@ -1,0 +1,291 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        14,
+        109,
+        58
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        211,
+        17,
+        238,
+        55
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        277,
+        17,
+        304,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        344,
+        17,
+        370,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        138,
+        19,
+        180,
+        53
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        73,
+        1079,
+        1675
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        9,
+        1716,
+        29,
+        1745
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        508,
+        1716,
+        519,
+        1733
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        1734,
+        281,
+        1746
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        782,
+        1741,
+        801,
+        1763
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        529,
+        1743,
+        547,
+        1763
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        217,
+        1764,
+        227,
+        1772
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        462,
+        1764,
+        480,
+        1773
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        973,
+        1764,
+        983,
+        1776
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        985,
+        1764,
+        998,
+        1776
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        50,
+        1767,
+        66,
+        1776
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        999,
+        1768,
+        1017,
+        1776
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        237,
+        1770,
+        258,
+        1776
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        557,
+        613,
+        955,
+        706
+      ],
+      "text": "100.3FMRADIO",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        156,
+        1082,
+        994,
+        1262
+      ],
+      "text": "Non ci fermiamo mai",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        441,
+        1428,
+        631,
+        1474
+      ],
+      "text": "Loading...",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        455,
+        1510,
+        586,
+        1613
+      ],
+      "text": "C",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.xdevel.radiolombardia.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8424088541666667,
+  "ocr_added": 4,
+  "ocr_filled": 0
+}

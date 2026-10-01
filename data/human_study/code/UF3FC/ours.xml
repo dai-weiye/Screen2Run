@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="412.4dp"
+        android:layout_height="62.0dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="-0.0dp"
+        android:layout_marginLeft="-0.0dp"
+        android:layout_marginTop="24.9dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_3"
+            android:layout_width="117.9dp"
+            android:layout_height="26.1dp"
+            android:text="android_gui"
+            android:textColor="#FFFFFF"
+            android:textSize="21.2sp"
+            android:fontFamily="sans-serif-medium"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="16.3dp"
+            android:layout_marginLeft="16.3dp"
+            android:layout_marginTop="19.2dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="11.7sp"
+            android:autoSizeMaxTextSize="21.2sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_4"
+        android:layout_width="412.4dp"
+        android:layout_height="517.7dp"
+        android:background="@drawable/shape_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="-0.0dp"
+        android:layout_marginLeft="-0.0dp"
+        android:layout_marginTop="86.8dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <Button
+            android:id="@+id/view_5"
+            android:layout_width="87.9dp"
+            android:layout_height="41.3dp"
+            android:text="VXRTN"
+            android:textColor="#1D1D1D"
+            android:textSize="14.9sp"
+            android:fontFamily="sans-serif-medium"
+            android:background="@drawable/shape_3"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:backgroundTint="@null"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="13.8dp"
+            android:layout_marginLeft="13.8dp"
+            android:layout_marginTop="28.0dp"
+            android:includeFontPadding="false"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="8.2sp"
+            android:autoSizeMaxTextSize="14.9sp"
+            android:autoSizeStepGranularity="1px"
+            android:padding="0dp"
+            android:gravity="center"
+            android:stateListAnimator="@null" />
+
+        <FrameLayout
+            android:id="@+id/view_6"
+            android:layout_width="134.1dp"
+            android:layout_height="41.3dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="10.1dp"
+            android:layout_marginLeft="10.1dp"
+            android:layout_marginTop="101.0dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <TextView
+                android:id="@+id/view_7"
+                android:layout_width="45.2dp"
+                android:layout_height="18.4dp"
+                android:text="Ftdym"
+                android:textColor="#202020"
+                android:textSize="14.7sp"
+                android:fontFamily="sans-serif-medium"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="10.8dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.1sp"
+                android:autoSizeMaxTextSize="14.7sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+
+            <Button
+                android:id="@+id/view_8"
+                android:layout_width="87.9dp"
+                android:layout_height="41.3dp"
+                android:text="KPCUJ"
+                android:textColor="#1C1C1C"
+                android:textSize="14.7sp"
+                android:fontFamily="sans-serif-medium"
+                android:background="@drawable/shape_3"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="46.2dp"
+                android:layout_marginLeft="46.2dp"
+                android:layout_marginTop="0.0dp"
+                android:includeFontPadding="false"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.1sp"
+                android:autoSizeMaxTextSize="14.7sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp"
+                android:gravity="center"
+                android:stateListAnimator="@null" />
+        </FrameLayout>
+
+        <CheckBox
+            android:id="@+id/view_9"
+            android:layout_width="80.7dp"
+            android:layout_height="19.9dp"
+            android:text="Oxjfx"
+            android:textColor="#0B0B0B"
+            android:textSize="15.0sp"
+            android:fontFamily="sans-serif"
+            android:buttonTint="#000000"
+            android:checked="false"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="17.4dp"
+            android:layout_marginLeft="17.4dp"
+            android:layout_marginTop="176.2dp"
+            android:includeFontPadding="false"
+            android:maxLines="1" />
+
+        <RadioButton
+            android:id="@+id/view_10"
+            android:layout_width="89.1dp"
+            android:layout_height="19.5dp"
+            android:text="Mvpwj"
+            android:textColor="#070707"
+            android:textSize="14.6sp"
+            android:fontFamily="sans-serif"
+            android:buttonTint="#000000"
+            android:checked="false"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="16.9dp"
+            android:layout_marginLeft="16.9dp"
+            android:layout_marginTop="232.9dp"
+            android:includeFontPadding="false"
+            android:maxLines="1" />
+
+        <FrameLayout
+            android:id="@+id/view_11"
+            android:layout_width="182.6dp"
+            android:layout_height="41.3dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="13.8dp"
+            android:layout_marginLeft="13.8dp"
+            android:layout_marginTop="286.3dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <Button
+                android:id="@+id/view_12"
+                android:layout_width="87.9dp"
+                android:layout_height="41.3dp"
+                android:text="GUIQJ"
+                android:textColor="#202020"
+                android:textSize="15.0sp"
+                android:fontFamily="sans-serif-medium"
+                android:background="@drawable/shape_3"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="0.0dp"
+                android:includeFontPadding="false"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.2sp"
+                android:autoSizeMaxTextSize="15.0sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp"
+                android:gravity="center"
+                android:stateListAnimator="@null" />
+
+            <Button
+                android:id="@+id/view_13"
+                android:layout_width="84.9dp"
+                android:layout_height="37.7dp"
+                android:text="DRKSQ"
+                android:textColor="#1E1E1E"
+                android:textSize="14.4sp"
+                android:fontFamily="sans-serif-medium"
+                android:background="@drawable/shape_3"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="96.3dp"
+                android:layout_marginLeft="96.3dp"
+                android:layout_marginTop="0.6dp"
+                android:includeFontPadding="false"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="7.9sp"
+                android:autoSizeMaxTextSize="14.4sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp"
+                android:gravity="center"
+                android:stateListAnimator="@null" />
+        </FrameLayout>
+
+        <RadioButton
+            android:id="@+id/view_14"
+            android:layout_width="92.9dp"
+            android:layout_height="22.1dp"
+            android:text="Ygmqo"
+            android:textColor="#0D0D0D"
+            android:textSize="14.6sp"
+            android:fontFamily="sans-serif"
+            android:buttonTint="#000000"
+            android:checked="false"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="16.2dp"
+            android:layout_marginLeft="16.2dp"
+            android:layout_marginTop="360.8dp"
+            android:includeFontPadding="false"
+            android:maxLines="1" />
+
+        <FrameLayout
+            android:id="@+id/view_15"
+            android:layout_width="173.9dp"
+            android:layout_height="48.3dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="13.8dp"
+            android:layout_marginLeft="13.8dp"
+            android:layout_marginTop="415.5dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <Button
+                android:id="@+id/view_16"
+                android:layout_width="87.9dp"
+                android:layout_height="41.3dp"
+                android:text="MQIUG"
+                android:textColor="#1D1D1D"
+                android:textSize="14.6sp"
+                android:fontFamily="sans-serif-medium"
+                android:background="@drawable/shape_3"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="0.0dp"
+                android:includeFontPadding="false"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.0sp"
+                android:autoSizeMaxTextSize="14.6sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp"
+                android:gravity="center"
+                android:stateListAnimator="@null" />
+
+            <Switch
+                android:id="@+id/view_17"
+                android:layout_width="38.9dp"
+                android:layout_height="32.3dp"
+                android:checked="false"
+                android:trackTint="#E0E0E0"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="135.0dp"
+                android:layout_marginLeft="135.0dp"
+                android:layout_marginTop="3.6dp" />
+
+            <TextView
+                android:id="@+id/view_18"
+                android:layout_width="43.3dp"
+                android:layout_height="18.7dp"
+                android:text="Fkuva"
+                android:textColor="#090909"
+                android:textSize="15.0sp"
+                android:fontFamily="sans-serif"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="91.3dp"
+                android:layout_marginLeft="91.3dp"
+                android:layout_marginTop="10.0dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.2sp"
+                android:autoSizeMaxTextSize="15.0sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_19"
+        android:layout_width="412.4dp"
+        android:layout_height="35.3dp"
+        android:background="@drawable/shape_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="-0.0dp"
+        android:layout_marginLeft="-0.0dp"
+        android:layout_marginTop="604.5dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_20"
+            android:layout_width="17.9dp"
+            android:layout_height="21.5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_1"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="55.1dp"
+            android:layout_marginLeft="55.1dp"
+            android:layout_marginTop="9.0dp" />
+
+        <ImageView
+            android:id="@+id/view_21"
+            android:layout_width="20.3dp"
+            android:layout_height="21.5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_2"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="165.7dp"
+            android:layout_marginLeft="165.7dp"
+            android:layout_marginTop="9.0dp" />
+
+        <ImageView
+            android:id="@+id/view_22"
+            android:layout_width="24.1dp"
+            android:layout_height="25.2dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_3"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="258.6dp"
+            android:layout_marginLeft="258.6dp"
+            android:layout_marginTop="7.2dp" />
+
+        <ImageView
+            android:id="@+id/view_23"
+            android:layout_width="19.7dp"
+            android:layout_height="20.9dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_4"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="355.3dp"
+            android:layout_marginLeft="355.3dp"
+            android:layout_marginTop="9.0dp" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="26.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#303F9F" />
+</FrameLayout>

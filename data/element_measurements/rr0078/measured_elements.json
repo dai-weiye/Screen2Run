@@ -1,0 +1,457 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1001,
+        5,
+        1192,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        122,
+        9,
+        142,
+        33
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        9,
+        191,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        10,
+        338,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        13,
+        98,
+        37
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        354,
+        13,
+        388,
+        37
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        38,
+        143,
+        42
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        157,
+        96,
+        685,
+        140
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Super Easy Vanilla Mug Cake",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1109,
+        96,
+        1144,
+        131
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        178,
+        1199,
+        1059
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1065,
+        7,
+        1363
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1088,
+        1065,
+        1171,
+        1197
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1191,
+        1065,
+        1199,
+        1363
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        1096,
+        534,
+        1164
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Super Easy Vanilla Mug Cake",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        84,
+        1188,
+        181,
+        1284
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        318,
+        1188,
+        414,
+        1284
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        552,
+        1188,
+        648,
+        1285
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        786,
+        1188,
+        882,
+        1285
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        573,
+        1284,
+        629,
+        1329
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "recipe",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        804,
+        1285,
+        863,
+        1328
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Get on",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        362,
+        1291,
+        368,
+        1305
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        98,
+        1311,
+        168,
+        1332
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "Calories",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        331,
+        1312,
+        403,
+        1334
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Servings",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        897,
+        1365,
+        968,
+        1471
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1039,
+        1396,
+        1051,
+        1413
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        1400,
+        401,
+        1439
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": ":E Ingredients Required",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1011,
+        1419,
+        1081,
+        1445
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "Count",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        83,
+        1512,
+        123,
+        1553
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        194,
+        1515,
+        279,
+        1555
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "1 egg",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        83,
+        1592,
+        123,
+        1633
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        198,
+        1595,
+        526,
+        1631
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "4 tablespoons plain flour",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        83,
+        1672,
+        123,
+        1713
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        198,
+        1678,
+        561,
+        1711
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "4 tablespoons caster sugar",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        82,
+        1752,
+        122,
+        1793
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        198,
+        1759,
+        583,
+        1790
+      ],
+      "id": 38,
+      "kind": "text",
+      "text": "2 tablespoons cocoa powder",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 41,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0078.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5500698784722222,
+  "ocr_added": 0,
+  "ocr_filled": 12
+}

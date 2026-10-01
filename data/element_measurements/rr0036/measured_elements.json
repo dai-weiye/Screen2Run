@@ -1,0 +1,203 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        178,
+        285,
+        1165,
+        1633
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "id": 1,
+      "kind": "text",
+      "bounds": [
+        220,
+        346,
+        273,
+        1490
+      ],
+      "text": "You can change the font in the settings afterwards",
+      "source": "ocr"
+    },
+    {
+      "id": 2,
+      "kind": "text",
+      "bounds": [
+        435,
+        377,
+        483,
+        458
+      ],
+      "text": "UK",
+      "source": "ocr"
+    },
+    {
+      "id": 3,
+      "kind": "text",
+      "bounds": [
+        664,
+        368,
+        712,
+        444
+      ],
+      "text": "ZB",
+      "source": "ocr"
+    },
+    {
+      "id": 4,
+      "kind": "text",
+      "bounds": [
+        748,
+        343,
+        787,
+        513
+      ],
+      "text": "to use:",
+      "source": "ocr"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        800,
+        346,
+        862,
+        1532
+      ],
+      "text": "The first thing to do is to select the font you want",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        890,
+        349,
+        960,
+        1010
+      ],
+      "text": "Welcome to Cursiv",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        325,
+        420,
+        430,
+        685
+      ],
+      "text": "abc",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        550,
+        410,
+        678,
+        687
+      ],
+      "text": "abc",
+      "source": "ocr"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        1052,
+        633,
+        1086,
+        1256
+      ],
+      "text": "Swipe down trom the top to exit tull screen.",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        438,
+        762,
+        483,
+        921
+      ],
+      "text": "French",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        544,
+        732,
+        672,
+        1053
+      ],
+      "text": "abc",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        321,
+        893,
+        460,
+        1075
+      ],
+      "text": "abc",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        656,
+        1144,
+        712,
+        1296
+      ],
+      "text": "HWT",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        901,
+        1130,
+        935,
+        1186
+      ],
+      "text": "OK",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        887,
+        1340,
+        966,
+        1630
+      ],
+      "text": "Wizard !",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0036.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5774635416666667,
+  "ocr_added": 15,
+  "ocr_filled": 0
+}

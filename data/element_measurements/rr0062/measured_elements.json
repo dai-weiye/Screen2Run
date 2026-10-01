@@ -1,0 +1,239 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        32,
+        0,
+        127,
+        247
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        127,
+        0,
+        1066,
+        233
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1066,
+        0,
+        1160,
+        247
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        12,
+        26,
+        15,
+        63
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        14,
+        179,
+        27,
+        214
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1171,
+        183,
+        1179,
+        208
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        205,
+        237,
+        991,
+        452
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        247,
+        87,
+        268
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1108,
+        250,
+        1132,
+        267
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        126,
+        457,
+        1108,
+        480
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        489,
+        1143,
+        1847
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1147,
+        887,
+        1154,
+        925
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1148,
+        1586,
+        1152,
+        1625
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        234,
+        536,
+        488,
+        594
+      ],
+      "text": "Lesson 1",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        131,
+        659,
+        594,
+        709
+      ],
+      "text": "find a word and slide",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        120,
+        723,
+        606,
+        781
+      ],
+      "text": "your finger across the",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        290,
+        790,
+        444,
+        837
+      ],
+      "text": "letters",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        516,
+        935,
+        871,
+        1119
+      ],
+      "text": "UN",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        354,
+        974,
+        416,
+        1066
+      ],
+      "text": "F",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        352,
+        1454,
+        424,
+        1549
+      ],
+      "text": "F",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        421,
+        1535,
+        444,
+        1568
+      ],
+      "text": "4",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0062.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8418116319444444,
+  "ocr_added": 8,
+  "ocr_filled": 0
+}

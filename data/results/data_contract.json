@@ -1,0 +1,38 @@
+{
+  "schema": "screen2run-frozen-results/1",
+  "main_screens": 600,
+  "splits": {
+    "Easy": 250,
+    "Real": 250,
+    "Unseen": 100
+  },
+  "comparison_rows": 3600,
+  "ablation_rows": 3600,
+  "backbone_screens": 120,
+  "rq2_control_equal_to_rq1_full": true,
+  "primary_metrics": [
+    "block_match",
+    "text_similarity",
+    "position_similarity",
+    "color_similarity",
+    "clip"
+  ],
+  "secondary_metrics": [
+    "ssim",
+    "mae"
+  ],
+  "higher_is_better": [
+    "block_match",
+    "text_similarity",
+    "position_similarity",
+    "color_similarity",
+    "clip",
+    "ssim"
+  ],
+  "lower_is_better": [
+    "mae"
+  ],
+  "numeric_values_and_row_order_preserved": true,
+  "image_pixels_bundled": false,
+  "reference_ground_truth_xml_used_in_generation": false
+}

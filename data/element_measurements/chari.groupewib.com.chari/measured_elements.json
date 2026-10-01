@@ -1,0 +1,193 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        188,
+        13,
+        234,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        257,
+        15,
+        299,
+        57
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        323,
+        15,
+        365,
+        57
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        17,
+        96,
+        55
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        962,
+        17,
+        1001,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        19,
+        164,
+        54
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        403,
+        30,
+        416,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        63,
+        188,
+        1013,
+        332
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        527,
+        1440,
+        550,
+        1454
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1516,
+        524,
+        1574
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        734,
+        1539,
+        901,
+        1561
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        927,
+        1546,
+        981,
+        1560
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        525,
+        1564,
+        659,
+        1575
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        661,
+        1564,
+        703,
+        1570
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/chari.groupewib.com.chari.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.0926586612654321,
+  "ocr_added": 0,
+  "ocr_filled": 0
+}

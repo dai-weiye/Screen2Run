@@ -1,0 +1,289 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        136,
+        14,
+        181,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        202,
+        15,
+        242,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        15,
+        308,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        17,
+        16,
+        102,
+        58
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        24,
+        986,
+        49
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        25,
+        952,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        978,
+        113,
+        1041,
+        184
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        120,
+        97,
+        127
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        131,
+        84,
+        138
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        144,
+        97,
+        151
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        155,
+        84,
+        162
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        239,
+        174,
+        831,
+        753
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        848,
+        455,
+        856,
+        463
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        846,
+        480,
+        855,
+        488
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        861,
+        943,
+        1017
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        54,
+        1068,
+        1023,
+        1224
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        64,
+        1386,
+        337,
+        1437
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Gaya Pantas",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1464,
+        1079,
+        1569
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        234,
+        1609,
+        301,
+        1677
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        775,
+        1611,
+        842,
+        1677
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        204,
+        1712,
+        331,
+        1755
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "rumah",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        703,
+        1713,
+        916,
+        1754
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Untuk anda",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        241,
+        1827,
+        288,
+        1878
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1830,
+        834,
+        1877
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        514,
+        1835,
+        562,
+        1875
+      ],
+      "id": 26,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.happyverse.stylishtext.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.38342206790123456,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

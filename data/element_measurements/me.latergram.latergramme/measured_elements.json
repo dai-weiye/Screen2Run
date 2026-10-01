@@ -1,0 +1,187 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        11,
+        111,
+        60
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        135,
+        13,
+        181,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        209,
+        15,
+        240,
+        57
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        268,
+        15,
+        308,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        335,
+        18,
+        378,
+        54
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        23,
+        1011,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        25,
+        952,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        192,
+        132,
+        372,
+        204
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Log In",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        63,
+        138,
+        112,
+        186
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        327,
+        1019,
+        494
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        536,
+        1019,
+        713
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        65,
+        752,
+        411,
+        799
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Forgot password?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        44,
+        1567,
+        1031,
+        1716
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        292,
+        1866
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 16,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/me.latergram.latergramme.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2557445987654321,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

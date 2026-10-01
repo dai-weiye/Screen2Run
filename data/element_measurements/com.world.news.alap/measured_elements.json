@@ -1,0 +1,319 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        13,
+        109,
+        57
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        136,
+        15,
+        176,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        202,
+        15,
+        242,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        23,
+        1011,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        25,
+        952,
+        48
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        934,
+        102,
+        1029,
+        210
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        773,
+        104,
+        880,
+        195
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        43,
+        128,
+        404,
+        183
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "World News",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        823,
+        195,
+        830,
+        209
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        778,
+        295,
+        1021,
+        335
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "AMERICAS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        37,
+        296,
+        176,
+        334
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "HOME",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        250,
+        296,
+        426,
+        334
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "LATEST",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        496,
+        296,
+        710,
+        334
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "POLITICS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        21,
+        430,
+        176,
+        472
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "General",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        21,
+        512,
+        513,
+        796
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        562,
+        512,
+        1055,
+        795
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        846,
+        300,
+        896
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "World Regions",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        21,
+        930,
+        514,
+        1214
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        562,
+        931,
+        1055,
+        1216
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        21,
+        1274,
+        334,
+        1562
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        382,
+        1274,
+        695,
+        1561
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        743,
+        1274,
+        1056,
+        1642
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        20,
+        1608,
+        137,
+        1652
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Other",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        21,
+        1693,
+        514,
+        1775
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        562,
+        1693,
+        1055,
+        1775
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 28,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.world.news.alap.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5054624807098765,
+  "ocr_added": 0,
+  "ocr_filled": 8
+}

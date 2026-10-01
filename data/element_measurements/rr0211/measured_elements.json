@@ -1,0 +1,183 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1032,
+        5,
+        1189,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        8,
+        1010,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        210,
+        13,
+        244,
+        37
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        509,
+        120,
+        689,
+        320
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        384,
+        353,
+        816,
+        398
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Upgrade now to be able to:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        359,
+        443,
+        841,
+        626
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "- Select more than 10 items",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        40,
+        674,
+        1159,
+        716
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Thanks for considering upgrading and supporting indie development!",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        486,
+        767,
+        715,
+        809
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "UPGRADE!",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        304,
+        862,
+        896,
+        942
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Use promo code",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0211.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.11537543402777778,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

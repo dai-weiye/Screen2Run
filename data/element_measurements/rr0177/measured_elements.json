@@ -1,0 +1,553 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        119,
+        8,
+        143,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1087,
+        9,
+        1188,
+        41
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        18,
+        10,
+        52,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1034,
+        92,
+        1078,
+        138
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1145,
+        92,
+        1157,
+        105
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        95,
+        430,
+        139
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Easy Uninstaller",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        944,
+        96,
+        974,
+        132
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        102,
+        75,
+        106
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1145,
+        108,
+        1157,
+        121
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        112,
+        75,
+        116
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        122,
+        75,
+        126
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1145,
+        124,
+        1157,
+        137
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        78,
+        246,
+        178,
+        303
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Help",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        341,
+        1146,
+        1554
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        34,
+        589,
+        51,
+        644
+      ],
+      "id": 20,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        42,
+        1049,
+        47,
+        1103
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        577,
+        1595,
+        625,
+        1628
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "OK",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        170,
+        1680,
+        256,
+        1705
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "7.4MB",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1707,
+        1199,
+        1820
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        81,
+        368,
+        486,
+        405
+      ],
+      "text": "1. How to uninstall apps?",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        84,
+        407,
+        1069,
+        449
+      ],
+      "text": "Check the checkbox of the app that you want to uninstall, then",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        81,
+        449,
+        1052,
+        491
+      ],
+      "text": "click \"Uninstall Selected Apps\" button, after your confirm, the",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        81,
+        491,
+        469,
+        530
+      ],
+      "text": "apps will be uninstalled.",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        81,
+        575,
+        770,
+        611
+      ],
+      "text": "2. How can I disable batch uninstall mode?",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        78,
+        653,
+        1007,
+        700
+      ],
+      "text": "\"menu\"->\"setting\", you will find the \"Batch Uninstall Mode\"",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        81,
+        617,
+        1033,
+        659
+      ],
+      "text": "The batch uninstall mode is the default mode, you can click",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        81,
+        703,
+        1058,
+        742
+      ],
+      "text": "checkbox, uncheck it, then go back, you will find it changed to",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        81,
+        745,
+        592,
+        784
+      ],
+      "text": "the single quick uninstall mode.",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        84,
+        829,
+        687,
+        868
+      ],
+      "text": "3. How to search app for uninstalling?",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        89,
+        868,
+        1097,
+        910
+      ],
+      "text": "Type keyword in the textbox in the top, then it will filter the apps",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        81,
+        913,
+        564,
+        952
+      ],
+      "text": "by the keyword automatically.",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        81,
+        999,
+        508,
+        1035
+      ],
+      "text": "4. How to sort the app list?",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        449,
+        1043,
+        1111,
+        1077
+      ],
+      "text": "\u2022, choose one sort type you want, then the",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        84,
+        1161,
+        896,
+        1203
+      ],
+      "text": "5. Why cann't I find all the installed apps in the list?",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        81,
+        1206,
+        1080,
+        1245
+      ],
+      "text": "Some apps are installed within the system rom and can not be",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        81,
+        1247,
+        620,
+        1289
+      ],
+      "text": "uninstalled, so they are not listed.",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        84,
+        1331,
+        918,
+        1370
+      ],
+      "text": "6. What should I do if I encountered other problems?",
+      "source": "ocr"
+    },
+    {
+      "id": 46,
+      "kind": "text",
+      "bounds": [
+        84,
+        1370,
+        971,
+        1415
+      ],
+      "text": "Click \"menu\"->\"Setting\"\u2192\"Feedback\", send me an email.",
+      "source": "ocr"
+    },
+    {
+      "id": 47,
+      "kind": "text",
+      "bounds": [
+        81,
+        1460,
+        1041,
+        1499
+      ],
+      "text": "7. Long click on the list item, you will get a poped up context",
+      "source": "ocr"
+    },
+    {
+      "id": 48,
+      "kind": "text",
+      "bounds": [
+        84,
+        1501,
+        483,
+        1540
+      ],
+      "text": "menu with more options.",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0177.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6537560763888889,
+  "ocr_added": 21,
+  "ocr_filled": 4
+}

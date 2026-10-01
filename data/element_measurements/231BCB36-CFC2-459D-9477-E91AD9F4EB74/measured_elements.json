@@ -1,0 +1,279 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        686,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        185,
+        147,
+        231
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "\u2022 Nowtj",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        11,
+        279,
+        83,
+        315
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Civcc",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        280,
+        143,
+        322
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        65,
+        369,
+        134,
+        407
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "\u2022 Oyipi",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        372,
+        62,
+        405
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        92,
+        464,
+        240,
+        532
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        14,
+        480,
+        91,
+        510
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Nabsf",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        64,
+        581,
+        142,
+        622
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        583,
+        82,
+        617
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Rylax",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        67,
+        670,
+        155,
+        706
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "\u2022 Qvwep",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        673,
+        62,
+        706
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        103,
+        764,
+        251,
+        833
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        262,
+        764,
+        410,
+        833
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        420,
+        764,
+        568,
+        833
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        11,
+        779,
+        103,
+        814
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Vwwxq",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        171,
+        1026,
+        201,
+        1062
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        438,
+        1026,
+        467,
+        1062
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1027,
+        609,
+        1046
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        612,
+        1027,
+        627,
+        1039
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        612,
+        1042,
+        627,
+        1061
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1049,
+        609,
+        1061
+      ],
+      "id": 24,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/231BCB36-CFC2-459D-9477-E91AD9F4EB74.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.11687269071940883,
+  "ocr_added": 0,
+  "ocr_filled": 8
+}

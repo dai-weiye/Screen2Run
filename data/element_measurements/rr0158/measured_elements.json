@@ -1,0 +1,295 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        13,
+        2,
+        57,
+        43
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        956,
+        5,
+        1190,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        9,
+        150,
+        39
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "G+",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        154,
+        91,
+        327,
+        143
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Six Flags",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1117,
+        96,
+        1152,
+        131
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        100,
+        90,
+        104
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        111,
+        90,
+        115
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        122,
+        90,
+        126
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        495,
+        312,
+        741,
+        424
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        550,
+        1199,
+        1122
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        54,
+        1303,
+        125,
+        1376
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        156,
+        1316,
+        432,
+        1371
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "My Six Flags",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        49,
+        1457,
+        594,
+        1495
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Find out what's happening at the park.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        1613,
+        126,
+        1686
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        155,
+        1625,
+        481,
+        1675
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Tickets & More",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        50,
+        1766,
+        997,
+        1808
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Buy tickets and season passes in the app to save time and money.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        84,
+        798,
+        371,
+        843
+      ],
+      "text": "Not Supported",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        84,
+        910,
+        1027,
+        949
+      ],
+      "text": "Unfortunately, this version of the Six Flags app is no longer",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        81,
+        954,
+        826,
+        991
+      ],
+      "text": "supported. Please download the latest update.",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        553,
+        1058,
+        645,
+        1088
+      ],
+      "text": "Update",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0158.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3613381076388889,
+  "ocr_added": 4,
+  "ocr_filled": 7
+}

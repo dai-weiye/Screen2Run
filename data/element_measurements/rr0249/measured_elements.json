@@ -1,0 +1,117 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        15,
+        4,
+        208,
+        45
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "G+",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        955,
+        5,
+        1190,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        263,
+        10,
+        287,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        220,
+        677,
+        977,
+        1139
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        367,
+        1457,
+        817,
+        1673
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "A new way to",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        545,
+        1768,
+        557,
+        1780
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0249.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.20514800347222223,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

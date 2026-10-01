@@ -1,0 +1,285 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        3,
+        148,
+        46
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1002,
+        6,
+        1185,
+        44
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1101,
+        70,
+        1187,
+        121
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        552,
+        94,
+        645,
+        136
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "More",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1136,
+        125,
+        1154,
+        143
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1100,
+        145,
+        1188,
+        160
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        32,
+        207,
+        124,
+        301
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        146,
+        234,
+        542,
+        271
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "About ATP/WTA Live Scoring",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        32,
+        353,
+        112,
+        445
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        146,
+        380,
+        345,
+        418
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Share this app",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        32,
+        499,
+        124,
+        591
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        252,
+        533,
+        267,
+        556
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        150,
+        534,
+        169,
+        556
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        171,
+        539,
+        250,
+        563
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        539,
+        301,
+        556
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        32,
+        645,
+        124,
+        739
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        145,
+        671,
+        617,
+        710
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "ATP Tennis TV Live Streaming App",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        1618,
+        45,
+        1692
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1152,
+        1618,
+        1171,
+        1694
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        561,
+        1638,
+        638,
+        1672
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Email",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        1714,
+        45,
+        1788
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1152,
+        1714,
+        1171,
+        1790
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        553,
+        1735,
+        645,
+        1768
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Cancel",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0105.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.051053385416666666,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

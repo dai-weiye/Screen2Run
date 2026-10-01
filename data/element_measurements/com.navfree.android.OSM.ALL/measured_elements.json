@@ -1,0 +1,289 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        135,
+        9,
+        183,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        12,
+        112,
+        60
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        199,
+        12,
+        247,
+        64
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        241,
+        136,
+        957,
+        294
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Choose what to allow 1ina",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        70,
+        143,
+        183,
+        256
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        236,
+        404,
+        808,
+        514
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Phone",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        895,
+        423,
+        1003,
+        497
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        79,
+        424,
+        135,
+        488
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        237,
+        624,
+        638,
+        732
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Contacts",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        71,
+        640,
+        143,
+        712
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        895,
+        640,
+        1003,
+        715
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        236,
+        840,
+        807,
+        952
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "SMS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        71,
+        856,
+        143,
+        928
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        895,
+        856,
+        1002,
+        934
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        235,
+        1060,
+        738,
+        1218
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Storage",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        895,
+        1100,
+        1003,
+        1176
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        1104,
+        143,
+        1160
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        235,
+        1324,
+        775,
+        1437
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Call logs",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        79,
+        1344,
+        143,
+        1408
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        895,
+        1344,
+        1002,
+        1418
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        607,
+        1683,
+        770,
+        1725
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "CANCEL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        837,
+        1683,
+        1047,
+        1724
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "CONTINUE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        242,
+        1827,
+        290,
+        1878
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1829,
+        835,
+        1877
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        515,
+        1838,
+        563,
+        1875
+      ],
+      "id": 25,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.navfree.android.OSM.ALL.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.21050925925925926,
+  "ocr_added": 0,
+  "ocr_filled": 8
+}

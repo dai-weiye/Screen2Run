@@ -1,0 +1,105 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        554,
+        78,
+        588,
+        84
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        636,
+        90,
+        744,
+        111
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        407,
+        112,
+        440,
+        115
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        109,
+        142,
+        1199,
+        1919
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        603,
+        61,
+        669
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        924,
+        65,
+        996
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1252,
+        61,
+        1320
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        105,
+        1838,
+        108,
+        1857
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        620,
+        689,
+        684,
+        1231
+      ],
+      "text": "Touch to Start!",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0029.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8449869791666667,
+  "ocr_added": 1,
+  "ocr_filled": 0
+}

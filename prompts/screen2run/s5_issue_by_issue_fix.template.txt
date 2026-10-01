@@ -1,0 +1,108 @@
+You are part of an elite automated software fixing team.
+Your job is to figure out what went wrong and suggest changes to the code so that you can run the code perfectly in Android Studio
+
+**Restore every item listed under "MISSING IN XML"** in the review above: add those elements and
+text strings back into the layout, using the EXACT strings quoted there, at the position they
+occupy in the screenshot. Cross-check the review against the supplied design JSON and screenshot;
+neither model prediction is guaranteed complete. Do not duplicate text that belongs inside an image.
+Do not drop, shorten or
+paraphrase any text while restoring.
+- Replace all the images with '@drawable/img' you meet
+- Make sure the app looks as same as the screenshot.
+- Pay close attention to background color, text color, font size, font family, padding, margin, border, etc. Match the colors and sizes exactly.
+- Exactly identify the corresponding relationship between components
+- Use the exact text from the screenshot.
+- Do not add comments in the code.
+- Repeat elements as needed to match the screenshot.
+- If you meet any icons,use @drawable/img to replace.
+- Use ONLY framework view classes (LinearLayout, FrameLayout, RelativeLayout, View, Space, TextView, ImageView, Button, EditText, ScrollView, HorizontalScrollView, ListView, GridView, ProgressBar, SeekBar, Switch, CheckBox, RadioButton, RadioGroup, ToggleButton, RatingBar). Do NOT use androidx.* or ConstraintLayout.
+- Preserve native widget semantics: a draggable slider is a SeekBar, not a ProgressBar. Use native Switch/CheckBox/RadioButton rather than image crops or stacked rectangles; use native state/tint attributes, never @drawable/img in thumb, track, button, tickMark or progressDrawable. Preserve complete visible text within its bounds, not merely the text attribute.
+- **Do NOT draw the phone's system chrome** (status bar: clock/wifi/signal/battery; navigation bar: back/home/recent or the gesture pill) -- Android draws those itself, so emitting views for them puts a second copy on top of the real one. If the current code contains such views, DELETE them.
+- Do NOT invent drawable resource names. Use @drawable/img for every image; use color values (#RRGGBB) for backgrounds.
+- A genuine background photograph may stay behind UI controls. A whole reference UI screenshot or composite containing labels/controls must never be used as a background asset. Unavailable photograph content remains unresolved, not a license to copy the UI screenshot. Do not embed <shape> resources inside layout XML.
+Return only the full code like the activity_main.xml code in Android Studio
+LAYOUT GEOMETRY:
+- Write a natural, maintainable activity_main.xml (LinearLayout / FrameLayout / RelativeLayout,
+  match_parent / wrap_content / dp) whose structure, order and approximate sizes follow the screenshot.
+- Exact positions and sizes are measured from the screenshot and corrected afterwards, so do not
+  spend effort on pixel arithmetic; never drop, merge away or invent a view to make numbers fit.
+- The screenshot is 411dp wide on the target device; the root is match_parent in both directions.
+- Every view must keep android:id="@+id/<node_id>" of the JSON node it represents.
+
+SOURCE-TO-XML IDENTITY CONTRACT (traceability, not proof of fidelity):
+- Every JSON node has a stable node_id. Normally assign the corresponding Android
+  view android:id="@+id/<node_id>". Preserve these IDs through all fixes.
+- It is legal to merge a purely structural container into another view or represent
+  several source parts with a native compound widget. Declare ALL represented
+  source IDs using android:tag="s2r_nodes=id1,id2" on that view, which must have its
+  own unique android:id. Do not insert fake/invisible views merely to satisfy IDs.
+- Tags are only explicit mapping claims, never evidence that the appearance or text
+  is correct. Do not dump unrelated source IDs into the root: each declared source
+  must actually be represented by that view or native compound widget.
+- Account for each source node once. Do not declare the same source on multiple views.
+- Nodes explicitly marked system_chrome=status_bar/navigation_bar, and their children,
+  are excluded from app XML. Ordinary app bottom navigation, headers and toolbars are
+  NOT system chrome and must remain mapped. Do not change source node identities.
+- Reference bounds are SOURCE xyxy pixels, not Android dp and not local child coordinates.
+  Convert to the declared canvas and preserve Android parent-child positioning;
+  do not set every child position relative to the screen or flatten real containers.
+
+TYPED VISUAL STYLE CONTRACT (observations, not verified ground truth):
+- For every app node output visual_style as an object. An unknown property is
+  omitted or null; {} means not yet observed, NOT a default rectangular surface.
+  System chrome need not receive app styles. Never invent a radius, font size,
+  stroke or hidden pixel to make a declaration look complete.
+- Allowed visual_style keys and fields:
+  background: {kind: "solid", color: "#RRGGBB" or "#AARRGGBB"}, OR
+              {kind: "gradient", start_color, end_color, angle_degrees}.
+              Gradient angles are explicitly observed 0/45/90/135/180/225/270/315.
+  shape: {kind: "rectangle"|"oval"|"circle", corner_radius: quantity or null}.
+         corner_radius is only for a rectangle. A circle must actually be circular;
+         do not relabel a rounded rectangle as a circle or change its bounds.
+  stroke: {color, width: quantity}. A border-only surface needs an explicitly
+          observed transparent solid background (#00000000), not an invented fill.
+  typography: {color, font_size: quantity, font_weight, font_family, font_style,
+               line_height: quantity, letter_spacing: {value,unit:"em"},
+               max_lines, alignment, include_font_padding}.
+         font_weight is "normal"/"bold" or a string weight "100"..."900";
+         font_style is "normal"/"italic"; alignment is "start"/"center"/"end";
+         max_lines is a positive integer only when actually supported by evidence;
+         include_font_padding is boolean only when justified, otherwise null.
+  content_padding: {left: quantity, top: quantity, right: quantity, bottom: quantity}.
+  widget_state: {checked: boolean, enabled: boolean, selected: boolean,
+                 progress_fraction: number in [0,1]} (unknown fields null/omitted).
+- Newly extracted dimensional quantities use {value: finite observed number,
+  unit:"reference_px"}, i.e. original screenshot pixels. Do NOT confuse glyph ink
+  height with font size or a TextView's box. Font family, font metrics and hidden
+  padding often cannot be known exactly from a screenshot; retain that uncertainty.
+  Letter spacing alone uses em and may be negative. No bare unlabelled dimensions.
+- S3/S5 must consume these observations while preserving node IDs. Convert surface
+  dimensions through the declared frame once. Font size in source pixels is not
+  directly an Android sp value: account for target density AND verified font scale;
+  do not copy pixel values as sp or pretend unknown font metrics are exact.
+- Native rectangle/oval/circle/gradient/stroke surfaces are code-generated drawables,
+  NOT screenshot assets. Preserve shape observations in JSON for the host native
+  shape materializer and retain unique mapped XML IDs. Do not invent resource names
+  or embed <shape> inside layout XML. A literal fill alone does not reproduce known
+  corners or stroke; the surface remains pending until its declared resource exists.
+- In S3/S4/S5 verify every full text string fits its native view: width, height,
+  line count, glyph ascenders/descenders, line spacing, content padding, widget
+  minWidth/minHeight and platform default insets matter. No arbitrary singleLine,
+  ellipsize, clipping, font enlargement, fixed tiny text box or duplicate image text.
+  Do not force all text into OCR ink boxes or set every padding/minimum to zero.
+  Report conflicts; preserve real layout and text instead of hiding missing parts.
+
+
+Complete design JSON:
+{{s2}}
+
+Source identity accounting to resolve or preserve explicitly:
+{{mapping}}{{visible_ocr}}
+
+Here is the code you generated:
+{{xml}}
+
+Here are the suggestions:
+{{critique}}
+
+{{hint}}

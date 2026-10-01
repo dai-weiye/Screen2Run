@@ -1,0 +1,547 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        44,
+        56,
+        472,
+        117
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "C\u00e2nt\u0103ri cre\u0219tine",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        847,
+        57,
+        901,
+        110
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        60,
+        1019,
+        72
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        78,
+        1019,
+        90
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        96,
+        1019,
+        108
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        242,
+        1079,
+        1535
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1595,
+        260,
+        1775
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        31,
+        313,
+        246,
+        349
+      ],
+      "text": "Vizualizate",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        75,
+        365,
+        201,
+        397
+      ],
+      "text": "recent",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        290,
+        340,
+        505,
+        385
+      ],
+      "text": "Index dup\u0103",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        552,
+        338,
+        768,
+        387
+      ],
+      "text": "Import\u0103 un",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        47,
+        407,
+        226,
+        453
+      ],
+      "text": "(max 50)",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        315,
+        389,
+        489,
+        437
+      ],
+      "text": "categorii",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        600,
+        390,
+        726,
+        430
+      ],
+      "text": "Album",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        820,
+        364,
+        1030,
+        412
+      ],
+      "text": "Adaug\u0103 un",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        862,
+        413,
+        991,
+        460
+      ],
+      "text": "grupaj",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        343,
+        675,
+        472,
+        712
+      ],
+      "text": "Cartea",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        92,
+        723,
+        198,
+        759
+      ],
+      "text": "BBSO",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        382,
+        723,
+        433,
+        759
+      ],
+      "text": "de",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        600,
+        722,
+        745,
+        763
+      ],
+      "text": "Colinde",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        885,
+        723,
+        985,
+        767
+      ],
+      "text": "\u0421\u043e\u0440\u0456i",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        340,
+        773,
+        477,
+        809
+      ],
+      "text": "cantari",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        357,
+        977,
+        458,
+        1027
+      ],
+      "text": "Grup",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        64,
+        1030,
+        226,
+        1066
+      ],
+      "text": "Elim Tim",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        354,
+        1029,
+        466,
+        1072
+      ],
+      "text": "B\u0103ie\u021bi",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        597,
+        1004,
+        748,
+        1041
+      ],
+      "text": "Laudele",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        865,
+        1005,
+        1002,
+        1041
+      ],
+      "text": "Pe dru-",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        81,
+        1079,
+        201,
+        1117
+      ],
+      "text": "isoara",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        357,
+        1077,
+        463,
+        1113
+      ],
+      "text": "Kron-",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        597,
+        1050,
+        748,
+        1090
+      ],
+      "text": "Domnu-",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        899,
+        1055,
+        974,
+        1088
+      ],
+      "text": "mul",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        357,
+        1127,
+        460,
+        1164
+      ],
+      "text": "stadt",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        642,
+        1102,
+        698,
+        1139
+      ],
+      "text": "lui",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        851,
+        1102,
+        1019,
+        1139
+      ],
+      "text": "credintei",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        103,
+        1359,
+        190,
+        1396
+      ],
+      "text": "Puiu",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        614,
+        1334,
+        726,
+        1370
+      ],
+      "text": "Tineri",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        879,
+        1334,
+        988,
+        1370
+      ],
+      "text": "Tineri",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        81,
+        1407,
+        215,
+        1446
+      ],
+      "text": "Chibici",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        352,
+        1381,
+        463,
+        1420
+      ],
+      "text": "Tineri",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        633,
+        1384,
+        712,
+        1418
+      ],
+      "text": "Bar-",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        885,
+        1390,
+        980,
+        1420
+      ],
+      "text": "noua",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        589,
+        1434,
+        748,
+        1468
+      ],
+      "text": "tolomeu",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        845,
+        1434,
+        1022,
+        1477
+      ],
+      "text": "genera\u021bie",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.cantari.crestine.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7101451581790124,
+  "ocr_added": 36,
+  "ocr_filled": 1
+}

@@ -1,0 +1,369 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        955,
+        5,
+        1190,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        95,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        114,
+        13,
+        148,
+        37
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1069,
+        144,
+        1129,
+        203
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        66,
+        162,
+        259,
+        190
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "United States",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        273,
+        1129,
+        332
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        61,
+        287,
+        192,
+        328
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Uruguay",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        402,
+        1129,
+        461
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        63,
+        416,
+        227,
+        450
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Uzbekistan",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        531,
+        1129,
+        590
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        63,
+        548,
+        188,
+        579
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Vanuatu",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        660,
+        1129,
+        719
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        62,
+        675,
+        217,
+        709
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Venezuela",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        789,
+        1129,
+        848
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        61,
+        802,
+        189,
+        839
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Vietnam",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        918,
+        1129,
+        977
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        64,
+        934,
+        263,
+        969
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Virgin Islands",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1047,
+        1129,
+        1106
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        64,
+        1062,
+        323,
+        1095
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Wallis and Futuna",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1176,
+        1129,
+        1235
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        65,
+        1192,
+        294,
+        1223
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Western Sahara",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1305,
+        1129,
+        1364
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        62,
+        1320,
+        168,
+        1354
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Yemen",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1434,
+        1129,
+        1493
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        62,
+        1448,
+        226,
+        1486
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "Yugoslavia",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1563,
+        1129,
+        1622
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        62,
+        1577,
+        178,
+        1612
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "Zambia",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1692,
+        1129,
+        1751
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        63,
+        1707,
+        219,
+        1741
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "Zimbabwe",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 32,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0147.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.05930425347222222,
+  "ocr_added": 0,
+  "ocr_filled": 13
+}

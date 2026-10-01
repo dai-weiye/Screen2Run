@@ -1,0 +1,303 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        1,
+        150,
+        47
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        955,
+        5,
+        1190,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1109,
+        74,
+        1163,
+        136
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        82,
+        92,
+        140
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        115,
+        88,
+        338,
+        128
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Food Coupons",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        151,
+        857,
+        1046,
+        1017
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        719,
+        1705,
+        958,
+        1818
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        319,
+        1714,
+        395,
+        1806
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        92,
+        1720,
+        102,
+        1724
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        107,
+        1720,
+        117,
+        1724
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        123,
+        1720,
+        133,
+        1724
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        139,
+        1720,
+        149,
+        1726
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        82,
+        1724,
+        88,
+        1733
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        106,
+        1726,
+        129,
+        1768
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        567,
+        1727,
+        630,
+        1772
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1043,
+        1740,
+        1059,
+        1757
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1069,
+        1740,
+        1086,
+        1757
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1095,
+        1740,
+        1113,
+        1757
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        147,
+        1762,
+        153,
+        1772
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        117,
+        1771,
+        126,
+        1776
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        132,
+        1771,
+        142,
+        1776
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        539,
+        1779,
+        658,
+        1814
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Food Blog",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        85,
+        1780,
+        153,
+        1810
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Deals",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1048,
+        1782,
+        1113,
+        1811
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "More",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 27,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0052.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.09963888888888889,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

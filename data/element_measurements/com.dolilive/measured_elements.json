@@ -1,0 +1,157 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        31,
+        152,
+        63,
+        208
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        388,
+        153,
+        690,
+        210
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "Privacy Policy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        370,
+        516,
+        476
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "Doli Privacy Policy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        47,
+        504,
+        1007,
+        672
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        47,
+        840,
+        1015,
+        1096
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        49,
+        1092,
+        824,
+        1196
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "the Terms, then you may not access the Service.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        54,
+        1226,
+        552,
+        1260
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "1. What Information We Collect",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        1290,
+        885,
+        1392
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "2. Which permissions we might ask you to authorize",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        51,
+        1424,
+        768,
+        1658
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "4. How We Use Your Personal Information",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        1689,
+        629,
+        1781
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "8. How We Protect Your Information",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        239,
+        1824,
+        287,
+        1872
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        514,
+        1824,
+        561,
+        1872
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1824,
+        835,
+        1872
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.dolilive.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3512559354226021,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

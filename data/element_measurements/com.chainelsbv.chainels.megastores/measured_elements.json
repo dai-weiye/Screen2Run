@@ -1,0 +1,185 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        0,
+        0,
+        1079,
+        1775
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        244,
+        1824,
+        300,
+        1871
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        784,
+        1826,
+        833,
+        1876
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        515,
+        1827,
+        561,
+        1874
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "id": 4,
+      "kind": "text",
+      "bounds": [
+        176,
+        272,
+        904,
+        368
+      ],
+      "text": "MEGASTORES",
+      "source": "ocr"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        190,
+        380,
+        712,
+        455
+      ],
+      "text": "DEN HAAG",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        106,
+        642,
+        201,
+        675
+      ],
+      "text": "Email",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        103,
+        703,
+        597,
+        773
+      ],
+      "text": "dummy_user_inputi",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        109,
+        893,
+        352,
+        938
+      ],
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        100,
+        1010,
+        608,
+        1049
+      ],
+      "text": "Invalid'email and/or password",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        469,
+        1199,
+        606,
+        1254
+      ],
+      "text": "Log in",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        95,
+        1362,
+        899,
+        1412
+      ],
+      "text": "Don't have an account yet? Sign up",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        95,
+        1420,
+        212,
+        1465
+      ],
+      "text": "here!",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        95,
+        1499,
+        620,
+        1552
+      ],
+      "text": "Forgot your password?",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        678,
+        1661,
+        913,
+        1703
+      ],
+      "text": "Powered by",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.chainelsbv.chainels.megastores.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.9271166087962963,
+  "ocr_added": 11,
+  "ocr_filled": 0
+}

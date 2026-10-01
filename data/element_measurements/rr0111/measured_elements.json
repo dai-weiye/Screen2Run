@@ -1,0 +1,197 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        3,
+        149,
+        45
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1117,
+        6,
+        1189,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        389,
+        610,
+        824,
+        973
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1002,
+        1469,
+        1064,
+        1483
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        877,
+        1470,
+        939,
+        1484
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1020,
+        1499,
+        1041,
+        1520
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        902,
+        1500,
+        923,
+        1521
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        959,
+        1529,
+        985,
+        1552
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        188,
+        1641,
+        1012,
+        1678
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Please install KakaoTalk first in order to apply this theme.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        1724,
+        587,
+        1800
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        611,
+        1724,
+        1175,
+        1800
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0111.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.12846223958333333,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

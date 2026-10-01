@@ -1,0 +1,287 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1125,
+        8,
+        1189,
+        41
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        262,
+        10,
+        289,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        115,
+        13,
+        148,
+        38
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        16,
+        95,
+        32
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        20,
+        86,
+        608,
+        125
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "LEGO Friends HD Gameplay music video",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1155,
+        86,
+        1163,
+        94
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1155,
+        98,
+        1163,
+        106
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1155,
+        110,
+        1163,
+        118
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        599,
+        1144,
+        1275
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        983,
+        1755,
+        1085,
+        1795
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "You Tube",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1136,
+        1760,
+        1167,
+        1791
+      ],
+      "id": 16,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        29,
+        1762,
+        80,
+        1789
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "0:26",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        876,
+        1763,
+        954,
+        1788
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "1:08:00",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        125,
+        1764,
+        840,
+        1779
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        516,
+        606,
+        779,
+        728
+      ],
+      "text": "Friends",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        427,
+        645,
+        527,
+        692
+      ],
+      "text": "LEGO",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        497,
+        1161,
+        700,
+        1189
+      ],
+      "text": "Tap to continue",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0165.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.34577430555555555,
+  "ocr_added": 3,
+  "ocr_filled": 4
+}

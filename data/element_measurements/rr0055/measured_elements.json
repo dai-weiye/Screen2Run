@@ -1,0 +1,463 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1088,
+        11,
+        1188,
+        40
+      ],
+      "id": 6,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        119,
+        16,
+        143,
+        32
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        82,
+        115,
+        146
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1111,
+        90,
+        1159,
+        138
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        96,
+        578,
+        136
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "AutoExpreso Puerto Rico",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        922,
+        100,
+        1075,
+        128
+      ],
+      "id": 13,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        0,
+        188,
+        144,
+        353
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        145,
+        228,
+        427,
+        338
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Igor",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        778,
+        269,
+        1102,
+        340
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        402,
+        5,
+        457
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        314,
+        407,
+        468,
+        479
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Preguntas",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        612,
+        420,
+        704,
+        457
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Ayuda",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        83,
+        421,
+        164,
+        453
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Inicio",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        901,
+        423,
+        1070,
+        451
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Infracciones",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        459,
+        5,
+        491
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        252,
+        459,
+        257,
+        491
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        521,
+        459,
+        526,
+        491
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        796,
+        459,
+        801,
+        491
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1175,
+        459,
+        1181,
+        491
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        502,
+        1191,
+        632
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        735,
+        840,
+        776
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "I servicio de alertas y notificaciones es f\u00e1cil.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        824,
+        1100,
+        943
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "ario creado, oprima en \"Crear Cuenta\" (necesitar\u00e1 su n\u00famero de sello",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        973,
+        1098,
+        1132
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "rima \"Editar\" ubicada en la parte de abajo de la p\u00e1gina. En la secci\u00f3n",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1204,
+        1062,
+        1281
+      ],
+      "id": 31,
+      "kind": "text",
+      "text": "equeridos identificados con \"*\"",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        302,
+        1380,
+        481,
+        1439
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        449,
+        1523,
+        755,
+        1553
+      ],
+      "id": 33,
+      "kind": "text",
+      "text": "Formas y Documentos",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        903,
+        1524,
+        1029,
+        1556
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Recargar",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        170,
+        1525,
+        310,
+        1553
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "Mi Cuenta",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1,
+        1651,
+        768,
+        1747
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "Descarga de Responsabilidad | Pol\u00edtica de Privacidad",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        818,
+        1662,
+        1184,
+        1749
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        816,
+        1749,
+        1186,
+        1769
+      ],
+      "id": 38,
+      "kind": "text",
+      "text": "AUTORIDAD DE CARRETERAS Y TRANSPORTACION",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 41,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0055.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3742434895833333,
+  "ocr_added": 0,
+  "ocr_filled": 15
+}

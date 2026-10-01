@@ -1,0 +1,153 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        14,
+        9,
+        192,
+        61
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        205,
+        11,
+        244,
+        61
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        272,
+        14,
+        309,
+        54
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        854,
+        17,
+        894,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        336,
+        18,
+        377,
+        53
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        23,
+        1011,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        25,
+        952,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        937,
+        120,
+        1004,
+        186
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        54,
+        129,
+        109,
+        177
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 13,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.newreading.goodfm.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.01564284336419753,
+  "ocr_added": 0,
+  "ocr_filled": 0
+}

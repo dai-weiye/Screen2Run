@@ -1,0 +1,275 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        687,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        74,
+        219,
+        116
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        64,
+        189,
+        148,
+        231
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "OSypng",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        192,
+        65,
+        230
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        84,
+        285,
+        232,
+        354
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        14,
+        301,
+        84,
+        335
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Qlqra",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        406,
+        150,
+        444
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "\u2022Cmlhx",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        408,
+        65,
+        446
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        496,
+        132,
+        541
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "ONzilf",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        66,
+        594,
+        147,
+        632
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "OQyhwl",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        595,
+        65,
+        633
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        677,
+        85,
+        706
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Jibbe",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        554,
+        677,
+        630,
+        705
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Zrhkb",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        105,
+        684,
+        535,
+        706
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        754,
+        143,
+        797
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "\u2022 Axhlz",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        552,
+        839,
+        631,
+        871
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        840,
+        98,
+        872
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Upvwv",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        117,
+        846,
+        533,
+        868
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        92,
+        1026,
+        122,
+        1062
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        277,
+        1026,
+        311,
+        1062
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        436,
+        1026,
+        469,
+        1062
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        1026,
+        626,
+        1062
+      ],
+      "id": 23,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/15FCC301-BF97-4DC8-A0EC-F80CB03AC51C.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.11050179308845903,
+  "ocr_added": 0,
+  "ocr_filled": 11
+}

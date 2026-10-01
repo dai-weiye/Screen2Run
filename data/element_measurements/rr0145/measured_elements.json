@@ -1,0 +1,137 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        13,
+        2,
+        57,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        65,
+        6,
+        339,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1111,
+        6,
+        1190,
+        43
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        434,
+        81,
+        763,
+        125
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Location Search",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        257,
+        188,
+        943,
+        235
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Search by city, ZIP code, airport code",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        268,
+        1160,
+        349
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0145.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.07048567708333334,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

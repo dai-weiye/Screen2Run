@@ -1,0 +1,217 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1087,
+        4,
+        1192,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        120,
+        17,
+        127,
+        27
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        129,
+        17,
+        142,
+        27
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        11,
+        90,
+        1165,
+        239
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        49,
+        272,
+        1150,
+        865
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        230,
+        908,
+        965,
+        980
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "For example: find \"Hood Latch\" by choosing \"Hood\".",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        70,
+        304,
+        321,
+        340
+      ],
+      "text": "Enter Zip Code",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        75,
+        393,
+        416,
+        430
+      ],
+      "text": "Enter Zip Code First",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        75,
+        480,
+        357,
+        513
+      ],
+      "text": "Select Year First",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        75,
+        567,
+        374,
+        600
+      ],
+      "text": "Select Make First",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        75,
+        656,
+        385,
+        687
+      ],
+      "text": "Select Model First",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        377,
+        790,
+        826,
+        826
+      ],
+      "text": "FIND MY PARTS NOW",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0223.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.38752256944444446,
+  "ocr_added": 6,
+  "ocr_filled": 1
+}

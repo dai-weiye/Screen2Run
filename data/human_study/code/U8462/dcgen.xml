@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="411.4239dp"
+    android:layout_height="658.2782dp"
+    android:id="@+id/view_1">
+
+    <FrameLayout
+        android:layout_width="17.1427dp"
+        android:layout_height="658.2782dp"
+        android:background="#000000"
+        android:id="@+id/view_2"
+        android:layout_marginStart="394.2812dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:layout_width="17.1427dp"
+            android:layout_height="57.9422dp"
+            android:orientation="vertical"
+            android:background="#000000"
+            android:gravity="center_horizontal"
+            android:padding="4dp"
+            android:id="@+id/view_3"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp">
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/img"
+                android:scaleType="fitCenter"
+                android:contentDescription="hash" />
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_marginTop="12dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/img"
+                android:scaleType="fitCenter"
+                android:contentDescription="backspace" />
+
+            <ImageView
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_marginTop="12dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/img"
+                android:scaleType="fitCenter"
+                android:contentDescription="list" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="#000000"
+            android:id="@+id/view_4"
+            android:layout_width="17.1427dp"
+            android:layout_height="74.742dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="583.5362dp">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#D9D9D9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#4D4D4D"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#4D4D4D"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="8:20"
+                android:textColor="#E6E6E6"
+                android:textSize="12sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="#6D2A3A"
+        android:padding="10dp"
+        android:id="@+id/view_5"
+        android:layout_width="38.3996dp"
+        android:layout_height="658.2782dp"
+        android:layout_marginStart="344.5675dp"
+        android:layout_marginTop="0dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/img"
+            android:contentDescription="Close" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Network error"
+            android:textColor="#E9E1E1"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No Internet connection - Please check your network settings (cellphone network)"
+            android:textColor="#C6BABA"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:paddingStart="24dp"
+        android:paddingEnd="24dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:id="@+id/view_6"
+        android:layout_width="148.4554dp"
+        android:layout_height="658.2782dp"
+        android:layout_marginStart="139.5413dp"
+        android:layout_marginTop="0dp">
+
+        <TextView
+            android:text="Truck Parking USA"
+            android:textColor="#212121"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="We are sorry but it appears that there is a problem with the app. Bug report was automatically sent to PTV Truck Europe."
+            android:textColor="#757575"
+            android:textSize="16sp"
+            android:paddingTop="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="OK"
+            android:textColor="#00BCD4"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingTop="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="8dp"
+        android:id="@+id/view_7"
+        android:layout_width="32.9139dp"
+        android:layout_height="658.2782dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="centerInside"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="centerInside"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="centerInside"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

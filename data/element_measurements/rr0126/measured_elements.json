@@ -1,0 +1,147 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1086,
+        6,
+        1191,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        17,
+        31,
+        27
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        17,
+        46,
+        27
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        132,
+        93,
+        613,
+        136
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "\u2039 ELM Command Document",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        63,
+        102,
+        78,
+        126
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        26,
+        204,
+        939,
+        1795
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "AT@1 - display the device description General",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0126.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6459765625,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

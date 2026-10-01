@@ -1,0 +1,179 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1025,
+        139,
+        1117,
+        230
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        283,
+        211,
+        933,
+        427
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        122,
+        461,
+        1094,
+        1259
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        338,
+        1297,
+        528,
+        1417
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "Mo\u0433e",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        167,
+        1298,
+        535,
+        1639
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        680,
+        1309,
+        1020,
+        1389
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Advertisement",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        709,
+        1407,
+        993,
+        1498
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        97,
+        1445,
+        154,
+        1501
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        614,
+        1516,
+        1077,
+        1626
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Download More",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        594,
+        1866,
+        606,
+        1879
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        184,
+        488,
+        416,
+        633
+      ],
+      "text": "123",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        443,
+        647,
+        763,
+        737
+      ],
+      "text": "Tips for",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        193,
+        751,
+        1016,
+        834
+      ],
+      "text": "Playing and Viewing",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        617,
+        924,
+        896,
+        966
+      ],
+      "text": "Learn More",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        683,
+        1048,
+        812,
+        1089
+      ],
+      "text": "Close",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0124.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5024331597222222,
+  "ocr_added": 5,
+  "ocr_filled": 3
+}

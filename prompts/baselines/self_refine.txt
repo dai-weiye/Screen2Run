@@ -1,0 +1,4 @@
+Inspect the supplied Android XML against the screenshot and return an improved complete activity_main.xml.
+Correct visual omissions, hierarchy, text, colors, spacing, dimensions, malformed XML, unsupported Android attributes, and invalid resource references.
+You are not given compiler or Gradle logs. Judge only from the screenshot and the XML.
+Preserve correct content. Return XML only without Markdown or explanation.

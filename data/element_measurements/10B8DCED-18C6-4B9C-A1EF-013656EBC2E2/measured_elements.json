@@ -1,0 +1,187 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        687,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        61,
+        187,
+        151,
+        228
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        12,
+        188,
+        91,
+        221
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Uzanc",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        10,
+        262,
+        96,
+        298
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Yowvz",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        552,
+        262,
+        634,
+        298
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Zwdoj",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        116,
+        271,
+        534,
+        294
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        12,
+        339,
+        93,
+        377
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Qhcyd",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        35,
+        339,
+        152,
+        381
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        21,
+        421,
+        145,
+        471
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "ONzujp",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        83,
+        523,
+        231,
+        592
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        14,
+        539,
+        83,
+        569
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Cbari",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        594,
+        1026,
+        627,
+        1061
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        247,
+        1027,
+        284,
+        1059
+      ],
+      "id": 15,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/10B8DCED-18C6-4B9C-A1EF-013656EBC2E2.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.08184905455335796,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

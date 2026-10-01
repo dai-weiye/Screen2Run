@@ -1,0 +1,305 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        159,
+        13,
+        205,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        226,
+        14,
+        271,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        297,
+        15,
+        333,
+        57
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        20,
+        16,
+        133,
+        56
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        343,
+        17,
+        418,
+        54
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        961,
+        24,
+        986,
+        49
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        25,
+        952,
+        48
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        440,
+        30,
+        453,
+        42
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        160,
+        107,
+        454,
+        150
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Create Account",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        71,
+        112,
+        104,
+        143
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        464,
+        334,
+        614,
+        460
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        85,
+        335,
+        120,
+        349
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        348,
+        84,
+        388
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        197,
+        399,
+        213,
+        416
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        265,
+        535,
+        813,
+        583
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "CREATE AN ACCOUNT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        858,
+        311,
+        906
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "First Name",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        995,
+        458,
+        1039
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "First Name is required",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        759,
+        1054,
+        766,
+        1085
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        735,
+        1059,
+        749,
+        1087
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        1141,
+        432,
+        1258
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Last Name",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        899,
+        1204,
+        915,
+        1217
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        67,
+        1412,
+        585,
+        1540
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Birthdate (mm/dd/yyyy)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        942,
+        1493,
+        991,
+        1540
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        292,
+        1866
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 27,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.hc360.myhealthcheck360.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.10890721450617284,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

@@ -1,0 +1,33 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        585,
+        896,
+        608,
+        919
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1866,
+        606,
+        1879
+      ],
+      "id": 1,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0138.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": true,
+  "ink_coverage": 0.0002973090277777778,
+  "ocr_added": 0,
+  "ocr_filled": 0
+}

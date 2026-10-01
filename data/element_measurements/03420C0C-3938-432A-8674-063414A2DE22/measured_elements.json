@@ -1,0 +1,151 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        686,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        17,
+        187,
+        149,
+        228
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        22,
+        270,
+        142,
+        317
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "\u2022 Pjoct",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        365,
+        151,
+        406
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        12,
+        366,
+        91,
+        399
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "LIdms",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        194,
+        455,
+        342,
+        523
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        11,
+        469,
+        105,
+        504
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Mmxzn",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        87,
+        469,
+        164,
+        510
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        248,
+        1026,
+        282,
+        1062
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1026,
+        627,
+        1061
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/03420C0C-3938-432A-8674-063414A2DE22.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.06469381656161705,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

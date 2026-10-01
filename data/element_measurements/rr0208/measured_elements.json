@@ -1,0 +1,389 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1070,
+        6,
+        1189,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        21,
+        7,
+        50,
+        39
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        8,
+        143,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        32,
+        77,
+        132,
+        152
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        235,
+        93,
+        493,
+        140
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "My Daily View",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        146,
+        101,
+        195,
+        108
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        146,
+        112,
+        195,
+        120
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        146,
+        124,
+        195,
+        131
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        481,
+        213,
+        717,
+        244
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Today Jun 6, 2017",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        51,
+        271,
+        1147,
+        1230
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        1319,
+        210,
+        1401
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "CURRENT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        60,
+        1500,
+        1142,
+        1553
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "If you do not wish to create an account, access our Recipes and Atkins Acceptable Foods by Phase",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        1800,
+        174,
+        1824
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "TODAY'S",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        231,
+        317,
+        371,
+        347
+      ],
+      "text": "Dashboard",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        820,
+        321,
+        977,
+        346
+      ],
+      "text": "Track Meals",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        61,
+        447,
+        109,
+        472
+      ],
+      "text": "NET",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        61,
+        487,
+        190,
+        523
+      ],
+      "text": "CARBS",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        776,
+        511,
+        832,
+        564
+      ],
+      "text": "\u00ae",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        276,
+        584,
+        773,
+        705
+      ],
+      "text": "ATKINS",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        167,
+        781,
+        681,
+        823
+      ],
+      "text": "We welcome your feedback!",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        98,
+        873,
+        1094,
+        907
+      ],
+      "text": "We welcome your App feedback! If you've found a bug or would like to",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        98,
+        913,
+        1052,
+        946
+      ],
+      "text": "submit some feedback about the App, simply select App Feedback",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        98,
+        949,
+        1069,
+        985
+      ],
+      "text": "from the menu or shake your device and you will be given the option",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        95,
+        988,
+        463,
+        1021
+      ],
+      "text": "to send us your thoughts!",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        1004,
+        1070,
+        1100,
+        1104
+      ],
+      "text": "GOT IT!",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        488,
+        1162,
+        715,
+        1204
+      ],
+      "text": "App Overview",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0208.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5075342881944445,
+  "ocr_added": 13,
+  "ocr_filled": 5
+}

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00A000"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <ImageView
+        android:id="@+id/view_2"
+        android:layout_width="38.5dp"
+        android:layout_height="31.2dp"
+        android:src="@drawable/img_1"
+        android:scaleType="fitXY"
+        android:contentDescription="@null"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="185.9dp"
+        android:layout_marginLeft="185.9dp"
+        android:layout_marginTop="195.8dp" />
+
+    <TextView
+        android:id="@+id/view_3"
+        android:layout_width="347.9dp"
+        android:layout_height="42.8dp"
+        android:text="The My Wellbeing app can’t be used on this\ndevice"
+        android:textColor="#0D0D0D"
+        android:textSize="16.9sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="35.0dp"
+        android:layout_marginLeft="35.0dp"
+        android:layout_marginTop="265.9dp"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:lineSpacingExtra="0.4dp"
+        android:gravity="top|start" />
+
+    <TextView
+        android:id="@+id/view_4"
+        android:layout_width="344.7dp"
+        android:layout_height="62.6dp"
+        android:text="This may be because your device is rooted,\nhas an unlocked bootloader, or is running a\ncustom ROM."
+        android:textColor="#0D0D0D"
+        android:textSize="16.9sp"
+        android:fontFamily="sans-serif"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="35.0dp"
+        android:layout_marginLeft="35.0dp"
+        android:layout_marginTop="346.3dp"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:lineSpacingExtra="0.4dp"
+        android:gravity="top|start" />
+
+    <Button
+        android:id="@+id/view_5"
+        android:layout_width="329.9dp"
+        android:layout_height="54.9dp"
+        android:background="#0D0D0D"
+        android:backgroundTint="#FF000000"
+        android:stateListAnimator="@null"
+        android:elevation="0dp"
+        android:text="CLOSE"
+        android:textColor="#FFFFFFFF"
+        android:textSize="15.6sp"
+        android:gravity="center"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="40.0dp"
+        android:layout_marginLeft="40.0dp"
+        android:layout_marginTop="462.5dp"
+        android:fontFamily="sans-serif-medium"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:maxLines="1"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="8.6sp"
+        android:autoSizeMaxTextSize="15.6sp"
+        android:autoSizeStepGranularity="1px"
+        android:padding="0dp" />
+
+    <ImageView
+        android:id="@+id/view_6"
+        android:src="@drawable/img_2"
+        android:layout_width="38.5dp"
+        android:layout_height="21.3dp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="185.9dp"
+        android:layout_marginLeft="185.9dp"
+        android:layout_marginTop="173.0dp"
+        android:scaleType="fitXY" />
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="27.4dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#006100" />
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="54.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="676.6dp"
+        android:background="#000000" />
+</FrameLayout>

@@ -1,0 +1,353 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        135,
+        8,
+        183,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        335,
+        9,
+        383,
+        64
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        13,
+        110,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        207,
+        13,
+        247,
+        64
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        271,
+        13,
+        311,
+        64
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        951,
+        14,
+        1022,
+        58
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1029,
+        15,
+        1056,
+        57
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        903,
+        16,
+        951,
+        58
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        24,
+        432,
+        48
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        88,
+        98,
+        151,
+        168
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        210,
+        294,
+        826,
+        984
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        837,
+        567,
+        870,
+        585
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        110,
+        1041,
+        279,
+        1161
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        279,
+        1041,
+        311,
+        1088
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        485,
+        1041,
+        553,
+        1161
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        709,
+        1041,
+        842,
+        1161
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        627,
+        1049,
+        674,
+        1160
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        312,
+        1072,
+        381,
+        1160
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        922,
+        1072,
+        975,
+        1160
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        382,
+        1073,
+        447,
+        1161
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        560,
+        1073,
+        624,
+        1161
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        850,
+        1073,
+        915,
+        1162
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        344,
+        1233,
+        414,
+        1352
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        767,
+        1233,
+        793,
+        1313
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        417,
+        1265,
+        485,
+        1353
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        488,
+        1265,
+        554,
+        1353
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        555,
+        1265,
+        619,
+        1353
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        624,
+        1265,
+        689,
+        1353
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        691,
+        1265,
+        755,
+        1354
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        766,
+        1322,
+        795,
+        1352
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        1412,
+        1007,
+        1576
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        244,
+        1824,
+        287,
+        1872
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1824,
+        833,
+        1872
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1826,
+        560,
+        1871
+      ],
+      "id": 33,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.pitpay.pitpay.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2885493827160494,
+  "ocr_added": 0,
+  "ocr_filled": 0
+}

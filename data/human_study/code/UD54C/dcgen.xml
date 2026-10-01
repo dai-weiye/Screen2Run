@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="411.4286dp"
+    android:layout_height="891.4286dp">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="411.4286dp"
+        android:layout_height="29.7143dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:paddingEnd="8dp"
+            android:id="@+id/view_3"
+            android:layout_width="87.2381dp"
+            android:layout_height="29.7143dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp">
+
+            <TextView
+                android:text="11:39"
+                android:textColor="#5B5B5B"
+                android:textSize="22sp"
+                android:fontFamily="sans-serif-medium"
+                android:includeFontPadding="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#5B5B5B"
+                android:scaleType="fitCenter"
+                android:layout_marginStart="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="@android:color/white"
+            android:id="@+id/view_4"
+            android:layout_width="53.3333dp"
+            android:layout_height="29.7143dp"
+            android:layout_marginStart="358.0952dp"
+            android:layout_marginTop="0dp">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:scaleType="fitCenter"
+                android:contentDescription="Transfer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:scaleType="fitCenter"
+                android:contentDescription="Battery"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <ImageView
+        android:src="@drawable/img"
+        android:scaleType="fitStart"
+        android:tint="#5B6577"
+        android:contentDescription="Close"
+        android:id="@+id/view_5"
+        android:layout_width="411.4286dp"
+        android:layout_height="30.4762dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="44.1905dp" />
+
+    <ImageView
+        android:src="@drawable/img"
+        android:scaleType="centerInside"
+        android:contentDescription=""
+        android:id="@+id/view_6"
+        android:layout_width="411.4286dp"
+        android:layout_height="81.5238dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="83.0476dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:id="@+id/view_7"
+        android:layout_width="411.4286dp"
+        android:layout_height="96.381dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="174.8571dp">
+
+        <TextView
+            android:text="Select your server"
+            android:textColor="#111111"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="What is the address of your server? This is like a home for all your data"
+            android:textColor="#757575"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="8dp"
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:id="@+id/view_8"
+        android:layout_width="411.4286dp"
+        android:layout_height="85.3333dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="280.381dp">
+
+        <TextView
+            android:text="Server URL"
+            android:textColor="#12A66A"
+            android:textSize="14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:paddingTop="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="dummy_user_input"
+                android:textColor="#212121"
+                android:textSize="18sp"
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:contentDescription="Clear input"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <Button
+        android:text="NEXT"
+        android:textColor="#FFFFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.05"
+        android:gravity="center"
+        android:backgroundTint="#14C8A0"
+        android:padding="0dp"
+        android:layout_width="411.4286dp"
+        android:layout_height="64.7619dp"
+        android:id="@+id/view_9"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="372.9524dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:id="@+id/view_10"
+        android:layout_width="411.4286dp"
+        android:layout_height="19.8095dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="721.5238dp">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:background="#000000" />
+    </LinearLayout>
+</FrameLayout>

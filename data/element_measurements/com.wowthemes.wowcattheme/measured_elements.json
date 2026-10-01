@@ -1,0 +1,641 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        159,
+        13,
+        205,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        291,
+        13,
+        337,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        15,
+        134,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        967,
+        16,
+        1005,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        235,
+        17,
+        263,
+        54
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        364,
+        18,
+        398,
+        54
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        440,
+        30,
+        453,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        205,
+        141,
+        335,
+        183
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "HOME",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        685,
+        142,
+        928,
+        179
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "WALLPAPER",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        447,
+        143,
+        631,
+        181
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "WIDGETS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        782,
+        334,
+        833,
+        339
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        255,
+        350,
+        315,
+        401
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "12",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        763,
+        354,
+        817,
+        396
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "XII",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        673,
+        364,
+        692,
+        378
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        687,
+        365,
+        744,
+        423
+      ],
+      "id": 15,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        140,
+        369,
+        248,
+        470
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "11",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        464,
+        1006,
+        1458
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        127,
+        1375,
+        433,
+        1506
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "10:10",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        598,
+        1418,
+        795,
+        1545
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "21\u00b0",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        317,
+        1542,
+        444,
+        1566
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        145,
+        539,
+        692,
+        589
+      ],
+      "text": "Add to Home screen",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        142,
+        625,
+        731,
+        673
+      ],
+      "text": "Touch & hold to place manually",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        346,
+        767,
+        734,
+        809
+      ],
+      "text": "Calendar Clo... 4\u00d72",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        377,
+        991,
+        402,
+        1005
+      ],
+      "text": "10",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        522,
+        982,
+        544,
+        999
+      ],
+      "text": "M",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        558,
+        952,
+        684,
+        971
+      ],
+      "text": "\u2022 MARCH O",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        555,
+        1002,
+        572,
+        1019
+      ],
+      "text": "2",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        578,
+        982,
+        687,
+        1002
+      ],
+      "text": "WTFS",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        527,
+        1021,
+        544,
+        1038
+      ],
+      "text": "8",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        555,
+        1021,
+        572,
+        1038
+      ],
+      "text": "9",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        586,
+        1002,
+        600,
+        1019
+      ],
+      "text": "3",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        611,
+        1002,
+        631,
+        1021
+      ],
+      "text": "4",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        447,
+        1060,
+        469,
+        1077
+      ],
+      "text": "5",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        525,
+        1041,
+        544,
+        1060
+      ],
+      "text": "15",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        547,
+        1041,
+        572,
+        1058
+      ],
+      "text": "16",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        578,
+        1024,
+        603,
+        1038
+      ],
+      "text": "10",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        580,
+        1041,
+        603,
+        1060
+      ],
+      "text": "17",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        606,
+        1021,
+        631,
+        1038
+      ],
+      "text": "11",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        608,
+        1041,
+        631,
+        1058
+      ],
+      "text": "18",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        636,
+        1021,
+        659,
+        1038
+      ],
+      "text": "12",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        642,
+        1044,
+        659,
+        1058
+      ],
+      "text": "19",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        664,
+        1024,
+        689,
+        1038
+      ],
+      "text": "13",
+      "source": "ocr"
+    },
+    {
+      "id": 46,
+      "kind": "text",
+      "bounds": [
+        670,
+        1041,
+        689,
+        1058
+      ],
+      "text": "20",
+      "source": "ocr"
+    },
+    {
+      "id": 47,
+      "kind": "text",
+      "bounds": [
+        695,
+        1021,
+        717,
+        1038
+      ],
+      "text": "14",
+      "source": "ocr"
+    },
+    {
+      "id": 48,
+      "kind": "text",
+      "bounds": [
+        525,
+        1063,
+        628,
+        1080
+      ],
+      "text": "22 23 24 25",
+      "source": "ocr"
+    },
+    {
+      "id": 49,
+      "kind": "text",
+      "bounds": [
+        639,
+        1060,
+        717,
+        1083
+      ],
+      "text": "26 27 28",
+      "source": "ocr"
+    },
+    {
+      "id": 50,
+      "kind": "text",
+      "bounds": [
+        695,
+        1041,
+        717,
+        1058
+      ],
+      "text": "21",
+      "source": "ocr"
+    },
+    {
+      "id": 51,
+      "kind": "text",
+      "bounds": [
+        525,
+        1083,
+        600,
+        1094
+      ],
+      "text": "29 30 31",
+      "source": "ocr"
+    },
+    {
+      "id": 52,
+      "kind": "text",
+      "bounds": [
+        276,
+        1278,
+        452,
+        1315
+      ],
+      "text": "CANCEL",
+      "source": "ocr"
+    },
+    {
+      "id": 53,
+      "kind": "text",
+      "bounds": [
+        508,
+        1278,
+        935,
+        1314
+      ],
+      "text": "ADD AUTOMATICALLY",
+      "source": "ocr"
+    },
+    {
+      "id": 54,
+      "kind": "text",
+      "bounds": [
+        614,
+        1381,
+        798,
+        1409
+      ],
+      "text": "London 1",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.wowthemes.wowcattheme.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5196195023148148,
+  "ocr_added": 31,
+  "ocr_filled": 8
+}

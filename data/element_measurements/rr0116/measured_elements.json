@@ -1,0 +1,499 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        69,
+        7,
+        98,
+        39
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1084,
+        7,
+        1185,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        118,
+        9,
+        143,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        258,
+        13,
+        292,
+        37
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1129,
+        83,
+        1169,
+        132
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        522,
+        85,
+        680,
+        125
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "GED Test",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        862,
+        184,
+        937,
+        222
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Test",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        236,
+        185,
+        364,
+        220
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Practice",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        19,
+        283,
+        28,
+        517
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1170,
+        283,
+        1179,
+        517
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        300,
+        121,
+        386
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        131,
+        320,
+        285,
+        366
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Reading",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        37,
+        422,
+        335,
+        453
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "O of 9 levels completed",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        476,
+        1160,
+        499
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        539,
+        28,
+        773
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1169,
+        539,
+        1179,
+        773
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        558,
+        115,
+        644
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        131,
+        574,
+        267,
+        624
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Writing",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        37,
+        678,
+        335,
+        709
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "O of 9 levels completed",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        732,
+        1160,
+        755
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        795,
+        28,
+        1029
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1170,
+        795,
+        1179,
+        1029
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        812,
+        117,
+        890
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        134,
+        834,
+        372,
+        872
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "Mathematics",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        37,
+        934,
+        350,
+        965
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "O of 11 levels completed",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        988,
+        1160,
+        1011
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        1051,
+        28,
+        1285
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1169,
+        1051,
+        1179,
+        1285
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        1066,
+        100,
+        1150
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        132,
+        1088,
+        301,
+        1130
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Sciences",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        37,
+        1190,
+        350,
+        1221
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "O of 10 levels completed",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        1244,
+        1160,
+        1267
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        1307,
+        28,
+        1541
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1169,
+        1307,
+        1179,
+        1541
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        34,
+        1324,
+        119,
+        1409
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        133,
+        1344,
+        392,
+        1385
+      ],
+      "id": 40,
+      "kind": "text",
+      "text": "Social Studies",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        37,
+        1446,
+        335,
+        1477
+      ],
+      "id": 41,
+      "kind": "text",
+      "text": "O of 9 levels completed",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        1500,
+        1160,
+        1523
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 45,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0116.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.13170963541666666,
+  "ocr_added": 0,
+  "ocr_filled": 13
+}

@@ -1,0 +1,113 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        24,
+        8,
+        120,
+        104
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        747,
+        35,
+        790,
+        78
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        948,
+        35,
+        991,
+        77
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        800,
+        44,
+        905,
+        68
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1003,
+        46,
+        1186,
+        67
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        556,
+        769,
+        642,
+        855
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        1519,
+        1151,
+        1578
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0236.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.04373654513888889,
+  "ocr_added": 0,
+  "ocr_filled": 0
+}

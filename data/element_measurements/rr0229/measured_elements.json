@@ -1,0 +1,157 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        101,
+        8,
+        290,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1070,
+        8,
+        1188,
+        40
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        96,
+        31
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        34,
+        96,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        383,
+        76,
+        816,
+        115
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Welcome to Fishing Times",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        151,
+        1158,
+        250
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "This application is based on the Solunar Theory and predicts the best bite times for your",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        301,
+        686,
+        899,
+        1284
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        329,
+        1704,
+        869,
+        1823
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0229.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.24749435763888888,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

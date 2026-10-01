@@ -1,0 +1,269 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1122,
+        8,
+        1190,
+        41
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        95,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        114,
+        13,
+        148,
+        37
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        150,
+        621,
+        175
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        630,
+        150,
+        656,
+        175
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        419,
+        182,
+        516,
+        262
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        523,
+        182,
+        588,
+        263
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        664,
+        182,
+        728,
+        263
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        736,
+        182,
+        779,
+        262
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        622,
+        183,
+        655,
+        290
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        598,
+        184,
+        618,
+        260
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        345,
+        375,
+        820,
+        399
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Sign in with Email or mPerks Phone Number",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        344,
+        471,
+        855,
+        481
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        342,
+        492,
+        808,
+        547
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "phone number. [001]",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        345,
+        640,
+        854,
+        713
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        480,
+        780,
+        719,
+        858
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "New to Meijer?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1444,
+        1199,
+        1824
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0150.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2590503472222222,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

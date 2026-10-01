@@ -1,0 +1,533 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1069,
+        6,
+        1189,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        95,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        87,
+        305,
+        125
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Search or type URL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        16,
+        170,
+        158,
+        200
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Search Buzz:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        399,
+        170,
+        502,
+        202
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Ray Allen",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        195,
+        171,
+        355,
+        202
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Ronda Rousey",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1169,
+        184,
+        1180,
+        196
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        460,
+        248,
+        738,
+        357
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Google -",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        755,
+        298,
+        780,
+        311
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        373,
+        1052,
+        450
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        512,
+        235,
+        714
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        265,
+        512,
+        467,
+        714
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        497,
+        512,
+        699,
+        714
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        729,
+        512,
+        931,
+        714
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        512,
+        1163,
+        714
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        725,
+        645,
+        758
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Google",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        796,
+        726,
+        874,
+        754
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Yahoo!",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        89,
+        727,
+        193,
+        752
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Facebook",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        325,
+        727,
+        419,
+        752
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "YouTube",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1019,
+        727,
+        1119,
+        756
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Craigslist",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        781,
+        19,
+        1069
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1180,
+        781,
+        1198,
+        1069
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        836,
+        1108,
+        918
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "Speed up games and get a smoother gameplay experience. It's possible",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        33,
+        980,
+        592,
+        1080
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        606,
+        980,
+        1166,
+        1081
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1121,
+        217,
+        1155
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "Search Buzz",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1126,
+        1121,
+        1161,
+        1155
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        26,
+        1209,
+        138,
+        1244
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "Sombra",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        609,
+        1210,
+        805,
+        1248
+      ],
+      "id": 31,
+      "kind": "text",
+      "text": "Ronda Rousey",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        1284,
+        238,
+        1317
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "D\u00eda de Muertos",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        610,
+        1285,
+        829,
+        1320
+      ],
+      "id": 33,
+      "kind": "text",
+      "text": "Day of the Dead",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        28,
+        1362,
+        229,
+        1390
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Amelia Earhart",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        611,
+        1362,
+        824,
+        1390
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "Where do I vote",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        1499,
+        240,
+        1540
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "Online games",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1090,
+        1500,
+        1178,
+        1532
+      ],
+      "id": 37,
+      "kind": "text",
+      "text": "More >",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1560,
+        1054,
+        1724
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1087,
+        1560,
+        1173,
+        1723
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        864,
+        1737,
+        878,
+        1751
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1057,
+        1752,
+        1101,
+        1797
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        347,
+        1753,
+        371,
+        1797
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        107,
+        1754,
+        130,
+        1797
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        581,
+        1754,
+        623,
+        1797
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 45,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 46,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 47,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0066.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.35682118055555556,
+  "ocr_added": 0,
+  "ocr_filled": 20
+}

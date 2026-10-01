@@ -1,0 +1,157 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        14,
+        2,
+        57,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        955,
+        5,
+        1191,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        112,
+        9,
+        151,
+        39
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        129,
+        91,
+        472,
+        137
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "< Add new addiction",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1115,
+        94,
+        1155,
+        134
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        221,
+        886,
+        267
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "What addiction do you want to quit?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        991,
+        1725,
+        1152,
+        1798
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0020.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.033949652777777777,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

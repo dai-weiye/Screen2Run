@@ -1,0 +1,215 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        4,
+        0,
+        1199,
+        1919
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "id": 1,
+      "kind": "text",
+      "bounds": [
+        64,
+        165,
+        87,
+        254
+      ],
+      "text": "FACEBOOK",
+      "source": "ocr"
+    },
+    {
+      "id": 2,
+      "kind": "text",
+      "bounds": [
+        64,
+        343,
+        87,
+        447
+      ],
+      "text": "RATE GAME!",
+      "source": "ocr"
+    },
+    {
+      "id": 3,
+      "kind": "text",
+      "bounds": [
+        61,
+        527,
+        87,
+        639
+      ],
+      "text": "MORE GAMES",
+      "source": "ocr"
+    },
+    {
+      "id": 4,
+      "kind": "text",
+      "bounds": [
+        1052,
+        633,
+        1086,
+        1256
+      ],
+      "text": "Swipe down trom the top to exit full screen.",
+      "source": "ocr"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        56,
+        712,
+        81,
+        832
+      ],
+      "text": "WITH FRIENDS",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        142,
+        712,
+        167,
+        832
+      ],
+      "text": "SHARE GAME",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        61,
+        910,
+        92,
+        1007
+      ],
+      "text": "TRUCKS!",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        86,
+        895,
+        117,
+        1022
+      ],
+      "text": "UNLOCK ALL",
+      "source": "ocr"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        114,
+        921,
+        140,
+        991
+      ],
+      "text": "ADS 8",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        142,
+        910,
+        170,
+        999
+      ],
+      "text": "REMOVE",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        64,
+        1102,
+        87,
+        1189
+      ],
+      "text": "SETTINGS",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        285,
+        1167,
+        391,
+        1663
+      ],
+      "text": "MINI GAMES!",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        776,
+        1139,
+        871,
+        1677
+      ],
+      "text": "KIDS RACING",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        901,
+        1130,
+        935,
+        1186
+      ],
+      "text": "OK",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        544,
+        1169,
+        667,
+        1655
+      ],
+      "text": "LETS RACE!",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        832,
+        1261,
+        1015,
+        1844
+      ],
+      "text": "TER TRUCKS",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0027.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.9953146701388889,
+  "ocr_added": 16,
+  "ocr_filled": 0
+}

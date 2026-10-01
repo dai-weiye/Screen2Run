@@ -1,0 +1,315 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        686,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        192,
+        170,
+        261
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        337,
+        192,
+        485,
+        261
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        217,
+        205,
+        307,
+        247
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        484,
+        205,
+        563,
+        238
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "PHGWM",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        533,
+        205,
+        626,
+        247
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        170,
+        206,
+        248,
+        245
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "MJSLR",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        17,
+        309,
+        133,
+        350
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        214,
+        309,
+        301,
+        350
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        373,
+        309,
+        443,
+        350
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        322,
+        311,
+        382,
+        342
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Uldtl",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        154,
+        312,
+        238,
+        341
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Vyixi",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        560,
+        388,
+        631,
+        418
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        389,
+        97,
+        417
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Juwcc",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        116,
+        394,
+        539,
+        416
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        465,
+        137,
+        504
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "\u2022 Ksjfn",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        468,
+        65,
+        505
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        64,
+        559,
+        141,
+        597
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "OXzrfh",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        561,
+        65,
+        599
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        653,
+        147,
+        690
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "\u2022 Ojwfn",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        657,
+        62,
+        690
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        46,
+        743,
+        151,
+        784
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        745,
+        91,
+        777
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "Ldbos",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        248,
+        1026,
+        282,
+        1062
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1026,
+        627,
+        1061
+      ],
+      "id": 27,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/07D7E688-7B77-4B94-9432-269596BAB2C6.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.1283851336665942,
+  "ocr_added": 0,
+  "ocr_filled": 11
+}

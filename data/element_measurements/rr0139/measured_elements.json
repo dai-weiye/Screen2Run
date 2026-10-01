@@ -1,0 +1,253 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        984,
+        5,
+        1185,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        113,
+        7,
+        149,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        70,
+        893,
+        152
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1018,
+        90,
+        1162,
+        156
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        185,
+        1199,
+        1787
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        636,
+        212,
+        756,
+        251
+      ],
+      "text": "2048",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        633,
+        260,
+        756,
+        301
+      ],
+      "text": "SNAKE",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        70,
+        329,
+        170,
+        361
+      ],
+      "text": "SuperSU",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        226,
+        329,
+        396,
+        357
+      ],
+      "text": "Xposed Install..",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        421,
+        332,
+        586,
+        360
+      ],
+      "text": "Light Manager",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        628,
+        329,
+        759,
+        355
+      ],
+      "text": "2048 Snake",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        809,
+        331,
+        963,
+        361
+      ],
+      "text": "BusyBox Free",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        845,
+        1526,
+        927,
+        1555
+      ],
+      "text": "Google",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        1021,
+        1529,
+        1136,
+        1558
+      ],
+      "text": "Play Store",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        402,
+        1691,
+        427,
+        1719
+      ],
+      "text": "G",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0139.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8759947916666667,
+  "ocr_added": 10,
+  "ocr_filled": 0
+}

@@ -1,0 +1,201 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        2,
+        105,
+        46
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        953,
+        2,
+        1193,
+        47
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        17,
+        85,
+        178,
+        127
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Gold Pro",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        894,
+        360,
+        941,
+        392
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        692,
+        381,
+        699,
+        423
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        99,
+        448,
+        1082,
+        974
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        139,
+        1031,
+        178,
+        1065
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        386,
+        1075,
+        428,
+        1101
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        504,
+        1081,
+        695,
+        1119
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Go Keyboard",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        555,
+        1086,
+        720,
+        1181
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        1112,
+        340,
+        1149
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        296,
+        1153,
+        900,
+        1182
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "This theme needs the newest version of GO Keyboard to apply",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        90,
+        1214,
+        1108,
+        1309
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0075.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3077960069444444,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

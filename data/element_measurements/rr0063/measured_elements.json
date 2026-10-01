@@ -1,0 +1,485 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        4,
+        112,
+        44
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1071,
+        6,
+        1189,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        11,
+        145,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        438,
+        71,
+        761,
+        122
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Finish tine",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        38,
+        193,
+        338,
+        362
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        436,
+        223,
+        500,
+        281
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        502,
+        223,
+        596,
+        281
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        658,
+        223,
+        690,
+        281
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        692,
+        223,
+        768,
+        281
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        780,
+        223,
+        844,
+        281
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        846,
+        223,
+        942,
+        281
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        954,
+        223,
+        1034,
+        281
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1036,
+        223,
+        1144,
+        281
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        610,
+        225,
+        656,
+        279
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        288,
+        345,
+        408
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "WINNERS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        432,
+        289,
+        496,
+        403
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1064,
+        289,
+        1124,
+        403
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        502,
+        291,
+        618,
+        399
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        644,
+        291,
+        708,
+        401
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        712,
+        291,
+        925,
+        399
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        928,
+        291,
+        992,
+        401
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        996,
+        291,
+        1058,
+        399
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        58,
+        367,
+        320,
+        481
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1130,
+        377,
+        1148,
+        399
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        455,
+        478,
+        603,
+        509
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "GET STARTED \u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        619,
+        484,
+        630,
+        504
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        93,
+        612,
+        290,
+        772
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        350,
+        675,
+        902,
+        704
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "You do not have any messages right now..",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        832,
+        369,
+        1172
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        429,
+        832,
+        769,
+        1172
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        829,
+        832,
+        1169,
+        1172
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        917,
+        1187,
+        1083,
+        1216
+      ],
+      "id": 33,
+      "kind": "text",
+      "text": "Release Dates",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        150,
+        1189,
+        249,
+        1214
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Account",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        549,
+        1189,
+        650,
+        1214
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "Rewards",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        1254,
+        369,
+        1594
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        445,
+        1254,
+        753,
+        1562
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        829,
+        1254,
+        1169,
+        1594
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        564,
+        1605,
+        633,
+        1644
+      ],
+      "id": 39,
+      "kind": "text",
+      "text": "Shop",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        968,
+        1605,
+        1030,
+        1644
+      ],
+      "id": 40,
+      "kind": "text",
+      "text": "Help",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        118,
+        1609,
+        279,
+        1638
+      ],
+      "id": 41,
+      "kind": "text",
+      "text": "Store Locator",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 44,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0063.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4242009548611111,
+  "ocr_added": 0,
+  "ocr_filled": 11
+}

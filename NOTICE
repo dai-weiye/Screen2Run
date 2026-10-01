@@ -1,0 +1,32 @@
+Screen2Run replication package
+
+Original Screen2Run code and documentation are covered by the root MIT license.
+That license does not relicense third-party datasets, libraries, fonts, model
+outputs, or software obtained independently.
+
+LayoutCoder-derived adapter and compatibility material retains the upstream
+Apache License 2.0 in LICENSES/LayoutCoder-Apache-2.0.txt. Its upstream source
+notices remain in the corresponding files. Portable paths, English comments,
+and Android-specific entry points are release modifications.
+
+Roboto font files retain their embedded copyright and license. Exact font
+notices are supplied in android_harness/fonts/. Preserve these notices when
+redistributing the fonts.
+
+DCGen's upstream segmentation implementation is an external dependency rather
+than bundled source. The Android adapter is supplied separately. Acquisition,
+version checks, and upstream references are documented in docs/RUNTIME.md.
+
+Input datasets are pix2code, ReDraw, and MobileViews. The package distributes
+sample identifiers, screenshot hashes, extracted measurements, and derived
+numeric results, not the original screenshot archives. Obtain images under
+each provider's terms as described in docs/DATASETS.md. Interface text retained
+inside measurements and generated XML originates from those research inputs.
+
+Human-study numeric records use pseudonymous rater IDs. Personal metadata and
+free-text responses are not included. The displayed XML files retain the code
+that was rated, with its presentation-time anonymization unchanged.
+
+Dependencies installed through package managers remain governed by their own
+licenses. The Android SDK, emulator system images, Gradle distribution, model
+weights, and API subscriptions are not part of this archive.

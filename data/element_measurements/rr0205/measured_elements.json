@@ -1,0 +1,383 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1071,
+        6,
+        1184,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        21,
+        7,
+        50,
+        39
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        8,
+        143,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1034,
+        90,
+        1102,
+        140
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        130,
+        93,
+        330,
+        139
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Dailybread",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1109,
+        96,
+        1166,
+        130
+      ],
+      "id": 9,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        52,
+        101,
+        89,
+        106
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        111,
+        89,
+        116
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        121,
+        89,
+        126
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        203,
+        1096,
+        244
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "BIBLER",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        106,
+        207,
+        194,
+        243
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "DAILY",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        361,
+        207,
+        537,
+        242
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "DEVOTIONS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        685,
+        207,
+        812,
+        242
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "FOLLOW",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        335,
+        322,
+        385
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Verse of the Day",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1058,
+        340,
+        1175,
+        380
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "See All",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        409,
+        1171,
+        1552
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        330,
+        1579,
+        406,
+        1617
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "3627",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        291,
+        1580,
+        326,
+        1619
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        207,
+        1582,
+        270,
+        1616
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "2429",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        150,
+        1583,
+        190,
+        1618
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        37,
+        1584,
+        75,
+        1619
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        92,
+        1584,
+        128,
+        1614
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "72",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        1675,
+        1181,
+        1815
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Thoughts",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        142,
+        834,
+        1083,
+        899
+      ],
+      "text": "Share each other's troubles and",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        137,
+        907,
+        1072,
+        988
+      ],
+      "text": "problems, and in this way obey",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        136,
+        992,
+        672,
+        1072
+      ],
+      "text": "the law of Christ.",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        572,
+        1069,
+        1060,
+        1130
+      ],
+      "text": "-- Galatians 6:2",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0205.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6720993923611112,
+  "ocr_added": 4,
+  "ocr_filled": 11
+}

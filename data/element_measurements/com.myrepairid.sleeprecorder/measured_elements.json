@@ -1,0 +1,335 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        139,
+        13,
+        179,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        205,
+        13,
+        245,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        271,
+        13,
+        311,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        333,
+        13,
+        379,
+        58
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        14,
+        110,
+        63
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        22,
+        142,
+        1027,
+        401
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Volume Threshold 5",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        484,
+        153,
+        504,
+        184
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        90,
+        461,
+        121,
+        491
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        588,
+        947,
+        797
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Minimum Silence Duration (Seconds)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        861,
+        553,
+        891
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        918,
+        1053,
+        980,
+        1114
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1059,
+        630,
+        1113
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Delay Start Timer (Minutes)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        674,
+        1061,
+        732,
+        1106
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "90",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        1200,
+        553,
+        1230
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        918,
+        1347,
+        980,
+        1408
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1353,
+        658,
+        1407
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "End Recording Timer (Hours)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        706,
+        1355,
+        765,
+        1400
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "12",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        1509,
+        553,
+        1539
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        643,
+        1662,
+        703,
+        1722
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        913,
+        1662,
+        974,
+        1722
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        111,
+        1665,
+        154,
+        1722
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        374,
+        1669,
+        384,
+        1679
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        374,
+        1687,
+        384,
+        1697
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        388,
+        1689,
+        430,
+        1695
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        374,
+        1705,
+        384,
+        1715
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        388,
+        1707,
+        430,
+        1713
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 30,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.myrepairid.sleeprecorder.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.29399546682098765,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

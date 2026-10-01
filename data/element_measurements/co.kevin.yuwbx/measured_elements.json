@@ -1,0 +1,235 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        13,
+        109,
+        57
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        205,
+        16,
+        244,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        343,
+        16,
+        372,
+        54
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        143,
+        17,
+        174,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        266,
+        17,
+        322,
+        52
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        20,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        24,
+        986,
+        49
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        25,
+        952,
+        48
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        155,
+        765,
+        921,
+        882
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Something went wrong. Please try",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        56,
+        1131,
+        132,
+        1208
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        187,
+        1131,
+        760,
+        1180
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Use S9 Launcher as Home",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        845,
+        1362,
+        994,
+        1414
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Always",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        594,
+        1367,
+        786,
+        1408
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Just once",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        66,
+        1546,
+        480,
+        1602
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Use a different app",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        1723,
+        135,
+        1789
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        189,
+        1741,
+        403,
+        1783
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Ouicksten",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 20,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/co.kevin.yuwbx.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.0944921875,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

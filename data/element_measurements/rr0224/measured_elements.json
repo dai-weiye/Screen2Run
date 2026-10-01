@@ -1,0 +1,729 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        5,
+        150,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1088,
+        7,
+        1192,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1101,
+        87,
+        1155,
+        138
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        290,
+        89,
+        911,
+        136
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Pen Names: Man or Woman?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        48,
+        93,
+        86,
+        131
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        209,
+        159,
+        252
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Voice 1",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        26,
+        304,
+        657,
+        348
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Welcome to Spotlight. I'm Liz Waid.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        397,
+        163,
+        440
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Voice 2",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        493,
+        1127,
+        629
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "And I'm Ryan Geertsma. Spotlight uses a special English",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        678,
+        158,
+        721
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Voice 1",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        779,
+        1163,
+        1101
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        917,
+        52,
+        957
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "You have to install Awabe Translate to use the",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        25,
+        1104,
+        508,
+        1148
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "writer to change her name.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        1196,
+        164,
+        1239
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Voice 2",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        1288,
+        1146,
+        1574
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "This is the story of how Joanne Rowling became J.K. Rowling.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        1578,
+        60,
+        1592
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        94,
+        1578,
+        112,
+        1592
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        175,
+        1578,
+        188,
+        1592
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        1578,
+        273,
+        1592
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        487,
+        1578,
+        505,
+        1592
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        609,
+        1578,
+        627,
+        1592
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        834,
+        1578,
+        852,
+        1592
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        868,
+        1578,
+        885,
+        1592
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        921,
+        1578,
+        939,
+        1592
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1582,
+        39,
+        1592
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        151,
+        1582,
+        163,
+        1592
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        361,
+        1582,
+        373,
+        1592
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        419,
+        1582,
+        431,
+        1592
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        786,
+        1582,
+        798,
+        1592
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        66,
+        1587,
+        82,
+        1592
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        118,
+        1587,
+        130,
+        1592
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        133,
+        1587,
+        148,
+        1592
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        191,
+        1587,
+        207,
+        1592
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        211,
+        1587,
+        241,
+        1592
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        247,
+        1587,
+        263,
+        1592
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        279,
+        1587,
+        295,
+        1592
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        339,
+        1587,
+        351,
+        1592
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        377,
+        1587,
+        393,
+        1592
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        397,
+        1587,
+        409,
+        1592
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        434,
+        1587,
+        450,
+        1592
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        467,
+        1587,
+        483,
+        1592
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        511,
+        1587,
+        527,
+        1592
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        532,
+        1587,
+        550,
+        1592
+      ],
+      "id": 45,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        556,
+        1587,
+        573,
+        1592
+      ],
+      "id": 46,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        579,
+        1587,
+        595,
+        1592
+      ],
+      "id": 47,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        633,
+        1587,
+        649,
+        1592
+      ],
+      "id": 48,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        653,
+        1587,
+        665,
+        1592
+      ],
+      "id": 49,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        677,
+        1587,
+        695,
+        1592
+      ],
+      "id": 50,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        701,
+        1587,
+        717,
+        1592
+      ],
+      "id": 51,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        722,
+        1587,
+        752,
+        1592
+      ],
+      "id": 52,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        758,
+        1587,
+        774,
+        1592
+      ],
+      "id": 53,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        802,
+        1587,
+        818,
+        1592
+      ],
+      "id": 54,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        891,
+        1587,
+        907,
+        1592
+      ],
+      "id": 55,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        945,
+        1587,
+        961,
+        1592
+      ],
+      "id": 56,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        965,
+        1587,
+        977,
+        1592
+      ],
+      "id": 57,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        990,
+        1587,
+        1005,
+        1592
+      ],
+      "id": 58,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1011,
+        1587,
+        1027,
+        1592
+      ],
+      "id": 59,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        1605,
+        79,
+        1645
+      ],
+      "id": 60,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        610,
+        1605,
+        976,
+        1646
+      ],
+      "id": 61,
+      "kind": "text",
+      "text": "\u2022 Translate Sentence",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        88,
+        1607,
+        332,
+        1708
+      ],
+      "id": 62,
+      "kind": "text",
+      "text": "\u2022 Translate word",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1036,
+        1663,
+        1140,
+        1707
+      ],
+      "id": 63,
+      "kind": "text",
+      "text": "15:00",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        1692,
+        131,
+        1796
+      ],
+      "id": 64,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        144,
+        1716,
+        201,
+        1772
+      ],
+      "id": 65,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 66,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 67,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 68,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0224.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4461328125,
+  "ocr_added": 0,
+  "ocr_filled": 13
+}

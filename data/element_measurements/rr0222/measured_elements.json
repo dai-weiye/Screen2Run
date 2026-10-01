@@ -1,0 +1,317 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        66,
+        6,
+        250,
+        41
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1106,
+        7,
+        1188,
+        39
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1074,
+        8,
+        1095,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        1199,
+        1700
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        336,
+        1712,
+        383,
+        1768
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        572,
+        1712,
+        627,
+        1768
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        811,
+        1713,
+        867,
+        1768
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1052,
+        1713,
+        1108,
+        1768
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        91,
+        1728,
+        147,
+        1769
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        339,
+        1785,
+        379,
+        1808
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "PAY",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        75,
+        1788,
+        166,
+        1805
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "REWARDS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        567,
+        1788,
+        633,
+        1806
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "ORDER",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        796,
+        1788,
+        883,
+        1805
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "REORDER",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1033,
+        1788,
+        1125,
+        1805
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "ACCOUNT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        527,
+        89,
+        656,
+        137
+      ],
+      "text": "CAVA",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        268,
+        784,
+        932,
+        890
+      ],
+      "text": "SAVOR THE",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        265,
+        879,
+        287,
+        943
+      ],
+      "text": "Mezze",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        365,
+        909,
+        835,
+        1014
+      ],
+      "text": "FLAVOR",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        109,
+        1063,
+        176,
+        1205
+      ],
+      "text": "Mezze Grill",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        147,
+        1042,
+        244,
+        1181
+      ],
+      "text": "CA",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        460,
+        1560,
+        737,
+        1588
+      ],
+      "text": "START YOUR ORDER",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0222.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8766471354166666,
+  "ocr_added": 7,
+  "ocr_filled": 5
+}

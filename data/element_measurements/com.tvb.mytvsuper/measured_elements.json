@@ -1,0 +1,225 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        14,
+        111,
+        59
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        136,
+        14,
+        181,
+        57
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        25,
+        1008,
+        48
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        390,
+        104,
+        684,
+        195
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "MYTYPER",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        399,
+        338,
+        602,
+        476
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        613,
+        356,
+        680,
+        476
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        216,
+        502,
+        855,
+        562
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "TVB Free Zone (App Version)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        398,
+        577,
+        678,
+        664
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        282,
+        822,
+        796,
+        875
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Please enter your email:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        926,
+        1007,
+        1046
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        140,
+        1101,
+        937,
+        1209
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "*please provide the email that can be",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        146,
+        1224,
+        174,
+        1227
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        795,
+        1224,
+        831,
+        1227
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        858,
+        1224,
+        880,
+        1227
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        1257,
+        1004,
+        1675
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "WE USE COOKIES",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        487,
+        1709,
+        591,
+        1752
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Agree",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 19,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.tvb.mytvsuper.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3663459683641975,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

@@ -1,0 +1,14 @@
+-r requirements-analysis.txt
+openai==2.41.1
+opencv-python-headless==4.12.0.88
+lxml==6.0.2
+requests==2.34.2
+python-dotenv==1.2.2
+tqdm==4.67.1
+networkx==3.5
+fonttools==4.61.0
+# Raw-image CLIP scoring; obtain weights explicitly before offline scoring.
+torch==2.9.1
+transformers==4.57.1
+huggingface-hub==0.36.0
+# UIED/Paddle and baseline preprocessing run in a separate upstream environment.

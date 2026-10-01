@@ -1,0 +1,387 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        333,
+        13,
+        380,
+        59
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        17,
+        14,
+        109,
+        59
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        203,
+        18,
+        246,
+        54
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        274,
+        21,
+        309,
+        53
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        143,
+        23,
+        174,
+        50
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        24,
+        986,
+        49
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        274,
+        133,
+        796,
+        172
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "HYDRO 1 : tuyaux et canaux",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        18,
+        213,
+        536,
+        357
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        541,
+        213,
+        1058,
+        357
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        211,
+        399,
+        887,
+        426
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "HYDRAULIC CALCULATION OF CIRCULAR SECTIO",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        292,
+        476,
+        694,
+        876
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        677,
+        518,
+        866,
+        546
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "0.40m. 20.0%",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        670,
+        690,
+        860,
+        721
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "1.60m. 80.0%",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        292,
+        849,
+        463,
+        1036
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "\u0424=2.00m.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        605,
+        901,
+        814,
+        1039
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Q.=16.12m/s.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        490,
+        1117,
+        963,
+        1182
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        1120,
+        97,
+        1180
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        108,
+        1124,
+        424,
+        1465
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Diam\u00e8tre (m):",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        490,
+        1188,
+        963,
+        1254
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        1191,
+        97,
+        1251
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        488,
+        1260,
+        958,
+        1326
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        1260,
+        1058,
+        1326
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        1263,
+        97,
+        1323
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        490,
+        1332,
+        963,
+        1398
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        1335,
+        97,
+        1395
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        490,
+        1404,
+        963,
+        1470
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        1407,
+        97,
+        1467
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1482,
+        488,
+        1568
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        493,
+        1606,
+        650,
+        1758
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        240,
+        1610,
+        423,
+        1746
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 35,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.nieto.luis.hidro_i.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.39305025077160494,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

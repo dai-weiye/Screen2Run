@@ -1,0 +1,469 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1086,
+        6,
+        1185,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        117,
+        7,
+        146,
+        39
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        957,
+        8,
+        979,
+        42
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        166,
+        9,
+        191,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        306,
+        13,
+        340,
+        37
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1119,
+        82,
+        1168,
+        131
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        88,
+        381,
+        125
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "S&S STORM TEAM",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        375,
+        190,
+        495,
+        343
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        706,
+        197,
+        823,
+        314
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1039,
+        197,
+        1153,
+        314
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        43,
+        198,
+        159,
+        314
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        208,
+        198,
+        324,
+        314
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        540,
+        198,
+        657,
+        315
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        872,
+        198,
+        988,
+        314
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        221,
+        320,
+        314,
+        370
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Forecast",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        696,
+        321,
+        832,
+        370
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "S&S Met. Joe",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        898,
+        321,
+        963,
+        346
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Radar",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1050,
+        321,
+        1146,
+        375
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "S&S Web",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        40,
+        322,
+        160,
+        342
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "S&S STORE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        551,
+        323,
+        641,
+        369
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "PA/ MD -",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        377,
+        348,
+        490,
+        368
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "FACEBOOK",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        43,
+        352,
+        161,
+        518
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        705,
+        392,
+        823,
+        512
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        373,
+        394,
+        491,
+        516
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        211,
+        397,
+        323,
+        508
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        547,
+        400,
+        649,
+        507
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        540,
+        517,
+        657,
+        566
+      ],
+      "id": 33,
+      "kind": "text",
+      "text": "Email Us or",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        704,
+        517,
+        823,
+        564
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "SPONSORS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        518,
+        147,
+        567
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "STREAM",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        219,
+        519,
+        315,
+        569
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "Meet The",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        388,
+        520,
+        478,
+        566
+      ],
+      "id": 37,
+      "kind": "text",
+      "text": "DONATE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        758,
+        88,
+        806
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1066,
+        1199,
+        1823
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 42,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0189.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5057413194444444,
+  "ocr_added": 0,
+  "ocr_filled": 13
+}

@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# Use an independently installed Gradle 8.9 distribution.
+set -eu
+GRADLE_BIN="${SCREEN2RUN_GRADLE:-gradle}"
+exec "$GRADLE_BIN" "$@"

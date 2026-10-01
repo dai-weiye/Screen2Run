@@ -1,0 +1,181 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        2,
+        104,
+        45
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        954,
+        3,
+        1192,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        114,
+        12,
+        147,
+        37
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "G+",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        258,
+        13,
+        292,
+        37
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        239,
+        443,
+        959,
+        1077
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        386,
+        1265,
+        811,
+        1330
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "SAVE TIME & JUMP THE LINE!",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        90,
+        1372,
+        1107,
+        1415
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Use the app to order in a snap. Meals customized just for you.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1080,
+        1752,
+        1173,
+        1801
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        559,
+        1760,
+        575,
+        1776
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        591,
+        1760,
+        607,
+        1776
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        623,
+        1760,
+        639,
+        1776
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0004.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.24166796875,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

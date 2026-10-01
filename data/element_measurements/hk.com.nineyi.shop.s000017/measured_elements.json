@@ -1,0 +1,89 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        13,
+        108,
+        62
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "9:37",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        203,
+        13,
+        253,
+        59
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        138,
+        15,
+        177,
+        61
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1746,
+        16,
+        1919,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        70,
+        1919,
+        1079
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        142,
+        152,
+        316,
+        205
+      ],
+      "text": "Search",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        929,
+        977,
+        988,
+        1035
+      ],
+      "text": "\u2022",
+      "source": "ocr"
+    }
+  ],
+  "height": 1080,
+  "image": "Unseen/hk.com.nineyi.shop.s000017.png",
+  "width": 1920,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.9412345679012346,
+  "ocr_added": 2,
+  "ocr_filled": 1
+}

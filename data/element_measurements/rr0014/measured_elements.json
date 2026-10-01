@@ -1,0 +1,271 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1083,
+        8,
+        1184,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        352,
+        89,
+        843,
+        129
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Atorvastatin 20mg (30 tablets)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        427,
+        199,
+        501,
+        349
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        525,
+        218,
+        564,
+        332
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        615,
+        218,
+        654,
+        332
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        695,
+        219,
+        772,
+        332
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        443,
+        412,
+        756,
+        449
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Pharmacy Cash Price",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        544,
+        1199,
+        899
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        345,
+        1529,
+        856,
+        1663
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "GoodRx finds drug discounts of",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        81,
+        1743,
+        150,
+        1777
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "SKIP",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1076,
+        1749,
+        1091,
+        1773
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        534,
+        1751,
+        551,
+        1768
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        560,
+        1751,
+        577,
+        1768
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        586,
+        1751,
+        603,
+        1768
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        612,
+        1751,
+        629,
+        1768
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        638,
+        1751,
+        655,
+        1768
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0014.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.24916753472222222,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

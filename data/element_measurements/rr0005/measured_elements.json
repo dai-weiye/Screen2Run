@@ -1,0 +1,151 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        20,
+        3,
+        202,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1001,
+        3,
+        1191,
+        45
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        94,
+        263,
+        135
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Motor Bikes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        30,
+        221,
+        411,
+        282
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Suzuki GSX-S",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        291,
+        739,
+        789
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        797,
+        798,
+        1326
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Features",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        1385,
+        1152,
+        1678
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "GENERAL INFORMATION",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        103,
+        1686,
+        121,
+        1692
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0005.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4964314236111111,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

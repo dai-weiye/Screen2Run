@@ -1,0 +1,321 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        20,
+        13,
+        110,
+        57
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        335,
+        13,
+        379,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        180,
+        57
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        267,
+        16,
+        313,
+        54
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        966,
+        16,
+        1005,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        209,
+        17,
+        239,
+        55
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        914,
+        25,
+        954,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        336,
+        113,
+        743,
+        160
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Posture Corrector",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        71,
+        236,
+        1018,
+        349
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "hey! straighten your back",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        122,
+        382,
+        961,
+        423
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "welcome to use hipee smart posture corrector",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        125,
+        499,
+        557,
+        1137
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        598,
+        758,
+        855,
+        1002
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        583,
+        1086,
+        959,
+        1123
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "TRAIN YOURSELF TO",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        123,
+        1151,
+        994,
+        1624
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        489,
+        1158,
+        1049,
+        1195
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "RECOGNIZE POOR POSTURE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        105,
+        1644,
+        162,
+        1713
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        651,
+        1644,
+        692,
+        1713
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        932,
+        1651,
+        955,
+        1672
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        369,
+        1652,
+        433,
+        1706
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        924,
+        1675,
+        964,
+        1708
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        614,
+        1723,
+        732,
+        1757
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Practice",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        918,
+        1723,
+        971,
+        1759
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Me",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        1725,
+        197,
+        1756
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "Real time",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        344,
+        1725,
+        462,
+        1760
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "Analysis",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 28,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/uni.UNIB6CFA1E.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.48084538966049384,
+  "ocr_added": 0,
+  "ocr_filled": 9
+}

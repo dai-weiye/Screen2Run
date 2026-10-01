@@ -1,0 +1,103 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        112,
+        21,
+        123,
+        476
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        606,
+        1165,
+        1314
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        153,
+        891,
+        169,
+        913
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        142,
+        916,
+        173,
+        946
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        142,
+        951,
+        173,
+        982
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        158,
+        985,
+        173,
+        1015
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        879,
+        1003,
+        961,
+        1309
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        1019,
+        173,
+        1049
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        142,
+        1024,
+        151,
+        1037
+      ],
+      "id": 8,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0137.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.06322005208333334,
+  "ocr_added": 0,
+  "ocr_filled": 0
+}

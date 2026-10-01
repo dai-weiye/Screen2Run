@@ -1,0 +1,349 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1059,
+        4,
+        1189,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        65,
+        7,
+        101,
+        43
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        7,
+        149,
+        43
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        8,
+        1010,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        262,
+        10,
+        289,
+        40
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        413,
+        99,
+        785,
+        226
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Mingle",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1059,
+        265,
+        1107,
+        313
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        88,
+        271,
+        210,
+        314
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "English",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        90,
+        344,
+        213,
+        380
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Danske",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        89,
+        414,
+        230,
+        452
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Deutsch",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        88,
+        485,
+        377,
+        668
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Espa\u00f1ol",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        88,
+        698,
+        271,
+        736
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Indonesian",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        89,
+        770,
+        212,
+        806
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Italiano",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        88,
+        839,
+        311,
+        948
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Melayu",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        88,
+        981,
+        193,
+        1021
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Norsk",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        89,
+        1053,
+        376,
+        1094
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Portugu\u00eas (Brasil)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        87,
+        1126,
+        422,
+        1233
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Portugu\u00eas (Portugal)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        88,
+        1265,
+        225,
+        1303
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Svenska",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        84,
+        1333,
+        263,
+        1593
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Tagalog",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        91,
+        1616,
+        109,
+        1655
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        109,
+        1633,
+        132,
+        1655
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        138,
+        1633,
+        156,
+        1654
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        1696,
+        1127,
+        1792
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 30,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0172.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.16526302083333333,
+  "ocr_added": 0,
+  "ocr_filled": 13
+}

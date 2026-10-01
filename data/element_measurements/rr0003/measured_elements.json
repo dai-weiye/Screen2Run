@@ -1,0 +1,729 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1121,
+        8,
+        1189,
+        41
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        95,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        685,
+        78,
+        706,
+        109
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        831,
+        78,
+        871,
+        118
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        78,
+        1006,
+        96
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1009,
+        78,
+        1028,
+        109
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        508,
+        80,
+        548,
+        116
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        198,
+        89,
+        402,
+        139
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "CARD MAKER FOR",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        99,
+        89,
+        105
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        99,
+        1006,
+        117
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        111,
+        89,
+        117
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        123,
+        89,
+        129
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        493,
+        129,
+        565,
+        147
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "GALLERY",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        658,
+        129,
+        733,
+        147
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "EXAMPLE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        830,
+        129,
+        874,
+        147
+      ],
+      "id": 18,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        968,
+        129,
+        1049,
+        147
+      ],
+      "id": 19,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        41,
+        200,
+        69,
+        236
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        105,
+        201,
+        173,
+        234
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "New",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        103,
+        281,
+        209,
+        320
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "History",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        399,
+        283,
+        1091,
+        1719
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        37,
+        286,
+        73,
+        314
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        37,
+        364,
+        73,
+        400
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        104,
+        364,
+        235,
+        402
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "*",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        395,
+        365,
+        567,
+        424
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "NAME",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        38,
+        446,
+        73,
+        482
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        106,
+        447,
+        213,
+        479
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "Tutorial",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        44,
+        528,
+        400,
+        643
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "CARD NAME",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        63,
+        688,
+        111,
+        736
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        134,
+        702,
+        281,
+        723
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "AddOns Maker",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        63,
+        767,
+        111,
+        815
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        132,
+        781,
+        302,
+        802
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Auto Build House",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        63,
+        846,
+        111,
+        894
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        132,
+        859,
+        257,
+        883
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "YugiOh Card",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        63,
+        928,
+        111,
+        973
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        939,
+        279,
+        959
+      ],
+      "id": 38,
+      "kind": "text",
+      "text": "Pokemon Card",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        1004,
+        111,
+        1048
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        133,
+        1018,
+        246,
+        1039
+      ],
+      "id": 40,
+      "kind": "text",
+      "text": "Mod Maker",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        1088,
+        106,
+        1127
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        132,
+        1095,
+        193,
+        1120
+      ],
+      "id": 42,
+      "kind": "text",
+      "text": "Mods",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        66,
+        1162,
+        111,
+        1210
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        131,
+        1173,
+        193,
+        1202
+      ],
+      "id": 44,
+      "kind": "text",
+      "text": "Maps",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        398,
+        1205,
+        427,
+        1226
+      ],
+      "id": 45,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        63,
+        1241,
+        111,
+        1289
+      ],
+      "id": 46,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        134,
+        1255,
+        296,
+        1276
+      ],
+      "id": 47,
+      "kind": "text",
+      "text": "Resources Pack",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        67,
+        1321,
+        107,
+        1364
+      ],
+      "id": 48,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        132,
+        1332,
+        191,
+        1357
+      ],
+      "id": 49,
+      "kind": "text",
+      "text": "Skins",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        396,
+        1378,
+        431,
+        1402
+      ],
+      "id": 50,
+      "kind": "text",
+      "text": "n..",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        63,
+        1400,
+        111,
+        1447
+      ],
+      "id": 51,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        132,
+        1411,
+        198,
+        1436
+      ],
+      "id": 52,
+      "kind": "text",
+      "text": "Seeds",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        133,
+        1491,
+        256,
+        1512
+      ],
+      "id": 53,
+      "kind": "text",
+      "text": "Game Tuner",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        74,
+        1493,
+        99,
+        1511
+      ],
+      "id": 54,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        63,
+        1557,
+        111,
+        1605
+      ],
+      "id": 55,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        1571,
+        309,
+        1592
+      ],
+      "id": 56,
+      "kind": "text",
+      "text": "Pokemon Toolbox",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1040,
+        1736,
+        1119,
+        1765
+      ],
+      "id": 57,
+      "kind": "text",
+      "text": "NEXT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 58,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 59,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 60,
+      "kind": "component"
+    },
+    {
+      "id": 61,
+      "kind": "text",
+      "bounds": [
+        954,
+        360,
+        1002,
+        374
+      ],
+      "text": "TRAP",
+      "source": "ocr"
+    },
+    {
+      "id": 62,
+      "kind": "text",
+      "bounds": [
+        600,
+        472,
+        913,
+        513
+      ],
+      "text": "LTRAP CARD",
+      "source": "ocr"
+    },
+    {
+      "id": 63,
+      "kind": "text",
+      "bounds": [
+        784,
+        1253,
+        954,
+        1278
+      ],
+      "text": "2.DRAG TO RESIZE",
+      "source": "ocr"
+    },
+    {
+      "id": 64,
+      "kind": "text",
+      "bounds": [
+        413,
+        1653,
+        575,
+        1685
+      ],
+      "text": "YU-GI-OH!",
+      "source": "ocr"
+    },
+    {
+      "id": 65,
+      "kind": "text",
+      "bounds": [
+        829,
+        1652,
+        1024,
+        1680
+      ],
+      "text": "YOUR NAME",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0003.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.49960894097222225,
+  "ocr_added": 5,
+  "ocr_filled": 23
+}

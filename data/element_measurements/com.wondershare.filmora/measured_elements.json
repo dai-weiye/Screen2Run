@@ -1,0 +1,183 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        56,
+        38,
+        79,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        671,
+        110,
+        1075,
+        151
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "Filmora Value-added",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        826,
+        210,
+        1079,
+        263
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        593,
+        321,
+        670,
+        390
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        928,
+        321,
+        991,
+        392
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        261,
+        327,
+        335,
+        384
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        582,
+        406,
+        674,
+        429
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Large space",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        912,
+        407,
+        1007,
+        428
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Draft upload",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        207,
+        408,
+        391,
+        432
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        908,
+        521,
+        1015,
+        586
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        670,
+        641,
+        1079,
+        661
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Not connected to Google service,We suggest you log back",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        883,
+        681,
+        1037,
+        727
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        103,
+        856,
+        1054,
+        891
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        762,
+        897,
+        1080,
+        924
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Terms of use | Privacy Policy | already",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        455,
+        984,
+        498,
+        1032
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        936,
+        985,
+        983,
+        1032
+      ],
+      "id": 15,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.wondershare.filmora.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.0480630737575182,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

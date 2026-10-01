@@ -1,0 +1,273 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        686,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        74,
+        220,
+        118
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        92,
+        193,
+        234,
+        256
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        209,
+        89,
+        241
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Lzqez",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        303,
+        99,
+        335
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Vhwyh",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        559,
+        303,
+        631,
+        332
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Tnfrn",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        118,
+        309,
+        538,
+        332
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        14,
+        372,
+        92,
+        404
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Avceq",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        544,
+        372,
+        632,
+        405
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Rmpgg",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        113,
+        378,
+        524,
+        400
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        322,
+        451,
+        470,
+        520
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        61,
+        465,
+        135,
+        506
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        161,
+        465,
+        292,
+        506
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        467,
+        74,
+        498
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Zdfif",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        35,
+        568,
+        143,
+        610
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        569,
+        83,
+        603
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Qtkvf",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        659,
+        148,
+        692
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "\u2022 Dbvcz",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        660,
+        62,
+        693
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        752,
+        132,
+        786
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "\u2022 Dzixi",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        754,
+        62,
+        787
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        250,
+        1026,
+        280,
+        1062
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        1026,
+        626,
+        1062
+      ],
+      "id": 23,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/1228CEFA-98B1-40D2-B3AD-9F39DAF5E5A5.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.11954738100412954,
+  "ocr_added": 0,
+  "ocr_filled": 10
+}

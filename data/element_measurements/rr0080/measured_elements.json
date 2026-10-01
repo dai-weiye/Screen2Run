@@ -1,0 +1,189 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1122,
+        9,
+        1190,
+        42
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        17,
+        31,
+        27
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        17,
+        46,
+        27
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        494,
+        72,
+        705,
+        112
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Flight Tracker",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        371,
+        204,
+        1085,
+        278
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        122,
+        206,
+        332,
+        379
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Flight Number",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        383,
+        408,
+        1067,
+        658
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        134,
+        417,
+        359,
+        448
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Departure Date:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        696,
+        1157,
+        771
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0080.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.1619123263888889,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

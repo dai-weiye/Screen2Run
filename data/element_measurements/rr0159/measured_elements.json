@@ -1,0 +1,281 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        544,
+        0,
+        571,
+        38
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        677,
+        32,
+        687,
+        75
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        112,
+        40,
+        194,
+        105
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        475,
+        51,
+        545,
+        99
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        111,
+        133,
+        196,
+        232
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        233,
+        224,
+        1085,
+        1721
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        244,
+        212,
+        362
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        603,
+        61,
+        669
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        924,
+        65,
+        996
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        1215,
+        144,
+        1259
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1252,
+        61,
+        1320
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        120,
+        1303,
+        154,
+        1415
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        1519,
+        182,
+        1636
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        1636,
+        191,
+        1721
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1141,
+        1694,
+        1168,
+        1749
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        734,
+        1723,
+        742,
+        1769
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1141,
+        1758,
+        1168,
+        1890
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        102,
+        1775,
+        127,
+        1907
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "MoreGame",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        209,
+        1786,
+        245,
+        1826
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        138,
+        1796,
+        192,
+        1885
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Games",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        208,
+        1856,
+        245,
+        1897
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        1864,
+        35,
+        1874
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        1864,
+        49,
+        1874
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        1864,
+        63,
+        1874
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        801,
+        299,
+        851,
+        681
+      ],
+      "text": "ISLAND BESTAURANT",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        783,
+        1426,
+        1070,
+        1713
+      ],
+      "text": "New Free Game",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0159.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5849045138888889,
+  "ocr_added": 2,
+  "ocr_filled": 2
+}

@@ -1,0 +1,149 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        31,
+        144,
+        69,
+        207
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        392,
+        155,
+        660,
+        196
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "Create account",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        334,
+        337,
+        371
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "Personal Details",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        58,
+        435,
+        1021,
+        577
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        58,
+        605,
+        1020,
+        750
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        59,
+        777,
+        1021,
+        918
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        59,
+        947,
+        1021,
+        1088
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        56,
+        1196,
+        316,
+        1233
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Set a Password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        59,
+        1299,
+        1021,
+        1440
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        1467,
+        1023,
+        1720
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        244,
+        1824,
+        295,
+        1872
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1825,
+        560,
+        1871
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        784,
+        1825,
+        833,
+        1872
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.dnc.waitrose.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3830765273820829,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

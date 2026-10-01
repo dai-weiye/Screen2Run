@@ -1,0 +1,305 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1085,
+        5,
+        1192,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        65,
+        7,
+        101,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1027,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        116,
+        13,
+        146,
+        37
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        210,
+        13,
+        244,
+        37
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        127,
+        91,
+        288,
+        143
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "< Settings",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        88,
+        130
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        43,
+        203,
+        134,
+        232
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "General",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1084,
+        294,
+        1123,
+        334
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        44,
+        295,
+        254,
+        331
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Add Shortcuts",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1084,
+        404,
+        1123,
+        444
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        406,
+        450,
+        443
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Show Optional App Updates",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        44,
+        481,
+        1046,
+        587
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Apps@Work.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        671,
+        187,
+        713
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Send Log",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        780,
+        139,
+        821
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "About",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        41,
+        878,
+        110,
+        911
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "More",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        46,
+        973,
+        343,
+        1004
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Reinstall Certificates",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1084,
+        1079,
+        1123,
+        1119
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        1081,
+        473,
+        1118
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Show Configuration Warnings",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1084,
+        1189,
+        1123,
+        1229
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        1192,
+        265,
+        1230
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Debug Logging",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 26,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0045.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.09136588541666667,
+  "ocr_added": 0,
+  "ocr_filled": 11
+}

@@ -1,0 +1,137 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        22,
+        3,
+        304,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1065,
+        6,
+        1190,
+        41
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        988,
+        8,
+        1010,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        66,
+        1199,
+        274
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        342,
+        713,
+        852,
+        776
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Fnaf Wallpapers HD",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        499,
+        860,
+        700,
+        1061
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        491,
+        1176,
+        708,
+        1214
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Version 1.0.4",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0233.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.15451996527777778,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

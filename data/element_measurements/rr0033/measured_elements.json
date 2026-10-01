@@ -1,0 +1,95 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        47,
+        74,
+        1151,
+        323
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        390,
+        1199,
+        1378
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        1419,
+        1176,
+        1540
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "Power up your game.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        453,
+        1646,
+        745,
+        1728
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        587,
+        1748,
+        611,
+        1772
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        559,
+        1750,
+        579,
+        1770
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        619,
+        1750,
+        639,
+        1770
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1866,
+        606,
+        1879
+      ],
+      "id": 7,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0033.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6759171006944444,
+  "ocr_added": 0,
+  "ocr_filled": 1
+}

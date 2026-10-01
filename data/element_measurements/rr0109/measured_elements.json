@@ -1,0 +1,261 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        3,
+        161,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        954,
+        4,
+        1190,
+        44
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1103,
+        79,
+        1176,
+        126
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        356,
+        491,
+        879,
+        675
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "JANE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        373,
+        506,
+        392,
+        527
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        400,
+        517,
+        422,
+        538
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        345,
+        520,
+        366,
+        541
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        412,
+        546,
+        434,
+        566
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        334,
+        549,
+        355,
+        570
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        402,
+        574,
+        422,
+        594
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        347,
+        576,
+        369,
+        597
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        376,
+        587,
+        396,
+        608
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        717,
+        1076,
+        1116
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1136,
+        733,
+        1199,
+        1108
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        488,
+        1144,
+        713,
+        1193
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Welcome!",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        328,
+        1225,
+        874,
+        1318
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Take a quick tour and check out the",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        542,
+        1354,
+        656,
+        1374
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "SWIPE LEFT <",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        494,
+        1359,
+        525,
+        1374
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        674,
+        1359,
+        705,
+        1374
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        527,
+        1785,
+        535,
+        1794
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0109.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.27935243055555553,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

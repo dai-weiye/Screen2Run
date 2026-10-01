@@ -1,0 +1,395 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        335,
+        14,
+        379,
+        57
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        15,
+        109,
+        56
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        176,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        201,
+        16,
+        247,
+        58
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        267,
+        24,
+        315,
+        46
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        969,
+        26,
+        1008,
+        48
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        405,
+        113,
+        940,
+        195
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "MensHeall",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        982,
+        120,
+        1055,
+        192
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        136,
+        245,
+        217,
+        329
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        846,
+        257,
+        931,
+        316
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        523,
+        267,
+        608,
+        307
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1073,
+        270,
+        1079,
+        329
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        390,
+        334,
+        742,
+        377
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Find My Training Plan",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        335,
+        323,
+        375
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "MVP Membership",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        807,
+        336,
+        972,
+        378
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Magazine",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1076,
+        345,
+        1079,
+        365
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        315,
+        413,
+        329,
+        456
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        731,
+        414,
+        768,
+        450
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        904,
+        418,
+        968,
+        479
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        421,
+        286,
+        465
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Other Shops 1",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        993,
+        438,
+        1020,
+        458
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        720,
+        455,
+        778,
+        475
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        69,
+        803,
+        893,
+        961
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Home /",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1109,
+        1079,
+        1482
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        201,
+        1519,
+        877,
+        1553
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "YOU HAVE 5 MINUTES OF FREE ACCESS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        755,
+        1591,
+        762,
+        1658
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        632,
+        1603,
+        744,
+        1646
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "$4.99",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        288,
+        1609,
+        604,
+        1643
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "Unlock this content",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        400,
+        1682,
+        466,
+        1749
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        345,
+        1698,
+        396,
+        1736
+      ],
+      "id": 30,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        420,
+        1701,
+        617,
+        1732
+      ],
+      "id": 31,
+      "kind": "text",
+      "text": "Or SUBSCRIBE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        645,
+        1702,
+        722,
+        1736
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "now",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 35,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.maz.combo89.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3503824266975309,
+  "ocr_added": 0,
+  "ocr_filled": 11
+}

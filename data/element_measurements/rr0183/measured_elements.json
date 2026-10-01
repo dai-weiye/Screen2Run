@@ -1,0 +1,691 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        22,
+        6,
+        175,
+        41
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "\u2192",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1069,
+        9,
+        1186,
+        40
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        64,
+        1151,
+        1665
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        99,
+        1644,
+        1098,
+        1668
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "All title, includina but not limited to copyriahts, in and to the SOFTWARE PRODUCT and",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        992,
+        1713,
+        1103,
+        1746
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "ACCEPT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        844,
+        1716,
+        948,
+        1744
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "REJECT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        179,
+        134,
+        494,
+        170
+      ],
+      "text": "GPS Status EULA",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        95,
+        207,
+        1013,
+        232
+      ],
+      "text": "IMPORTANT! PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        98,
+        237,
+        1083,
+        262
+      ],
+      "text": "AGREEMENT CAREFULLY BEFORE CONTINUING TO USE THIS PROGRAM: This End-",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        95,
+        293,
+        1002,
+        324
+      ],
+      "text": "individual or a single entity) and MobiWIA Ltd. for the GPS Status and Toolbox",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        98,
+        265,
+        985,
+        296
+      ],
+      "text": "User License Agreement (EULA) is a legal agreement between you (either an",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        98,
+        327,
+        954,
+        354
+      ],
+      "text": "software product identified above which may include associated software",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        95,
+        385,
+        1038,
+        416
+      ],
+      "text": "installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        98,
+        354,
+        1044,
+        385
+      ],
+      "text": "components, and online or electronic documentation (SOFTWARE PRODUCT). By",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        98,
+        444,
+        1055,
+        474
+      ],
+      "text": "agreement concerning the program between you and MobiWIA Ltd., (referred to as",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        100,
+        416,
+        1007,
+        444
+      ],
+      "text": "bound by the terms of this EULA. This license agreement represents the entire",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        95,
+        477,
+        1027,
+        508
+      ],
+      "text": "licenser), and it supersedes any prior proposal, representation, or understanding",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        98,
+        536,
+        1088,
+        567
+      ],
+      "text": "the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is protected by copyright laws",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        100,
+        505,
+        1094,
+        533
+      ],
+      "text": "between the parties. If you do not agree to the terms of this EULA, do not install or use",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        95,
+        594,
+        753,
+        625
+      ],
+      "text": "treaties. The SOFTWARE PRODUCT is licensed, not sold.",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        98,
+        567,
+        1041,
+        594
+      ],
+      "text": "and international copyright treaties, as well as other intellectual property laws and",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        95,
+        656,
+        366,
+        684
+      ],
+      "text": "1. GRANT OF LICENSE",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        98,
+        717,
+        363,
+        742
+      ],
+      "text": "(a) Installation and Use.",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        98,
+        684,
+        678,
+        712
+      ],
+      "text": "The SOFTWARE PRODUCT is licensed as follows:",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        98,
+        745,
+        991,
+        776
+      ],
+      "text": "MobiWIA Ltd. grants you the right to install and use copies of the SOFTWARE",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        98,
+        807,
+        313,
+        834
+      ],
+      "text": "(b) Backup Copies.",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        98,
+        776,
+        580,
+        804
+      ],
+      "text": "PRODUCT on your Android based device.",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        97,
+        862,
+        461,
+        901
+      ],
+      "text": "backup and archival purposes.",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        98,
+        834,
+        1047,
+        865
+      ],
+      "text": "You may also make copies of the SOFTWARE PRODUCT as may be necessary for",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        95,
+        954,
+        522,
+        985
+      ],
+      "text": "(a) Maintenance of Copyright Notices.",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        98,
+        927,
+        751,
+        952
+      ],
+      "text": "2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        98,
+        1016,
+        374,
+        1041
+      ],
+      "text": "SOFTWARE PRODUCT.",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        100,
+        985,
+        1013,
+        1013
+      ],
+      "text": "You must not remove or alter any copyright notices on any and all copies of the",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        98,
+        1047,
+        276,
+        1074
+      ],
+      "text": "(b) Distribution.",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        95,
+        1105,
+        530,
+        1136
+      ],
+      "text": "(c) Prohibition on Reverse Engineering.",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        98,
+        1074,
+        971,
+        1102
+      ],
+      "text": "You may not distribute copies of the SOFTWARE PRODUCT to third parties.",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        98,
+        1164,
+        1058,
+        1194
+      ],
+      "text": "except and only to the extent that such activity is expressly permitted by applicable",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        98,
+        1136,
+        1091,
+        1167
+      ],
+      "text": "You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT,",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        92,
+        1194,
+        505,
+        1225
+      ],
+      "text": "law notwithstanding this limitation.",
+      "source": "ocr"
+    },
+    {
+      "id": 46,
+      "kind": "text",
+      "bounds": [
+        97,
+        1224,
+        218,
+        1254
+      ],
+      "text": "(d) Rental.",
+      "source": "ocr"
+    },
+    {
+      "id": 47,
+      "kind": "text",
+      "bounds": [
+        98,
+        1256,
+        781,
+        1284
+      ],
+      "text": "You may not rent, lease, or lend the SOFTWARE PRODUCT.",
+      "source": "ocr"
+    },
+    {
+      "id": 48,
+      "kind": "text",
+      "bounds": [
+        98,
+        1284,
+        329,
+        1314
+      ],
+      "text": "(e) Support Services",
+      "source": "ocr"
+    },
+    {
+      "id": 49,
+      "kind": "text",
+      "bounds": [
+        98,
+        1345,
+        455,
+        1373
+      ],
+      "text": "PRODUCT (Support Services).",
+      "source": "ocr"
+    },
+    {
+      "id": 50,
+      "kind": "text",
+      "bounds": [
+        98,
+        1312,
+        1010,
+        1345
+      ],
+      "text": "MobiWIA Ltd. may provide you with support services related to the SOFTWARE",
+      "source": "ocr"
+    },
+    {
+      "id": 51,
+      "kind": "text",
+      "bounds": [
+        98,
+        1376,
+        508,
+        1404
+      ],
+      "text": "(f) Compliance with Applicable Laws.",
+      "source": "ocr"
+    },
+    {
+      "id": 52,
+      "kind": "text",
+      "bounds": [
+        98,
+        1404,
+        1091,
+        1434
+      ],
+      "text": "You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.",
+      "source": "ocr"
+    },
+    {
+      "id": 53,
+      "kind": "text",
+      "bounds": [
+        98,
+        1465,
+        304,
+        1493
+      ],
+      "text": "3. TERMINATION",
+      "source": "ocr"
+    },
+    {
+      "id": 54,
+      "kind": "text",
+      "bounds": [
+        95,
+        1524,
+        1097,
+        1554
+      ],
+      "text": "to comply with the terms and conditions of this EULA. In such event, you must destroy",
+      "source": "ocr"
+    },
+    {
+      "id": 55,
+      "kind": "text",
+      "bounds": [
+        98,
+        1493,
+        1094,
+        1527
+      ],
+      "text": "Without prejudice to any other rights, MobiWIA Ltd. may terminate this EULA if you fail",
+      "source": "ocr"
+    },
+    {
+      "id": 56,
+      "kind": "text",
+      "bounds": [
+        98,
+        1554,
+        790,
+        1585
+      ],
+      "text": "all copies of the SOFTWARE PRODUCT in your possession.",
+      "source": "ocr"
+    },
+    {
+      "id": 57,
+      "kind": "text",
+      "bounds": [
+        98,
+        1616,
+        273,
+        1644
+      ],
+      "text": "4. COPYRIGHT",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0183.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8125481770833334,
+  "ocr_added": 45,
+  "ocr_filled": 4
+}

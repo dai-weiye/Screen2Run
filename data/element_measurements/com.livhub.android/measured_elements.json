@@ -1,0 +1,505 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        136,
+        9,
+        183,
+        63
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        200,
+        9,
+        248,
+        63
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        271,
+        9,
+        311,
+        63
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        335,
+        9,
+        383,
+        64
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        21,
+        15,
+        106,
+        57
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        959,
+        24,
+        1015,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        25,
+        431,
+        47
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        382,
+        128,
+        695,
+        186
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Privacy Policy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        967,
+        128,
+        1023,
+        184
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        56,
+        134,
+        87,
+        183
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        6,
+        247,
+        236,
+        345
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Privacy Policy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        360,
+        1063,
+        413
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        407,
+        1065,
+        448
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "ivhub mobile application (\"App\") or all of the services available or related to therein (collectively referred to in this Privacy Policy as th",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        439,
+        303,
+        472
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        488,
+        1071,
+        536
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        544,
+        207,
+        568
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        584,
+        1046,
+        612
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        8,
+        607,
+        1047,
+        624
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "set out below.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        615,
+        1047,
+        648
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        664,
+        303,
+        688
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        704,
+        1039,
+        768
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        784,
+        1055,
+        920
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        911,
+        1053,
+        931
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "information that you make available on Facebook (for example, your first and last names, email address, profile picture, birthdays). We",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        922,
+        1055,
+        976
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        992,
+        1071,
+        1127
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        1118,
+        1070,
+        1135
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Services or updates regarding changes to our Services and tohelp others find your account if your settings permit, including through",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        1134,
+        1039,
+        1184
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        1192,
+        215,
+        1216
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        1232,
+        1066,
+        1270
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        6,
+        1279,
+        1064,
+        1317
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "and reliably set up and maintain your account and to provide our Services to you and maintain the integrity and security of our Services.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        1315,
+        512,
+        1336
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        1416,
+        119,
+        1440
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        1456,
+        959,
+        1480
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        8,
+        1496,
+        1051,
+        1513
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "For example, when you visit our websites, sign into our services, interact with our email notifications, use your account to authenticate",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        1511,
+        1055,
+        1604
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        8,
+        1600,
+        1054,
+        1617
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "connections on our Services and general information about your communications on Livhub such as the user you have communicated",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        1609,
+        1055,
+        1768
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        1784,
+        335,
+        1808
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        8,
+        1823,
+        304,
+        1840
+      ],
+      "id": 39,
+      "kind": "text",
+      "text": "2.4. Other Third Parties and Affiliates",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        1861,
+        1063,
+        1904
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        8,
+        1920,
+        1066,
+        1940
+      ],
+      "id": 41,
+      "kind": "text",
+      "text": "We use the information we receive to operate our Services. For integrations that we formally support, you may revoke this permission at",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        7,
+        1932,
+        921,
+        1968
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        7,
+        1976,
+        1039,
+        2015
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        244,
+        2064,
+        287,
+        2112
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        2064,
+        833,
+        2112
+      ],
+      "id": 45,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        2066,
+        560,
+        2111
+      ],
+      "id": 46,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.livhub.android.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.534565131370687,
+  "ocr_added": 0,
+  "ocr_filled": 11
+}

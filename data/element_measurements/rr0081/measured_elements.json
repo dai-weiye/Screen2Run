@@ -1,0 +1,365 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1069,
+        7,
+        1189,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        95,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1137,
+        90,
+        1165,
+        123
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        114,
+        92,
+        326,
+        140
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "= Safety Plan",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        35,
+        102,
+        75,
+        106
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        112,
+        75,
+        116
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        122,
+        75,
+        126
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1144,
+        127,
+        1155,
+        138
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        957,
+        208,
+        1042,
+        240
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "CRISIS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        165,
+        210,
+        236,
+        240
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "PLAN",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        562,
+        210,
+        639,
+        239
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "GUIDE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        264,
+        399,
+        273
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        31,
+        309,
+        1167,
+        476
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Press the ? icon in the upper right corner for instructions on how to fill out this safety plan.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        51,
+        355,
+        123,
+        429
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        63,
+        512,
+        111,
+        584
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        525,
+        838,
+        633
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Coping Strategies",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        44,
+        661,
+        130,
+        747
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        129,
+        681,
+        1164,
+        788
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Reasons to Live",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        127,
+        838,
+        1128,
+        977
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "828",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        45,
+        840,
+        100,
+        881
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        102,
+        840,
+        129,
+        879
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        60,
+        1024,
+        115,
+        1075
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        420,
+        1025,
+        874,
+        1070
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Places for Distraction",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        129,
+        1100,
+        870,
+        1133
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "Press the button above to add places that can distract you.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        129,
+        1178,
+        1041,
+        1288
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "Other",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        45,
+        1189,
+        129,
+        1221
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 32,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0081.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3120542534722222,
+  "ocr_added": 0,
+  "ocr_filled": 11
+}

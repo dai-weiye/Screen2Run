@@ -1,0 +1,287 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1002,
+        3,
+        1191,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        65,
+        7,
+        101,
+        43
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        7,
+        149,
+        43
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        262,
+        10,
+        289,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        409,
+        160,
+        743,
+        477
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        547,
+        484,
+        575,
+        529
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        633,
+        484,
+        659,
+        531
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        679,
+        484,
+        708,
+        529
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        462,
+        485,
+        489,
+        531
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        493,
+        485,
+        514,
+        531
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        514,
+        485,
+        546,
+        531
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        578,
+        485,
+        598,
+        531
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        600,
+        485,
+        628,
+        532
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        663,
+        485,
+        676,
+        531
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        711,
+        485,
+        738,
+        531
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        742,
+        485,
+        750,
+        493
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        458,
+        552,
+        743,
+        592
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "unite your worlds\"",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        215,
+        698,
+        983,
+        794
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        252,
+        1701,
+        289,
+        1765
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        302,
+        1724,
+        950,
+        1757
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "By registering you accept our Terms & Privacy Policy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 26,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0023.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.10788064236111111,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

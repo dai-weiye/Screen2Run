@@ -1,0 +1,241 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        4,
+        4,
+        564,
+        148
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "WEATHE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1121,
+        8,
+        1189,
+        41
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        20,
+        10,
+        50,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        75,
+        11,
+        92,
+        34
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        67,
+        37,
+        99,
+        41
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        757,
+        116,
+        910,
+        151
+      ],
+      "id": 8,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        7,
+        189,
+        1180,
+        1645
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        167,
+        201,
+        564,
+        226
+      ],
+      "text": "aman\u044fmant",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        751,
+        198,
+        907,
+        223
+      ],
+      "text": "TWIO",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        167,
+        282,
+        564,
+        313
+      ],
+      "text": "amenamen.",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        712,
+        276,
+        949,
+        313
+      ],
+      "text": "THREE",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        555,
+        349,
+        642,
+        377
+      ],
+      "text": "CLOSE",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        399,
+        413,
+        801,
+        447
+      ],
+      "text": "Right to keep and bear arms",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        70,
+        455,
+        1127,
+        491
+      ],
+      "text": "A well-regulated militia, being necessary to the security of a free State, the",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        142,
+        491,
+        1058,
+        527
+      ],
+      "text": "right of the people to keep and bear arms, shall not be infringed.",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0140.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7838485243055555,
+  "ocr_added": 8,
+  "ocr_filled": 1
+}

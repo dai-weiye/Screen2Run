@@ -1,0 +1,203 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        14,
+        127,
+        57
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1032,
+        16,
+        1055,
+        55
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        18,
+        176,
+        54
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        203,
+        18,
+        242,
+        54
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        18,
+        308,
+        54
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        335,
+        18,
+        374,
+        54
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        969,
+        26,
+        1008,
+        48
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        417,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        908,
+        108,
+        995,
+        194
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        76,
+        439,
+        596,
+        528
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "About the app:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        76,
+        582,
+        968,
+        719
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "This app was created with privacy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        77,
+        779,
+        990,
+        1106
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "No information stored will be",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        79,
+        1169,
+        979,
+        1363
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "More details about the app, your",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        75,
+        1564,
+        774,
+        1655
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "How to use the app:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        84,
+        1756,
+        179,
+        1776
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.likiipedia.Lupio.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.35342399691358023,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

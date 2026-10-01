@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="411.4239dp"
+    android:layout_height="658.2782dp">
+
+    <FrameLayout
+        android:background="#36678A"
+        android:id="@+id/view_2"
+        android:layout_width="411.4239dp"
+        android:layout_height="285.2539dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:paddingTop="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Swipe down from the top to exit full screen."
+                android:textColor="#3B3B3B"
+                android:textSize="16sp"
+                android:background="#8DCCEF"
+                android:paddingStart="22dp"
+                android:paddingEnd="22dp"
+                android:paddingTop="30dp"
+                android:paddingBottom="30dp"
+                android:gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="end"
+                android:text="OK"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:background="#57A5D6"
+                android:gravity="center"
+                android:paddingStart="42dp"
+                android:paddingEnd="42dp"
+                android:paddingTop="16dp"
+                android:paddingBottom="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="#B0D8E8"
+        android:padding="16dp"
+        android:id="@+id/view_3"
+        android:layout_width="411.4239dp"
+        android:layout_height="185.8264dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="359.653dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/img"
+            android:tint="#FFFFFF"
+            android:background="#00A0D2"
+            android:padding="20dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:paddingTop="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="R"
+                android:textColor="#FFFFFF"
+                android:textSize="24sp"
+                android:background="#9C27B0"
+                android:padding="12dp" />
+
+            <Space
+                android:layout_width="10dp"
+                android:layout_height="1dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:background="#4CAF50"
+                android:padding="12dp" />
+
+            <Space
+                android:layout_width="10dp"
+                android:layout_height="1dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:background="#4CAF50"
+                android:padding="12dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="411.4239dp"
+        android:layout_height="22.2855dp"
+        android:id="@+id/view_4"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="560.565dp">
+
+        <View
+            android:background="#2E7C8C"
+            android:id="@+id/view_5"
+            android:layout_width="32.5711dp"
+            android:layout_height="22.2855dp"
+            android:layout_marginStart="378.8528dp"
+            android:layout_marginTop="0dp" />
+
+        <ImageView
+            android:scaleType="fitXY"
+            android:src="@drawable/img"
+            android:id="@+id/view_6"
+            android:layout_width="20.5712dp"
+            android:layout_height="22.2855dp"
+            android:layout_marginStart="333.939dp"
+            android:layout_marginTop="0dp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="411.4239dp"
+        android:layout_height="62.7421dp"
+        android:id="@+id/view_7"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="595.5361dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitXY"
+            android:background="#2A7E8C"
+            android:id="@+id/view_8"
+            android:layout_width="32.2282dp"
+            android:layout_height="62.7421dp"
+            android:layout_marginStart="304.7965dp"
+            android:layout_marginTop="0dp" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitXY"
+            android:contentDescription="green ball"
+            android:id="@+id/view_9"
+            android:layout_width="59.3136dp"
+            android:layout_height="62.7421dp"
+            android:layout_marginStart="205.0262dp"
+            android:layout_marginTop="0dp" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitXY"
+            android:id="@+id/view_10"
+            android:layout_width="175.5409dp"
+            android:layout_height="62.7421dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp" />
+    </FrameLayout>
+</FrameLayout>

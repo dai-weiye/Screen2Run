@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="411.4239dp"
+    android:layout_height="658.2782dp"
+    android:id="@+id/view_1">
+
+    <RelativeLayout
+        android:background="#000000"
+        android:id="@+id/view_2"
+        android:layout_width="411.4239dp"
+        android:layout_height="17.1427dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingStart="4dp"
+            android:paddingEnd="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:padding="2dp"
+                android:tint="#FFFFFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:padding="2dp"
+                android:tint="#FFFFFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:padding="2dp"
+                android:tint="#CCCCCC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:padding="2dp"
+                android:tint="#FFFFFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingStart="4dp"
+            android:paddingEnd="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:padding="2dp"
+                android:tint="#CCCCCC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:padding="2dp"
+                android:tint="#FFFFFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:padding="2dp"
+                android:tint="#FFFFFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="6:54"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp"
+                android:paddingStart="4dp"
+                android:paddingEnd="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="#FFFFFF"
+        android:padding="16dp"
+        android:id="@+id/view_3"
+        android:layout_width="411.4239dp"
+        android:layout_height="144.6841dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="139.5413dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="5 7 8 9 6 9"
+            android:textColor="#3C4043"
+            android:textSize="20sp"
+            android:letterSpacing="0.18"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:background="#FFFFFF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:background="#5B7EC0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <TextView
+        android:text="Your Security Matters"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="#3B82F6"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:id="@+id/view_4"
+        android:layout_width="411.4239dp"
+        android:layout_height="27.7711dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="290.7395dp" />
+
+    <TextView
+        android:background="#4285F4"
+        android:paddingLeft="44dp"
+        android:paddingRight="44dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:text="During sign in, you can tell us not to ask for a code again on that computer."
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:lineSpacingMultiplier="1.2"
+        android:id="@+id/view_5"
+        android:layout_width="411.4239dp"
+        android:layout_height="36.6853dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="321.2535dp" />
+
+    <TextView
+        android:text="You'll still be covered because we'll ask for codes when you (or anyone else) tries to sign in to your account from other computers."
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:gravity="center_vertical"
+        android:background="#4285F4"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:id="@+id/view_6"
+        android:layout_width="411.4239dp"
+        android:layout_height="38.0567dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="361.7102dp" />
+
+    <FrameLayout
+        android:id="@+id/view_7"
+        android:layout_width="411.4239dp"
+        android:layout_height="21.9426dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="592.4504dp">
+
+        <ImageView
+            android:background="#4285F4"
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:paddingStart="24dp"
+            android:paddingEnd="64dp"
+            android:contentDescription=""
+            android:id="@+id/view_8"
+            android:layout_width="32.2282dp"
+            android:layout_height="21.9426dp"
+            android:layout_marginStart="379.1957dp"
+            android:layout_marginTop="0dp" />
+
+        <LinearLayout
+            android:background="#3B7DF6"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:id="@+id/view_9"
+            android:layout_width="48.6852dp"
+            android:layout_height="21.9426dp"
+            android:layout_marginStart="181.3694dp"
+            android:layout_marginTop="0dp">
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/img"
+                android:tint="#80FFFFFF" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/img"
+                android:tint="#FFFFFF" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:padding="8dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/img"
+                android:tint="#80FFFFFF" />
+        </LinearLayout>
+
+        <TextView
+            android:text="SKIP"
+            android:textColor="#FFFFFF"
+            android:textSize="34sp"
+            android:gravity="center"
+            android:background="#4285F4"
+            android:fontFamily="sans-serif-light"
+            android:letterSpacing="0.08"
+            android:id="@+id/view_10"
+            android:layout_width="47.3137dp"
+            android:layout_height="21.9426dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="#000000"
+        android:gravity="center"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"
+        android:id="@+id/view_11"
+        android:layout_width="411.4239dp"
+        android:layout_height="33.2568dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="625.0214dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:padding="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:padding="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:padding="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

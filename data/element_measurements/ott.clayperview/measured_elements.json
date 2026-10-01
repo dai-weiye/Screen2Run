@@ -1,0 +1,171 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        21,
+        13,
+        112,
+        59
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        136,
+        16,
+        181,
+        59
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        962,
+        24,
+        986,
+        50
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1013,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        56,
+        129,
+        109,
+        184
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        129,
+        1023,
+        184
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        58,
+        250,
+        330,
+        368
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Log in",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        80,
+        491,
+        177,
+        528
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Email",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        77,
+        561,
+        492,
+        617
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "dummy_user_input",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        81,
+        685,
+        293,
+        720
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Invalid Email",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        71,
+        1512,
+        1007,
+        1704
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        244,
+        1824,
+        295,
+        1872
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1825,
+        560,
+        1871
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        784,
+        1825,
+        833,
+        1872
+      ],
+      "id": 14,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/ott.clayperview.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.10572372586261475,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

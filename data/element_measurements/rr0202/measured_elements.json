@@ -1,0 +1,119 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        954,
+        5,
+        1191,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        8,
+        248,
+        39
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        129,
+        92,
+        511,
+        139
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "MINDBODY Support",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        88,
+        130
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        210,
+        107,
+        261
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "FAQ",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        28,
+        330,
+        278,
+        368
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Submit a Ticket",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0202.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.024231336805555555,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

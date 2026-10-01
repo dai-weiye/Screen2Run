@@ -1,0 +1,255 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        13,
+        106,
+        59
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        142,
+        15,
+        176,
+        54
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        207,
+        15,
+        242,
+        57
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        339,
+        15,
+        375,
+        54
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        908,
+        15,
+        1021,
+        58
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        273,
+        18,
+        309,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        417,
+        252,
+        804,
+        331
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "SchoolNet",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        276,
+        262,
+        396,
+        325
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        870,
+        543,
+        936,
+        593
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "CL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        615,
+        544,
+        773,
+        592
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Idioma:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        791,
+        546,
+        852,
+        588
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        146,
+        703,
+        549,
+        750
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Acceso usuarios",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        147,
+        791,
+        929,
+        911
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        147,
+        926,
+        929,
+        1061
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        145,
+        1099,
+        666,
+        1148
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "\u00bfOlvidaste tu contrase\u00f1a?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        147,
+        1195,
+        929,
+        1341
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        147,
+        1347,
+        929,
+        1491
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        188,
+        1557,
+        889,
+        1596
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Pol\u00edtica de Privacidad y Seguridad de Datos",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        292,
+        1866
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 22,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/cl.colegium.SchoolNet_Mobile.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2754711612654321,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

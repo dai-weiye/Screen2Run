@@ -1,0 +1,1149 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1122,
+        8,
+        1163,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        77,
+        9,
+        1100,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        11,
+        10,
+        58,
+        57
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        71,
+        1199,
+        1152
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1179,
+        39,
+        1228
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        223,
+        1179,
+        321,
+        1228
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "I will",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        862,
+        1182,
+        985,
+        1227
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "1 have",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1121,
+        1188,
+        1147,
+        1223
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1189,
+        599,
+        1222
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        98,
+        1295,
+        105,
+        1312
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        200,
+        1295,
+        212,
+        1312
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        307,
+        1295,
+        319,
+        1312
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        413,
+        1295,
+        426,
+        1312
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        522,
+        1295,
+        533,
+        1312
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        629,
+        1295,
+        640,
+        1312
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        735,
+        1295,
+        747,
+        1312
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        843,
+        1295,
+        854,
+        1312
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        949,
+        1295,
+        961,
+        1312
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1057,
+        1295,
+        1068,
+        1312
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        484,
+        1322,
+        499,
+        1358
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1109,
+        1325,
+        1158,
+        1361
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        1329,
+        76,
+        1368
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        152,
+        1329,
+        189,
+        1358
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        265,
+        1329,
+        289,
+        1358
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        377,
+        1329,
+        392,
+        1357
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        585,
+        1329,
+        611,
+        1369
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        694,
+        1329,
+        717,
+        1358
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        810,
+        1329,
+        815,
+        1358
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        907,
+        1329,
+        933,
+        1358
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1014,
+        1329,
+        1039,
+        1368
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        428,
+        1451,
+        446,
+        1493
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        318,
+        1452,
+        342,
+        1493
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        640,
+        1452,
+        663,
+        1493
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        853,
+        1452,
+        877,
+        1493
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        970,
+        1452,
+        976,
+        1492
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1071,
+        1455,
+        1141,
+        1525
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        106,
+        1464,
+        130,
+        1493
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        212,
+        1464,
+        235,
+        1493
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        532,
+        1464,
+        556,
+        1504
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        752,
+        1464,
+        764,
+        1504
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        586,
+        1588,
+        611,
+        1629
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        40,
+        1595,
+        88,
+        1633
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1109,
+        1595,
+        1157,
+        1633
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1015,
+        1596,
+        1037,
+        1624
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        916,
+        1597,
+        922,
+        1623
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        159,
+        1600,
+        182,
+        1629
+      ],
+      "id": 45,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        265,
+        1600,
+        289,
+        1628
+      ],
+      "id": 46,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        372,
+        1600,
+        397,
+        1629
+      ],
+      "id": 47,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        479,
+        1600,
+        504,
+        1628
+      ],
+      "id": 48,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        694,
+        1600,
+        717,
+        1628
+      ],
+      "id": 49,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        793,
+        1600,
+        833,
+        1629
+      ],
+      "id": 50,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        44,
+        1649,
+        84,
+        1655
+      ],
+      "id": 51,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        247,
+        1727,
+        843,
+        1768
+      ],
+      "id": 52,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        899,
+        1727,
+        939,
+        1767
+      ],
+      "id": 53,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1730,
+        101,
+        1764
+      ],
+      "id": 54,
+      "kind": "text",
+      "text": "?123",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1096,
+        1730,
+        1171,
+        1764
+      ],
+      "id": 55,
+      "kind": "text",
+      "text": "?123",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        166,
+        1742,
+        174,
+        1756
+      ],
+      "id": 56,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 57,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 58,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        315,
+        1870,
+        374,
+        1888
+      ],
+      "id": 59,
+      "kind": "component"
+    },
+    {
+      "id": 60,
+      "kind": "text",
+      "bounds": [
+        81,
+        112,
+        287,
+        131
+      ],
+      "text": "Create Path/Waypoint",
+      "source": "ocr"
+    },
+    {
+      "id": 61,
+      "kind": "text",
+      "bounds": [
+        343,
+        184,
+        466,
+        212
+      ],
+      "text": "Hudson Bay",
+      "source": "ocr"
+    },
+    {
+      "id": 62,
+      "kind": "text",
+      "bounds": [
+        1049,
+        151,
+        1172,
+        167
+      ],
+      "text": "< Mock Guide >",
+      "source": "ocr"
+    },
+    {
+      "id": 63,
+      "kind": "text",
+      "bounds": [
+        1060,
+        207,
+        1161,
+        223
+      ],
+      "text": "< Favorites >",
+      "source": "ocr"
+    },
+    {
+      "id": 64,
+      "kind": "text",
+      "bounds": [
+        0,
+        268,
+        81,
+        296
+      ],
+      "text": "anada",
+      "source": "ocr"
+    },
+    {
+      "id": 65,
+      "kind": "text",
+      "bounds": [
+        75,
+        338,
+        190,
+        357
+      ],
+      "text": "MANITOBA",
+      "source": "ocr"
+    },
+    {
+      "id": 66,
+      "kind": "text",
+      "bounds": [
+        868,
+        416,
+        1035,
+        433
+      ],
+      "text": "NEWFOUNDLAND",
+      "source": "ocr"
+    },
+    {
+      "id": 67,
+      "kind": "text",
+      "bounds": [
+        876,
+        438,
+        1027,
+        458
+      ],
+      "text": "AND LABRADOR",
+      "source": "ocr"
+    },
+    {
+      "id": 68,
+      "kind": "text",
+      "bounds": [
+        326,
+        516,
+        416,
+        539
+      ],
+      "text": "ONTARIO",
+      "source": "ocr"
+    },
+    {
+      "id": 69,
+      "kind": "text",
+      "bounds": [
+        639,
+        525,
+        723,
+        547
+      ],
+      "text": "QUEBEC",
+      "source": "ocr"
+    },
+    {
+      "id": 70,
+      "kind": "text",
+      "bounds": [
+        11,
+        646,
+        101,
+        671
+      ],
+      "text": "LNORTH",
+      "source": "ocr"
+    },
+    {
+      "id": 71,
+      "kind": "text",
+      "bounds": [
+        22,
+        672,
+        106,
+        695
+      ],
+      "text": "DAKOTA",
+      "source": "ocr"
+    },
+    {
+      "id": 72,
+      "kind": "text",
+      "bounds": [
+        134,
+        700,
+        254,
+        723
+      ],
+      "text": "MINNESOTA",
+      "source": "ocr"
+    },
+    {
+      "id": 73,
+      "kind": "text",
+      "bounds": [
+        622,
+        695,
+        720,
+        723
+      ],
+      "text": "Montreal",
+      "source": "ocr"
+    },
+    {
+      "id": 74,
+      "kind": "text",
+      "bounds": [
+        823,
+        675,
+        857,
+        698
+      ],
+      "text": "NB",
+      "source": "ocr"
+    },
+    {
+      "id": 75,
+      "kind": "text",
+      "bounds": [
+        887,
+        698,
+        932,
+        723
+      ],
+      "text": "PE",
+      "source": "ocr"
+    },
+    {
+      "id": 76,
+      "kind": "text",
+      "bounds": [
+        22,
+        767,
+        106,
+        790
+      ],
+      "text": "DAKOTA",
+      "source": "ocr"
+    },
+    {
+      "id": 77,
+      "kind": "text",
+      "bounds": [
+        28,
+        742,
+        98,
+        767
+      ],
+      "text": "SOUTH",
+      "source": "ocr"
+    },
+    {
+      "id": 78,
+      "kind": "text",
+      "bounds": [
+        248,
+        748,
+        363,
+        771
+      ],
+      "text": "WISCONSIN",
+      "source": "ocr"
+    },
+    {
+      "id": 79,
+      "kind": "text",
+      "bounds": [
+        366,
+        779,
+        469,
+        798
+      ],
+      "text": "MICHIGAN",
+      "source": "ocr"
+    },
+    {
+      "id": 80,
+      "kind": "text",
+      "bounds": [
+        491,
+        784,
+        709,
+        809
+      ],
+      "text": "Current Location",
+      "source": "ocr"
+    },
+    {
+      "id": 81,
+      "kind": "text",
+      "bounds": [
+        505,
+        756,
+        578,
+        773
+      ],
+      "text": "Tarnnta",
+      "source": "ocr"
+    },
+    {
+      "id": 82,
+      "kind": "text",
+      "bounds": [
+        734,
+        734,
+        966,
+        773
+      ],
+      "text": "MAINE\u2192 NOVA SCOTIA",
+      "source": "ocr"
+    },
+    {
+      "id": 83,
+      "kind": "text",
+      "bounds": [
+        28,
+        848,
+        137,
+        871
+      ],
+      "text": "NEBRASKA",
+      "source": "ocr"
+    },
+    {
+      "id": 84,
+      "kind": "text",
+      "bounds": [
+        187,
+        832,
+        246,
+        857
+      ],
+      "text": "IOWA",
+      "source": "ocr"
+    },
+    {
+      "id": 85,
+      "kind": "text",
+      "bounds": [
+        310,
+        812,
+        394,
+        840
+      ],
+      "text": "Chicago",
+      "source": "ocr"
+    },
+    {
+      "id": 86,
+      "kind": "text",
+      "bounds": [
+        1119,
+        795,
+        1169,
+        837
+      ],
+      "text": "10",
+      "source": "ocr"
+    },
+    {
+      "id": 87,
+      "kind": "text",
+      "bounds": [
+        0,
+        901,
+        92,
+        921
+      ],
+      "text": "nited States",
+      "source": "ocr"
+    },
+    {
+      "id": 88,
+      "kind": "text",
+      "bounds": [
+        265,
+        865,
+        354,
+        885
+      ],
+      "text": "ILLINOIS",
+      "source": "ocr"
+    },
+    {
+      "id": 89,
+      "kind": "text",
+      "bounds": [
+        1130,
+        837,
+        1161,
+        854
+      ],
+      "text": "kph",
+      "source": "ocr"
+    },
+    {
+      "id": 90,
+      "kind": "text",
+      "bounds": [
+        340,
+        898,
+        430,
+        921
+      ],
+      "text": "INDIANA",
+      "source": "ocr"
+    },
+    {
+      "id": 91,
+      "kind": "text",
+      "bounds": [
+        441,
+        876,
+        494,
+        899
+      ],
+      "text": "\u041e\u041d\u0406\u041e",
+      "source": "ocr"
+    },
+    {
+      "id": 92,
+      "kind": "text",
+      "bounds": [
+        64,
+        938,
+        148,
+        960
+      ],
+      "text": "KANSAS",
+      "source": "ocr"
+    },
+    {
+      "id": 93,
+      "kind": "text",
+      "bounds": [
+        190,
+        942,
+        293,
+        967
+      ],
+      "text": "MISSOURI",
+      "source": "ocr"
+    },
+    {
+      "id": 94,
+      "kind": "text",
+      "bounds": [
+        457,
+        951,
+        550,
+        975
+      ],
+      "text": "VIRGINIA",
+      "source": "ocr"
+    },
+    {
+      "id": 95,
+      "kind": "text",
+      "bounds": [
+        75,
+        1019,
+        187,
+        1038
+      ],
+      "text": "OKLAHOMA",
+      "source": "ocr"
+    },
+    {
+      "id": 96,
+      "kind": "text",
+      "bounds": [
+        313,
+        1019,
+        433,
+        1041
+      ],
+      "text": "TENNESSEE",
+      "source": "ocr"
+    },
+    {
+      "id": 97,
+      "kind": "text",
+      "bounds": [
+        1116,
+        982,
+        1178,
+        1033
+      ],
+      "text": "RB",
+      "source": "ocr"
+    },
+    {
+      "id": 98,
+      "kind": "text",
+      "bounds": [
+        112,
+        1074,
+        179,
+        1097
+      ],
+      "text": "Dallas",
+      "source": "ocr"
+    },
+    {
+      "id": 99,
+      "kind": "text",
+      "bounds": [
+        243,
+        1074,
+        366,
+        1097
+      ],
+      "text": "MISSISSIPPI",
+      "source": "ocr"
+    },
+    {
+      "id": 100,
+      "kind": "text",
+      "bounds": [
+        460,
+        1085,
+        564,
+        1111
+      ],
+      "text": "CAROLINA",
+      "source": "ocr"
+    },
+    {
+      "id": 101,
+      "kind": "text",
+      "bounds": [
+        474,
+        1063,
+        547,
+        1086
+      ],
+      "text": "SOUTH",
+      "source": "ocr"
+    },
+    {
+      "id": 102,
+      "kind": "text",
+      "bounds": [
+        56,
+        1133,
+        126,
+        1155
+      ],
+      "text": "TEXAS",
+      "source": "ocr"
+    },
+    {
+      "id": 103,
+      "kind": "text",
+      "bounds": [
+        410,
+        1130,
+        500,
+        1150
+      ],
+      "text": "GEORGIA",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0132.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6224717881944445,
+  "ocr_added": 44,
+  "ocr_filled": 4
+}

@@ -1,0 +1,475 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1117,
+        10,
+        1189,
+        39
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        24,
+        17,
+        31,
+        27
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        17,
+        46,
+        27
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        610,
+        97,
+        719,
+        133
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Zeitplan",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        98,
+        83,
+        146
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        210,
+        87,
+        254
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        240,
+        221,
+        417,
+        255
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "GLOSSYstage",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        486,
+        224,
+        684,
+        251
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Treatment Area",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        735,
+        224,
+        947,
+        251
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Convention Area",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1010,
+        224,
+        1183,
+        284
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Meet & Greet",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        132,
+        294,
+        205,
+        324
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "11:00",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        318,
+        87,
+        366
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        465,
+        320,
+        705,
+        334
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        721,
+        320,
+        961,
+        334
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        977,
+        324,
+        1199,
+        337
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        725,
+        346,
+        847,
+        401
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Deine Stars",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        471,
+        347,
+        675,
+        399
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Sch\u00f6nheit",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        981,
+        347,
+        1181,
+        485
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Fashionhippieloves",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        430,
+        87,
+        478
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        160,
+        514,
+        172,
+        526
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        542,
+        87,
+        590
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        708,
+        1148,
+        1158
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        977,
+        1165,
+        1199,
+        1177
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        980,
+        1187,
+        1172,
+        1324
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "ConsiderCologne",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        216,
+        1304,
+        339,
+        1330
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "12:30-13:30",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        209,
+        1348,
+        449,
+        1366
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        160,
+        1354,
+        172,
+        1366
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        214,
+        1379,
+        402,
+        1437
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "13:30-13:45",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        209,
+        1456,
+        449,
+        1474
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        216,
+        1487,
+        364,
+        1511
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Musik Namika",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        132,
+        1554,
+        206,
+        1584
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "14:00",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        216,
+        1741,
+        339,
+        1765
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "13:45-14:35",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        983,
+        1756,
+        1108,
+        1783
+      ],
+      "id": 37,
+      "kind": "text",
+      "text": "13:00-14:30",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        160,
+        1774,
+        172,
+        1786
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        209,
+        1784,
+        449,
+        1802
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 42,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0162.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2930763888888889,
+  "ocr_added": 0,
+  "ocr_filled": 16
+}

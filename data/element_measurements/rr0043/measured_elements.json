@@ -1,0 +1,289 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1053,
+        8,
+        1189,
+        40
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        95,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        11,
+        145,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        412,
+        115,
+        784,
+        242
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "IIIIIBRINKS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        95,
+        289,
+        1104,
+        993
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        460,
+        1057,
+        739,
+        1087
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Don't have a card yet?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        390,
+        1104,
+        809,
+        1175
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        503,
+        1212,
+        695,
+        1239
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Activate a card",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        544,
+        1288,
+        654,
+        1320
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Register",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        534,
+        1367,
+        662,
+        1395
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Locations",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        428,
+        1448,
+        846,
+        1549
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Contact Customer Service",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        349,
+        1500,
+        421,
+        1554
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        1621,
+        1167,
+        1693
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "\u00a92017 Total System Services, Inc.\u00ae AlI rights reserved worldwide. TSYS and NetSpend are",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        30,
+        1733,
+        1169,
+        1805
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "The Brink's Prepaid Mastercard\u00ae is issued by Bofl Federal Bank, Member FDIC, pursuant to",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        131,
+        382,
+        391,
+        427
+      ],
+      "text": "Username",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        134,
+        541,
+        382,
+        587
+      ],
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        193,
+        673,
+        460,
+        695
+      ],
+      "text": "Remember username",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        549,
+        811,
+        648,
+        847
+      ],
+      "text": "Log In",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        391,
+        913,
+        812,
+        938
+      ],
+      "text": "Forgot your username or password?",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0043.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4484461805555556,
+  "ocr_added": 5,
+  "ocr_filled": 8
+}

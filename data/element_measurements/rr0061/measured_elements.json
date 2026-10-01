@@ -1,0 +1,417 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1086,
+        6,
+        1189,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        65,
+        7,
+        101,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        49,
+        87,
+        98,
+        135
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1107,
+        91,
+        1147,
+        130
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        125,
+        95,
+        352,
+        129
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Klay Thompson",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        173,
+        1199,
+        280
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        897,
+        291,
+        912,
+        295
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        917,
+        291,
+        935,
+        295
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        938,
+        291,
+        960,
+        299
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        976,
+        291,
+        1021,
+        295
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1025,
+        291,
+        1039,
+        295
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1051,
+        291,
+        1066,
+        295
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1073,
+        291,
+        1113,
+        295
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1160,
+        291,
+        1186,
+        295
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        35,
+        297,
+        834,
+        461
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "XELJANZ\u00ae",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        823,
+        300,
+        841,
+        361
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        869,
+        301,
+        1200,
+        463
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "intestines, or narrowing within your (",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        19,
+        326,
+        202,
+        370
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        435,
+        344,
+        476,
+        384
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        122,
+        373,
+        180,
+        402
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        577,
+        380,
+        634,
+        412
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        541,
+        1077,
+        716
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Klay Thompson makes up for shooting slump on",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        445,
+        744,
+        522,
+        819
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        541,
+        744,
+        617,
+        820
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        637,
+        744,
+        714,
+        820
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        841,
+        1199,
+        1337
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1339,
+        108,
+        1393
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        893,
+        1339,
+        1199,
+        1393
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        1353,
+        1172,
+        1378
+      ],
+      "id": 33,
+      "kind": "text",
+      "text": "Cleveland Cavaliers guard Kyrie Irving (2) drives against Golden State Warriors guard Klay Thompso... more +",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        1475,
+        1119,
+        1591
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "The Golden State Warriors won't worry about how many shots Klay Thompson",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        27,
+        1650,
+        1143,
+        1811
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "Golden State's other Splash Brother has made far more brick sounds than",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 38,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0061.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6565707465277778,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

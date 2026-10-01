@@ -1,0 +1,191 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        13,
+        110,
+        58
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        203,
+        13,
+        246,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        335,
+        15,
+        374,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1032,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        141,
+        17,
+        176,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        18,
+        314,
+        56
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        969,
+        26,
+        1008,
+        48
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        406,
+        126,
+        668,
+        189
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Join Club",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        132,
+        106,
+        180
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        268,
+        1054,
+        1621
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        106,
+        1675,
+        968,
+        1724
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Can't find a QR code? Try searching for a Club",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        320,
+        592,
+        472,
+        752
+      ],
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        268,
+        1328,
+        809,
+        1381
+      ],
+      "text": "Tap to scan a QR code",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.treshna.memberportal.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7112369791666666,
+  "ocr_added": 2,
+  "ocr_filled": 2
+}

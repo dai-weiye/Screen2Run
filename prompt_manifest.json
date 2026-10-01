@@ -1,0 +1,95 @@
+{
+  "schema": "screen2run-prompts/1",
+  "files": [
+    {
+      "file": "prompts/baselines/cot.txt",
+      "sha256": "69883c969d201b1be0d7ee4939282c29329d8b8335b0b8b40b9f7270dcb97b43"
+    },
+    {
+      "file": "prompts/baselines/dcgen_assembly.txt",
+      "sha256": "e40a0f87c38486b55a1a41dbc0e2af28d0f1d53535e1dca7c90eb908ff6bf366"
+    },
+    {
+      "file": "prompts/baselines/dcgen_leaf.txt",
+      "sha256": "0094278db33a6bdc7f64edd0f0efa6f68a9ec3b8f9e57a995d877d4586c07565"
+    },
+    {
+      "file": "prompts/baselines/direct.txt",
+      "sha256": "ee6377ab53eddace3e9eace648ad04fad3effd2dfb03f2e7be5fc8338110c9c6"
+    },
+    {
+      "file": "prompts/baselines/layoutcoder_local.txt",
+      "sha256": "c56b1cfd5eda3185eaf4369a1acc1e38c39bb78bfbe49790dcbd40d91cb98b3f"
+    },
+    {
+      "file": "prompts/baselines/self_refine.txt",
+      "sha256": "2417ea514473c8d68c59aaac122db14565372d46ce561a9ce9a1991b7f6ad8c8"
+    },
+    {
+      "file": "prompts/recipes.json",
+      "sha256": "10a371b5e2dc588b793e44128e5c48608ce9f1b76856db1f9d152ca4bac4e760"
+    },
+    {
+      "file": "prompts/screen2run/s1_layout_extraction.base.txt",
+      "sha256": "b53a55aacbaa7b5253e60a80908f8319afb890c5326f918c5c1e5f8be57c1378"
+    },
+    {
+      "file": "prompts/screen2run/s1_layout_extraction.template.txt",
+      "sha256": "620c08892cef46abc7e6bcfc168b2d044e7ebd89cf4fd636b5c4ad315a6c2df0"
+    },
+    {
+      "file": "prompts/screen2run/s2_visual_enrichment.base.txt",
+      "sha256": "8a3a6db1638a1d9d76a809d570a97df27e831114671a27e597a6a3113cc39c38"
+    },
+    {
+      "file": "prompts/screen2run/s2_visual_enrichment.template.txt",
+      "sha256": "aef744195cca2ebd064b29399d59d941451793b8351a41ce0fb5e8d1a60dc4d6"
+    },
+    {
+      "file": "prompts/screen2run/s3_xml_translation.base.txt",
+      "sha256": "2f3aae460e0daeb5a794163a41966b3dac4951cadf29e0f1406c10f1a6475f55"
+    },
+    {
+      "file": "prompts/screen2run/s3_xml_translation.template.txt",
+      "sha256": "9f7966044c4b6ab0a13bb472f56083247a628d3b2a983fb27b9d7308e278005b"
+    },
+    {
+      "file": "prompts/screen2run/s4_code_review.base.txt",
+      "sha256": "2bcd7abd768e369b81923d8502c654baa5052e594bb5dd94d2d5c6d87c24d984"
+    },
+    {
+      "file": "prompts/screen2run/s4_code_review.template.txt",
+      "sha256": "6b521813b9d8fbaec12f1aa86c7e3454853b69827e4b2dc5f07b1272fc2b45c9"
+    },
+    {
+      "file": "prompts/screen2run/s5_issue_by_issue_fix.base.txt",
+      "sha256": "b7c400ebf8e630b090139a5b90c1de5943a0351263f674f68c4a36aec9f848e2"
+    },
+    {
+      "file": "prompts/screen2run/s5_issue_by_issue_fix.template.txt",
+      "sha256": "8acdde48e1b1a5aa35769002793c12e524193bbbbc6fdc7644717713c8438da1"
+    },
+    {
+      "file": "prompts/shared/geometry_note.txt",
+      "sha256": "451ca2e12851579dd670c63040d7373b88994c1aa535205c2a4bae830159a163"
+    },
+    {
+      "file": "prompts/shared/identity_mapping_instructions.txt",
+      "sha256": "757a84734fc7e333c781112006966858085c64e342b2427e8cc154bed3357b21"
+    },
+    {
+      "file": "prompts/shared/visible_ocr_prefix.txt",
+      "sha256": "837e2a34403a764236d24fd76e26d115a4e9e1b93f83391ebc56490bc3ade96e"
+    },
+    {
+      "file": "prompts/shared/visual_style_instructions.txt",
+      "sha256": "f4484d01e6ba692f67d784b08896fcc0a4e8a119aca793f23827e03b28c82b21"
+    },
+    {
+      "file": "prompts/shared/xml_retry_suffix.txt",
+      "sha256": "70b8359f83bc16d7e1f598867f618dcefcdc5ee4a7ae62575cb51ab66bf3adec"
+    }
+  ],
+  "exact_bytes_preserved_from_export": true,
+  "model_calls": 0
+}

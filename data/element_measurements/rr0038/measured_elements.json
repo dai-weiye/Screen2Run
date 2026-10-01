@@ -1,0 +1,229 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1060,
+        6,
+        1189,
+        41
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        19,
+        8,
+        161,
+        40
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        940,
+        8,
+        961,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        10,
+        287,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        157,
+        94,
+        553,
+        130
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Terms & Conditions",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        88,
+        130
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        194,
+        973,
+        219
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "HOMEADVISOR MOBILE APPLICATION END USER LICENSE AGREEMENT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        291,
+        1180,
+        447
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "and governs your use of the HomeAdvisor application (the \"App\"). The HomeAdvisor App",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        12,
+        482,
+        1162,
+        703
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "1. Parties. This License is between you and HomeAdvisor only, and not with the app",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        738,
+        1021,
+        797
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "HomeAdvisor Terms of Service which is made a part of this License.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        834,
+        1181,
+        1055
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "3. Articles, Tips and Other Content HomeAdvisor provides certain content relating to",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        1089,
+        1181,
+        1695
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "4. Privacy. HomeAdvisor may collect and use your information as set forth in its Privacy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        1730,
+        1164,
+        1823
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "revocable license to use the App for your personal, non-commercial purposes. You may",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0038.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7070230034722222,
+  "ocr_added": 0,
+  "ocr_filled": 8
+}

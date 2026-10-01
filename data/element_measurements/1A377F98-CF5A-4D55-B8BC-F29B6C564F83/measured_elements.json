@@ -1,0 +1,291 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        620,
+        6,
+        685,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        75,
+        219,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        12,
+        178,
+        90,
+        214
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Rvbay",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        554,
+        181,
+        631,
+        211
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Nzmyl",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        110,
+        187,
+        532,
+        209
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        255,
+        146,
+        296
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        345,
+        65,
+        383
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        69,
+        346,
+        149,
+        379
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "\u2022 Dsabh",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        167,
+        438,
+        315,
+        507
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        479,
+        438,
+        627,
+        507
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        50,
+        453,
+        137,
+        494
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        343,
+        453,
+        448,
+        494
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        12,
+        455,
+        74,
+        484
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Ltrnf",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        316,
+        455,
+        387,
+        485
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "TPVKO",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        555,
+        143,
+        597
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        558,
+        82,
+        589
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Khraf",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        95,
+        645,
+        243,
+        714
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        14,
+        663,
+        94,
+        691
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Hsxuh",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        85,
+        768,
+        232,
+        837
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        401,
+        768,
+        549,
+        837
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        246,
+        769,
+        388,
+        832
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        786,
+        82,
+        813
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Xvoxi",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        248,
+        1026,
+        282,
+        1062
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        1026,
+        626,
+        1062
+      ],
+      "id": 25,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/1A377F98-CF5A-4D55-B8BC-F29B6C564F83.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.15997201695283633,
+  "ocr_added": 0,
+  "ocr_filled": 9
+}

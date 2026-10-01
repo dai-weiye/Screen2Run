@@ -1,0 +1,269 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1160,
+        60,
+        1180,
+        81
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1160,
+        90,
+        1180,
+        111
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        108,
+        174,
+        237
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        179,
+        109,
+        236,
+        232
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        293,
+        109,
+        404,
+        235
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        406,
+        109,
+        506,
+        238
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        511,
+        109,
+        622,
+        235
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        110,
+        288,
+        236
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1160,
+        120,
+        1180,
+        140
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        271,
+        116,
+        358
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        314,
+        271,
+        440,
+        358
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        186,
+        272,
+        313,
+        358
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        117,
+        273,
+        183,
+        357
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        272,
+        657,
+        806,
+        729
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Create New Collage",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        258,
+        729,
+        941,
+        800
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        182,
+        824,
+        386,
+        866
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Buy Stickers",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        151,
+        913,
+        1046,
+        1024
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        792,
+        1028,
+        941,
+        1062
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        257,
+        1082,
+        941,
+        1195
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        289,
+        1212,
+        823,
+        1245
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Bring zombie apocalypse into your photos",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        47,
+        1215,
+        279,
+        1331
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        291,
+        1253,
+        1151,
+        1349
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0187.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.22333637152777777,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

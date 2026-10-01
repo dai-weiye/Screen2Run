@@ -1,0 +1,109 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1826,
+        33,
+        1886,
+        93
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        41,
+        42,
+        83,
+        84
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        929,
+        170,
+        989,
+        218
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1617,
+        256,
+        1714,
+        297
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        481,
+        274,
+        1436,
+        414
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Allow Fulldive VR to access photos",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        885,
+        552,
+        1034,
+        600
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "ALLOW",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        903,
+        725,
+        1017,
+        771
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "DENY",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        455,
+        984,
+        497,
+        1032
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1416,
+        985,
+        1462,
+        1031
+      ],
+      "id": 8,
+      "kind": "component"
+    }
+  ],
+  "height": 1080,
+  "image": "Unseen/in.fulldive.shell.png",
+  "width": 1920,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.07834153163580247,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

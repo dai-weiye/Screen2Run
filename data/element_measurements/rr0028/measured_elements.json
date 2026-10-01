@@ -1,0 +1,237 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        33,
+        34,
+        61,
+        62
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        50,
+        147,
+        1148,
+        1245
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        48,
+        164,
+        630,
+        237
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "WILLIAMSBURG",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        536,
+        1545,
+        662,
+        1671
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        67,
+        1588,
+        107,
+        1624
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1093,
+        1590,
+        1129,
+        1626
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        50,
+        293,
+        343,
+        463
+      ],
+      "text": "28\u00b0",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        346,
+        834,
+        673,
+        868
+      ],
+      "text": "You have a nice photo",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        346,
+        910,
+        823,
+        943
+      ],
+      "text": "Do you want to discard changes?",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        583,
+        982,
+        628,
+        1010
+      ],
+      "text": "NO",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        751,
+        985,
+        807,
+        1010
+      ],
+      "text": "YES",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        142,
+        1080,
+        170,
+        1113
+      ],
+      "text": "R",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        578,
+        1074,
+        608,
+        1113
+      ],
+      "text": "A",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        943,
+        1077,
+        974,
+        1111
+      ],
+      "text": "Y",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        1033,
+        1080,
+        1055,
+        1113
+      ],
+      "text": "S",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        393,
+        1167,
+        416,
+        1197
+      ],
+      "text": "L",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        667,
+        1167,
+        692,
+        1197
+      ],
+      "text": "G",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0028.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5358020833333333,
+  "ocr_added": 11,
+  "ocr_filled": 1
+}

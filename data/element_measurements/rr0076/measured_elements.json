@@ -1,0 +1,147 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        3,
+        113,
+        44
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        953,
+        3,
+        1195,
+        44
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        464,
+        755,
+        735,
+        1012
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        437,
+        1043,
+        782,
+        1091
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "JOURNEY",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        479,
+        1277,
+        495,
+        1293
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        488,
+        1321,
+        710,
+        1393
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        20,
+        1400,
+        135,
+        1435
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        156,
+        1449,
+        179,
+        1469
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0076.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.05618402777777778,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

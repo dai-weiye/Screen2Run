@@ -1,0 +1,255 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        0,
+        19,
+        1199,
+        1569
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        771,
+        1615,
+        906,
+        1717
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        536,
+        1616,
+        662,
+        1743
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        112,
+        1618,
+        139,
+        1641
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        301,
+        1626,
+        350,
+        1738
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        377,
+        1626,
+        412,
+        1738
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1022,
+        1641,
+        1136,
+        1719
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        87,
+        1654,
+        139,
+        1722
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        802,
+        1763,
+        877,
+        1792
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Social",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        564,
+        1776,
+        637,
+        1807
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Fotos",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        311,
+        1779,
+        408,
+        1806
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Recetas",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        67,
+        1780,
+        174,
+        1805
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Nosotros",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1028,
+        1780,
+        1133,
+        1805
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Contacto",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        421,
+        18,
+        787,
+        141
+      ],
+      "text": "GoVegan",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        474,
+        299,
+        829,
+        567
+      ],
+      "text": "GO",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        366,
+        544,
+        857,
+        740
+      ],
+      "text": "Negan",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        285,
+        1426,
+        868,
+        1476
+      ],
+      "text": "Earn money with your apps",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        20,
+        1499,
+        226,
+        1535
+      ],
+      "text": "mobincube",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        279,
+        1493,
+        723,
+        1532
+      ],
+      "text": "The Appbuilder for everyone",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0188.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8378159722222223,
+  "ocr_added": 6,
+  "ocr_filled": 5
+}

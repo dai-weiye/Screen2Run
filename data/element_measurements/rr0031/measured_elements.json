@@ -1,0 +1,123 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        172,
+        0,
+        1199,
+        1919
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        37,
+        57,
+        50
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        54,
+        466,
+        68,
+        484
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        60,
+        776,
+        79,
+        797
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        95,
+        1745,
+        106,
+        1760
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        1111,
+        167,
+        1155,
+        304
+      ],
+      "text": "ADS",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        1052,
+        633,
+        1086,
+        1256
+      ],
+      "text": "Swipe down trom the top to exit full screen.",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        567,
+        686,
+        686,
+        1213
+      ],
+      "text": "100 DoOPS",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        237,
+        790,
+        327,
+        915
+      ],
+      "text": "2+",
+      "source": "ocr"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        237,
+        1192,
+        332,
+        1314
+      ],
+      "text": "5+",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0031.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8557643229166667,
+  "ocr_added": 5,
+  "ocr_filled": 0
+}

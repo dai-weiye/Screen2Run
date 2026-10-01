@@ -1,0 +1,343 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        135,
+        8,
+        183,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        271,
+        8,
+        311,
+        64
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        207,
+        9,
+        247,
+        63
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        11,
+        113,
+        60
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        958,
+        15,
+        1022,
+        55
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        336,
+        16,
+        382,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        415,
+        24,
+        431,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        128,
+        111,
+        184
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        173,
+        129,
+        381,
+        192
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "< Expense",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        709,
+        272,
+        776,
+        342
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        798,
+        278,
+        1024,
+        332
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "05-05-2024",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        280,
+        211,
+        330
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "EXPN-1",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        400,
+        95,
+        480
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        127,
+        415,
+        394,
+        465
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Add Expense",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        507,
+        1079,
+        761
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        28,
+        818,
+        236,
+        856
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Enter Notes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        797,
+        963,
+        980,
+        1012
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "USD 0.00V",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        102,
+        965,
+        234,
+        1012
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": ":= Taxes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        968,
+        87,
+        1008
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        999,
+        976,
+        1055,
+        1000
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1104,
+        1079,
+        1260
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        32,
+        1280,
+        79,
+        1336
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        107,
+        1282,
+        410,
+        1333
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Supplier Name",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        1402,
+        1038,
+        1547
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "You have not created any taxes on Purchase/Expense.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        1648,
+        95,
+        1703
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        111,
+        1650,
+        847,
+        1701
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Notes for Expense (Not shown on PDF)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        999,
+        1656,
+        1055,
+        1688
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        242,
+        1824,
+        287,
+        1872
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1825,
+        560,
+        1871
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        784,
+        1825,
+        833,
+        1872
+      ],
+      "id": 30,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.accounting.bookkeeping.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3006718898385565,
+  "ocr_added": 0,
+  "ocr_filled": 10
+}

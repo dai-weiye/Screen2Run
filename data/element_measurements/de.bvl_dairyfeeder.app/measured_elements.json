@@ -1,0 +1,361 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        853,
+        11,
+        1015,
+        61
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        292,
+        13,
+        337,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        14,
+        134,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1032,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        170,
+        17,
+        195,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        236,
+        17,
+        262,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        361,
+        24,
+        401,
+        49
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        441,
+        30,
+        453,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        390,
+        96,
+        629,
+        186
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        842,
+        102,
+        963,
+        218
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        125,
+        1048,
+        186
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        132,
+        94,
+        180
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        552,
+        307,
+        1066,
+        457
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        134,
+        518,
+        943,
+        1329
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        556,
+        134,
+        608
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Gew",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        93,
+        1660,
+        1024,
+        1735
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "\u2022 . Verbindung wird aufgebaut #22...",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        1661,
+        65,
+        1673
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        34,
+        1669,
+        47,
+        1681
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1687,
+        39,
+        1699
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        78,
+        1687,
+        90,
+        1699
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        34,
+        1705,
+        47,
+        1717
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        1705,
+        83,
+        1717
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        1712,
+        65,
+        1724
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        240,
+        793,
+        846,
+        843
+      ],
+      "text": "Keine WLAN-Verbindung zur",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        494,
+        854,
+        589,
+        893
+      ],
+      "text": "BOx!",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        212,
+        966,
+        871,
+        1013
+      ],
+      "text": "Bitte klicken Sie auf 'Verbinden",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        243,
+        1033,
+        848,
+        1086
+      ],
+      "text": ", sobald Sie sich in der N\u00e4he",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        354,
+        1091,
+        728,
+        1136
+      ],
+      "text": "der Box befinden.",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        354,
+        1231,
+        586,
+        1267
+      ],
+      "text": "VERBINDEN",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        647,
+        1231,
+        899,
+        1267
+      ],
+      "text": "ABBRECHEN",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/de.bvl_dairyfeeder.app.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4228351658950617,
+  "ocr_added": 7,
+  "ocr_filled": 2
+}

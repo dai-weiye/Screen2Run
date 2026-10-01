@@ -1,0 +1,363 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1137,
+        0,
+        1199,
+        63
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        105,
+        66,
+        153,
+        101
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        165,
+        168,
+        275
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "TIME",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        359,
+        165,
+        398,
+        275
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "TRIM",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        143,
+        410,
+        179,
+        509
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "00:00",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        679,
+        474,
+        720,
+        516
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        428,
+        493,
+        460,
+        586
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "RUDD",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        681,
+        519,
+        719,
+        566
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        161,
+        552,
+        174,
+        562
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        603,
+        61,
+        669
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        677,
+        627,
+        726,
+        704
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        546,
+        643,
+        574,
+        731
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "full said strongest at this point.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        679,
+        769,
+        724,
+        861
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        161,
+        824,
+        174,
+        833
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        679,
+        909,
+        699,
+        978
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        704,
+        912,
+        724,
+        1006
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        924,
+        65,
+        996
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        152,
+        977,
+        192,
+        1058
+      ],
+      "id": 17,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        683,
+        1047,
+        724,
+        1161
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        430,
+        1063,
+        459,
+        1137
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "AILE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        161,
+        1098,
+        174,
+        1108
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        547,
+        1192,
+        574,
+        1289
+      ],
+      "id": 21,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        683,
+        1210,
+        728,
+        1291
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1252,
+        61,
+        1320
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        677,
+        1362,
+        724,
+        1435
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        161,
+        1369,
+        174,
+        1379
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        347,
+        1456,
+        354,
+        1472
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        545,
+        1457,
+        553,
+        1473
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        202,
+        1603,
+        244,
+        1707
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "WIFI",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        129,
+        1605,
+        169,
+        1716
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "TRIM",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        437,
+        1607,
+        482,
+        1721
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "TRIM",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        505,
+        1613,
+        545,
+        1735
+      ],
+      "id": 31,
+      "kind": "text",
+      "text": "STOP",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1122,
+        1711,
+        1169,
+        1765
+      ],
+      "id": 32,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0083.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.03780859375,
+  "ocr_added": 0,
+  "ocr_filled": 10
+}

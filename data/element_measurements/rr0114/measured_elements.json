@@ -1,0 +1,393 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        117,
+        7,
+        146,
+        39
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1082,
+        7,
+        1190,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        18,
+        8,
+        60,
+        42
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        10,
+        287,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        156,
+        92,
+        377,
+        136
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Preferences",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        215,
+        233,
+        246
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Map Preferences",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        318,
+        574,
+        390
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Set my location",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1133,
+        334,
+        1169,
+        370
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        14,
+        465,
+        452,
+        536
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Follow my location",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1133,
+        481,
+        1169,
+        517
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        610,
+        259,
+        641
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "MyRadar Upgrades",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        713,
+        494,
+        787
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Remove advertising",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1133,
+        730,
+        1169,
+        766
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        789,
+        1147,
+        1083
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        10,
+        859,
+        55,
+        933
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "HU",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        11,
+        1007,
+        56,
+        1081
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Pro",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        1154,
+        519,
+        1228
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Aviation charts",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1133,
+        1171,
+        1169,
+        1207
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        1304,
+        415,
+        1335
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "Restore previous purchases",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        1409,
+        179,
+        1440
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "Notifications",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        1513,
+        683,
+        1586
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Enable push notifications",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1133,
+        1529,
+        1169,
+        1565
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        1608,
+        825,
+        1696
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        1637,
+        1016,
+        1734
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "Current conditions notifica",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1133,
+        1676,
+        1169,
+        1712
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        1805,
+        94,
+        1826
+      ],
+      "id": 31,
+      "kind": "text",
+      "text": "Ahnut",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 34,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0114.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3121744791666667,
+  "ocr_added": 0,
+  "ocr_filled": 15
+}

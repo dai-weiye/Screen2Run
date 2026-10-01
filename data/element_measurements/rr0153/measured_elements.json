@@ -1,0 +1,443 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1087,
+        4,
+        1190,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        22,
+        9,
+        47,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        11,
+        145,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        50,
+        434,
+        449
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        656,
+        50,
+        694,
+        58
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        686,
+        72,
+        699,
+        83
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        893,
+        73,
+        904,
+        84
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        556,
+        88,
+        578,
+        97
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        844,
+        96,
+        872,
+        106
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        523,
+        98,
+        635,
+        106
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1070,
+        106,
+        1199,
+        297
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1186,
+        313,
+        1199,
+        325
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        451,
+        1104,
+        1761
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        690,
+        1160,
+        722
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "MA",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1104,
+        1045,
+        1174,
+        1075
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "More",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        64,
+        483,
+        207,
+        508
+      ],
+      "text": "LOCATION",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        25,
+        522,
+        567,
+        555
+      ],
+      "text": "Eastern State Hospital, 4601 Ironbound Rd #",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        673,
+        486,
+        742,
+        508
+      ],
+      "text": "DATE",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        628,
+        527,
+        815,
+        553
+      ],
+      "text": "Sat Jun 10 2017",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        25,
+        567,
+        410,
+        597
+      ],
+      "text": "B11, Williamsburg, United States",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        628,
+        567,
+        748,
+        592
+      ],
+      "text": "06:30 am",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        25,
+        695,
+        321,
+        723
+      ],
+      "text": "ARE YOU ATTENDING?",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        876,
+        695,
+        943,
+        723
+      ],
+      "text": "YES",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        25,
+        840,
+        229,
+        865
+      ],
+      "text": "EVENT DETAIL S",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        25,
+        901,
+        154,
+        927
+      ],
+      "text": "REGISTER",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        310,
+        924,
+        461,
+        955
+      ],
+      "text": "Please wait.",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        589,
+        926,
+        726,
+        958
+      ],
+      "text": "Loading..",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        25,
+        995,
+        151,
+        1025
+      ],
+      "text": "https://run",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        25,
+        1167,
+        117,
+        1192
+      ],
+      "text": "VENUE",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        25,
+        1228,
+        299,
+        1256
+      ],
+      "text": "Eastern State Hospital",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        299,
+        1351,
+        441,
+        1367
+      ],
+      "text": "Burton Woods",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        176,
+        1697,
+        340,
+        1722
+      ],
+      "text": "CREATED BY",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        176,
+        1730,
+        661,
+        1758
+      ],
+      "text": "Bacon Street Youth and Family Services",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0153.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7456666666666667,
+  "ocr_added": 18,
+  "ocr_filled": 2
+}

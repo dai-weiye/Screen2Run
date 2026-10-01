@@ -1,0 +1,193 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        291,
+        13,
+        337,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        362,
+        13,
+        400,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        16,
+        127,
+        56
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        960,
+        17,
+        1020,
+        57
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        227,
+        18,
+        270,
+        54
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        441,
+        30,
+        453,
+        42
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        73,
+        1079,
+        1343
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        40,
+        1391,
+        464,
+        1448
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "The Citrus Tree",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        490,
+        1513,
+        587,
+        1561
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "\u00a342",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        50,
+        1590,
+        1025,
+        1740
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        0,
+        147,
+        327,
+        210
+      ],
+      "text": "FRUITS ARRIVE",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        0,
+        220,
+        354,
+        254
+      ],
+      "text": "REEN AND WILL",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        0,
+        271,
+        338,
+        307
+      ],
+      "text": "RIPEN AT HOME",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.bloomandwild.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7545158179012346,
+  "ocr_added": 3,
+  "ocr_filled": 2
+}

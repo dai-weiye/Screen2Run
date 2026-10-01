@@ -1,0 +1,201 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        20,
+        4,
+        104,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1085,
+        9,
+        1190,
+        41
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        336,
+        433,
+        861,
+        804
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        363,
+        861,
+        834,
+        914
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Your Security Matters",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        155,
+        954,
+        969,
+        1028
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "During sign in, you can tell us not to ask for a code again on that",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        155,
+        1071,
+        1002,
+        1147
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "You'll still be covered because we'll ask for codes when you (or",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        1741,
+        119,
+        1778
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "SKIP",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1128,
+        1748,
+        1143,
+        1772
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        551,
+        1752,
+        567,
+        1768
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        591,
+        1752,
+        607,
+        1768
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        631,
+        1752,
+        647,
+        1768
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0117.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.15884765625,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

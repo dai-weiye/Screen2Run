@@ -1,0 +1,287 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        333,
+        13,
+        379,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        180,
+        57
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        15,
+        308,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        908,
+        15,
+        1021,
+        59
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        16,
+        16,
+        108,
+        57
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        213,
+        16,
+        238,
+        46
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        209,
+        52,
+        240,
+        56
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        470,
+        171,
+        716,
+        322
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        229,
+        223,
+        469,
+        322
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        728,
+        423,
+        800,
+        574
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        550,
+        460,
+        621,
+        574
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        460,
+        491,
+        531,
+        574
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        639,
+        491,
+        711,
+        574
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        321,
+        667,
+        583,
+        685
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        377,
+        703,
+        664,
+        720
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        250,
+        738,
+        513,
+        755
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        294,
+        896,
+        785,
+        953
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Welcome to Quiver",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        104,
+        1001,
+        973,
+        1198
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "A cutting-edge alternative data product that",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        469,
+        1311,
+        499,
+        1341
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        523,
+        1311,
+        554,
+        1341
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        577,
+        1311,
+        608,
+        1341
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        193,
+        1488,
+        883,
+        1638
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 26,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.quiverquant.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.20903935185185185,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

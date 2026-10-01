@@ -1,0 +1,209 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        0,
+        0,
+        1199,
+        417
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        766,
+        421,
+        1156,
+        482
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "Baby Big Mouth 1",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        505,
+        1180,
+        902
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        766,
+        924,
+        1166,
+        984
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "Baby Big Mouth 2",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        717,
+        936,
+        733,
+        941
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        17,
+        1023,
+        958,
+        1331
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1068,
+        1081,
+        1102,
+        1096
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1104,
+        1097,
+        1165,
+        1168
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        974,
+        1130,
+        995,
+        1144
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        994,
+        1150,
+        1042,
+        1170
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1060,
+        1158,
+        1088,
+        1161
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1074,
+        1166,
+        1086,
+        1176
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        1182,
+        1181,
+        1363
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        766,
+        1426,
+        1164,
+        1486
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Baby Big Mouth 3",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        604,
+        1600,
+        1110,
+        1824
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1631,
+        517,
+        1824
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0191.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6854366319444445,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

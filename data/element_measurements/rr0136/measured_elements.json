@@ -1,0 +1,95 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        169,
+        142,
+        1029,
+        656
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        149,
+        745,
+        1049,
+        926
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "THIS LOGO IS NIKE'S",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        258,
+        761,
+        941,
+        1312
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        296,
+        1388,
+        575,
+        1689
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        651,
+        1388,
+        930,
+        1689
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0136.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.48940538194444444,
+  "ocr_added": 0,
+  "ocr_filled": 1
+}

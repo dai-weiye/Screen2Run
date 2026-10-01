@@ -1,0 +1,359 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1117,
+        10,
+        1187,
+        40
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        16,
+        95,
+        32
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        120,
+        17,
+        127,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        129,
+        17,
+        142,
+        27
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        17,
+        175,
+        27
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        177,
+        17,
+        190,
+        27
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        549,
+        108,
+        877,
+        199
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "IWU netSpend.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        331,
+        110,
+        532,
+        201
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        96,
+        241,
+        1103,
+        945
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        456,
+        1007,
+        743,
+        1037
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Don't have a card yet?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        381,
+        1052,
+        817,
+        1123
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        502,
+        1158,
+        696,
+        1185
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Activate a card",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        545,
+        1231,
+        655,
+        1263
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Register",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        535,
+        1306,
+        665,
+        1334
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Locations",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        428,
+        1380,
+        846,
+        1481
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Contact Customer Service",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        349,
+        1432,
+        421,
+        1486
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        48,
+        1551,
+        1152,
+        1622
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "\u00a92017 Total System Services, Inc.\u00ae All rights reserved worldwide. TSYS and NetSpend",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        35,
+        1663,
+        1162,
+        1817
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "The Western Union NetSpend\u00ae Prepaid Mastercard is issued by MetaBank\u00ae",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        134,
+        332,
+        396,
+        377
+      ],
+      "text": "Username",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        134,
+        494,
+        380,
+        539
+      ],
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        187,
+        622,
+        469,
+        645
+      ],
+      "text": "Remember username",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        549,
+        758,
+        651,
+        793
+      ],
+      "text": "Log In",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        382,
+        858,
+        818,
+        891
+      ],
+      "text": "Forgot your username or password?",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0113.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.48701692708333333,
+  "ocr_added": 5,
+  "ocr_filled": 8
+}

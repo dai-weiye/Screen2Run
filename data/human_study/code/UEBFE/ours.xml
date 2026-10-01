@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <ImageView
+        android:id="@+id/view_2"
+        android:layout_width="411.4dp"
+        android:layout_height="658.3dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/img_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="0.0dp" />
+
+    <ImageView
+        android:id="@+id/view_3"
+        android:layout_width="117.0dp"
+        android:layout_height="30.0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/img_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="147.0dp"
+        android:layout_marginLeft="147.0dp"
+        android:layout_marginTop="95.1dp" />
+
+    <TextView
+        android:id="@+id/view_4"
+        android:layout_width="188.2dp"
+        android:layout_height="52.7dp"
+        android:fontFamily="sans-serif"
+        android:gravity="top|center_horizontal"
+        android:text="Watch or Broadcast\nLive Events"
+        android:textColor="#342313"
+        android:textSize="19.9sp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="115.9dp"
+        android:layout_marginLeft="115.9dp"
+        android:layout_marginTop="116.8dp"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:lineSpacingExtra="1.1dp" />
+
+    <FrameLayout
+        android:id="@+id/view_5"
+        android:layout_width="201.9dp"
+        android:layout_height="29.9dp"
+        android:background="@drawable/img_3"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="116.8dp"
+        android:layout_marginLeft="116.8dp"
+        android:layout_marginTop="506.5dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_6"
+            android:layout_width="14.9dp"
+            android:layout_height="13.2dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_4"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="11.1dp"
+            android:layout_marginLeft="11.1dp"
+            android:layout_marginTop="-4.8dp" />
+
+        <TextView
+            android:id="@+id/view_7"
+            android:layout_width="136.6dp"
+            android:layout_height="12.7dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="CONTINUE WITH FACEBOOK"
+            android:textColor="#FFFFFF"
+            android:textSize="10.2sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="34.6dp"
+            android:layout_marginLeft="34.6dp"
+            android:layout_marginTop="-4.5dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.6sp"
+            android:autoSizeMaxTextSize="10.2sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_8"
+        android:layout_width="201.9dp"
+        android:layout_height="24.9dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="116.8dp"
+        android:layout_marginLeft="116.8dp"
+        android:layout_marginTop="543.7dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <View
+            android:layout_width="201.9dp"
+            android:layout_height="0.8dp"
+            android:background="#FFFFFF"
+            android:id="@+id/view_9"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="0.0dp" />
+
+        <View
+            android:layout_width="201.9dp"
+            android:layout_height="0.8dp"
+            android:background="#FFFFFF"
+            android:id="@+id/view_10"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="24.1dp" />
+
+        <View
+            android:layout_width="1.1dp"
+            android:layout_height="24.9dp"
+            android:background="#FFFFFF"
+            android:id="@+id/view_11"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="1.8dp"
+            android:layout_marginLeft="1.8dp"
+            android:layout_marginTop="-2.9dp" />
+
+        <View
+            android:layout_width="1.1dp"
+            android:layout_height="24.9dp"
+            android:background="#FFFFFF"
+            android:id="@+id/view_12"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="202.6dp"
+            android:layout_marginLeft="202.6dp"
+            android:layout_marginTop="-2.9dp" />
+
+        <ImageView
+            android:id="@+id/view_13"
+            android:layout_width="14.9dp"
+            android:layout_height="10.9dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_5"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="10.9dp"
+            android:layout_marginLeft="10.9dp"
+            android:layout_marginTop="4.1dp" />
+
+        <TextView
+            android:id="@+id/view_14"
+            android:layout_width="114.7dp"
+            android:layout_height="12.7dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="CONTINUE WITH EMAIL"
+            android:textColor="#FFFFFF"
+            android:textSize="10.2sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="45.2dp"
+            android:layout_marginLeft="45.2dp"
+            android:layout_marginTop="3.2dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.6sp"
+            android:autoSizeMaxTextSize="10.2sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/view_15"
+        android:layout_width="193.1dp"
+        android:layout_height="12.7dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="We'll never post without your permission"
+        android:textColor="#FFFFFF"
+        android:textSize="10.3sp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="111.9dp"
+        android:layout_marginLeft="111.9dp"
+        android:layout_marginTop="592.8dp"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:maxLines="1"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="5.6sp"
+        android:autoSizeMaxTextSize="10.3sp"
+        android:autoSizeStepGranularity="1px" />
+
+    <TextView
+        android:id="@+id/view_16"
+        android:text="Wlivestream"
+        android:textColor="#FFFFFF"
+        android:layout_width="123.6dp"
+        android:layout_height="25.4dp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="144.3dp"
+        android:layout_marginLeft="144.3dp"
+        android:layout_marginTop="85.0dp"
+        android:textSize="21.1sp"
+        android:fontFamily="sans-serif"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:maxLines="1"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="11.6sp"
+        android:autoSizeMaxTextSize="21.1sp"
+        android:autoSizeStepGranularity="1px"
+        android:gravity="center_vertical|start" />
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="13.2dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#C19D8D" />
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="32.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="625.4dp"
+        android:background="#000000" />
+</FrameLayout>

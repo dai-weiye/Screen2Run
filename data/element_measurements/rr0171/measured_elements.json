@@ -1,0 +1,327 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        100,
+        0,
+        896,
+        1919
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        898,
+        0,
+        1199,
+        1919
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        603,
+        61,
+        669
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        924,
+        65,
+        996
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        1252,
+        61,
+        1320
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        472,
+        95,
+        522,
+        179
+      ],
+      "text": "A#",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        296,
+        173,
+        343,
+        254
+      ],
+      "text": "B2",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        296,
+        313,
+        346,
+        396
+      ],
+      "text": "C3",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        472,
+        368,
+        522,
+        452
+      ],
+      "text": "C#",
+      "source": "ocr"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        296,
+        449,
+        343,
+        530
+      ],
+      "text": "D3",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        472,
+        511,
+        525,
+        600
+      ],
+      "text": "D#",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        296,
+        586,
+        346,
+        664
+      ],
+      "text": "\u04153",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        296,
+        720,
+        346,
+        795
+      ],
+      "text": "F3",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        472,
+        784,
+        522,
+        862
+      ],
+      "text": "F#",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        296,
+        857,
+        346,
+        943
+      ],
+      "text": "G3",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        469,
+        921,
+        530,
+        1016
+      ],
+      "text": "G#",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        296,
+        991,
+        346,
+        1077
+      ],
+      "text": "\u04103",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        469,
+        1055,
+        527,
+        1144
+      ],
+      "text": "A#",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        296,
+        1133,
+        343,
+        1214
+      ],
+      "text": "\u04123",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        296,
+        1245,
+        346,
+        1359
+      ],
+      "text": "C4",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        469,
+        1328,
+        530,
+        1420
+      ],
+      "text": "C#",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        296,
+        1390,
+        346,
+        1487
+      ],
+      "text": "D4",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        472,
+        1476,
+        522,
+        1557
+      ],
+      "text": "D#",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        296,
+        1532,
+        346,
+        1621
+      ],
+      "text": "E4",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        296,
+        1677,
+        346,
+        1753
+      ],
+      "text": "F4",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        472,
+        1741,
+        522,
+        1820
+      ],
+      "text": "F#",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        296,
+        1814,
+        346,
+        1903
+      ],
+      "text": "G4",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0171.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.91685546875,
+  "ocr_added": 22,
+  "ocr_filled": 0
+}

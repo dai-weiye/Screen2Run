@@ -1,0 +1,215 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        13,
+        2,
+        57,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        955,
+        5,
+        1191,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        65,
+        8,
+        306,
+        42
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1135,
+        83,
+        1180,
+        127
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        96,
+        88,
+        242,
+        122
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "New Chat",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        19,
+        104,
+        47,
+        120
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        29,
+        206,
+        162,
+        238
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "PROFILE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        854,
+        310,
+        1170,
+        347
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "enter the username",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        26,
+        312,
+        183,
+        348
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Username",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1087,
+        396,
+        1167,
+        476
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        415,
+        121,
+        457
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Photo",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        527,
+        522,
+        703,
+        618
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        419,
+        702,
+        779,
+        736
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "INSTAFAKE PRO (AD FREE!)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        119,
+        806,
+        1080,
+        927
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        279,
+        956,
+        920,
+        1037
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0154.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.11448958333333334,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

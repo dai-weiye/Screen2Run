@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="411.4239dp"
+    android:layout_height="658.2782dp">
+
+    <RelativeLayout
+        android:background="#000000"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:id="@+id/view_2"
+        android:layout_width="411.4239dp"
+        android:layout_height="17.1427dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:contentDescription="download"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:contentDescription="signal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#B0B0B0"
+                android:scaleType="centerInside"
+                android:contentDescription="bluetooth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:contentDescription="wifi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:scaleType="centerInside"
+                android:contentDescription="battery"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="2:46"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:fontFamily="sans-serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="#EDEDED"
+        android:id="@+id/view_3"
+        android:layout_width="411.4239dp"
+        android:layout_height="114.1701dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="53.4851dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:paddingTop="16dp"
+            android:paddingBottom="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="#0099DA"
+            android:padding="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:background="#FFFFFF"
+                android:padding="7dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Log in with PayPal"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:paddingStart="17dp"
+                android:paddingEnd="22dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:text="Get a Card"
+        android:textColor="#1E9CE8"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:background="#EEEEEE"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:fontFamily="sans-serif"
+        android:id="@+id/view_4"
+        android:layout_width="411.4239dp"
+        android:layout_height="23.314dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="187.1979dp" />
+
+    <TextView
+        android:layout_width="411.4239dp"
+        android:layout_height="24.3426dp"
+        android:gravity="center"
+        android:text="Contact Customer Service"
+        android:textColor="#1E88E5"
+        android:textSize="16sp"
+        android:id="@+id/view_5"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="226.2831dp" />
+
+    <TextView
+        android:gravity="center"
+        android:text="©2017  Total System Services, Inc.® All rights reserved worldwide. TSYS and NetSpend are federally registered U.S. service marks of Total System Services, Inc."
+        android:textColor="#8A8A8A"
+        android:textSize="12sp"
+        android:id="@+id/view_6"
+        android:layout_width="411.4239dp"
+        android:layout_height="38.3996dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="273.9397dp" />
+
+    <TextView
+        android:text="The PayPal Prepaid Mastercard is issued by The Bancorp Bank, Member FDIC, pursuant to license by Mastercard International Incorporated. NetSpend, a TSYS® Company, is an authorized representative of The Bancorp Bank. Certain products and services may be licensed under U.S. Patent Nos. 6,000,608 and 6,189,787. Use of the Card Account is subject to funds availability and ID verification. Transaction fees, terms, and conditions apply to the use and reloading of the Card Account. See the Cardholder Agreement for details."
+        android:textColor="#9AA0A6"
+        android:textSize="17sp"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:lineSpacingMultiplier="1.15"
+        android:id="@+id/view_7"
+        android:layout_width="411.4239dp"
+        android:layout_height="109.713dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="312.3393dp" />
+
+    <TextView
+        android:text="Mastercard is a registered trademark of Mastercard International Incorporated."
+        android:textColor="#9E9E9E"
+        android:textSize="12sp"
+        android:gravity="center_vertical"
+        android:id="@+id/view_8"
+        android:layout_width="411.4239dp"
+        android:layout_height="23.6569dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="427.8808dp" />
+
+    <TextView
+        android:text="Card may be used everywhere Debit Mastercard is accepted."
+        android:textColor="#8A8A8E"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+        android:id="@+id/view_9"
+        android:layout_width="411.4239dp"
+        android:layout_height="23.6569dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="456.6805dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="#FFFFFF"
+        android:id="@+id/view_10"
+        android:layout_width="411.4239dp"
+        android:layout_height="46.2852dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="485.4802dp">
+
+        <TextView
+            android:text="All other trademarks and service marks belong to their respective owners."
+            android:textColor="#8E8E8E"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:maxLines="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Login to see Cardholder Agreement and Privacy Policy"
+            android:textColor="#C0C0C0"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:maxLines="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <TextView
+        android:text="Version 4.6.0"
+        android:textColor="#BDBDBD"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:id="@+id/view_11"
+        android:layout_width="411.4239dp"
+        android:layout_height="20.2283dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="541.0224dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="#000000"
+        android:gravity="center_vertical"
+        android:id="@+id/view_12"
+        android:layout_width="411.4239dp"
+        android:layout_height="41.4852dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="616.793dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:contentDescription="Back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:contentDescription="Home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:contentDescription="Recent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,137 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        0,
+        0,
+        1199,
+        1613
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        964,
+        1400,
+        1200,
+        1474
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "gallery",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        363,
+        56,
+        430,
+        106
+      ],
+      "text": "No",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        349,
+        98,
+        447,
+        151
+      ],
+      "text": "Ads",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        934,
+        548,
+        1170,
+        605
+      ],
+      "text": "coloring",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        985,
+        611,
+        1144,
+        670
+      ],
+      "text": "BOOK",
+      "source": "ocr"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        991,
+        874,
+        1169,
+        945
+      ],
+      "text": "BIank",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        982,
+        1139,
+        1180,
+        1206
+      ],
+      "text": "Magic",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0180.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8432690972222222,
+  "ocr_added": 6,
+  "ocr_filled": 1
+}

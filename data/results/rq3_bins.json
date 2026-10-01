@@ -1,0 +1,7232 @@
+{
+  "frozen_before_scoring": true,
+  "source": "reference screenshots only (UIED + OCR)",
+  "properties": [
+    "elements",
+    "text_tokens",
+    "density",
+    "aspect"
+  ],
+  "cuts_tertile": {
+    "elements": [
+      20.0,
+      31.0
+    ],
+    "text_tokens": [
+      11.666666666666657,
+      22.0
+    ],
+    "density": [
+      1.047395612989244,
+      1.5986564619309516
+    ],
+    "aspect": [
+      1.555232558139535,
+      1.6
+    ]
+  },
+  "features": {
+    "004D131C-C179-4D2A-8363-963223F76672": {
+      "elements": 10,
+      "text_tokens": 4,
+      "density": 0.5512608489417073,
+      "aspect": 1.555232558139535
+    },
+    "00737CD8-275C-425C-810E-EC2C8123DE83": {
+      "elements": 25,
+      "text_tokens": 19,
+      "density": 1.3781521223542685,
+      "aspect": 1.555232558139535
+    },
+    "00C4F372-0111-405A-945E-C78C0E887BE7": {
+      "elements": 31,
+      "text_tokens": 18,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "00EAE181-AF3B-4CBD-928A-561FF6F4345F": {
+      "elements": 15,
+      "text_tokens": 6,
+      "density": 0.8268912734125611,
+      "aspect": 1.555232558139535
+    },
+    "0123C40D-1198-4945-99C6-123FB855099C": {
+      "elements": 24,
+      "text_tokens": 11,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "016F8C96-9070-482E-A065-91E4554007DB": {
+      "elements": 21,
+      "text_tokens": 7,
+      "density": 1.1576477827775855,
+      "aspect": 1.555232558139535
+    },
+    "0176A280-F36A-4C74-846A-E71B03E2C167": {
+      "elements": 22,
+      "text_tokens": 16,
+      "density": 1.2127738676717563,
+      "aspect": 1.555232558139535
+    },
+    "0179A5D4-6C81-4000-8F50-69D9E629AA33": {
+      "elements": 24,
+      "text_tokens": 8,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "017BF831-B165-499A-B490-E6E63183462F": {
+      "elements": 25,
+      "text_tokens": 18,
+      "density": 1.3781521223542685,
+      "aspect": 1.555232558139535
+    },
+    "01BD0227-9BE1-4E10-8AAA-DFC4DEB285A1": {
+      "elements": 20,
+      "text_tokens": 9,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "01F326F8-61BB-403C-B8BD-A87F8DBB1D3A": {
+      "elements": 40,
+      "text_tokens": 21,
+      "density": 2.2050433957668294,
+      "aspect": 1.555232558139535
+    },
+    "02049F53-99D6-4622-A521-5E3EA9579F93": {
+      "elements": 23,
+      "text_tokens": 11,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "022A1D94-DDF5-4C79-B399-F0615DA7EC97": {
+      "elements": 41,
+      "text_tokens": 21,
+      "density": 2.260169480661,
+      "aspect": 1.555232558139535
+    },
+    "023859A5-7FEB-441F-BCA4-B8A8CFDB1174": {
+      "elements": 28,
+      "text_tokens": 18,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "0252035F-2537-4FA6-AF6C-0410F7831DBF": {
+      "elements": 11,
+      "text_tokens": 8,
+      "density": 0.6063869338358782,
+      "aspect": 1.555232558139535
+    },
+    "0261CDE2-17A1-404B-88CF-3CC5BA15F95A": {
+      "elements": 14,
+      "text_tokens": 7,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "02949A94-2188-4E16-8AC1-B540776441F6": {
+      "elements": 27,
+      "text_tokens": 12,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "02E87F39-63CB-4986-AC46-843222875C57": {
+      "elements": 15,
+      "text_tokens": 12,
+      "density": 0.8268912734125611,
+      "aspect": 1.555232558139535
+    },
+    "030326F1-CE9A-4B16-A161-BA5DCC0F0379": {
+      "elements": 30,
+      "text_tokens": 16,
+      "density": 1.6537825468251222,
+      "aspect": 1.555232558139535
+    },
+    "030AF343-9F8D-47E6-941B-BD8573EB6968": {
+      "elements": 19,
+      "text_tokens": 11,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "032967E8-AB75-42C7-8583-606074BFDFBE": {
+      "elements": 23,
+      "text_tokens": 12,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "032A8B04-69E6-4541-AC79-437EBD224508": {
+      "elements": 32,
+      "text_tokens": 17,
+      "density": 1.7640347166134638,
+      "aspect": 1.555232558139535
+    },
+    "0338A043-EFD4-48F2-BA09-BAE055072F00": {
+      "elements": 34,
+      "text_tokens": 20,
+      "density": 1.8742868864018052,
+      "aspect": 1.555232558139535
+    },
+    "03420C0C-3938-432A-8674-063414A2DE22": {
+      "elements": 17,
+      "text_tokens": 10,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "035277D9-0DAA-4556-B3E9-DE707C46372C": {
+      "elements": 19,
+      "text_tokens": 7,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "0371EB50-597E-4C51-9497-3D254EC13533": {
+      "elements": 17,
+      "text_tokens": 6,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "039ED2AD-49BB-46DC-8779-B1399D3ACB93": {
+      "elements": 31,
+      "text_tokens": 18,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "03ADE69C-963D-4744-BBE7-88B1AEE8F17C": {
+      "elements": 33,
+      "text_tokens": 20,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "03B027C8-01F7-4A25-BC55-36D05DA99766": {
+      "elements": 24,
+      "text_tokens": 13,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "03C9BDD5-F5D4-422D-9396-11B2D426DDC4": {
+      "elements": 12,
+      "text_tokens": 6,
+      "density": 0.6615130187300489,
+      "aspect": 1.555232558139535
+    },
+    "03DE9C04-2DD8-4E19-8E3A-5E4BF9385692": {
+      "elements": 29,
+      "text_tokens": 20,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "03E640FF-F45E-45CC-98AC-58FDE0C511E9": {
+      "elements": 24,
+      "text_tokens": 18,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "03FAAB0A-AA74-4335-BA3C-31582AC92FC3": {
+      "elements": 30,
+      "text_tokens": 17,
+      "density": 1.6537825468251222,
+      "aspect": 1.555232558139535
+    },
+    "03FE889A-05C2-416B-9138-F815B774B6C0": {
+      "elements": 17,
+      "text_tokens": 6,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "040D8A53-5022-4745-BBD3-FA5F17F87828": {
+      "elements": 19,
+      "text_tokens": 11,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "0431AD60-DAC7-492D-B758-8BF399A2611E": {
+      "elements": 20,
+      "text_tokens": 4,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "044993A4-69D4-45B4-8564-FBA462DB836C": {
+      "elements": 20,
+      "text_tokens": 11,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "04BFAA31-2083-4681-B7A8-B7BD1F504976": {
+      "elements": 29,
+      "text_tokens": 18,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "04EB65B9-C285-4312-AF27-5B64ED781064": {
+      "elements": 38,
+      "text_tokens": 19,
+      "density": 2.094791225978488,
+      "aspect": 1.555232558139535
+    },
+    "04F96C8B-FF4E-41B5-989B-4E98714CC34E": {
+      "elements": 23,
+      "text_tokens": 10,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "051009F9-F802-41B3-8800-1032803AEF3A": {
+      "elements": 46,
+      "text_tokens": 27,
+      "density": 2.5357999051318543,
+      "aspect": 1.555232558139535
+    },
+    "056C8513-CFCC-4D26-A79F-2B92C5078A2E": {
+      "elements": 20,
+      "text_tokens": 9,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "0584E2BE-2635-44F1-9102-CDA263506FBA": {
+      "elements": 14,
+      "text_tokens": 6,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "05992A48-12B7-439F-91E5-9CC02BA13007": {
+      "elements": 18,
+      "text_tokens": 9,
+      "density": 0.9922695280950733,
+      "aspect": 1.555232558139535
+    },
+    "059C9378-891F-470B-BF4B-DE0C35115989": {
+      "elements": 29,
+      "text_tokens": 16,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "05C98869-D8EC-4ACC-B522-87EB3B7C9935": {
+      "elements": 27,
+      "text_tokens": 15,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "05D74F86-6298-4949-994C-6A806BDDF5F8": {
+      "elements": 20,
+      "text_tokens": 9,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "060E9F88-9B8B-4C03-80DC-2C3BA582A917": {
+      "elements": 47,
+      "text_tokens": 30,
+      "density": 2.5909259900260246,
+      "aspect": 1.555232558139535
+    },
+    "060FE3EB-4485-4C15-95ED-625E5C6B604F": {
+      "elements": 37,
+      "text_tokens": 23,
+      "density": 2.0396651410843174,
+      "aspect": 1.555232558139535
+    },
+    "0652CBE0-8417-48A3-BA79-CE849EEBBABE": {
+      "elements": 11,
+      "text_tokens": 4,
+      "density": 0.6063869338358782,
+      "aspect": 1.555232558139535
+    },
+    "066C85A2-6996-4F34-B6E1-18A2E4BB7F6A": {
+      "elements": 28,
+      "text_tokens": 18,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "0678C781-D42A-4BD1-8E58-14F1548249BC": {
+      "elements": 21,
+      "text_tokens": 9,
+      "density": 1.1576477827775855,
+      "aspect": 1.555232558139535
+    },
+    "0683233F-E2CC-45A8-B061-C793CFE2E8DE": {
+      "elements": 31,
+      "text_tokens": 18,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "06B0EEFE-7C88-4CA3-A0B1-2E19170549F8": {
+      "elements": 32,
+      "text_tokens": 18,
+      "density": 1.7640347166134638,
+      "aspect": 1.555232558139535
+    },
+    "06B8E1D8-C4CB-4312-92E8-46321F6DDB7F": {
+      "elements": 17,
+      "text_tokens": 5,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "06CCC7C8-5B5B-4F95-A959-C426CFF99442": {
+      "elements": 27,
+      "text_tokens": 12,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "06DEC434-B63F-47C1-9ED5-53DB483BFF93": {
+      "elements": 33,
+      "text_tokens": 16,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "070E59FC-F4D5-4A67-9962-EB7376F41BC6": {
+      "elements": 28,
+      "text_tokens": 13,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "0759AC2F-C98F-4330-B882-3EBD621288DE": {
+      "elements": 18,
+      "text_tokens": 10,
+      "density": 0.9922695280950733,
+      "aspect": 1.555232558139535
+    },
+    "076A3D97-628A-44B3-A367-6A3425EBDCDC": {
+      "elements": 16,
+      "text_tokens": 6,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "07AE99D4-4CA8-4F5B-B606-B093BD8155D7": {
+      "elements": 18,
+      "text_tokens": 10,
+      "density": 0.9922695280950733,
+      "aspect": 1.555232558139535
+    },
+    "07B091FA-FB7B-4809-AD86-9860ECD4C8D6": {
+      "elements": 23,
+      "text_tokens": 9,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "07B099AB-33BF-4C66-9440-C86C1503998A": {
+      "elements": 32,
+      "text_tokens": 15,
+      "density": 1.7640347166134638,
+      "aspect": 1.555232558139535
+    },
+    "07D7E688-7B77-4B94-9432-269596BAB2C6": {
+      "elements": 36,
+      "text_tokens": 23,
+      "density": 1.9845390561901466,
+      "aspect": 1.555232558139535
+    },
+    "0833A64F-37EC-4CD7-BA34-E2B5D8AD1DD5": {
+      "elements": 17,
+      "text_tokens": 9,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "086B5DEF-D504-4AEB-A194-850787A0B09B": {
+      "elements": 23,
+      "text_tokens": 7,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "086EC0E1-B276-4438-80CE-6126BA919685": {
+      "elements": 19,
+      "text_tokens": 12,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "087172C7-DA28-45F3-8F6D-72E0016D3522": {
+      "elements": 16,
+      "text_tokens": 7,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "08837579-3D2B-463B-8389-AFB8FDE521D3": {
+      "elements": 23,
+      "text_tokens": 12,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "08B8B680-156A-4B7E-8F6B-20271A8BFDF5": {
+      "elements": 19,
+      "text_tokens": 14,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "08BE7FB8-01E0-4685-8DDA-194781DC7A16": {
+      "elements": 40,
+      "text_tokens": 23,
+      "density": 2.2050433957668294,
+      "aspect": 1.555232558139535
+    },
+    "090702A9-E784-443B-8B19-DE23C2C920F9": {
+      "elements": 16,
+      "text_tokens": 10,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "09289FAF-3880-45B3-9AF5-19C20D5593EE": {
+      "elements": 46,
+      "text_tokens": 27,
+      "density": 2.5357999051318543,
+      "aspect": 1.555232558139535
+    },
+    "0981C53E-4E02-4A4A-9F26-06695DC8D567": {
+      "elements": 20,
+      "text_tokens": 7,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "09923B09-7DEC-4C87-9D90-1C63636AFB32": {
+      "elements": 16,
+      "text_tokens": 8,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "0A25DA92-30F7-4869-81C8-D73A6F3004E1": {
+      "elements": 27,
+      "text_tokens": 16,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "0A47B8C7-5EB8-4176-B336-AA3F660CD348": {
+      "elements": 38,
+      "text_tokens": 23,
+      "density": 2.094791225978488,
+      "aspect": 1.555232558139535
+    },
+    "0A47CA6C-A04A-44BF-AC43-0D7F9715ED05": {
+      "elements": 24,
+      "text_tokens": 15,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "0A7796B7-DC53-402C-B496-75AC4CD93F23": {
+      "elements": 39,
+      "text_tokens": 16,
+      "density": 2.149917310872659,
+      "aspect": 1.555232558139535
+    },
+    "0A9E9E2A-E7FB-4462-890A-CEB77C99D148": {
+      "elements": 38,
+      "text_tokens": 18,
+      "density": 2.094791225978488,
+      "aspect": 1.555232558139535
+    },
+    "0AA7432D-CFC0-49B5-8EA4-2C032712B7B5": {
+      "elements": 13,
+      "text_tokens": 7,
+      "density": 0.7166391036242197,
+      "aspect": 1.555232558139535
+    },
+    "0AAE3AF8-D598-4206-AE7D-CE1C67D380EE": {
+      "elements": 29,
+      "text_tokens": 19,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "0AF85DCC-6C2E-4AB6-AEA6-78F02EC29FC1": {
+      "elements": 33,
+      "text_tokens": 16,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "0B17654E-B2C7-44D4-8589-6F7105614143": {
+      "elements": 27,
+      "text_tokens": 21,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "0B1FE7ED-06E0-453D-84FE-99FF2C8D36A2": {
+      "elements": 16,
+      "text_tokens": 6,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "0B46B788-4218-4241-BCE5-C67D97ECEA2D": {
+      "elements": 16,
+      "text_tokens": 7,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "0B4EA37C-97D8-4130-B2F0-A1A63103F47E": {
+      "elements": 21,
+      "text_tokens": 10,
+      "density": 1.1576477827775855,
+      "aspect": 1.555232558139535
+    },
+    "0B5CE228-7CCB-469B-AB47-E927837E06F0": {
+      "elements": 27,
+      "text_tokens": 11,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "0B6A8CB3-E640-4B5E-8121-61B15CA9038A": {
+      "elements": 26,
+      "text_tokens": 14,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "0B6C3747-EDE6-46C5-A2A3-0634B8D27876": {
+      "elements": 23,
+      "text_tokens": 10,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "0B97B561-0C7E-48CC-90A2-DE60DD72F810": {
+      "elements": 12,
+      "text_tokens": 8,
+      "density": 0.6615130187300489,
+      "aspect": 1.555232558139535
+    },
+    "0BBF8B46-163A-4BFE-9FDA-6E275AED160F": {
+      "elements": 21,
+      "text_tokens": 11,
+      "density": 1.1576477827775855,
+      "aspect": 1.555232558139535
+    },
+    "0BC6DCEB-CDE7-41CC-BD00-AF326B6A826A": {
+      "elements": 13,
+      "text_tokens": 5,
+      "density": 0.7166391036242197,
+      "aspect": 1.555232558139535
+    },
+    "0C5EED31-C17F-435B-885C-28B1F0103EEC": {
+      "elements": 20,
+      "text_tokens": 7,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "0C6D78EC-66F4-4FE0-A6EB-F09AC2C88321": {
+      "elements": 26,
+      "text_tokens": 13,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "0C9E6D8B-8365-4C3D-A977-D421CA6152BA": {
+      "elements": 10,
+      "text_tokens": 6,
+      "density": 0.5512608489417073,
+      "aspect": 1.555232558139535
+    },
+    "0D3DB262-03EA-4105-8F9C-43AFACA06FE1": {
+      "elements": 14,
+      "text_tokens": 5,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "0D4A2F2E-5165-4727-8638-FE9F18AD2AED": {
+      "elements": 13,
+      "text_tokens": 6,
+      "density": 0.7166391036242197,
+      "aspect": 1.555232558139535
+    },
+    "0D8B8855-C049-4CCC-AF2E-602A02D7459D": {
+      "elements": 33,
+      "text_tokens": 19,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "0DBCCD2C-7F71-4577-B2EE-7E051D83870F": {
+      "elements": 16,
+      "text_tokens": 10,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "0E2B44E9-3383-4406-854E-5BA9B0B69DE4": {
+      "elements": 33,
+      "text_tokens": 15,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "0E4C423D-C7FC-4FF4-9090-601E727D1990": {
+      "elements": 44,
+      "text_tokens": 24,
+      "density": 2.4255477353435126,
+      "aspect": 1.555232558139535
+    },
+    "0E6B3D5A-CA0D-4ADB-912C-F1096201AB65": {
+      "elements": 28,
+      "text_tokens": 15,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "0E78AA2C-ADB8-41ED-952C-33AEAD9BA927": {
+      "elements": 15,
+      "text_tokens": 7,
+      "density": 0.8268912734125611,
+      "aspect": 1.555232558139535
+    },
+    "0EC3E4F4-537E-402F-8102-F9DFD9E9DED4": {
+      "elements": 8,
+      "text_tokens": 4,
+      "density": 0.44100867915336595,
+      "aspect": 1.555232558139535
+    },
+    "0EC614C9-481A-464E-AB61-59A99BB45C9F": {
+      "elements": 15,
+      "text_tokens": 7,
+      "density": 0.8268912734125611,
+      "aspect": 1.555232558139535
+    },
+    "0F291E29-F61D-48B7-9F49-14D6BBC7AED8": {
+      "elements": 23,
+      "text_tokens": 11,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "0F3EA574-E076-4990-9889-3626D9D30DAB": {
+      "elements": 37,
+      "text_tokens": 22,
+      "density": 2.0396651410843174,
+      "aspect": 1.555232558139535
+    },
+    "0F6AF45A-1FC8-4768-AB5E-C22F36EFEA24": {
+      "elements": 13,
+      "text_tokens": 4,
+      "density": 0.7166391036242197,
+      "aspect": 1.555232558139535
+    },
+    "0F70BB34-BB2C-456B-B404-F2C1AB58025B": {
+      "elements": 30,
+      "text_tokens": 11,
+      "density": 1.6537825468251222,
+      "aspect": 1.555232558139535
+    },
+    "0F76A967-FEEE-4B82-9C0C-40BA26325BFC": {
+      "elements": 39,
+      "text_tokens": 21,
+      "density": 2.149917310872659,
+      "aspect": 1.555232558139535
+    },
+    "0FF51761-D740-43B1-8071-31CBD9FF22CA": {
+      "elements": 40,
+      "text_tokens": 24,
+      "density": 2.2050433957668294,
+      "aspect": 1.555232558139535
+    },
+    "102D9F19-4FAB-4144-9996-589C22991D61": {
+      "elements": 20,
+      "text_tokens": 8,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "102F6214-AD6A-45E9-9DB0-A1E14EB769B9": {
+      "elements": 17,
+      "text_tokens": 7,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "1066871E-3516-498A-8EEB-60391C4857AD": {
+      "elements": 18,
+      "text_tokens": 10,
+      "density": 0.9922695280950733,
+      "aspect": 1.555232558139535
+    },
+    "10B8DCED-18C6-4B9C-A1EF-013656EBC2E2": {
+      "elements": 22,
+      "text_tokens": 14,
+      "density": 1.2127738676717563,
+      "aspect": 1.555232558139535
+    },
+    "10C165B9-319E-4E03-9608-C0C2CD19B25A": {
+      "elements": 27,
+      "text_tokens": 17,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "10DCB681-943B-42D1-83BB-7C2C6259721B": {
+      "elements": 16,
+      "text_tokens": 6,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "11133AD1-CD2D-432C-8FB6-5769C9B09034": {
+      "elements": 41,
+      "text_tokens": 20,
+      "density": 2.260169480661,
+      "aspect": 1.555232558139535
+    },
+    "1146DA6F-5D01-4BCB-A327-9370C5F6608F": {
+      "elements": 15,
+      "text_tokens": 8,
+      "density": 0.8268912734125611,
+      "aspect": 1.555232558139535
+    },
+    "11509DD9-919D-4F00-AAD1-7ABE5A88113A": {
+      "elements": 36,
+      "text_tokens": 17,
+      "density": 1.9845390561901466,
+      "aspect": 1.555232558139535
+    },
+    "116E11EF-798D-48A7-B575-4C7B3DCA665D": {
+      "elements": 24,
+      "text_tokens": 14,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "11850D61-298B-4D22-9A6F-ED2348D3FFDC": {
+      "elements": 39,
+      "text_tokens": 20,
+      "density": 2.149917310872659,
+      "aspect": 1.555232558139535
+    },
+    "1192B83C-06DE-4C77-AA41-830E5A447DCE": {
+      "elements": 29,
+      "text_tokens": 13,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "119BC601-576E-4C2D-AED0-AFFD723A619A": {
+      "elements": 17,
+      "text_tokens": 9,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "11E92B13-F27E-4DEF-ACF0-844FB6D3FA8A": {
+      "elements": 26,
+      "text_tokens": 13,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "11F5654D-AC9B-48EE-A8BD-9636D8F943C8": {
+      "elements": 31,
+      "text_tokens": 12,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "1228CEFA-98B1-40D2-B3AD-9F39DAF5E5A5": {
+      "elements": 30,
+      "text_tokens": 19,
+      "density": 1.6537825468251222,
+      "aspect": 1.555232558139535
+    },
+    "12573810-BE1B-4FFF-AF49-9497A4FD2734": {
+      "elements": 12,
+      "text_tokens": 5,
+      "density": 0.6615130187300489,
+      "aspect": 1.555232558139535
+    },
+    "126F7E0C-01DE-47C4-B979-F7A4C83A87DC": {
+      "elements": 19,
+      "text_tokens": 6,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "127BB1B5-AB47-4DDC-AF35-CF3F46DD97A6": {
+      "elements": 28,
+      "text_tokens": 16,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "12DE9D35-6D71-426B-8E5E-D3B41FF9497A": {
+      "elements": 17,
+      "text_tokens": 10,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "12E90A6A-B206-4897-B880-5D76F8889FBA": {
+      "elements": 14,
+      "text_tokens": 6,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "130F223C-F28D-41F1-AB95-AC863AE7B89E": {
+      "elements": 33,
+      "text_tokens": 24,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "134C3C02-3D72-41BD-8DE9-BBC527EE46B3": {
+      "elements": 37,
+      "text_tokens": 17,
+      "density": 2.0396651410843174,
+      "aspect": 1.555232558139535
+    },
+    "134F4216-40FC-4BE8-AD0B-95C221FE4AE3": {
+      "elements": 31,
+      "text_tokens": 11,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "13617C8B-569C-42FE-AA8B-3D65F91AF2DA": {
+      "elements": 31,
+      "text_tokens": 14,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "13B790AD-EBAB-446A-98EE-D1876C352548": {
+      "elements": 28,
+      "text_tokens": 17,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "13BD2DCC-7FEF-4F4C-A94D-954C6268B7F4": {
+      "elements": 31,
+      "text_tokens": 16,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "13C22C87-7491-4798-9A20-DDB05CEAB1F2": {
+      "elements": 18,
+      "text_tokens": 8,
+      "density": 0.9922695280950733,
+      "aspect": 1.555232558139535
+    },
+    "13DE39D5-DCA8-4E34-98BB-4F7F9F0E9F82": {
+      "elements": 8,
+      "text_tokens": 5,
+      "density": 0.44100867915336595,
+      "aspect": 1.555232558139535
+    },
+    "13FAB0D5-BED3-4222-9E06-8DB5A1EA1CC9": {
+      "elements": 34,
+      "text_tokens": 21,
+      "density": 1.8742868864018052,
+      "aspect": 1.555232558139535
+    },
+    "148FB150-F833-49F8-8B96-4306C4C50102": {
+      "elements": 33,
+      "text_tokens": 20,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "14ADE55F-AC49-4861-9C6A-376299B88577": {
+      "elements": 32,
+      "text_tokens": 19,
+      "density": 1.7640347166134638,
+      "aspect": 1.555232558139535
+    },
+    "15985510-82A7-4D60-B1F6-0F42995423DF": {
+      "elements": 25,
+      "text_tokens": 16,
+      "density": 1.3781521223542685,
+      "aspect": 1.555232558139535
+    },
+    "15C8950D-13F7-4D78-A169-05996295AF2B": {
+      "elements": 14,
+      "text_tokens": 7,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "15E634D3-3D5A-4ADD-9E6C-2095374F11D6": {
+      "elements": 14,
+      "text_tokens": 6,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "15ECB8BC-AFA1-408C-BA9F-0EA17680D4A2": {
+      "elements": 29,
+      "text_tokens": 13,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "15FCC301-BF97-4DC8-A0EC-F80CB03AC51C": {
+      "elements": 26,
+      "text_tokens": 15,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "162B4B84-F24D-4118-B9AC-13F4D8CB77BC": {
+      "elements": 20,
+      "text_tokens": 12,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "165F0952-FA4E-4413-B4A9-BF124D2E8C77": {
+      "elements": 22,
+      "text_tokens": 6,
+      "density": 1.2127738676717563,
+      "aspect": 1.555232558139535
+    },
+    "167FA2A0-900A-46FC-8765-263C61920B7A": {
+      "elements": 11,
+      "text_tokens": 7,
+      "density": 0.6063869338358782,
+      "aspect": 1.555232558139535
+    },
+    "168D05E9-4BBF-4C73-BF98-D326EC847252": {
+      "elements": 20,
+      "text_tokens": 14,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "16B761E3-491E-4321-BA6A-2A7B8E9D2BD1": {
+      "elements": 29,
+      "text_tokens": 15,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "16FF6260-DEE8-4EE2-A8F8-8DECDF381E1C": {
+      "elements": 35,
+      "text_tokens": 20,
+      "density": 1.929412971295976,
+      "aspect": 1.555232558139535
+    },
+    "171EA8CD-4616-4651-8FBC-6559052D051B": {
+      "elements": 10,
+      "text_tokens": 5,
+      "density": 0.5512608489417073,
+      "aspect": 1.555232558139535
+    },
+    "172CFC2A-65E2-46FD-B0C1-0E8EC8E3214E": {
+      "elements": 35,
+      "text_tokens": 22,
+      "density": 1.929412971295976,
+      "aspect": 1.555232558139535
+    },
+    "17527A12-96D4-41EC-B8D6-72F703FC2D2F": {
+      "elements": 22,
+      "text_tokens": 11,
+      "density": 1.2127738676717563,
+      "aspect": 1.555232558139535
+    },
+    "17904B4B-AF11-4297-A8BD-9CF0C56F9BBD": {
+      "elements": 26,
+      "text_tokens": 12,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "17AAF5FF-8ABC-4B5A-9647-899D31826A52": {
+      "elements": 18,
+      "text_tokens": 9,
+      "density": 0.9922695280950733,
+      "aspect": 1.555232558139535
+    },
+    "17EE524A-484D-437F-A61E-67A582DE6DB1": {
+      "elements": 22,
+      "text_tokens": 12,
+      "density": 1.2127738676717563,
+      "aspect": 1.555232558139535
+    },
+    "180C085D-A6AF-40E4-A947-5B7411F0315C": {
+      "elements": 26,
+      "text_tokens": 15,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "1856F81D-9FC3-4E0C-B119-60BBA91F710B": {
+      "elements": 19,
+      "text_tokens": 8,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "1887F502-5D4F-45D1-8A58-F1A4D15FD306": {
+      "elements": 23,
+      "text_tokens": 7,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "18B49C47-7DAA-492C-BD50-0BC5650BBF1F": {
+      "elements": 24,
+      "text_tokens": 13,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "18B90FF1-BEF6-4897-8593-99FD93A340FA": {
+      "elements": 29,
+      "text_tokens": 18,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "1911F790-5415-43FA-BD77-2CA401314C5D": {
+      "elements": 27,
+      "text_tokens": 13,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "1925CCD2-9B9F-4E97-9CF3-1A8F4ED556EA": {
+      "elements": 19,
+      "text_tokens": 8,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "1959B839-E94C-4335-8D26-112B2BB68465": {
+      "elements": 20,
+      "text_tokens": 8,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "1967D10B-970B-4548-899B-D7F7B6C73BF5": {
+      "elements": 13,
+      "text_tokens": 5,
+      "density": 0.7166391036242197,
+      "aspect": 1.555232558139535
+    },
+    "1998FB6B-8EB1-4C96-828B-FC37C5D9A46C": {
+      "elements": 30,
+      "text_tokens": 18,
+      "density": 1.6537825468251222,
+      "aspect": 1.555232558139535
+    },
+    "19C467CF-BDA9-4DAF-9744-EC2C4D8806A3": {
+      "elements": 39,
+      "text_tokens": 20,
+      "density": 2.149917310872659,
+      "aspect": 1.555232558139535
+    },
+    "19D8C633-07AB-4B1B-9DD2-BC14918668EE": {
+      "elements": 30,
+      "text_tokens": 19,
+      "density": 1.6537825468251222,
+      "aspect": 1.555232558139535
+    },
+    "19D9DE55-EFD1-4503-9733-D4A7F1A15AFF": {
+      "elements": 28,
+      "text_tokens": 15,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "19F65903-CFA8-42B9-8E21-59F4C38EB1BB": {
+      "elements": 13,
+      "text_tokens": 4,
+      "density": 0.7166391036242197,
+      "aspect": 1.555232558139535
+    },
+    "1A377F98-CF5A-4D55-B8BC-F29B6C564F83": {
+      "elements": 38,
+      "text_tokens": 24,
+      "density": 2.094791225978488,
+      "aspect": 1.555232558139535
+    },
+    "1A7BE19E-DE71-47AC-B9DB-15BBF10A47CA": {
+      "elements": 19,
+      "text_tokens": 5,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "1A888688-379A-4AFE-8FE2-AC530F8D1FAA": {
+      "elements": 33,
+      "text_tokens": 18,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "1A8E2F80-1DC6-46D1-BC5E-BBC31726B795": {
+      "elements": 15,
+      "text_tokens": 5,
+      "density": 0.8268912734125611,
+      "aspect": 1.555232558139535
+    },
+    "1A952708-586A-4627-8C1E-5BC1FC848708": {
+      "elements": 31,
+      "text_tokens": 14,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "1A977FF3-8EC6-47E3-87DD-A9A826138325": {
+      "elements": 16,
+      "text_tokens": 9,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "1A991C22-4BA5-42D5-913A-B3F2CC0FE948": {
+      "elements": 28,
+      "text_tokens": 18,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "1AC02E93-5DFD-49F8-9420-46B298BFC03C": {
+      "elements": 19,
+      "text_tokens": 8,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "1AC15F46-4CF6-499F-94DC-6D9067128DED": {
+      "elements": 30,
+      "text_tokens": 17,
+      "density": 1.6537825468251222,
+      "aspect": 1.555232558139535
+    },
+    "1AD39482-86FE-4022-AAB6-3B8479D88A28": {
+      "elements": 11,
+      "text_tokens": 4,
+      "density": 0.6063869338358782,
+      "aspect": 1.555232558139535
+    },
+    "1AF422B3-44E6-4C99-B460-F18F1EB35B89": {
+      "elements": 30,
+      "text_tokens": 17,
+      "density": 1.6537825468251222,
+      "aspect": 1.555232558139535
+    },
+    "1B03261B-8731-4C4A-9FF1-D54153869885": {
+      "elements": 13,
+      "text_tokens": 7,
+      "density": 0.7166391036242197,
+      "aspect": 1.555232558139535
+    },
+    "1B4346A6-D3AB-4919-B1FD-A2284E606DF4": {
+      "elements": 23,
+      "text_tokens": 15,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "1B659E41-4A53-4092-8C50-70140AC2DE39": {
+      "elements": 14,
+      "text_tokens": 8,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "1B72BB7B-7D6A-4869-83D5-5B60B765E771": {
+      "elements": 19,
+      "text_tokens": 11,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "1B7F2FC2-5E0F-4B2C-857D-D2596D738B1B": {
+      "elements": 45,
+      "text_tokens": 27,
+      "density": 2.4806738202376835,
+      "aspect": 1.555232558139535
+    },
+    "1B8BD8C8-8B12-480E-B152-20BD12066301": {
+      "elements": 31,
+      "text_tokens": 18,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "1BD49B50-4534-4AB2-8AC2-26F744D35C26": {
+      "elements": 11,
+      "text_tokens": 4,
+      "density": 0.6063869338358782,
+      "aspect": 1.555232558139535
+    },
+    "1BE7A666-3081-4B83-91BA-4BEAF65B4D26": {
+      "elements": 36,
+      "text_tokens": 16,
+      "density": 1.9845390561901466,
+      "aspect": 1.555232558139535
+    },
+    "1C344632-10A5-4731-91FA-09EDDBE0F4E7": {
+      "elements": 35,
+      "text_tokens": 24,
+      "density": 1.929412971295976,
+      "aspect": 1.555232558139535
+    },
+    "1C365ED3-E763-4D72-9813-7547E5A711DF": {
+      "elements": 46,
+      "text_tokens": 28,
+      "density": 2.5357999051318543,
+      "aspect": 1.555232558139535
+    },
+    "1C3F263D-7BAF-49F6-8E87-CCC1CD56F99F": {
+      "elements": 32,
+      "text_tokens": 16,
+      "density": 1.7640347166134638,
+      "aspect": 1.555232558139535
+    },
+    "1C4F2717-EEB9-4AD0-9818-71A8D4FE2615": {
+      "elements": 26,
+      "text_tokens": 10,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "1C5895DD-D4B8-4B9A-90C6-61216CB7F201": {
+      "elements": 19,
+      "text_tokens": 8,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "1C74EDF2-00ED-4DAA-9388-9156126E74F3": {
+      "elements": 10,
+      "text_tokens": 4,
+      "density": 0.5512608489417073,
+      "aspect": 1.555232558139535
+    },
+    "1CE49BA0-9E02-43EF-9BD3-E28C584E1207": {
+      "elements": 33,
+      "text_tokens": 21,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "1D78D4F0-402B-4E6D-A824-FBC3E5974213": {
+      "elements": 16,
+      "text_tokens": 6,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "1D793362-3C87-4C85-9CCA-01362BBEE842": {
+      "elements": 20,
+      "text_tokens": 11,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "1D7937D7-5C5B-4202-BC8E-99A33CEBD581": {
+      "elements": 37,
+      "text_tokens": 21,
+      "density": 2.0396651410843174,
+      "aspect": 1.555232558139535
+    },
+    "1DC73AF6-6EE5-414F-88B6-DF6C561D24DE": {
+      "elements": 20,
+      "text_tokens": 17,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "1DFC79CA-ED8C-440E-84B9-A1C77CA20D7C": {
+      "elements": 27,
+      "text_tokens": 14,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "1E0C784E-C33C-49C3-8CE3-0E26E5CF3F1D": {
+      "elements": 20,
+      "text_tokens": 6,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "1E3211A6-ECDB-42E4-B3E2-FD2253AC3147": {
+      "elements": 27,
+      "text_tokens": 12,
+      "density": 1.48840429214261,
+      "aspect": 1.555232558139535
+    },
+    "1E3C959C-315D-416D-975A-F3E9FBBCAA41": {
+      "elements": 22,
+      "text_tokens": 13,
+      "density": 1.2127738676717563,
+      "aspect": 1.555232558139535
+    },
+    "1E55CDC5-11D8-4BE3-A9E1-C2634FD940F3": {
+      "elements": 19,
+      "text_tokens": 8,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "1E5E21B2-BB00-4807-A249-B5C2A87EE377": {
+      "elements": 16,
+      "text_tokens": 7,
+      "density": 0.8820173583067319,
+      "aspect": 1.555232558139535
+    },
+    "1E603FB7-2CCA-4500-A052-A7E5E1D135C6": {
+      "elements": 25,
+      "text_tokens": 15,
+      "density": 1.3781521223542685,
+      "aspect": 1.555232558139535
+    },
+    "1E9674FE-4E53-4D06-A15B-1A70799FABEB": {
+      "elements": 50,
+      "text_tokens": 23,
+      "density": 2.756304244708537,
+      "aspect": 1.555232558139535
+    },
+    "1F90FD76-C7F9-4CA3-8C11-4013374505BF": {
+      "elements": 28,
+      "text_tokens": 15,
+      "density": 1.5435303770367808,
+      "aspect": 1.555232558139535
+    },
+    "1FCB8DE8-6B4A-4083-864B-E03F1EA6570D": {
+      "elements": 10,
+      "text_tokens": 7,
+      "density": 0.5512608489417073,
+      "aspect": 1.555232558139535
+    },
+    "1FDC1C09-6898-446B-9747-85327F5EABF4": {
+      "elements": 23,
+      "text_tokens": 13,
+      "density": 1.2678999525659271,
+      "aspect": 1.555232558139535
+    },
+    "1FE78840-7EA9-4A73-A059-17DE07E5EC64": {
+      "elements": 19,
+      "text_tokens": 11,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "1FFC0031-67D0-41E7-BB02-E7BA9DA90DA4": {
+      "elements": 26,
+      "text_tokens": 16,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "202C4FD3-C429-48C3-B19A-50B0DF70EACB": {
+      "elements": 20,
+      "text_tokens": 11,
+      "density": 1.1025216978834147,
+      "aspect": 1.555232558139535
+    },
+    "203134CC-F7D0-4FEE-A7FC-E4F252FC2E16": {
+      "elements": 14,
+      "text_tokens": 3,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "208117B1-5839-422C-BEC4-2DBFA8146F81": {
+      "elements": 25,
+      "text_tokens": 10,
+      "density": 1.3781521223542685,
+      "aspect": 1.555232558139535
+    },
+    "20A66613-FA9D-42FF-9164-A659655E794D": {
+      "elements": 25,
+      "text_tokens": 14,
+      "density": 1.3781521223542685,
+      "aspect": 1.555232558139535
+    },
+    "2121C53B-0640-4A69-A82E-9765DE4F0E1D": {
+      "elements": 19,
+      "text_tokens": 11,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "21324895-2B3F-49DA-A102-D3249B51B0F5": {
+      "elements": 15,
+      "text_tokens": 8,
+      "density": 0.8268912734125611,
+      "aspect": 1.555232558139535
+    },
+    "217C224B-9351-46A7-9490-B0E7AFC8ECD9": {
+      "elements": 14,
+      "text_tokens": 8,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "217D7F4A-C1CD-4674-86E1-291DCD537F00": {
+      "elements": 33,
+      "text_tokens": 17,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "2184C636-E7AE-48E5-8197-FFFFF5CBBECF": {
+      "elements": 24,
+      "text_tokens": 16,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "21940D47-4354-4B96-9D65-CBE9C520CB8B": {
+      "elements": 24,
+      "text_tokens": 12,
+      "density": 1.3230260374600977,
+      "aspect": 1.555232558139535
+    },
+    "21BAD7B9-C0DA-4FC0-A01C-448BBBC50D19": {
+      "elements": 21,
+      "text_tokens": 10,
+      "density": 1.1576477827775855,
+      "aspect": 1.555232558139535
+    },
+    "21D353EB-C51C-4139-B0BD-A3AE31003ED2": {
+      "elements": 19,
+      "text_tokens": 10,
+      "density": 1.047395612989244,
+      "aspect": 1.555232558139535
+    },
+    "22040445-B35E-41C1-B1A5-3929F4194CC3": {
+      "elements": 46,
+      "text_tokens": 24,
+      "density": 2.5357999051318543,
+      "aspect": 1.555232558139535
+    },
+    "222B43D3-72A8-41AF-81BE-BE9C88D60F7E": {
+      "elements": 10,
+      "text_tokens": 5,
+      "density": 0.5512608489417073,
+      "aspect": 1.555232558139535
+    },
+    "22409AE2-7743-434B-B7DB-B8F79E685FD9": {
+      "elements": 29,
+      "text_tokens": 15,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "2258026E-F1E3-49B4-A33C-76615E42DBA2": {
+      "elements": 36,
+      "text_tokens": 21,
+      "density": 1.9845390561901466,
+      "aspect": 1.555232558139535
+    },
+    "226E0031-AB19-4323-8794-E00CA65E8177": {
+      "elements": 11,
+      "text_tokens": 6,
+      "density": 0.6063869338358782,
+      "aspect": 1.555232558139535
+    },
+    "226F2BC5-7B57-4276-9F98-22409182B6A5": {
+      "elements": 8,
+      "text_tokens": 6,
+      "density": 0.44100867915336595,
+      "aspect": 1.555232558139535
+    },
+    "228821DB-5DA2-4F83-95FD-6D149E4B6939": {
+      "elements": 31,
+      "text_tokens": 19,
+      "density": 1.708908631719293,
+      "aspect": 1.555232558139535
+    },
+    "22D51338-882B-4D5E-8CFD-39F3FEBA5A3B": {
+      "elements": 11,
+      "text_tokens": 6,
+      "density": 0.6063869338358782,
+      "aspect": 1.555232558139535
+    },
+    "22DB008C-CE3C-46FA-AC34-239F371444CA": {
+      "elements": 39,
+      "text_tokens": 18,
+      "density": 2.149917310872659,
+      "aspect": 1.555232558139535
+    },
+    "22EA1606-44F5-42D8-9FF9-D072B40B654A": {
+      "elements": 17,
+      "text_tokens": 9,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "22FD37A3-C6C2-46C5-B883-695B1675A839": {
+      "elements": 21,
+      "text_tokens": 11,
+      "density": 1.1576477827775855,
+      "aspect": 1.555232558139535
+    },
+    "230953B8-A519-4823-82CB-6DE5E3C39713": {
+      "elements": 39,
+      "text_tokens": 17,
+      "density": 2.149917310872659,
+      "aspect": 1.555232558139535
+    },
+    "231267AC-503C-4146-8BD9-903494E008F8": {
+      "elements": 29,
+      "text_tokens": 15,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "231BCB36-CFC2-459D-9477-E91AD9F4EB74": {
+      "elements": 29,
+      "text_tokens": 17,
+      "density": 1.5986564619309516,
+      "aspect": 1.555232558139535
+    },
+    "231F2BE6-8146-4F1B-A6D7-C169E1FEBE5C": {
+      "elements": 33,
+      "text_tokens": 20,
+      "density": 1.8191608015076344,
+      "aspect": 1.555232558139535
+    },
+    "233B7B59-7914-4D20-8F14-07FDDF927579": {
+      "elements": 14,
+      "text_tokens": 6,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "237577BC-23EE-4FA6-A221-27FEE832F944": {
+      "elements": 14,
+      "text_tokens": 7,
+      "density": 0.7717651885183904,
+      "aspect": 1.555232558139535
+    },
+    "238FEB6F-E99A-4F32-AF79-969929627768": {
+      "elements": 39,
+      "text_tokens": 22,
+      "density": 2.149917310872659,
+      "aspect": 1.555232558139535
+    },
+    "23AFEC11-772C-4E84-83E5-F119E0EC13AE": {
+      "elements": 26,
+      "text_tokens": 14,
+      "density": 1.4332782072484394,
+      "aspect": 1.555232558139535
+    },
+    "23F96313-CB89-4C03-B65D-18DA392BCE5B": {
+      "elements": 17,
+      "text_tokens": 10,
+      "density": 0.9371434432009026,
+      "aspect": 1.555232558139535
+    },
+    "rr0001": {
+      "elements": 26,
+      "text_tokens": 55,
+      "density": 1.3931755829903978,
+      "aspect": 1.6
+    },
+    "rr0002": {
+      "elements": 11,
+      "text_tokens": 15,
+      "density": 0.589420438957476,
+      "aspect": 1.6
+    },
+    "rr0003": {
+      "elements": 71,
+      "text_tokens": 59,
+      "density": 3.804441015089163,
+      "aspect": 1.6
+    },
+    "rr0004": {
+      "elements": 21,
+      "text_tokens": 37,
+      "density": 1.1252572016460904,
+      "aspect": 1.6
+    },
+    "rr0005": {
+      "elements": 28,
+      "text_tokens": 102,
+      "density": 1.5003429355281206,
+      "aspect": 1.6
+    },
+    "rr0006": {
+      "elements": 125,
+      "text_tokens": 122,
+      "density": 6.697959533607682,
+      "aspect": 1.6
+    },
+    "rr0007": {
+      "elements": 20,
+      "text_tokens": 28,
+      "density": 1.071673525377229,
+      "aspect": 1.6
+    },
+    "rr0008": {
+      "elements": 9,
+      "text_tokens": 14,
+      "density": 0.48225308641975306,
+      "aspect": 1.6
+    },
+    "rr0009": {
+      "elements": 17,
+      "text_tokens": 27,
+      "density": 0.9109224965706446,
+      "aspect": 1.6
+    },
+    "rr0010": {
+      "elements": 21,
+      "text_tokens": 5,
+      "density": 1.1252572016460904,
+      "aspect": 1.6
+    },
+    "rr0011": {
+      "elements": 34,
+      "text_tokens": 16,
+      "density": 1.8218449931412892,
+      "aspect": 1.6
+    },
+    "rr0012": {
+      "elements": 18,
+      "text_tokens": 31,
+      "density": 0.9645061728395061,
+      "aspect": 1.6
+    },
+    "rr0013": {
+      "elements": 13,
+      "text_tokens": 21,
+      "density": 0.6965877914951989,
+      "aspect": 1.6
+    },
+    "rr0014": {
+      "elements": 32,
+      "text_tokens": 32,
+      "density": 1.7146776406035664,
+      "aspect": 1.6
+    },
+    "rr0015": {
+      "elements": 38,
+      "text_tokens": 29,
+      "density": 2.0361796982167353,
+      "aspect": 1.6
+    },
+    "rr0016": {
+      "elements": 35,
+      "text_tokens": 20,
+      "density": 1.8754286694101507,
+      "aspect": 1.6
+    },
+    "rr0017": {
+      "elements": 52,
+      "text_tokens": 34,
+      "density": 2.7863511659807956,
+      "aspect": 1.6
+    },
+    "rr0018": {
+      "elements": 11,
+      "text_tokens": 5,
+      "density": 0.589420438957476,
+      "aspect": 1.6
+    },
+    "rr0019": {
+      "elements": 12,
+      "text_tokens": 12,
+      "density": 0.6430041152263374,
+      "aspect": 1.6
+    },
+    "rr0020": {
+      "elements": 14,
+      "text_tokens": 21,
+      "density": 0.7501714677640603,
+      "aspect": 1.6
+    },
+    "rr0021": {
+      "elements": 19,
+      "text_tokens": 16,
+      "density": 1.0180898491083676,
+      "aspect": 1.6
+    },
+    "rr0022": {
+      "elements": 26,
+      "text_tokens": 45,
+      "density": 1.3931755829903978,
+      "aspect": 1.6
+    },
+    "rr0023": {
+      "elements": 30,
+      "text_tokens": 18,
+      "density": 1.6075102880658434,
+      "aspect": 1.6
+    },
+    "rr0024": {
+      "elements": 22,
+      "text_tokens": 20,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0025": {
+      "elements": 85,
+      "text_tokens": 24,
+      "density": 4.554612482853223,
+      "aspect": 1.6
+    },
+    "rr0026": {
+      "elements": 12,
+      "text_tokens": 4,
+      "density": 0.6430041152263374,
+      "aspect": 1.6
+    },
+    "rr0027": {
+      "elements": 17,
+      "text_tokens": 34,
+      "density": 0.9109224965706446,
+      "aspect": 1.6
+    },
+    "rr0028": {
+      "elements": 21,
+      "text_tokens": 22,
+      "density": 1.1252572016460904,
+      "aspect": 1.6
+    },
+    "rr0029": {
+      "elements": 9,
+      "text_tokens": 3,
+      "density": 0.48225308641975306,
+      "aspect": 1.6
+    },
+    "rr0030": {
+      "elements": 15,
+      "text_tokens": 20,
+      "density": 0.8037551440329217,
+      "aspect": 1.6
+    },
+    "rr0031": {
+      "elements": 10,
+      "text_tokens": 14,
+      "density": 0.5358367626886145,
+      "aspect": 1.6
+    },
+    "rr0032": {
+      "elements": 16,
+      "text_tokens": 7,
+      "density": 0.8573388203017832,
+      "aspect": 1.6
+    },
+    "rr0033": {
+      "elements": 11,
+      "text_tokens": 21,
+      "density": 0.589420438957476,
+      "aspect": 1.6
+    },
+    "rr0034": {
+      "elements": 57,
+      "text_tokens": 79,
+      "density": 3.0542695473251027,
+      "aspect": 1.6
+    },
+    "rr0035": {
+      "elements": 17,
+      "text_tokens": 25,
+      "density": 0.9109224965706446,
+      "aspect": 1.6
+    },
+    "rr0036": {
+      "elements": 16,
+      "text_tokens": 46,
+      "density": 0.8573388203017832,
+      "aspect": 1.6
+    },
+    "rr0037": {
+      "elements": 30,
+      "text_tokens": 31,
+      "density": 1.6075102880658434,
+      "aspect": 1.6
+    },
+    "rr0038": {
+      "elements": 56,
+      "text_tokens": 550,
+      "density": 3.000685871056241,
+      "aspect": 1.6
+    },
+    "rr0039": {
+      "elements": 48,
+      "text_tokens": 34,
+      "density": 2.5720164609053495,
+      "aspect": 1.6
+    },
+    "rr0040": {
+      "elements": 16,
+      "text_tokens": 17,
+      "density": 0.8573388203017832,
+      "aspect": 1.6
+    },
+    "rr0041": {
+      "elements": 7,
+      "text_tokens": 3,
+      "density": 0.37508573388203015,
+      "aspect": 1.6
+    },
+    "rr0042": {
+      "elements": 28,
+      "text_tokens": 32,
+      "density": 1.5003429355281206,
+      "aspect": 1.6
+    },
+    "rr0043": {
+      "elements": 30,
+      "text_tokens": 86,
+      "density": 1.6075102880658434,
+      "aspect": 1.6
+    },
+    "rr0044": {
+      "elements": 19,
+      "text_tokens": 28,
+      "density": 1.0180898491083676,
+      "aspect": 1.6
+    },
+    "rr0045": {
+      "elements": 30,
+      "text_tokens": 45,
+      "density": 1.6075102880658434,
+      "aspect": 1.6
+    },
+    "rr0046": {
+      "elements": 23,
+      "text_tokens": 14,
+      "density": 1.2324245541838132,
+      "aspect": 1.6
+    },
+    "rr0047": {
+      "elements": 16,
+      "text_tokens": 5,
+      "density": 0.8573388203017832,
+      "aspect": 1.6
+    },
+    "rr0048": {
+      "elements": 17,
+      "text_tokens": 10,
+      "density": 0.9109224965706446,
+      "aspect": 1.6
+    },
+    "rr0049": {
+      "elements": 25,
+      "text_tokens": 10,
+      "density": 1.3395919067215363,
+      "aspect": 1.6
+    },
+    "rr0050": {
+      "elements": 20,
+      "text_tokens": 48,
+      "density": 1.071673525377229,
+      "aspect": 1.6
+    },
+    "rr0051": {
+      "elements": 72,
+      "text_tokens": 97,
+      "density": 3.8580246913580245,
+      "aspect": 1.6
+    },
+    "rr0052": {
+      "elements": 31,
+      "text_tokens": 15,
+      "density": 1.661093964334705,
+      "aspect": 1.6
+    },
+    "rr0053": {
+      "elements": 22,
+      "text_tokens": 18,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0054": {
+      "elements": 24,
+      "text_tokens": 26,
+      "density": 1.2860082304526748,
+      "aspect": 1.6
+    },
+    "rr0055": {
+      "elements": 60,
+      "text_tokens": 159,
+      "density": 3.215020576131687,
+      "aspect": 1.6
+    },
+    "rr0056": {
+      "elements": 91,
+      "text_tokens": 6,
+      "density": 4.876114540466392,
+      "aspect": 1.6
+    },
+    "rr0057": {
+      "elements": 64,
+      "text_tokens": 101,
+      "density": 3.429355281207133,
+      "aspect": 1.6
+    },
+    "rr0058": {
+      "elements": 9,
+      "text_tokens": 11,
+      "density": 0.48225308641975306,
+      "aspect": 1.6
+    },
+    "rr0059": {
+      "elements": 19,
+      "text_tokens": 21,
+      "density": 1.0180898491083676,
+      "aspect": 1.6
+    },
+    "rr0060": {
+      "elements": 31,
+      "text_tokens": 33,
+      "density": 1.661093964334705,
+      "aspect": 1.6
+    },
+    "rr0061": {
+      "elements": 68,
+      "text_tokens": 202,
+      "density": 3.6436899862825785,
+      "aspect": 1.6
+    },
+    "rr0062": {
+      "elements": 24,
+      "text_tokens": 27,
+      "density": 1.2860082304526748,
+      "aspect": 1.6
+    },
+    "rr0063": {
+      "elements": 50,
+      "text_tokens": 35,
+      "density": 2.6791838134430725,
+      "aspect": 1.6
+    },
+    "rr0064": {
+      "elements": 10,
+      "text_tokens": 8,
+      "density": 0.5358367626886145,
+      "aspect": 1.6
+    },
+    "rr0065": {
+      "elements": 33,
+      "text_tokens": 10,
+      "density": 1.768261316872428,
+      "aspect": 1.6
+    },
+    "rr0066": {
+      "elements": 58,
+      "text_tokens": 68,
+      "density": 3.107853223593964,
+      "aspect": 1.6
+    },
+    "rr0067": {
+      "elements": 22,
+      "text_tokens": 17,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0068": {
+      "elements": 20,
+      "text_tokens": 17,
+      "density": 1.071673525377229,
+      "aspect": 1.6
+    },
+    "rr0069": {
+      "elements": 54,
+      "text_tokens": 57,
+      "density": 2.893518518518518,
+      "aspect": 1.6
+    },
+    "rr0070": {
+      "elements": 38,
+      "text_tokens": 23,
+      "density": 2.0361796982167353,
+      "aspect": 1.6
+    },
+    "rr0071": {
+      "elements": 8,
+      "text_tokens": 3,
+      "density": 0.4286694101508916,
+      "aspect": 1.6
+    },
+    "rr0072": {
+      "elements": 15,
+      "text_tokens": 18,
+      "density": 0.8037551440329217,
+      "aspect": 1.6
+    },
+    "rr0073": {
+      "elements": 14,
+      "text_tokens": 19,
+      "density": 0.7501714677640603,
+      "aspect": 1.6
+    },
+    "rr0074": {
+      "elements": 25,
+      "text_tokens": 26,
+      "density": 1.3395919067215363,
+      "aspect": 1.6
+    },
+    "rr0075": {
+      "elements": 47,
+      "text_tokens": 47,
+      "density": 2.518432784636488,
+      "aspect": 1.6
+    },
+    "rr0076": {
+      "elements": 14,
+      "text_tokens": 7,
+      "density": 0.7501714677640603,
+      "aspect": 1.6
+    },
+    "rr0077": {
+      "elements": 29,
+      "text_tokens": 28,
+      "density": 1.553926611796982,
+      "aspect": 1.6
+    },
+    "rr0078": {
+      "elements": 48,
+      "text_tokens": 42,
+      "density": 2.5720164609053495,
+      "aspect": 1.6
+    },
+    "rr0079": {
+      "elements": 6,
+      "text_tokens": 12,
+      "density": 0.3215020576131687,
+      "aspect": 1.6
+    },
+    "rr0080": {
+      "elements": 24,
+      "text_tokens": 21,
+      "density": 1.2860082304526748,
+      "aspect": 1.6
+    },
+    "rr0081": {
+      "elements": 42,
+      "text_tokens": 117,
+      "density": 2.250514403292181,
+      "aspect": 1.6
+    },
+    "rr0082": {
+      "elements": 58,
+      "text_tokens": 21,
+      "density": 3.107853223593964,
+      "aspect": 1.6
+    },
+    "rr0083": {
+      "elements": 66,
+      "text_tokens": 135,
+      "density": 3.536522633744856,
+      "aspect": 1.6
+    },
+    "rr0084": {
+      "elements": 22,
+      "text_tokens": 28,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0085": {
+      "elements": 5,
+      "text_tokens": 10,
+      "density": 0.26791838134430723,
+      "aspect": 1.6
+    },
+    "rr0086": {
+      "elements": 65,
+      "text_tokens": 9,
+      "density": 3.4829389574759944,
+      "aspect": 1.6
+    },
+    "rr0087": {
+      "elements": 37,
+      "text_tokens": 44,
+      "density": 1.9825960219478735,
+      "aspect": 1.6
+    },
+    "rr0088": {
+      "elements": 8,
+      "text_tokens": 6,
+      "density": 0.4286694101508916,
+      "aspect": 1.6
+    },
+    "rr0089": {
+      "elements": 65,
+      "text_tokens": 4,
+      "density": 3.4829389574759944,
+      "aspect": 1.6
+    },
+    "rr0090": {
+      "elements": 25,
+      "text_tokens": 21,
+      "density": 1.3395919067215363,
+      "aspect": 1.6
+    },
+    "rr0091": {
+      "elements": 25,
+      "text_tokens": 20,
+      "density": 1.3395919067215363,
+      "aspect": 1.6
+    },
+    "rr0092": {
+      "elements": 30,
+      "text_tokens": 28,
+      "density": 1.6075102880658434,
+      "aspect": 1.6
+    },
+    "rr0093": {
+      "elements": 84,
+      "text_tokens": 10,
+      "density": 4.501028806584362,
+      "aspect": 1.6
+    },
+    "rr0094": {
+      "elements": 20,
+      "text_tokens": 22,
+      "density": 1.071673525377229,
+      "aspect": 1.6
+    },
+    "rr0095": {
+      "elements": 25,
+      "text_tokens": 34,
+      "density": 1.3395919067215363,
+      "aspect": 1.6
+    },
+    "rr0096": {
+      "elements": 28,
+      "text_tokens": 6,
+      "density": 1.5003429355281206,
+      "aspect": 1.6
+    },
+    "rr0097": {
+      "elements": 14,
+      "text_tokens": 9,
+      "density": 0.7501714677640603,
+      "aspect": 1.6
+    },
+    "rr0098": {
+      "elements": 16,
+      "text_tokens": 15,
+      "density": 0.8573388203017832,
+      "aspect": 1.6
+    },
+    "rr0099": {
+      "elements": 33,
+      "text_tokens": 155,
+      "density": 1.768261316872428,
+      "aspect": 1.6
+    },
+    "rr0100": {
+      "elements": 144,
+      "text_tokens": 9,
+      "density": 7.716049382716049,
+      "aspect": 1.6
+    },
+    "rr0101": {
+      "elements": 27,
+      "text_tokens": 31,
+      "density": 1.446759259259259,
+      "aspect": 1.6
+    },
+    "rr0102": {
+      "elements": 39,
+      "text_tokens": 37,
+      "density": 2.0897633744855963,
+      "aspect": 1.6
+    },
+    "rr0103": {
+      "elements": 48,
+      "text_tokens": 111,
+      "density": 2.5720164609053495,
+      "aspect": 1.6
+    },
+    "rr0104": {
+      "elements": 31,
+      "text_tokens": 26,
+      "density": 1.661093964334705,
+      "aspect": 1.6
+    },
+    "rr0105": {
+      "elements": 27,
+      "text_tokens": 22,
+      "density": 1.446759259259259,
+      "aspect": 1.6
+    },
+    "rr0106": {
+      "elements": 72,
+      "text_tokens": 6,
+      "density": 3.8580246913580245,
+      "aspect": 1.6
+    },
+    "rr0107": {
+      "elements": 72,
+      "text_tokens": 29,
+      "density": 3.8580246913580245,
+      "aspect": 1.6
+    },
+    "rr0108": {
+      "elements": 15,
+      "text_tokens": 19,
+      "density": 0.8037551440329217,
+      "aspect": 1.6
+    },
+    "rr0109": {
+      "elements": 25,
+      "text_tokens": 25,
+      "density": 1.3395919067215363,
+      "aspect": 1.6
+    },
+    "rr0110": {
+      "elements": 11,
+      "text_tokens": 5,
+      "density": 0.589420438957476,
+      "aspect": 1.6
+    },
+    "rr0111": {
+      "elements": 21,
+      "text_tokens": 16,
+      "density": 1.1252572016460904,
+      "aspect": 1.6
+    },
+    "rr0112": {
+      "elements": 22,
+      "text_tokens": 30,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0113": {
+      "elements": 40,
+      "text_tokens": 106,
+      "density": 2.143347050754458,
+      "aspect": 1.6
+    },
+    "rr0114": {
+      "elements": 47,
+      "text_tokens": 95,
+      "density": 2.518432784636488,
+      "aspect": 1.6
+    },
+    "rr0115": {
+      "elements": 50,
+      "text_tokens": 2,
+      "density": 2.6791838134430725,
+      "aspect": 1.6
+    },
+    "rr0116": {
+      "elements": 47,
+      "text_tokens": 40,
+      "density": 2.518432784636488,
+      "aspect": 1.6
+    },
+    "rr0117": {
+      "elements": 20,
+      "text_tokens": 47,
+      "density": 1.071673525377229,
+      "aspect": 1.6
+    },
+    "rr0118": {
+      "elements": 26,
+      "text_tokens": 110,
+      "density": 1.3931755829903978,
+      "aspect": 1.6
+    },
+    "rr0119": {
+      "elements": 32,
+      "text_tokens": 18,
+      "density": 1.7146776406035664,
+      "aspect": 1.6
+    },
+    "rr0120": {
+      "elements": 15,
+      "text_tokens": 29,
+      "density": 0.8037551440329217,
+      "aspect": 1.6
+    },
+    "rr0121": {
+      "elements": 21,
+      "text_tokens": 0,
+      "density": 1.1252572016460904,
+      "aspect": 1.6
+    },
+    "rr0122": {
+      "elements": 22,
+      "text_tokens": 8,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0123": {
+      "elements": 44,
+      "text_tokens": 34,
+      "density": 2.357681755829904,
+      "aspect": 1.6
+    },
+    "rr0124": {
+      "elements": 24,
+      "text_tokens": 29,
+      "density": 1.2860082304526748,
+      "aspect": 1.6
+    },
+    "rr0125": {
+      "elements": 14,
+      "text_tokens": 23,
+      "density": 0.7501714677640603,
+      "aspect": 1.6
+    },
+    "rr0126": {
+      "elements": 54,
+      "text_tokens": 355,
+      "density": 2.893518518518518,
+      "aspect": 1.6
+    },
+    "rr0127": {
+      "elements": 16,
+      "text_tokens": 17,
+      "density": 0.8573388203017832,
+      "aspect": 1.6
+    },
+    "rr0128": {
+      "elements": 45,
+      "text_tokens": 233,
+      "density": 2.4112654320987654,
+      "aspect": 1.6
+    },
+    "rr0129": {
+      "elements": 19,
+      "text_tokens": 3,
+      "density": 1.0180898491083676,
+      "aspect": 1.6
+    },
+    "rr0130": {
+      "elements": 82,
+      "text_tokens": 21,
+      "density": 4.393861454046639,
+      "aspect": 1.6
+    },
+    "rr0131": {
+      "elements": 31,
+      "text_tokens": 20,
+      "density": 1.661093964334705,
+      "aspect": 1.6
+    },
+    "rr0132": {
+      "elements": 113,
+      "text_tokens": 75,
+      "density": 6.054955418381343,
+      "aspect": 1.6
+    },
+    "rr0133": {
+      "elements": 43,
+      "text_tokens": 132,
+      "density": 2.3040980795610424,
+      "aspect": 1.6
+    },
+    "rr0134": {
+      "elements": 52,
+      "text_tokens": 26,
+      "density": 2.7863511659807956,
+      "aspect": 1.6
+    },
+    "rr0135": {
+      "elements": 52,
+      "text_tokens": 9,
+      "density": 2.7863511659807956,
+      "aspect": 1.6
+    },
+    "rr0136": {
+      "elements": 14,
+      "text_tokens": 15,
+      "density": 0.7501714677640603,
+      "aspect": 1.6
+    },
+    "rr0137": {
+      "elements": 10,
+      "text_tokens": 9,
+      "density": 0.5358367626886145,
+      "aspect": 1.6
+    },
+    "rr0138": {
+      "elements": 2,
+      "text_tokens": 0,
+      "density": 0.1071673525377229,
+      "aspect": 1.6
+    },
+    "rr0139": {
+      "elements": 23,
+      "text_tokens": 18,
+      "density": 1.2324245541838132,
+      "aspect": 1.6
+    },
+    "rr0140": {
+      "elements": 26,
+      "text_tokens": 51,
+      "density": 1.3931755829903978,
+      "aspect": 1.6
+    },
+    "rr0141": {
+      "elements": 22,
+      "text_tokens": 38,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0142": {
+      "elements": 47,
+      "text_tokens": 106,
+      "density": 2.518432784636488,
+      "aspect": 1.6
+    },
+    "rr0143": {
+      "elements": 23,
+      "text_tokens": 22,
+      "density": 1.2324245541838132,
+      "aspect": 1.6
+    },
+    "rr0144": {
+      "elements": 70,
+      "text_tokens": 617,
+      "density": 3.7508573388203015,
+      "aspect": 1.6
+    },
+    "rr0145": {
+      "elements": 13,
+      "text_tokens": 14,
+      "density": 0.6965877914951989,
+      "aspect": 1.6
+    },
+    "rr0146": {
+      "elements": 6,
+      "text_tokens": 2,
+      "density": 0.3215020576131687,
+      "aspect": 1.6
+    },
+    "rr0147": {
+      "elements": 33,
+      "text_tokens": 23,
+      "density": 1.768261316872428,
+      "aspect": 1.6
+    },
+    "rr0148": {
+      "elements": 12,
+      "text_tokens": 3,
+      "density": 0.6430041152263374,
+      "aspect": 1.6
+    },
+    "rr0149": {
+      "elements": 59,
+      "text_tokens": 11,
+      "density": 3.1614368998628257,
+      "aspect": 1.6
+    },
+    "rr0150": {
+      "elements": 29,
+      "text_tokens": 30,
+      "density": 1.553926611796982,
+      "aspect": 1.6
+    },
+    "rr0151": {
+      "elements": 12,
+      "text_tokens": 8,
+      "density": 0.6430041152263374,
+      "aspect": 1.6
+    },
+    "rr0152": {
+      "elements": 23,
+      "text_tokens": 29,
+      "density": 1.2324245541838132,
+      "aspect": 1.6
+    },
+    "rr0153": {
+      "elements": 42,
+      "text_tokens": 57,
+      "density": 2.250514403292181,
+      "aspect": 1.6
+    },
+    "rr0154": {
+      "elements": 22,
+      "text_tokens": 23,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0155": {
+      "elements": 37,
+      "text_tokens": 46,
+      "density": 1.9825960219478735,
+      "aspect": 1.6
+    },
+    "rr0156": {
+      "elements": 37,
+      "text_tokens": 37,
+      "density": 1.9825960219478735,
+      "aspect": 1.6
+    },
+    "rr0157": {
+      "elements": 17,
+      "text_tokens": 2,
+      "density": 0.9109224965706446,
+      "aspect": 1.6
+    },
+    "rr0158": {
+      "elements": 28,
+      "text_tokens": 54,
+      "density": 1.5003429355281206,
+      "aspect": 1.6
+    },
+    "rr0159": {
+      "elements": 31,
+      "text_tokens": 16,
+      "density": 1.661093964334705,
+      "aspect": 1.6
+    },
+    "rr0160": {
+      "elements": 26,
+      "text_tokens": 23,
+      "density": 1.3931755829903978,
+      "aspect": 1.6
+    },
+    "rr0161": {
+      "elements": 54,
+      "text_tokens": 26,
+      "density": 2.893518518518518,
+      "aspect": 1.6
+    },
+    "rr0162": {
+      "elements": 60,
+      "text_tokens": 72,
+      "density": 3.215020576131687,
+      "aspect": 1.6
+    },
+    "rr0163": {
+      "elements": 32,
+      "text_tokens": 159,
+      "density": 1.7146776406035664,
+      "aspect": 1.6
+    },
+    "rr0164": {
+      "elements": 27,
+      "text_tokens": 41,
+      "density": 1.446759259259259,
+      "aspect": 1.6
+    },
+    "rr0165": {
+      "elements": 26,
+      "text_tokens": 18,
+      "density": 1.3931755829903978,
+      "aspect": 1.6
+    },
+    "rr0166": {
+      "elements": 18,
+      "text_tokens": 35,
+      "density": 0.9645061728395061,
+      "aspect": 1.6
+    },
+    "rr0167": {
+      "elements": 23,
+      "text_tokens": 39,
+      "density": 1.2324245541838132,
+      "aspect": 1.6
+    },
+    "rr0168": {
+      "elements": 15,
+      "text_tokens": 13,
+      "density": 0.8037551440329217,
+      "aspect": 1.6
+    },
+    "rr0169": {
+      "elements": 8,
+      "text_tokens": 8,
+      "density": 0.4286694101508916,
+      "aspect": 1.6
+    },
+    "rr0170": {
+      "elements": 19,
+      "text_tokens": 16,
+      "density": 1.0180898491083676,
+      "aspect": 1.6
+    },
+    "rr0171": {
+      "elements": 30,
+      "text_tokens": 25,
+      "density": 1.6075102880658434,
+      "aspect": 1.6
+    },
+    "rr0172": {
+      "elements": 40,
+      "text_tokens": 31,
+      "density": 2.143347050754458,
+      "aspect": 1.6
+    },
+    "rr0173": {
+      "elements": 38,
+      "text_tokens": 41,
+      "density": 2.0361796982167353,
+      "aspect": 1.6
+    },
+    "rr0174": {
+      "elements": 74,
+      "text_tokens": 27,
+      "density": 3.965192043895747,
+      "aspect": 1.6
+    },
+    "rr0175": {
+      "elements": 9,
+      "text_tokens": 3,
+      "density": 0.48225308641975306,
+      "aspect": 1.6
+    },
+    "rr0176": {
+      "elements": 61,
+      "text_tokens": 31,
+      "density": 3.2686042524005483,
+      "aspect": 1.6
+    },
+    "rr0177": {
+      "elements": 51,
+      "text_tokens": 200,
+      "density": 2.732767489711934,
+      "aspect": 1.6
+    },
+    "rr0178": {
+      "elements": 88,
+      "text_tokens": 25,
+      "density": 4.715363511659808,
+      "aspect": 1.6
+    },
+    "rr0179": {
+      "elements": 72,
+      "text_tokens": 44,
+      "density": 3.8580246913580245,
+      "aspect": 1.6
+    },
+    "rr0180": {
+      "elements": 11,
+      "text_tokens": 7,
+      "density": 0.589420438957476,
+      "aspect": 1.6
+    },
+    "rr0181": {
+      "elements": 76,
+      "text_tokens": 130,
+      "density": 4.072359396433471,
+      "aspect": 1.6
+    },
+    "rr0182": {
+      "elements": 21,
+      "text_tokens": 38,
+      "density": 1.1252572016460904,
+      "aspect": 1.6
+    },
+    "rr0183": {
+      "elements": 58,
+      "text_tokens": 410,
+      "density": 3.107853223593964,
+      "aspect": 1.6
+    },
+    "rr0184": {
+      "elements": 50,
+      "text_tokens": 91,
+      "density": 2.6791838134430725,
+      "aspect": 1.6
+    },
+    "rr0185": {
+      "elements": 13,
+      "text_tokens": 11,
+      "density": 0.6965877914951989,
+      "aspect": 1.6
+    },
+    "rr0186": {
+      "elements": 77,
+      "text_tokens": 7,
+      "density": 4.125943072702332,
+      "aspect": 1.6
+    },
+    "rr0187": {
+      "elements": 31,
+      "text_tokens": 21,
+      "density": 1.661093964334705,
+      "aspect": 1.6
+    },
+    "rr0188": {
+      "elements": 22,
+      "text_tokens": 18,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0189": {
+      "elements": 67,
+      "text_tokens": 62,
+      "density": 3.590106310013717,
+      "aspect": 1.6
+    },
+    "rr0190": {
+      "elements": 8,
+      "text_tokens": 17,
+      "density": 0.4286694101508916,
+      "aspect": 1.6
+    },
+    "rr0191": {
+      "elements": 19,
+      "text_tokens": 12,
+      "density": 1.0180898491083676,
+      "aspect": 1.6
+    },
+    "rr0192": {
+      "elements": 15,
+      "text_tokens": 13,
+      "density": 0.8037551440329217,
+      "aspect": 1.6
+    },
+    "rr0193": {
+      "elements": 27,
+      "text_tokens": 38,
+      "density": 1.446759259259259,
+      "aspect": 1.6
+    },
+    "rr0194": {
+      "elements": 18,
+      "text_tokens": 16,
+      "density": 0.9645061728395061,
+      "aspect": 1.6
+    },
+    "rr0195": {
+      "elements": 28,
+      "text_tokens": 40,
+      "density": 1.5003429355281206,
+      "aspect": 1.6
+    },
+    "rr0196": {
+      "elements": 9,
+      "text_tokens": 7,
+      "density": 0.48225308641975306,
+      "aspect": 1.6
+    },
+    "rr0197": {
+      "elements": 51,
+      "text_tokens": 5,
+      "density": 2.732767489711934,
+      "aspect": 1.6
+    },
+    "rr0198": {
+      "elements": 29,
+      "text_tokens": 8,
+      "density": 1.553926611796982,
+      "aspect": 1.6
+    },
+    "rr0199": {
+      "elements": 232,
+      "text_tokens": 25,
+      "density": 12.431412894375857,
+      "aspect": 1.6
+    },
+    "rr0200": {
+      "elements": 11,
+      "text_tokens": 18,
+      "density": 0.589420438957476,
+      "aspect": 1.6
+    },
+    "rr0201": {
+      "elements": 4,
+      "text_tokens": 10,
+      "density": 0.2143347050754458,
+      "aspect": 1.6
+    },
+    "rr0202": {
+      "elements": 9,
+      "text_tokens": 8,
+      "density": 0.48225308641975306,
+      "aspect": 1.6
+    },
+    "rr0203": {
+      "elements": 19,
+      "text_tokens": 65,
+      "density": 1.0180898491083676,
+      "aspect": 1.6
+    },
+    "rr0204": {
+      "elements": 38,
+      "text_tokens": 18,
+      "density": 2.0361796982167353,
+      "aspect": 1.6
+    },
+    "rr0205": {
+      "elements": 37,
+      "text_tokens": 69,
+      "density": 1.9825960219478735,
+      "aspect": 1.6
+    },
+    "rr0206": {
+      "elements": 210,
+      "text_tokens": 20,
+      "density": 11.252572016460904,
+      "aspect": 1.6
+    },
+    "rr0207": {
+      "elements": 21,
+      "text_tokens": 10,
+      "density": 1.1252572016460904,
+      "aspect": 1.6
+    },
+    "rr0208": {
+      "elements": 38,
+      "text_tokens": 91,
+      "density": 2.0361796982167353,
+      "aspect": 1.6
+    },
+    "rr0209": {
+      "elements": 79,
+      "text_tokens": 156,
+      "density": 4.233110425240055,
+      "aspect": 1.6
+    },
+    "rr0210": {
+      "elements": 6,
+      "text_tokens": 7,
+      "density": 0.3215020576131687,
+      "aspect": 1.6
+    },
+    "rr0211": {
+      "elements": 22,
+      "text_tokens": 58,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0212": {
+      "elements": 46,
+      "text_tokens": 83,
+      "density": 2.4648491083676265,
+      "aspect": 1.6
+    },
+    "rr0213": {
+      "elements": 26,
+      "text_tokens": 45,
+      "density": 1.3931755829903978,
+      "aspect": 1.6
+    },
+    "rr0214": {
+      "elements": 32,
+      "text_tokens": 31,
+      "density": 1.7146776406035664,
+      "aspect": 1.6
+    },
+    "rr0215": {
+      "elements": 39,
+      "text_tokens": 26,
+      "density": 2.0897633744855963,
+      "aspect": 1.6
+    },
+    "rr0216": {
+      "elements": 19,
+      "text_tokens": 28,
+      "density": 1.0180898491083676,
+      "aspect": 1.6
+    },
+    "rr0217": {
+      "elements": 17,
+      "text_tokens": 6,
+      "density": 0.9109224965706446,
+      "aspect": 1.6
+    },
+    "rr0218": {
+      "elements": 34,
+      "text_tokens": 42,
+      "density": 1.8218449931412892,
+      "aspect": 1.6
+    },
+    "rr0219": {
+      "elements": 25,
+      "text_tokens": 32,
+      "density": 1.3395919067215363,
+      "aspect": 1.6
+    },
+    "rr0220": {
+      "elements": 18,
+      "text_tokens": 13,
+      "density": 0.9645061728395061,
+      "aspect": 1.6
+    },
+    "rr0221": {
+      "elements": 24,
+      "text_tokens": 30,
+      "density": 1.2860082304526748,
+      "aspect": 1.6
+    },
+    "rr0222": {
+      "elements": 27,
+      "text_tokens": 18,
+      "density": 1.446759259259259,
+      "aspect": 1.6
+    },
+    "rr0223": {
+      "elements": 22,
+      "text_tokens": 40,
+      "density": 1.178840877914952,
+      "aspect": 1.6
+    },
+    "rr0224": {
+      "elements": 85,
+      "text_tokens": 152,
+      "density": 4.554612482853223,
+      "aspect": 1.6
+    },
+    "rr0225": {
+      "elements": 14,
+      "text_tokens": 34,
+      "density": 0.7501714677640603,
+      "aspect": 1.6
+    },
+    "rr0226": {
+      "elements": 51,
+      "text_tokens": 20,
+      "density": 2.732767489711934,
+      "aspect": 1.6
+    },
+    "rr0227": {
+      "elements": 72,
+      "text_tokens": 18,
+      "density": 3.8580246913580245,
+      "aspect": 1.6
+    },
+    "rr0228": {
+      "elements": 77,
+      "text_tokens": 44,
+      "density": 4.125943072702332,
+      "aspect": 1.6
+    },
+    "rr0229": {
+      "elements": 16,
+      "text_tokens": 43,
+      "density": 0.8573388203017832,
+      "aspect": 1.6
+    },
+    "rr0230": {
+      "elements": 32,
+      "text_tokens": 115,
+      "density": 1.7146776406035664,
+      "aspect": 1.6
+    },
+    "rr0231": {
+      "elements": 12,
+      "text_tokens": 15,
+      "density": 0.6430041152263374,
+      "aspect": 1.6
+    },
+    "rr0232": {
+      "elements": 12,
+      "text_tokens": 7,
+      "density": 0.6430041152263374,
+      "aspect": 1.6
+    },
+    "rr0233": {
+      "elements": 17,
+      "text_tokens": 23,
+      "density": 0.9109224965706446,
+      "aspect": 1.6
+    },
+    "rr0234": {
+      "elements": 15,
+      "text_tokens": 3,
+      "density": 0.8037551440329217,
+      "aspect": 1.6
+    },
+    "rr0235": {
+      "elements": 15,
+      "text_tokens": 2,
+      "density": 0.8037551440329217,
+      "aspect": 1.6
+    },
+    "rr0236": {
+      "elements": 10,
+      "text_tokens": 2,
+      "density": 0.5358367626886145,
+      "aspect": 1.6
+    },
+    "rr0237": {
+      "elements": 38,
+      "text_tokens": 13,
+      "density": 2.0361796982167353,
+      "aspect": 1.6
+    },
+    "rr0238": {
+      "elements": 271,
+      "text_tokens": 62,
+      "density": 14.521176268861453,
+      "aspect": 1.6
+    },
+    "rr0239": {
+      "elements": 35,
+      "text_tokens": 7,
+      "density": 1.8754286694101507,
+      "aspect": 1.6
+    },
+    "rr0240": {
+      "elements": 48,
+      "text_tokens": 22,
+      "density": 2.5720164609053495,
+      "aspect": 1.6
+    },
+    "rr0241": {
+      "elements": 28,
+      "text_tokens": 156,
+      "density": 1.5003429355281206,
+      "aspect": 1.6
+    },
+    "rr0242": {
+      "elements": 35,
+      "text_tokens": 31,
+      "density": 1.8754286694101507,
+      "aspect": 1.6
+    },
+    "rr0243": {
+      "elements": 26,
+      "text_tokens": 15,
+      "density": 1.3931755829903978,
+      "aspect": 1.6
+    },
+    "rr0244": {
+      "elements": 38,
+      "text_tokens": 21,
+      "density": 2.0361796982167353,
+      "aspect": 1.6
+    },
+    "rr0245": {
+      "elements": 38,
+      "text_tokens": 30,
+      "density": 2.0361796982167353,
+      "aspect": 1.6
+    },
+    "rr0246": {
+      "elements": 23,
+      "text_tokens": 14,
+      "density": 1.2324245541838132,
+      "aspect": 1.6
+    },
+    "rr0247": {
+      "elements": 8,
+      "text_tokens": 2,
+      "density": 0.4286694101508916,
+      "aspect": 1.6
+    },
+    "rr0248": {
+      "elements": 27,
+      "text_tokens": 76,
+      "density": 1.446759259259259,
+      "aspect": 1.6
+    },
+    "rr0249": {
+      "elements": 16,
+      "text_tokens": 25,
+      "density": 0.8573388203017832,
+      "aspect": 1.6
+    },
+    "rr0250": {
+      "elements": 182,
+      "text_tokens": 54,
+      "density": 9.752229080932784,
+      "aspect": 1.6
+    },
+    "com.pitpay.pitpay": {
+      "elements": 36,
+      "text_tokens": 7,
+      "density": 1.4245014245014247,
+      "aspect": 2.1666666666666665
+    },
+    "it.umbriaenergy.MyUmbriaEnergy": {
+      "elements": 25,
+      "text_tokens": 45,
+      "density": 1.2056327160493827,
+      "aspect": 1.7777777777777777
+    },
+    "com.chainelsbv.chainels.megastores": {
+      "elements": 17,
+      "text_tokens": 26,
+      "density": 0.8198302469135802,
+      "aspect": 1.7777777777777777
+    },
+    "com.xaurum.pe": {
+      "elements": 21,
+      "text_tokens": 13,
+      "density": 0.8309591642924977,
+      "aspect": 2.1666666666666665
+    },
+    "com.wedup.shaharoshrat": {
+      "elements": 16,
+      "text_tokens": 9,
+      "density": 0.7716049382716049,
+      "aspect": 1.7777777777777777
+    },
+    "com.wowthemes.wowcattheme": {
+      "elements": 59,
+      "text_tokens": 67,
+      "density": 2.845293209876543,
+      "aspect": 1.7777777777777777
+    },
+    "com.eduquick.bluedomaingo": {
+      "elements": 21,
+      "text_tokens": 28,
+      "density": 1.0127314814814814,
+      "aspect": 1.7777777777777777
+    },
+    "com.streamlabs.slobsrc": {
+      "elements": 34,
+      "text_tokens": 26,
+      "density": 1.3453624564735676,
+      "aspect": 2.1666666666666665
+    },
+    "com.treshna.memberportal": {
+      "elements": 17,
+      "text_tokens": 26,
+      "density": 0.8198302469135802,
+      "aspect": 1.7777777777777777
+    },
+    "br.com.general.app": {
+      "elements": 46,
+      "text_tokens": 23,
+      "density": 2.2183641975308643,
+      "aspect": 1.7777777777777777
+    },
+    "com.fireshooters.joke": {
+      "elements": 17,
+      "text_tokens": 19,
+      "density": 0.8198302469135802,
+      "aspect": 1.7777777777777777
+    },
+    "com.PhoHaNoi.BLogicOrderOnline": {
+      "elements": 13,
+      "text_tokens": 3,
+      "density": 0.626929012345679,
+      "aspect": 1.7777777777777777
+    },
+    "com.lasting.connect": {
+      "elements": 24,
+      "text_tokens": 43,
+      "density": 0.9496676163342831,
+      "aspect": 2.1666666666666665
+    },
+    "de.bvl_dairyfeeder.app": {
+      "elements": 34,
+      "text_tokens": 31,
+      "density": 1.6396604938271604,
+      "aspect": 1.7777777777777777
+    },
+    "com.quiverquant": {
+      "elements": 31,
+      "text_tokens": 29,
+      "density": 1.4949845679012346,
+      "aspect": 1.7777777777777777
+    },
+    "com.world.news.alap": {
+      "elements": 40,
+      "text_tokens": 24,
+      "density": 1.9290123456790123,
+      "aspect": 1.7777777777777777
+    },
+    "cypto.trade.manager": {
+      "elements": 12,
+      "text_tokens": 7,
+      "density": 0.47483380816714155,
+      "aspect": 2.1666666666666665
+    },
+    "com.todo1.mobile": {
+      "elements": 53,
+      "text_tokens": 39,
+      "density": 2.5559413580246915,
+      "aspect": 1.7777777777777777
+    },
+    "com.ihill.mypredict11": {
+      "elements": 20,
+      "text_tokens": 14,
+      "density": 0.9645061728395061,
+      "aspect": 1.7777777777777777
+    },
+    "com.unlimited.hotspot.vpnbrazil.secure.proxy": {
+      "elements": 32,
+      "text_tokens": 36,
+      "density": 1.5432098765432098,
+      "aspect": 1.7777777777777777
+    },
+    "com.bluecolibriapp.bluecolibri.mygrabo": {
+      "elements": 14,
+      "text_tokens": 5,
+      "density": 0.5539727761949984,
+      "aspect": 2.1666666666666665
+    },
+    "fun.podcastworld.gtm": {
+      "elements": 23,
+      "text_tokens": 7,
+      "density": 1.1091820987654322,
+      "aspect": 1.7777777777777777
+    },
+    "com.alzex.finance.pro": {
+      "elements": 30,
+      "text_tokens": 21,
+      "density": 1.4467592592592593,
+      "aspect": 1.7777777777777777
+    },
+    "com.libocDavaMart": {
+      "elements": 15,
+      "text_tokens": 6,
+      "density": 0.5935422602089269,
+      "aspect": 2.1666666666666665
+    },
+    "com.sports.schedules.football.ncaa": {
+      "elements": 51,
+      "text_tokens": 66,
+      "density": 2.0180436847103516,
+      "aspect": 2.1666666666666665
+    },
+    "com.tvb.mytvsuper": {
+      "elements": 31,
+      "text_tokens": 96,
+      "density": 1.4949845679012346,
+      "aspect": 1.7777777777777777
+    },
+    "is.stokkur.safeTravel": {
+      "elements": 31,
+      "text_tokens": 16,
+      "density": 1.2266540044317822,
+      "aspect": 2.1666666666666665
+    },
+    "im.vector.app": {
+      "elements": 16,
+      "text_tokens": 27,
+      "density": 0.6331117442228553,
+      "aspect": 2.1666666666666665
+    },
+    "com.shurley.ebook.portal": {
+      "elements": 12,
+      "text_tokens": 4,
+      "density": 1.828989483310471,
+      "aspect": 0.5625
+    },
+    "com.airnav.radarbox": {
+      "elements": 52,
+      "text_tokens": 73,
+      "density": 2.507716049382716,
+      "aspect": 1.7777777777777777
+    },
+    "com.idfg.android": {
+      "elements": 19,
+      "text_tokens": 10,
+      "density": 0.9162808641975309,
+      "aspect": 1.7777777777777777
+    },
+    "com.xdevel.radiolombardia": {
+      "elements": 29,
+      "text_tokens": 10,
+      "density": 1.3985339506172838,
+      "aspect": 1.7777777777777777
+    },
+    "com.likiipedia.Lupio": {
+      "elements": 26,
+      "text_tokens": 58,
+      "density": 1.253858024691358,
+      "aspect": 1.7777777777777777
+    },
+    "com.happyverse.stylishtext": {
+      "elements": 36,
+      "text_tokens": 22,
+      "density": 1.7361111111111112,
+      "aspect": 1.7777777777777777
+    },
+    "com.pocketbrilliance.reminders": {
+      "elements": 12,
+      "text_tokens": 9,
+      "density": 0.5787037037037037,
+      "aspect": 1.7777777777777777
+    },
+    "com.cantari.crestine": {
+      "elements": 48,
+      "text_tokens": 46,
+      "density": 2.314814814814815,
+      "aspect": 1.7777777777777777
+    },
+    "uni.UNIB6CFA1E": {
+      "elements": 33,
+      "text_tokens": 33,
+      "density": 1.5914351851851851,
+      "aspect": 1.7777777777777777
+    },
+    "com.robtheis.android.phrasebook.has.md": {
+      "elements": 33,
+      "text_tokens": 16,
+      "density": 1.5914351851851851,
+      "aspect": 1.7777777777777777
+    },
+    "au.edu.latrobe.asdetect": {
+      "elements": 21,
+      "text_tokens": 44,
+      "density": 0.8309591642924977,
+      "aspect": 2.1666666666666665
+    },
+    "com.slowrock.collection.top": {
+      "elements": 39,
+      "text_tokens": 87,
+      "density": 1.880787037037037,
+      "aspect": 1.7777777777777777
+    },
+    "com.sama.tv": {
+      "elements": 11,
+      "text_tokens": 3,
+      "density": 0.4352643241532131,
+      "aspect": 2.1666666666666665
+    },
+    "com.tiseno.poplook": {
+      "elements": 36,
+      "text_tokens": 24,
+      "density": 1.4245014245014247,
+      "aspect": 2.1666666666666665
+    },
+    "com.nieto.luis.hidro_i": {
+      "elements": 60,
+      "text_tokens": 50,
+      "density": 2.8935185185185186,
+      "aspect": 1.7777777777777777
+    },
+    "hk.com.nineyi.shop.s000017": {
+      "elements": 7,
+      "text_tokens": 3,
+      "density": 1.066910531931108,
+      "aspect": 0.5625
+    },
+    "com.bluerisc.eprivo": {
+      "elements": 11,
+      "text_tokens": 12,
+      "density": 0.4352643241532131,
+      "aspect": 2.1666666666666665
+    },
+    "net.workoutinc.yoga.beginners.free.workouts.studio": {
+      "elements": 25,
+      "text_tokens": 21,
+      "density": 1.2056327160493827,
+      "aspect": 1.7777777777777777
+    },
+    "com.newreading.goodfm": {
+      "elements": 15,
+      "text_tokens": 5,
+      "density": 0.7233796296296297,
+      "aspect": 1.7777777777777777
+    },
+    "com.myrepairid.sleeprecorder": {
+      "elements": 39,
+      "text_tokens": 78,
+      "density": 1.880787037037037,
+      "aspect": 1.7777777777777777
+    },
+    "com.distiller.distiller": {
+      "elements": 10,
+      "text_tokens": 3,
+      "density": 0.39569484013928463,
+      "aspect": 2.1666666666666665
+    },
+    "chari.groupewib.com.chari": {
+      "elements": 21,
+      "text_tokens": 4,
+      "density": 1.0127314814814814,
+      "aspect": 1.7777777777777777
+    },
+    "com.water.reminder.tracker": {
+      "elements": 33,
+      "text_tokens": 24,
+      "density": 1.305792972459639,
+      "aspect": 2.1666666666666665
+    },
+    "com.hc360.myhealthcheck360": {
+      "elements": 33,
+      "text_tokens": 25,
+      "density": 1.5914351851851851,
+      "aspect": 1.7777777777777777
+    },
+    "com.zenkit.projects": {
+      "elements": 24,
+      "text_tokens": 30,
+      "density": 1.1574074074074074,
+      "aspect": 1.7777777777777777
+    },
+    "com.bauermedia.carmagazine": {
+      "elements": 15,
+      "text_tokens": 13,
+      "density": 0.7233796296296297,
+      "aspect": 1.7777777777777777
+    },
+    "com.lottenc.as.emp.lemp.base": {
+      "elements": 106,
+      "text_tokens": 7,
+      "density": 5.111882716049383,
+      "aspect": 1.7777777777777777
+    },
+    "com.maz.combo89": {
+      "elements": 42,
+      "text_tokens": 46,
+      "density": 2.025462962962963,
+      "aspect": 1.7777777777777777
+    },
+    "com.squincy.oodlins_parent": {
+      "elements": 20,
+      "text_tokens": 23,
+      "density": 0.9645061728395061,
+      "aspect": 1.7777777777777777
+    },
+    "pappiga.freestyler": {
+      "elements": 16,
+      "text_tokens": 6,
+      "density": 0.7716049382716049,
+      "aspect": 1.7777777777777777
+    },
+    "com.unifyed.Auguste": {
+      "elements": 17,
+      "text_tokens": 14,
+      "density": 0.6726812282367838,
+      "aspect": 2.1666666666666665
+    },
+    "com.wondershare.famisafe.kids": {
+      "elements": 17,
+      "text_tokens": 19,
+      "density": 2.591068434689834,
+      "aspect": 0.5625
+    },
+    "com.sportech365.weego365": {
+      "elements": 63,
+      "text_tokens": 49,
+      "density": 3.038194444444444,
+      "aspect": 1.7777777777777777
+    },
+    "com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish": {
+      "elements": 14,
+      "text_tokens": 2,
+      "density": 0.6751543209876543,
+      "aspect": 1.7777777777777777
+    },
+    "com.dukaan.app": {
+      "elements": 26,
+      "text_tokens": 23,
+      "density": 1.253858024691358,
+      "aspect": 1.7777777777777777
+    },
+    "com.ifs.banking.fiid4794": {
+      "elements": 25,
+      "text_tokens": 21,
+      "density": 1.2056327160493827,
+      "aspect": 1.7777777777777777
+    },
+    "com.coreappslab.dogma": {
+      "elements": 17,
+      "text_tokens": 13,
+      "density": 0.8198302469135802,
+      "aspect": 1.7777777777777777
+    },
+    "com.wondershare.filmora": {
+      "elements": 21,
+      "text_tokens": 60,
+      "density": 0.8309591642924977,
+      "aspect": 2.1666666666666665
+    },
+    "com.johnlewis.android": {
+      "elements": 12,
+      "text_tokens": 5,
+      "density": 0.5787037037037037,
+      "aspect": 1.7777777777777777
+    },
+    "com.awazeinqilab.Physicsmcqs": {
+      "elements": 20,
+      "text_tokens": 17,
+      "density": 0.9645061728395061,
+      "aspect": 1.7777777777777777
+    },
+    "com.fitocracy.xpt": {
+      "elements": 25,
+      "text_tokens": 43,
+      "density": 1.2056327160493827,
+      "aspect": 1.7777777777777777
+    },
+    "fr.gan.pat.pprod": {
+      "elements": 17,
+      "text_tokens": 8,
+      "density": 0.6726812282367838,
+      "aspect": 2.1666666666666665
+    },
+    "com.wisedigital.staffing.fortemandmode": {
+      "elements": 28,
+      "text_tokens": 34,
+      "density": 1.1079455523899968,
+      "aspect": 2.1666666666666665
+    },
+    "com.homefit.yoga.health": {
+      "elements": 20,
+      "text_tokens": 16,
+      "density": 0.9645061728395061,
+      "aspect": 1.7777777777777777
+    },
+    "com.funapps.bollywoodstickerapp": {
+      "elements": 10,
+      "text_tokens": 6,
+      "density": 0.48225308641975306,
+      "aspect": 1.7777777777777777
+    },
+    "com.bloomandwild": {
+      "elements": 19,
+      "text_tokens": 19,
+      "density": 0.9162808641975309,
+      "aspect": 1.7777777777777777
+    },
+    "com.livhub.android": {
+      "elements": 106,
+      "text_tokens": 1151,
+      "density": 4.194365305476417,
+      "aspect": 2.1666666666666665
+    },
+    "com.arketa.casieallan": {
+      "elements": 5,
+      "text_tokens": 1,
+      "density": 0.24112654320987653,
+      "aspect": 1.7777777777777777
+    },
+    "me.latergram.latergramme": {
+      "elements": 21,
+      "text_tokens": 11,
+      "density": 1.0127314814814814,
+      "aspect": 1.7777777777777777
+    },
+    "com.accounting.bookkeeping": {
+      "elements": 40,
+      "text_tokens": 55,
+      "density": 1.5827793605571385,
+      "aspect": 2.1666666666666665
+    },
+    "com.backthen.android": {
+      "elements": 20,
+      "text_tokens": 20,
+      "density": 0.9645061728395061,
+      "aspect": 1.7777777777777777
+    },
+    "softin.my.fast.fitness": {
+      "elements": 40,
+      "text_tokens": 38,
+      "density": 1.5827793605571385,
+      "aspect": 2.1666666666666665
+    },
+    "ott.clayperview": {
+      "elements": 17,
+      "text_tokens": 9,
+      "density": 0.6726812282367838,
+      "aspect": 2.1666666666666665
+    },
+    "co.kevin.yuwbx": {
+      "elements": 24,
+      "text_tokens": 24,
+      "density": 1.1574074074074074,
+      "aspect": 1.7777777777777777
+    },
+    "cl.colegium.SchoolNet_Mobile": {
+      "elements": 28,
+      "text_tokens": 25,
+      "density": 1.3503086419753085,
+      "aspect": 1.7777777777777777
+    },
+    "com.dnc.waitrose": {
+      "elements": 19,
+      "text_tokens": 17,
+      "density": 0.7518201962646408,
+      "aspect": 2.1666666666666665
+    },
+    "ch.allink.ChicApp": {
+      "elements": 33,
+      "text_tokens": 40,
+      "density": 1.5914351851851851,
+      "aspect": 1.7777777777777777
+    },
+    "in.fulldive.shell": {
+      "elements": 10,
+      "text_tokens": 13,
+      "density": 1.5241579027587258,
+      "aspect": 0.5625
+    },
+    "com.polymathe.mywine": {
+      "elements": 28,
+      "text_tokens": 29,
+      "density": 1.3503086419753085,
+      "aspect": 1.7777777777777777
+    },
+    "com.stockedge.social": {
+      "elements": 23,
+      "text_tokens": 28,
+      "density": 1.1091820987654322,
+      "aspect": 1.7777777777777777
+    },
+    "com.navfree.android.OSM.ALL": {
+      "elements": 35,
+      "text_tokens": 46,
+      "density": 1.3849319404874962,
+      "aspect": 2.1666666666666665
+    },
+    "com.abenity.unionplus": {
+      "elements": 36,
+      "text_tokens": 30,
+      "density": 1.4245014245014247,
+      "aspect": 2.1666666666666665
+    },
+    "com.halloglobal.flutterapp.hallo": {
+      "elements": 21,
+      "text_tokens": 17,
+      "density": 0.8309591642924977,
+      "aspect": 2.1666666666666665
+    },
+    "com.technogym.mywellness.nuffieldmywellness": {
+      "elements": 23,
+      "text_tokens": 30,
+      "density": 1.1091820987654322,
+      "aspect": 1.7777777777777777
+    },
+    "com.ripalip": {
+      "elements": 33,
+      "text_tokens": 10,
+      "density": 1.305792972459639,
+      "aspect": 2.1666666666666665
+    },
+    "app.vmire.android": {
+      "elements": 32,
+      "text_tokens": 37,
+      "density": 1.2662234884457106,
+      "aspect": 2.1666666666666665
+    },
+    "kristoni.boro.bodo.metai": {
+      "elements": 47,
+      "text_tokens": 53,
+      "density": 2.2665895061728394,
+      "aspect": 1.7777777777777777
+    },
+    "com.dolilive": {
+      "elements": 35,
+      "text_tokens": 217,
+      "density": 1.3849319404874962,
+      "aspect": 2.1666666666666665
+    },
+    "com.ticketingevents.app": {
+      "elements": 15,
+      "text_tokens": 21,
+      "density": 0.7233796296296297,
+      "aspect": 1.7777777777777777
+    },
+    "com.cashrich.cashrich": {
+      "elements": 44,
+      "text_tokens": 56,
+      "density": 2.1219135802469133,
+      "aspect": 1.7777777777777777
+    },
+    "com.lumenate.lumenateaa": {
+      "elements": 16,
+      "text_tokens": 17,
+      "density": 0.7716049382716049,
+      "aspect": 1.7777777777777777
+    },
+    "com.answersingenesis": {
+      "elements": 22,
+      "text_tokens": 24,
+      "density": 1.0609567901234567,
+      "aspect": 1.7777777777777777
+    }
+  },
+  "bins": {
+    "004D131C-C179-4D2A-8363-963223F76672": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "00737CD8-275C-425C-810E-EC2C8123DE83": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "00C4F372-0111-405A-945E-C78C0E887BE7": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "00EAE181-AF3B-4CBD-928A-561FF6F4345F": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0123C40D-1198-4945-99C6-123FB855099C": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "016F8C96-9070-482E-A065-91E4554007DB": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0176A280-F36A-4C74-846A-E71B03E2C167": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0179A5D4-6C81-4000-8F50-69D9E629AA33": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "017BF831-B165-499A-B490-E6E63183462F": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "01BD0227-9BE1-4E10-8AAA-DFC4DEB285A1": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "01F326F8-61BB-403C-B8BD-A87F8DBB1D3A": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "02049F53-99D6-4622-A521-5E3EA9579F93": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "022A1D94-DDF5-4C79-B399-F0615DA7EC97": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "023859A5-7FEB-441F-BCA4-B8A8CFDB1174": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0252035F-2537-4FA6-AF6C-0410F7831DBF": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0261CDE2-17A1-404B-88CF-3CC5BA15F95A": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "02949A94-2188-4E16-8AC1-B540776441F6": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "02E87F39-63CB-4986-AC46-843222875C57": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "low"
+    },
+    "030326F1-CE9A-4B16-A161-BA5DCC0F0379": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "030AF343-9F8D-47E6-941B-BD8573EB6968": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "032967E8-AB75-42C7-8583-606074BFDFBE": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "032A8B04-69E6-4541-AC79-437EBD224508": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0338A043-EFD4-48F2-BA09-BAE055072F00": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "03420C0C-3938-432A-8674-063414A2DE22": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "035277D9-0DAA-4556-B3E9-DE707C46372C": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0371EB50-597E-4C51-9497-3D254EC13533": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "039ED2AD-49BB-46DC-8779-B1399D3ACB93": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "03ADE69C-963D-4744-BBE7-88B1AEE8F17C": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "03B027C8-01F7-4A25-BC55-36D05DA99766": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "03C9BDD5-F5D4-422D-9396-11B2D426DDC4": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "03DE9C04-2DD8-4E19-8E3A-5E4BF9385692": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "03E640FF-F45E-45CC-98AC-58FDE0C511E9": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "03FAAB0A-AA74-4335-BA3C-31582AC92FC3": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "03FE889A-05C2-416B-9138-F815B774B6C0": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "040D8A53-5022-4745-BBD3-FA5F17F87828": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0431AD60-DAC7-492D-B758-8BF399A2611E": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "044993A4-69D4-45B4-8564-FBA462DB836C": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "04BFAA31-2083-4681-B7A8-B7BD1F504976": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "04EB65B9-C285-4312-AF27-5B64ED781064": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "04F96C8B-FF4E-41B5-989B-4E98714CC34E": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "051009F9-F802-41B3-8800-1032803AEF3A": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "056C8513-CFCC-4D26-A79F-2B92C5078A2E": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0584E2BE-2635-44F1-9102-CDA263506FBA": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "05992A48-12B7-439F-91E5-9CC02BA13007": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "059C9378-891F-470B-BF4B-DE0C35115989": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "05C98869-D8EC-4ACC-B522-87EB3B7C9935": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "05D74F86-6298-4949-994C-6A806BDDF5F8": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "060E9F88-9B8B-4C03-80DC-2C3BA582A917": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "060FE3EB-4485-4C15-95ED-625E5C6B604F": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0652CBE0-8417-48A3-BA79-CE849EEBBABE": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "066C85A2-6996-4F34-B6E1-18A2E4BB7F6A": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0678C781-D42A-4BD1-8E58-14F1548249BC": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0683233F-E2CC-45A8-B061-C793CFE2E8DE": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "06B0EEFE-7C88-4CA3-A0B1-2E19170549F8": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "06B8E1D8-C4CB-4312-92E8-46321F6DDB7F": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "06CCC7C8-5B5B-4F95-A959-C426CFF99442": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "06DEC434-B63F-47C1-9ED5-53DB483BFF93": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "070E59FC-F4D5-4A67-9962-EB7376F41BC6": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0759AC2F-C98F-4330-B882-3EBD621288DE": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "076A3D97-628A-44B3-A367-6A3425EBDCDC": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "07AE99D4-4CA8-4F5B-B606-B093BD8155D7": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "07B091FA-FB7B-4809-AD86-9860ECD4C8D6": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "07B099AB-33BF-4C66-9440-C86C1503998A": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "07D7E688-7B77-4B94-9432-269596BAB2C6": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0833A64F-37EC-4CD7-BA34-E2B5D8AD1DD5": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "086B5DEF-D504-4AEB-A194-850787A0B09B": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "086EC0E1-B276-4438-80CE-6126BA919685": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "low"
+    },
+    "087172C7-DA28-45F3-8F6D-72E0016D3522": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "08837579-3D2B-463B-8389-AFB8FDE521D3": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "08B8B680-156A-4B7E-8F6B-20271A8BFDF5": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "low"
+    },
+    "08BE7FB8-01E0-4685-8DDA-194781DC7A16": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "090702A9-E784-443B-8B19-DE23C2C920F9": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "09289FAF-3880-45B3-9AF5-19C20D5593EE": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0981C53E-4E02-4A4A-9F26-06695DC8D567": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "09923B09-7DEC-4C87-9D90-1C63636AFB32": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0A25DA92-30F7-4869-81C8-D73A6F3004E1": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0A47B8C7-5EB8-4176-B336-AA3F660CD348": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0A47CA6C-A04A-44BF-AC43-0D7F9715ED05": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0A7796B7-DC53-402C-B496-75AC4CD93F23": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0A9E9E2A-E7FB-4462-890A-CEB77C99D148": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0AA7432D-CFC0-49B5-8EA4-2C032712B7B5": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0AAE3AF8-D598-4206-AE7D-CE1C67D380EE": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0AF85DCC-6C2E-4AB6-AEA6-78F02EC29FC1": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0B17654E-B2C7-44D4-8589-6F7105614143": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0B1FE7ED-06E0-453D-84FE-99FF2C8D36A2": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0B46B788-4218-4241-BCE5-C67D97ECEA2D": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0B4EA37C-97D8-4130-B2F0-A1A63103F47E": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0B5CE228-7CCB-469B-AB47-E927837E06F0": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0B6A8CB3-E640-4B5E-8121-61B15CA9038A": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0B6C3747-EDE6-46C5-A2A3-0634B8D27876": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0B97B561-0C7E-48CC-90A2-DE60DD72F810": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0BBF8B46-163A-4BFE-9FDA-6E275AED160F": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0BC6DCEB-CDE7-41CC-BD00-AF326B6A826A": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0C5EED31-C17F-435B-885C-28B1F0103EEC": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0C6D78EC-66F4-4FE0-A6EB-F09AC2C88321": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0C9E6D8B-8365-4C3D-A977-D421CA6152BA": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0D3DB262-03EA-4105-8F9C-43AFACA06FE1": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0D4A2F2E-5165-4727-8638-FE9F18AD2AED": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0D8B8855-C049-4CCC-AF2E-602A02D7459D": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0DBCCD2C-7F71-4577-B2EE-7E051D83870F": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0E2B44E9-3383-4406-854E-5BA9B0B69DE4": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0E4C423D-C7FC-4FF4-9090-601E727D1990": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0E6B3D5A-CA0D-4ADB-912C-F1096201AB65": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0E78AA2C-ADB8-41ED-952C-33AEAD9BA927": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0EC3E4F4-537E-402F-8102-F9DFD9E9DED4": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0EC614C9-481A-464E-AB61-59A99BB45C9F": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0F291E29-F61D-48B7-9F49-14D6BBC7AED8": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "0F3EA574-E076-4990-9889-3626D9D30DAB": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0F6AF45A-1FC8-4768-AB5E-C22F36EFEA24": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "0F70BB34-BB2C-456B-B404-F2C1AB58025B": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0F76A967-FEEE-4B82-9C0C-40BA26325BFC": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "0FF51761-D740-43B1-8071-31CBD9FF22CA": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "102D9F19-4FAB-4144-9996-589C22991D61": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "102F6214-AD6A-45E9-9DB0-A1E14EB769B9": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1066871E-3516-498A-8EEB-60391C4857AD": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "10B8DCED-18C6-4B9C-A1EF-013656EBC2E2": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "10C165B9-319E-4E03-9608-C0C2CD19B25A": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "10DCB681-943B-42D1-83BB-7C2C6259721B": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "11133AD1-CD2D-432C-8FB6-5769C9B09034": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1146DA6F-5D01-4BCB-A327-9370C5F6608F": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "11509DD9-919D-4F00-AAD1-7ABE5A88113A": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "116E11EF-798D-48A7-B575-4C7B3DCA665D": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "11850D61-298B-4D22-9A6F-ED2348D3FFDC": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1192B83C-06DE-4C77-AA41-830E5A447DCE": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "119BC601-576E-4C2D-AED0-AFFD723A619A": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "11E92B13-F27E-4DEF-ACF0-844FB6D3FA8A": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "11F5654D-AC9B-48EE-A8BD-9636D8F943C8": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1228CEFA-98B1-40D2-B3AD-9F39DAF5E5A5": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "12573810-BE1B-4FFF-AF49-9497A4FD2734": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "126F7E0C-01DE-47C4-B979-F7A4C83A87DC": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "127BB1B5-AB47-4DDC-AF35-CF3F46DD97A6": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "12DE9D35-6D71-426B-8E5E-D3B41FF9497A": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "12E90A6A-B206-4897-B880-5D76F8889FBA": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "130F223C-F28D-41F1-AB95-AC863AE7B89E": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "134C3C02-3D72-41BD-8DE9-BBC527EE46B3": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "134F4216-40FC-4BE8-AD0B-95C221FE4AE3": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "low"
+    },
+    "13617C8B-569C-42FE-AA8B-3D65F91AF2DA": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "13B790AD-EBAB-446A-98EE-D1876C352548": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "13BD2DCC-7FEF-4F4C-A94D-954C6268B7F4": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "13C22C87-7491-4798-9A20-DDB05CEAB1F2": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "13DE39D5-DCA8-4E34-98BB-4F7F9F0E9F82": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "13FAB0D5-BED3-4222-9E06-8DB5A1EA1CC9": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "148FB150-F833-49F8-8B96-4306C4C50102": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "14ADE55F-AC49-4861-9C6A-376299B88577": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "15985510-82A7-4D60-B1F6-0F42995423DF": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "15C8950D-13F7-4D78-A169-05996295AF2B": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "15E634D3-3D5A-4ADD-9E6C-2095374F11D6": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "15ECB8BC-AFA1-408C-BA9F-0EA17680D4A2": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "15FCC301-BF97-4DC8-A0EC-F80CB03AC51C": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "162B4B84-F24D-4118-B9AC-13F4D8CB77BC": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "165F0952-FA4E-4413-B4A9-BF124D2E8C77": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "167FA2A0-900A-46FC-8765-263C61920B7A": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "168D05E9-4BBF-4C73-BF98-D326EC847252": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "16B761E3-491E-4321-BA6A-2A7B8E9D2BD1": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "16FF6260-DEE8-4EE2-A8F8-8DECDF381E1C": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "171EA8CD-4616-4651-8FBC-6559052D051B": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "172CFC2A-65E2-46FD-B0C1-0E8EC8E3214E": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "17527A12-96D4-41EC-B8D6-72F703FC2D2F": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "17904B4B-AF11-4297-A8BD-9CF0C56F9BBD": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "17AAF5FF-8ABC-4B5A-9647-899D31826A52": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "17EE524A-484D-437F-A61E-67A582DE6DB1": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "180C085D-A6AF-40E4-A947-5B7411F0315C": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1856F81D-9FC3-4E0C-B119-60BBA91F710B": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1887F502-5D4F-45D1-8A58-F1A4D15FD306": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "18B49C47-7DAA-492C-BD50-0BC5650BBF1F": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "18B90FF1-BEF6-4897-8593-99FD93A340FA": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1911F790-5415-43FA-BD77-2CA401314C5D": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1925CCD2-9B9F-4E97-9CF3-1A8F4ED556EA": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1959B839-E94C-4335-8D26-112B2BB68465": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1967D10B-970B-4548-899B-D7F7B6C73BF5": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1998FB6B-8EB1-4C96-828B-FC37C5D9A46C": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "19C467CF-BDA9-4DAF-9744-EC2C4D8806A3": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "19D8C633-07AB-4B1B-9DD2-BC14918668EE": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "19D9DE55-EFD1-4503-9733-D4A7F1A15AFF": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "19F65903-CFA8-42B9-8E21-59F4C38EB1BB": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1A377F98-CF5A-4D55-B8BC-F29B6C564F83": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1A7BE19E-DE71-47AC-B9DB-15BBF10A47CA": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1A888688-379A-4AFE-8FE2-AC530F8D1FAA": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1A8E2F80-1DC6-46D1-BC5E-BBC31726B795": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1A952708-586A-4627-8C1E-5BC1FC848708": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1A977FF3-8EC6-47E3-87DD-A9A826138325": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1A991C22-4BA5-42D5-913A-B3F2CC0FE948": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1AC02E93-5DFD-49F8-9420-46B298BFC03C": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1AC15F46-4CF6-499F-94DC-6D9067128DED": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1AD39482-86FE-4022-AAB6-3B8479D88A28": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1AF422B3-44E6-4C99-B460-F18F1EB35B89": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1B03261B-8731-4C4A-9FF1-D54153869885": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1B4346A6-D3AB-4919-B1FD-A2284E606DF4": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1B659E41-4A53-4092-8C50-70140AC2DE39": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1B72BB7B-7D6A-4869-83D5-5B60B765E771": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1B7F2FC2-5E0F-4B2C-857D-D2596D738B1B": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1B8BD8C8-8B12-480E-B152-20BD12066301": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1BD49B50-4534-4AB2-8AC2-26F744D35C26": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1BE7A666-3081-4B83-91BA-4BEAF65B4D26": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1C344632-10A5-4731-91FA-09EDDBE0F4E7": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1C365ED3-E763-4D72-9813-7547E5A711DF": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1C3F263D-7BAF-49F6-8E87-CCC1CD56F99F": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1C4F2717-EEB9-4AD0-9818-71A8D4FE2615": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1C5895DD-D4B8-4B9A-90C6-61216CB7F201": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1C74EDF2-00ED-4DAA-9388-9156126E74F3": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1CE49BA0-9E02-43EF-9BD3-E28C584E1207": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1D78D4F0-402B-4E6D-A824-FBC3E5974213": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1D793362-3C87-4C85-9CCA-01362BBEE842": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1D7937D7-5C5B-4202-BC8E-99A33CEBD581": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1DC73AF6-6EE5-414F-88B6-DF6C561D24DE": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1DFC79CA-ED8C-440E-84B9-A1C77CA20D7C": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1E0C784E-C33C-49C3-8CE3-0E26E5CF3F1D": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1E3211A6-ECDB-42E4-B3E2-FD2253AC3147": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1E3C959C-315D-416D-975A-F3E9FBBCAA41": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1E55CDC5-11D8-4BE3-A9E1-C2634FD940F3": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1E5E21B2-BB00-4807-A249-B5C2A87EE377": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1E603FB7-2CCA-4500-A052-A7E5E1D135C6": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1E9674FE-4E53-4D06-A15B-1A70799FABEB": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "1F90FD76-C7F9-4CA3-8C11-4013374505BF": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1FCB8DE8-6B4A-4083-864B-E03F1EA6570D": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1FDC1C09-6898-446B-9747-85327F5EABF4": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "1FE78840-7EA9-4A73-A059-17DE07E5EC64": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "1FFC0031-67D0-41E7-BB02-E7BA9DA90DA4": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "202C4FD3-C429-48C3-B19A-50B0DF70EACB": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "203134CC-F7D0-4FEE-A7FC-E4F252FC2E16": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "208117B1-5839-422C-BEC4-2DBFA8146F81": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "20A66613-FA9D-42FF-9164-A659655E794D": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "2121C53B-0640-4A69-A82E-9765DE4F0E1D": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "21324895-2B3F-49DA-A102-D3249B51B0F5": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "217C224B-9351-46A7-9490-B0E7AFC8ECD9": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "217D7F4A-C1CD-4674-86E1-291DCD537F00": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "2184C636-E7AE-48E5-8197-FFFFF5CBBECF": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "21940D47-4354-4B96-9D65-CBE9C520CB8B": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "21BAD7B9-C0DA-4FC0-A01C-448BBBC50D19": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "21D353EB-C51C-4139-B0BD-A3AE31003ED2": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "22040445-B35E-41C1-B1A5-3929F4194CC3": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "low"
+    },
+    "222B43D3-72A8-41AF-81BE-BE9C88D60F7E": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "22409AE2-7743-434B-B7DB-B8F79E685FD9": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "2258026E-F1E3-49B4-A33C-76615E42DBA2": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "226E0031-AB19-4323-8794-E00CA65E8177": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "226F2BC5-7B57-4276-9F98-22409182B6A5": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "228821DB-5DA2-4F83-95FD-6D149E4B6939": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "22D51338-882B-4D5E-8CFD-39F3FEBA5A3B": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "22DB008C-CE3C-46FA-AC34-239F371444CA": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "22EA1606-44F5-42D8-9FF9-D072B40B654A": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "22FD37A3-C6C2-46C5-B883-695B1675A839": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "230953B8-A519-4823-82CB-6DE5E3C39713": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "231267AC-503C-4146-8BD9-903494E008F8": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "231BCB36-CFC2-459D-9477-E91AD9F4EB74": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "231F2BE6-8146-4F1B-A6D7-C169E1FEBE5C": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "233B7B59-7914-4D20-8F14-07FDDF927579": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "237577BC-23EE-4FA6-A221-27FEE832F944": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "238FEB6F-E99A-4F32-AF79-969929627768": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "23AFEC11-772C-4E84-83E5-F119E0EC13AE": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "23F96313-CB89-4C03-B65D-18DA392BCE5B": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "low"
+    },
+    "rr0001": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0002": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0003": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0004": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0005": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0006": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0007": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0008": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0009": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0010": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0011": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0012": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0013": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0014": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0015": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0016": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0017": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0018": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0019": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0020": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0021": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0022": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0023": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0024": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0025": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0026": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0027": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0028": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0029": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0030": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0031": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0032": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0033": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0034": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0035": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0036": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0037": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0038": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0039": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0040": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0041": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0042": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0043": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0044": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0045": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0046": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0047": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0048": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0049": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0050": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0051": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0052": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0053": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0054": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0055": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0056": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0057": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0058": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0059": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0060": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0061": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0062": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0063": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0064": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0065": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0066": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0067": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0068": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0069": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0070": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0071": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0072": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0073": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0074": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0075": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0076": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0077": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0078": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0079": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0080": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0081": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0082": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0083": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0084": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0085": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0086": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0087": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0088": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0089": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0090": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0091": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0092": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0093": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0094": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0095": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0096": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0097": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0098": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0099": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0100": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0101": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0102": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0103": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0104": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0105": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0106": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0107": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0108": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0109": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0110": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0111": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0112": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0113": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0114": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0115": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0116": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0117": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0118": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0119": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0120": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0121": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0122": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0123": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0124": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0125": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0126": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0127": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0128": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0129": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0130": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0131": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0132": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0133": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0134": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0135": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0136": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0137": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0138": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0139": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0140": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0141": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0142": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0143": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0144": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0145": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0146": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0147": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0148": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0149": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0150": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0151": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0152": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0153": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0154": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0155": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0156": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0157": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0158": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0159": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0160": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0161": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0162": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0163": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0164": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0165": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0166": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0167": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0168": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0169": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0170": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0171": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0172": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0173": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0174": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0175": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0176": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0177": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0178": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0179": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0180": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0181": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0182": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0183": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0184": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0185": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0186": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0187": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0188": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0189": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0190": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0191": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0192": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0193": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0194": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0195": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0196": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0197": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0198": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0199": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0200": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0201": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0202": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0203": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0204": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0205": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0206": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0207": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0208": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0209": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0210": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0211": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0212": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0213": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0214": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0215": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0216": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0217": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0218": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0219": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0220": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0221": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0222": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0223": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0224": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0225": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0226": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0227": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0228": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0229": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0230": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0231": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0232": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0233": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0234": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0235": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0236": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0237": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0238": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0239": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0240": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0241": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0242": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0243": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0244": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0245": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "rr0246": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0247": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0248": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "mid"
+    },
+    "rr0249": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "mid"
+    },
+    "rr0250": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "mid"
+    },
+    "com.pitpay.pitpay": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "it.umbriaenergy.MyUmbriaEnergy": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.chainelsbv.chainels.megastores": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.xaurum.pe": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.wedup.shaharoshrat": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.wowthemes.wowcattheme": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.eduquick.bluedomaingo": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.streamlabs.slobsrc": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.treshna.memberportal": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "high"
+    },
+    "br.com.general.app": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.fireshooters.joke": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.PhoHaNoi.BLogicOrderOnline": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.lasting.connect": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "high"
+    },
+    "de.bvl_dairyfeeder.app": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.quiverquant": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.world.news.alap": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "cypto.trade.manager": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.todo1.mobile": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.ihill.mypredict11": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.unlimited.hotspot.vpnbrazil.secure.proxy": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.bluecolibriapp.bluecolibri.mygrabo": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "fun.podcastworld.gtm": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.alzex.finance.pro": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.libocDavaMart": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.sports.schedules.football.ncaa": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.tvb.mytvsuper": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "is.stokkur.safeTravel": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "im.vector.app": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.shurley.ebook.portal": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "low"
+    },
+    "com.airnav.radarbox": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.idfg.android": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.xdevel.radiolombardia": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.likiipedia.Lupio": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.happyverse.stylishtext": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.pocketbrilliance.reminders": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.cantari.crestine": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "uni.UNIB6CFA1E": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.robtheis.android.phrasebook.has.md": {
+      "elements": "high",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "au.edu.latrobe.asdetect": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.slowrock.collection.top": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.sama.tv": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.tiseno.poplook": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.nieto.luis.hidro_i": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "hk.com.nineyi.shop.s000017": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "com.bluerisc.eprivo": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "net.workoutinc.yoga.beginners.free.workouts.studio": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.newreading.goodfm": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.myrepairid.sleeprecorder": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.distiller.distiller": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "chari.groupewib.com.chari": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.water.reminder.tracker": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.hc360.myhealthcheck360": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.zenkit.projects": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.bauermedia.carmagazine": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.lottenc.as.emp.lemp.base": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.maz.combo89": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.squincy.oodlins_parent": {
+      "elements": "low",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "high"
+    },
+    "pappiga.freestyler": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.unifyed.Auguste": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.wondershare.famisafe.kids": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "high",
+      "aspect": "low"
+    },
+    "com.sportech365.weego365": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.dukaan.app": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.ifs.banking.fiid4794": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.coreappslab.dogma": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.wondershare.filmora": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.johnlewis.android": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.awazeinqilab.Physicsmcqs": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.fitocracy.xpt": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "fr.gan.pat.pprod": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.wisedigital.staffing.fortemandmode": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.homefit.yoga.health": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.funapps.bollywoodstickerapp": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.bloomandwild": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.livhub.android": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.arketa.casieallan": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "me.latergram.latergramme": {
+      "elements": "mid",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.accounting.bookkeeping": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.backthen.android": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "softin.my.fast.fitness": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "ott.clayperview": {
+      "elements": "low",
+      "text_tokens": "low",
+      "density": "low",
+      "aspect": "high"
+    },
+    "co.kevin.yuwbx": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "cl.colegium.SchoolNet_Mobile": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.dnc.waitrose": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "ch.allink.ChicApp": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "in.fulldive.shell": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "mid",
+      "aspect": "low"
+    },
+    "com.polymathe.mywine": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.stockedge.social": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.navfree.android.OSM.ALL": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.abenity.unionplus": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.halloglobal.flutterapp.hallo": {
+      "elements": "mid",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.technogym.mywellness.nuffieldmywellness": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.ripalip": {
+      "elements": "high",
+      "text_tokens": "low",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "app.vmire.android": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "kristoni.boro.bodo.metai": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.dolilive": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    },
+    "com.ticketingevents.app": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.cashrich.cashrich": {
+      "elements": "high",
+      "text_tokens": "high",
+      "density": "high",
+      "aspect": "high"
+    },
+    "com.lumenate.lumenateaa": {
+      "elements": "low",
+      "text_tokens": "mid",
+      "density": "low",
+      "aspect": "high"
+    },
+    "com.answersingenesis": {
+      "elements": "mid",
+      "text_tokens": "high",
+      "density": "mid",
+      "aspect": "high"
+    }
+  }
+}

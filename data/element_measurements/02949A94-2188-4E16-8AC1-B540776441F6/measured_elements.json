@@ -1,0 +1,279 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        687,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        179,
+        91,
+        212
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Suzkz",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        568,
+        183,
+        628,
+        210
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Yjrrz",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        110,
+        187,
+        546,
+        209
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        11,
+        254,
+        77,
+        292
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Ualzj",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        48,
+        255,
+        137,
+        296
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        339,
+        134,
+        385
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "\u2022 lasrt",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        59,
+        433,
+        150,
+        475
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        12,
+        434,
+        89,
+        466
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Hfdsc",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        12,
+        510,
+        92,
+        543
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Uvtxw",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        562,
+        511,
+        631,
+        544
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Sulpr",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        112,
+        518,
+        542,
+        540
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        1026,
+        626,
+        1062
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        90,
+        1027,
+        106,
+        1046
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        108,
+        1027,
+        124,
+        1039
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        276,
+        1027,
+        313,
+        1059
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        436,
+        1027,
+        451,
+        1046
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        454,
+        1027,
+        469,
+        1039
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        108,
+        1042,
+        124,
+        1061
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        454,
+        1042,
+        469,
+        1061
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        90,
+        1049,
+        106,
+        1061
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        436,
+        1049,
+        451,
+        1061
+      ],
+      "id": 24,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/02949A94-2188-4E16-8AC1-B540776441F6.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.08244539230602042,
+  "ocr_added": 0,
+  "ocr_filled": 8
+}

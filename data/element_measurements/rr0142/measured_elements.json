@@ -1,0 +1,481 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        162,
+        4,
+        198,
+        41
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1085,
+        6,
+        1190,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        119,
+        8,
+        143,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        10,
+        287,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        17,
+        31,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        17,
+        46,
+        27
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        475,
+        71,
+        693,
+        102
+      ],
+      "id": 10,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        22,
+        75,
+        1173,
+        1533
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        42,
+        1567,
+        343,
+        1654
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        422,
+        1567,
+        770,
+        1654
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        855,
+        1567,
+        1154,
+        1654
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        226,
+        1670,
+        975,
+        1810
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Four in a Line game - Free",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        985,
+        1737,
+        1173,
+        1811
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Google Play",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        416,
+        164,
+        781,
+        235
+      ],
+      "text": "Welcome!",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        95,
+        310,
+        1044,
+        360
+      ],
+      "text": "Thank you for downloading the game!",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        95,
+        402,
+        511,
+        447
+      ],
+      "text": "Tell your friends:",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        162,
+        577,
+        299,
+        614
+      ],
+      "text": "Share",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        393,
+        580,
+        550,
+        614
+      ],
+      "text": "Like us",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        645,
+        577,
+        782,
+        614
+      ],
+      "text": "Profile",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        910,
+        580,
+        1016,
+        614
+      ],
+      "text": "Rate",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        98,
+        689,
+        497,
+        731
+      ],
+      "text": "Our other Apps:",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        382,
+        747,
+        986,
+        803
+      ],
+      "text": "Four in a Line game",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        313,
+        815,
+        820,
+        857
+      ],
+      "text": "\u2022 Game for 2 players",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        313,
+        865,
+        698,
+        910
+      ],
+      "text": "v 4 game levels",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        904,
+        863,
+        1078,
+        906
+      ],
+      "text": "Google Play",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        904,
+        842,
+        1016,
+        868
+      ],
+      "text": "GETIT ON",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        98,
+        966,
+        474,
+        1013
+      ],
+      "text": "Privacy Policy:",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        117,
+        1038,
+        1069,
+        1083
+      ],
+      "text": "The game does not collect any personal",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        120,
+        1088,
+        1030,
+        1133
+      ],
+      "text": "user data. However the Ads which are",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        114,
+        1136,
+        1060,
+        1180
+      ],
+      "text": "Integrated may use device Identifiers to",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        120,
+        1189,
+        957,
+        1231
+      ],
+      "text": "personallse content and to analyse",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        117,
+        1236,
+        1030,
+        1281
+      ],
+      "text": "traffic. Such data may be shared to our",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        120,
+        1289,
+        488,
+        1331
+      ],
+      "text": "partners. MORE",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        460,
+        1406,
+        760,
+        1472
+      ],
+      "text": "OK, Got it!",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        977,
+        1481,
+        1133,
+        1519
+      ],
+      "text": "Wintrino",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0142.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8263190104166667,
+  "ocr_added": 22,
+  "ocr_filled": 2
+}

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="411.4dp"
+        android:layout_height="658.3dp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="0.0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_3"
+            android:layout_width="411.4dp"
+            android:layout_height="658.3dp"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_1"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="0.0dp" />
+
+        <TextView
+            android:id="@+id/view_4"
+            android:layout_width="289.9dp"
+            android:layout_height="13.5dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="Please install KakaoTalk first in order to apply this theme."
+            android:textColor="#FFFFFF"
+            android:textSize="10.9sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="65.3dp"
+            android:layout_marginLeft="65.3dp"
+            android:layout_marginTop="562.6dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="6.0sp"
+            android:autoSizeMaxTextSize="10.9sp"
+            android:autoSizeStepGranularity="1px" />
+
+        <FrameLayout
+            android:id="@+id/view_5"
+            android:layout_width="395.5dp"
+            android:layout_height="43.3dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="7.9dp"
+            android:layout_marginLeft="7.9dp"
+            android:layout_marginTop="591.1dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <Button
+                android:id="@+id/view_6"
+                android:layout_width="193.4dp"
+                android:layout_height="26.1dp"
+                android:background="@drawable/shape_1"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:insetBottom="0dp"
+                android:insetLeft="0dp"
+                android:insetRight="0dp"
+                android:insetTop="0dp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:stateListAnimator="@null"
+                android:text="Cancel"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:textSize="9.9sp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="0.0dp"
+                android:includeFontPadding="false"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="5.5sp"
+                android:autoSizeMaxTextSize="9.9sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp" />
+
+            <Button
+                android:id="@+id/view_7"
+                android:layout_width="193.4dp"
+                android:layout_height="26.1dp"
+                android:background="@drawable/shape_1"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:insetBottom="0dp"
+                android:insetLeft="0dp"
+                android:insetRight="0dp"
+                android:insetTop="0dp"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:stateListAnimator="@null"
+                android:text="Install KakaoTalk"
+                android:textAllCaps="false"
+                android:textColor="#000000"
+                android:textSize="10.0sp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="201.6dp"
+                android:layout_marginLeft="201.6dp"
+                android:layout_marginTop="0.0dp"
+                android:includeFontPadding="false"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="5.5sp"
+                android:autoSizeMaxTextSize="10.0sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="17.1dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#000000" />
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="32.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="625.4dp"
+        android:background="#000000" />
+</FrameLayout>

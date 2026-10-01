@@ -1,0 +1,509 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1086,
+        4,
+        1190,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        210,
+        13,
+        244,
+        37
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        16,
+        95,
+        32
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        120,
+        17,
+        127,
+        27
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        129,
+        17,
+        142,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        51,
+        189,
+        181
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        77,
+        1172,
+        215
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        342,
+        78,
+        877,
+        654
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1061,
+        230,
+        1144,
+        245
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1059,
+        259,
+        1158,
+        283
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "BEFORE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        417,
+        715,
+        437,
+        770
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        772,
+        1147,
+        1100
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1120,
+        1199,
+        1671
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        76,
+        1682,
+        161,
+        1773
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        348,
+        1682,
+        368,
+        1701
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        550,
+        1682,
+        647,
+        1773
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        802,
+        1682,
+        875,
+        1691
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1021,
+        1688,
+        1120,
+        1757
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        373,
+        1691,
+        392,
+        1710
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        324,
+        1693,
+        343,
+        1713
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        802,
+        1694,
+        875,
+        1773
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1121,
+        1694,
+        1137,
+        1711
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        314,
+        1718,
+        333,
+        1737
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        384,
+        1718,
+        403,
+        1737
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1129,
+        1720,
+        1137,
+        1727
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        374,
+        1742,
+        393,
+        1762
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        325,
+        1744,
+        345,
+        1763
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        348,
+        1754,
+        368,
+        1773
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        546,
+        1776,
+        654,
+        1810
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "Finalize",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        803,
+        1776,
+        877,
+        1810
+      ],
+      "id": 33,
+      "kind": "text",
+      "text": "Clear",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        1777,
+        196,
+        1810
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "New Photo",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1033,
+        1777,
+        1124,
+        1811
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "Extras",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        312,
+        1778,
+        408,
+        1814
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "Adjust",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        505,
+        1298,
+        527,
+        1312
+      ],
+      "text": "OSi",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        1024,
+        1354,
+        1113,
+        1479
+      ],
+      "text": "Blonde",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        1129,
+        1354,
+        1175,
+        1425
+      ],
+      "text": "Red",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        871,
+        1491,
+        1017,
+        1592
+      ],
+      "text": "Medium",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        547,
+        1574,
+        600,
+        1602
+      ],
+      "text": "stfie",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        867,
+        1604,
+        964,
+        1650
+      ],
+      "text": "Short",
+      "source": "ocr"
+    },
+    {
+      "id": 46,
+      "kind": "text",
+      "bounds": [
+        1119,
+        1588,
+        1169,
+        1624
+      ],
+      "text": "All",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0161.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6332934027777778,
+  "ocr_added": 7,
+  "ocr_filled": 6
+}

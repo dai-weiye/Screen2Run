@@ -1,0 +1,255 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        225,
+        13,
+        271,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        292,
+        14,
+        337,
+        57
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        22,
+        16,
+        132,
+        56
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        164,
+        18,
+        201,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        147,
+        112,
+        409,
+        192
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "AMyWine",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        114,
+        154,
+        198
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        964,
+        126,
+        1025,
+        186
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        287,
+        594,
+        412
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Welcome",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        477,
+        1019,
+        621
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        148,
+        680,
+        766,
+        730
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "A",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        64,
+        681,
+        123,
+        732
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        780,
+        1019,
+        924
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        64,
+        984,
+        123,
+        1035
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        149,
+        986,
+        900,
+        1033
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "A",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        1089,
+        1019,
+        1233
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        1257,
+        1019,
+        1401
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        332,
+        1450,
+        743,
+        1497
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "I forgot my password",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        512,
+        1581,
+        569,
+        1628
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Or",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        61,
+        1725,
+        1015,
+        1775
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        300,
+        1872
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        788,
+        1826,
+        830,
+        1869
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        514,
+        1827,
+        562,
+        1875
+      ],
+      "id": 22,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.polymathe.mywine.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3921749614197531,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

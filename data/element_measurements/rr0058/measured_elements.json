@@ -1,0 +1,119 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        3,
+        192,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1001,
+        4,
+        1192,
+        45
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        29,
+        94,
+        371,
+        134
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "FLAME KEYBOARD",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        419,
+        248,
+        781,
+        305
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "Flame Keyboard",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        524,
+        918,
+        595,
+        989
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        619,
+        931,
+        659,
+        971
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        448,
+        1004,
+        756,
+        1056
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Swipe to begin \u2039",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0058.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.03446267361111111,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

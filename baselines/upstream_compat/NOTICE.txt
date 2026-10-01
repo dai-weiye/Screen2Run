@@ -1,0 +1,10 @@
+LayoutCoder preprocessing compatibility files
+Upstream: https://github.com/ay7u1009/LayoutCoder
+Commit: bf5b0032923ea68a0aff9f98fa9cd544d8cd9ee8
+License: Apache License 2.0 (included).
+
+ocr.py retains the experiment's PaddleOCR 3.x/2.x return-format compatibility.
+edge_detection.py retains the explicit saturated-array arithmetic used when the
+upstream optional edge extension is unavailable. Documentation has been translated
+to English. These files do not change the UIED thresholds, relation construction,
+layout parsing, atomic prompts, or fusion algorithm.

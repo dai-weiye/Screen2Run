@@ -1,0 +1,297 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1002,
+        4,
+        1191,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        65,
+        7,
+        101,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        21,
+        78,
+        81,
+        118
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1130,
+        78,
+        1168,
+        119
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        81,
+        479,
+        112
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Search or enter address",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        451,
+        644,
+        779,
+        763
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "dolphin zer",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        374,
+        852,
+        820,
+        886
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Automatically deletes upon exit:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        412,
+        936,
+        447,
+        972
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        482,
+        936,
+        703,
+        970
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "\u2022 Browsing History",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        416,
+        1000,
+        443,
+        1036
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        482,
+        1002,
+        628,
+        1093
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Form Data",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        414,
+        1060,
+        445,
+        1094
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        412,
+        1123,
+        447,
+        1159
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        483,
+        1123,
+        695,
+        1154
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "@ Website Cookies",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        483,
+        1186,
+        737,
+        1217
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Cached Data & Files",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        414,
+        1187,
+        445,
+        1220
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        182,
+        1758,
+        218,
+        1795
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        982,
+        1758,
+        1018,
+        1795
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        582,
+        1767,
+        616,
+        1771
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        582,
+        1776,
+        616,
+        1781
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        582,
+        1785,
+        616,
+        1790
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 26,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0037.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.05701996527777778,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

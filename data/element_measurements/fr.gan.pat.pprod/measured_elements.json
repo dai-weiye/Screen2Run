@@ -1,0 +1,127 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        13,
+        111,
+        58
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "9",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        136,
+        14,
+        178,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        24,
+        954,
+        48
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        959,
+        24,
+        1015,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        383,
+        721,
+        694,
+        1032
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        559,
+        1048,
+        713,
+        1136
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        360,
+        1072,
+        559,
+        1093
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "UNE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        241,
+        1824,
+        287,
+        1872
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1825,
+        562,
+        1872
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1825,
+        833,
+        1872
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/fr.gan.pat.pprod.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.05175253244697689,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

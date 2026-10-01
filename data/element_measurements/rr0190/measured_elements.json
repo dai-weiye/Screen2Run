@@ -1,0 +1,107 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        24,
+        0,
+        1182,
+        1919
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "id": 1,
+      "kind": "text",
+      "bounds": [
+        301,
+        156,
+        335,
+        243
+      ],
+      "text": "ADS",
+      "source": "ocr"
+    },
+    {
+      "id": 2,
+      "kind": "text",
+      "bounds": [
+        935,
+        662,
+        1029,
+        1305
+      ],
+      "text": "NIOS WUTPORBI",
+      "source": "ocr"
+    },
+    {
+      "id": 3,
+      "kind": "text",
+      "bounds": [
+        1052,
+        633,
+        1086,
+        1256
+      ],
+      "text": "Swipe down trom the top to exit full screen.",
+      "source": "ocr"
+    },
+    {
+      "id": 4,
+      "kind": "text",
+      "bounds": [
+        806,
+        724,
+        929,
+        1266
+      ],
+      "text": "Adventures",
+      "source": "ocr"
+    },
+    {
+      "id": 5,
+      "kind": "text",
+      "bounds": [
+        354,
+        807,
+        452,
+        935
+      ],
+      "text": "2+",
+      "source": "ocr"
+    },
+    {
+      "id": 6,
+      "kind": "text",
+      "bounds": [
+        360,
+        1236,
+        452,
+        1359
+      ],
+      "text": "5+",
+      "source": "ocr"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        781,
+        1761,
+        1005,
+        1873
+      ],
+      "text": "] 8",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0190.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.9644973958333334,
+  "ocr_added": 7,
+  "ocr_filled": 0
+}

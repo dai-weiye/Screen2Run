@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="411.4239dp"
+    android:layout_height="658.2782dp"
+    android:background="#FFFFFF"
+    android:id="@+id/view_1">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="#000000"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:id="@+id/view_2"
+        android:layout_width="411.4239dp"
+        android:layout_height="17.1427dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:tint="#FFFFFF"
+            android:paddingStart="2dp"
+            android:paddingEnd="6dp"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:tint="#FFFFFF"
+            android:paddingStart="2dp"
+            android:paddingEnd="6dp"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:tint="#FFFFFF"
+            android:paddingStart="6dp"
+            android:paddingEnd="6dp"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:tint="#FFFFFF"
+            android:paddingStart="6dp"
+            android:paddingEnd="6dp"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:tint="#FFFFFF"
+            android:paddingStart="6dp"
+            android:paddingEnd="6dp"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:tint="#FFFFFF"
+            android:paddingStart="6dp"
+            android:paddingEnd="6dp"
+            android:scaleType="fitCenter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="2:52"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:fontFamily="sans-serif"
+            android:paddingStart="6dp"
+            android:paddingEnd="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="411.4239dp"
+        android:layout_height="35.6567dp"
+        android:background="#2E9BE0"
+        android:id="@+id/view_3"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="17.4855dp">
+
+        <ImageView
+            android:background="#3B8FD1"
+            android:scaleType="centerInside"
+            android:src="@drawable/img"
+            android:id="@+id/view_4"
+            android:layout_width="29.4854dp"
+            android:layout_height="35.6567dp"
+            android:layout_marginStart="381.9385dp"
+            android:layout_marginTop="0dp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="#2E9BE0"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:id="@+id/view_5"
+            android:layout_width="118.6272dp"
+            android:layout_height="35.6567dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Safety Plan"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:paddingStart="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="#2D9CDB"
+        android:gravity="center_vertical"
+        android:id="@+id/view_6"
+        android:layout_width="411.4239dp"
+        android:layout_height="27.4283dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="66.5135dp">
+
+        <TextView
+            android:layout_weight="1"
+            android:text="PLAN"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingTop="18dp"
+            android:paddingBottom="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="|"
+            android:textColor="#8FBFE0"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_weight="1"
+            android:text="GUIDE"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingTop="18dp"
+            android:paddingBottom="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="|"
+            android:textColor="#8FBFE0"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_weight="1"
+            android:text="CRISIS"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingTop="18dp"
+            android:paddingBottom="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:background="#F2F2F2"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:id="@+id/view_7"
+        android:layout_width="411.4239dp"
+        android:layout_height="74.0563dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="94.2846dp">
+
+        <TextView
+            android:id="@+id/instructions"
+            android:text="Press the ? icon in the upper right corner for instructions on how to fill out this safety plan."
+            android:textColor="#9E9E9E"
+            android:textSize="14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/warningIcon"
+            android:src="@drawable/img"
+            android:contentDescription="Warning"
+            android:layout_below="@id/instructions"
+            android:layout_alignParentStart="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/title"
+            android:text="Warning Signs"
+            android:textColor="#000000"
+            android:textSize="28sp"
+            android:layout_below="@id/instructions"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/addWarningText"
+            android:text="Press the button above to add warning signs that a crisis may occur."
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:layout_below="@id/title"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:id="@+id/divider"
+            android:background="#CCCCCC"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="#F8F9FA"
+        android:padding="16dp"
+        android:id="@+id/view_8"
+        android:layout_width="411.4239dp"
+        android:layout_height="53.4851dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="168.3409dp">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:src="@drawable/img"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:tint="#2196F3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/title"
+            android:text="Coping Strategies"
+            android:textSize="28sp"
+            android:textColor="#212121"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/subtitle"
+            android:text="Press the button above to add coping strategies."
+            android:textSize="16sp"
+            android:textColor="#212121"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/title"
+            android:paddingTop="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#F5F5F5"
+        android:paddingTop="10dp"
+        android:paddingBottom="4dp"
+        android:id="@+id/view_9"
+        android:layout_width="411.4239dp"
+        android:layout_height="53.4851dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="221.826dp">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:layout_gravity="start|center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Reasons to Live"
+                android:textSize="30sp"
+                android:textColor="#000000"
+                android:fontFamily="sans-serif-light"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </FrameLayout>
+
+        <TextView
+            android:text="Press the button above to add things that are important to you and worth living for"
+            android:textSize="17sp"
+            android:textColor="#111111"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#F2F2F2"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="10dp"
+        android:id="@+id/view_10"
+        android:layout_width="411.4239dp"
+        android:layout_height="64.7993dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="275.3111dp">
+
+        <RelativeLayout
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:scaleType="fitCenter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Contacts"
+                android:textColor="#212121"
+                android:textSize="24sp"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+        <TextView
+            android:text="Press the button above to add any people, professionals, or other numbers that you can contact."
+            android:textColor="#111111"
+            android:textSize="16sp"
+            android:paddingStart="24dp"
+            android:paddingEnd="24dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#EEEEEE"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:id="@+id/view_11"
+        android:layout_width="411.4239dp"
+        android:layout_height="53.4851dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="340.1104dp">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="start|center_vertical"
+                android:scaleType="fitCenter"
+                android:src="@drawable/img" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Places for Distraction"
+                android:textColor="#212121"
+                android:textSize="28sp" />
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Press the button above to add places that can distract you."
+            android:textColor="#212121"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#F5F5F5"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:id="@+id/view_12"
+        android:layout_width="411.4239dp"
+        android:layout_height="53.4851dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="393.5955dp">
+
+        <RelativeLayout
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/glasses_icon"
+                android:src="@drawable/img"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:tint="#2196F3"
+                android:contentDescription="Glasses icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/title"
+                android:text="Other"
+                android:textColor="#000000"
+                android:textSize="28sp"
+                android:fontFamily="sans-serif"
+                android:layout_centerInParent="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+        <TextView
+            android:text="Press the button above to add any additional notes that could be helpful."
+            android:textColor="#000000"
+            android:textSize="14sp"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="#000000"
+        android:id="@+id/view_13"
+        android:layout_width="411.4239dp"
+        android:layout_height="41.4852dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="616.793dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:contentDescription="Back"
+            android:tint="#D9D9D9"
+            android:paddingStart="44dp"
+            android:paddingEnd="44dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:contentDescription="Home"
+            android:tint="#D9D9D9"
+            android:paddingStart="44dp"
+            android:paddingEnd="44dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:contentDescription="Recent apps"
+            android:tint="#D9D9D9"
+            android:paddingStart="44dp"
+            android:paddingEnd="44dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

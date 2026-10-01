@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E2EAF4"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="411.4dp"
+        android:layout_height="41.1dp"
+        android:background="#FFFFFF"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="17.1dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_3"
+            android:layout_width="156.9dp"
+            android:layout_height="34.0dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_1"
+            android:contentDescription="Manheim"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="122.2dp"
+            android:layout_marginLeft="122.2dp"
+            android:layout_marginTop="8.7dp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_4"
+        android:layout_width="411.4dp"
+        android:layout_height="541.0dp"
+        android:background="#F0F0F0"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="58.3dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <FrameLayout
+            android:layout_width="370.1dp"
+            android:layout_height="51.2dp"
+            android:background="#E7ECF0"
+            android:id="@+id/view_5"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="20.8dp"
+            android:layout_marginLeft="20.8dp"
+            android:layout_marginTop="-4.7dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <EditText
+                android:id="@+id/view_6"
+                android:layout_width="64.5dp"
+                android:layout_height="18.6dp"
+                android:background="@android:color/transparent"
+                android:hint="Username"
+                android:inputType="text"
+                android:gravity="center_vertical|start"
+                android:textColor="#000000"
+                android:textColorHint="#7F7F7F"
+                android:textSize="9.4sp"
+                android:minHeight="0dp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="207.4dp"
+                android:layout_marginLeft="207.4dp"
+                android:layout_marginTop="16.3dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="5.2sp"
+                android:autoSizeMaxTextSize="9.4sp"
+                android:autoSizeStepGranularity="1px"
+                android:paddingStart="2.8dp"
+                android:paddingLeft="2.8dp"
+                android:paddingTop="0dp"
+                android:paddingBottom="0dp"
+                android:paddingEnd="0dp" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/view_7"
+            android:layout_width="325.8dp"
+            android:layout_height="12.0dp"
+            android:text="Please log in using your existing Manheim.com username and password."
+            android:textColor="#000000"
+            android:textSize="9.7sp"
+            android:gravity="center_vertical|start"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="23.9dp"
+            android:layout_marginLeft="23.9dp"
+            android:layout_marginTop="14.0dp"
+            android:fontFamily="sans-serif"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.3sp"
+            android:autoSizeMaxTextSize="9.7sp"
+            android:autoSizeStepGranularity="1px" />
+
+        <FrameLayout
+            android:layout_width="360.0dp"
+            android:layout_height="29.5dp"
+            android:background="#FFFFFF"
+            android:id="@+id/view_8"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="25.4dp"
+            android:layout_marginLeft="25.4dp"
+            android:layout_marginTop="99.8dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <EditText
+                android:id="@+id/view_9"
+                android:layout_width="360.0dp"
+                android:layout_height="29.5dp"
+                android:background="@android:color/transparent"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:gravity="center_vertical|start"
+                android:textColor="#808080"
+                android:textColorHint="#7F7F7F"
+                android:textSize="10.7sp"
+                android:minHeight="0dp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="0.0dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="5.9sp"
+                android:autoSizeMaxTextSize="10.7sp"
+                android:autoSizeStepGranularity="1px"
+                android:paddingStart="6.2dp"
+                android:paddingLeft="6.2dp"
+                android:paddingTop="0dp"
+                android:paddingBottom="0dp"
+                android:paddingEnd="0dp" />
+        </FrameLayout>
+
+        <Button
+            android:id="@+id/view_10"
+            android:layout_width="363.4dp"
+            android:layout_height="32.6dp"
+            android:backgroundTint="@null"
+            android:text="Log In"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textSize="18.3sp"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:background="@drawable/img_2"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="23.7dp"
+            android:layout_marginLeft="23.7dp"
+            android:layout_marginTop="144.7dp"
+            android:fontFamily="sans-serif"
+            android:includeFontPadding="false"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="10.0sp"
+            android:autoSizeMaxTextSize="18.3sp"
+            android:autoSizeStepGranularity="1px"
+            android:padding="0dp"
+            android:stateListAnimator="@null" />
+
+        <TextView
+            android:id="@+id/view_11"
+            android:text="Username"
+            android:textColor="#808080"
+            android:layout_width="49.4dp"
+            android:layout_height="12.6dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="30.0dp"
+            android:layout_marginLeft="30.0dp"
+            android:layout_marginTop="58.1dp"
+            android:textSize="10.2sp"
+            android:fontFamily="sans-serif"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.6sp"
+            android:autoSizeMaxTextSize="10.2sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_12"
+        android:layout_width="411.4dp"
+        android:layout_height="26.1dp"
+        android:minHeight="25dp"
+        android:background="#2E5F8A"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="599.3dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_13"
+            android:layout_width="24.2dp"
+            android:layout_height="11.3dp"
+            android:text="Legal"
+            android:textColor="#FFFFFF"
+            android:textSize="9.0sp"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="193.9dp"
+            android:layout_marginLeft="193.9dp"
+            android:layout_marginTop="1.7dp"
+            android:fontFamily="sans-serif"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.0sp"
+            android:autoSizeMaxTextSize="9.0sp"
+            android:autoSizeStepGranularity="1px" />
+
+        <TextView
+            android:id="@+id/view_14"
+            android:layout_width="166.9dp"
+            android:layout_height="12.0dp"
+            android:text="© 2011 Manheim. All rights reserved."
+            android:textColor="#FFFFFF"
+            android:textSize="9.7sp"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="124.7dp"
+            android:layout_marginLeft="124.7dp"
+            android:layout_marginTop="15.0dp"
+            android:fontFamily="sans-serif"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.3sp"
+            android:autoSizeMaxTextSize="9.7sp"
+            android:autoSizeStepGranularity="1px" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="17.1dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#000000" />
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="32.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="625.4dp"
+        android:background="#000000" />
+</FrameLayout>

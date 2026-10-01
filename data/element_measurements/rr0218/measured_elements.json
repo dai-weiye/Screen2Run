@@ -1,0 +1,349 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        157,
+        2,
+        202,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1087,
+        7,
+        1190,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        19,
+        8,
+        50,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        8,
+        287,
+        42
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        214,
+        9,
+        239,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        10,
+        98,
+        41
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        123,
+        11,
+        140,
+        34
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        115,
+        37,
+        147,
+        41
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        58,
+        120,
+        153
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        991,
+        84,
+        1032,
+        126
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        149,
+        89,
+        637,
+        123
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Ringtones",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        696,
+        125,
+        721,
+        151
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        207,
+        188,
+        246
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Star Wars",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1151,
+        208,
+        1187,
+        244
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        335,
+        223,
+        376
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Darth Vader",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        26,
+        469,
+        325,
+        507
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Amazing Ringtone",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        596,
+        277,
+        640
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Super Ringtone",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        25,
+        727,
+        364,
+        768
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Best Wake Up Sound",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        25,
+        857,
+        308,
+        895
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Game of Thrones",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        25,
+        987,
+        326,
+        1024
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Notification Sound",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        22,
+        1114,
+        407,
+        1160
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "The good, bad, and ugly",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        1247,
+        253,
+        1289
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "Jack Sparrow",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        1374,
+        598,
+        1420
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "Old School Ringtone Ringing Phone",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        1505,
+        203,
+        1550
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Rising Sun",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        21,
+        1634,
+        128,
+        1678
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "Alarm",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 30,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0218.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.08167838541666667,
+  "ocr_added": 0,
+  "ocr_filled": 13
+}

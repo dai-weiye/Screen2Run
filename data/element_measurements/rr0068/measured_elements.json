@@ -1,0 +1,197 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1084,
+        5,
+        1190,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1006,
+        8,
+        1028,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        75,
+        13,
+        97,
+        24
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        529,
+        841,
+        669,
+        971
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        245,
+        992,
+        957,
+        1032
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Quickly and easily find people at your company",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        555,
+        1520,
+        571,
+        1536
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        583,
+        1524,
+        591,
+        1532
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        607,
+        1524,
+        615,
+        1532
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        631,
+        1524,
+        639,
+        1532
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        47,
+        1584,
+        1151,
+        1680
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        390,
+        1736,
+        811,
+        1766
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "CREATE A LINKEDIN ACCOUNT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0068.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.07876041666666667,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

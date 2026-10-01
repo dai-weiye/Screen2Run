@@ -1,0 +1,249 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        955,
+        4,
+        1191,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        17,
+        6,
+        203,
+        44
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "G+",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        263,
+        10,
+        287,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        528,
+        1199,
+        1741
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        1750,
+        118,
+        1777
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        261,
+        1753,
+        275,
+        1759
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        192,
+        1764,
+        206,
+        1770
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        953,
+        1769,
+        963,
+        1778
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        266,
+        1780,
+        275,
+        1789
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        392,
+        1781,
+        523,
+        1797
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1119,
+        1793,
+        1125,
+        1824
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        388,
+        526,
+        810,
+        624
+      ],
+      "text": "SAVAGE",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        324,
+        1180,
+        879,
+        1231
+      ],
+      "text": "One step away from the",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        384,
+        1250,
+        818,
+        1303
+      ],
+      "text": "hottest mixtapes...",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        477,
+        1412,
+        717,
+        1446
+      ],
+      "text": "Get started \u2192",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        536,
+        1560,
+        653,
+        1602
+      ],
+      "text": "Log in",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        567,
+        1538,
+        628,
+        1552
+      ],
+      "text": "OXFORI",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        502,
+        1702,
+        703,
+        1742
+      ],
+      "text": "Skip for now",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0143.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6442981770833334,
+  "ocr_added": 7,
+  "ocr_filled": 1
+}

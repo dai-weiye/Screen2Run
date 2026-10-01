@@ -1,0 +1,261 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1001,
+        4,
+        1192,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        100,
+        90,
+        104
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        111,
+        90,
+        115
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        122,
+        90,
+        126
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        61,
+        178,
+        1128,
+        214
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        69,
+        264,
+        1138,
+        1374
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        1408,
+        1126,
+        1500
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        447,
+        416,
+        753,
+        458
+      ],
+      "text": "LAS + LAX",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        231,
+        730,
+        400,
+        767
+      ],
+      "text": "Las Vegas",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        232,
+        776,
+        460,
+        795
+      ],
+      "text": "Any airport, United States",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        201,
+        851,
+        996,
+        893
+      ],
+      "text": "Jetradar isn't responding. Do you want to close it?",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        354,
+        982,
+        416,
+        1010
+      ],
+      "text": "Wait",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        793,
+        980,
+        837,
+        1010
+      ],
+      "text": "OK",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        231,
+        1056,
+        411,
+        1104
+      ],
+      "text": "Jul 4, 2017",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        653,
+        1058,
+        851,
+        1102
+      ],
+      "text": "Jul 13, 2017",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        653,
+        1261,
+        807,
+        1300
+      ],
+      "text": "Economy",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0219.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.58186328125,
+  "ocr_added": 9,
+  "ocr_filled": 0
+}

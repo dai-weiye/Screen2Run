@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="981">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000000">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|center_vertical"
+                android:layout_marginEnd="72dp"
+                android:layout_marginTop="-4dp"
+                android:rotation="-90"
+                android:text="live"
+                android:textColor="#1F1F1F"
+                android:textSize="42sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|center_vertical"
+                android:layout_marginEnd="20dp"
+                android:background="#4FA2E8"
+                android:paddingLeft="46dp"
+                android:paddingTop="6dp"
+                android:paddingRight="46dp"
+                android:paddingBottom="6dp"
+                android:rotation="90"
+                android:text="OK"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="214">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000000">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clipChildren="false">
+
+                <View
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_gravity="end|center_vertical"
+                    android:background="#64B5F6"
+                    android:rotation="45"
+                    android:translationX="6dp" />
+
+                <FrameLayout
+                    android:layout_width="48dp"
+                    android:layout_height="320dp"
+                    android:background="#64B5F6">
+
+                    <TextView
+                        android:layout_width="310dp"
+                        android:layout_height="44dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:rotation="90"
+                        android:singleLine="true"
+                        android:text="Swipe down from the top to exit full screen."
+                        android:textColor="#37474F"
+                        android:textSize="15sp" />
+                </FrameLayout>
+            </FrameLayout>
+        </FrameLayout>
+    </FrameLayout>
+</LinearLayout>

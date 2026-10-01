@@ -1,0 +1,159 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        4,
+        298,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        954,
+        5,
+        1191,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        102,
+        1221,
+        294,
+        1574
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "100",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        506,
+        1222,
+        668,
+        1687
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "ZABC",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        906,
+        1223,
+        1100,
+        1570
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "3DEF",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        183,
+        1614,
+        220,
+        1652
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        983,
+        1616,
+        1015,
+        1658
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        549,
+        1718,
+        649,
+        1818
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        74,
+        1752,
+        93,
+        1771
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1093,
+        1752,
+        1136,
+        1785
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        63,
+        1774,
+        103,
+        1789
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0024.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.10997092013888889,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

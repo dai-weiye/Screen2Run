@@ -1,0 +1,205 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        21,
+        6,
+        101,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1070,
+        6,
+        1190,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        11,
+        145,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        99,
+        91,
+        129
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        215,
+        284,
+        249
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Selecciona error",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1137,
+        226,
+        1157,
+        237
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        36,
+        305,
+        175,
+        340
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Ihr Name",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        38,
+        414,
+        331,
+        445
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Ihre Telefonnummer",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        36,
+        518,
+        283,
+        555
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "name@mail.com",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        38,
+        630,
+        562,
+        663
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Beschreiben Sie Ihren Fehler n\u00e4her..",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        34,
+        737,
+        83,
+        786
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        103,
+        746,
+        784,
+        779
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Daten speichern, um sie nicht erneut einzugeben",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        816,
+        1167,
+        1057
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0141.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.1587868923611111,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

@@ -1,0 +1,345 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        135,
+        13,
+        181,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        16,
+        14,
+        110,
+        59
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        203,
+        15,
+        242,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        15,
+        308,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        335,
+        15,
+        374,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        908,
+        15,
+        1022,
+        58
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        191,
+        710,
+        258
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Willkommen in der App",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        932,
+        196,
+        985,
+        248
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        74,
+        430,
+        1003,
+        1417
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        485,
+        20,
+        500
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        544,
+        32,
+        575
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        651,
+        80,
+        790
+      ],
+      "id": 12,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        0,
+        921,
+        59,
+        952
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        952,
+        17,
+        963
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        981,
+        49,
+        1000
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1344,
+        33,
+        1408
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        58,
+        1554,
+        792,
+        1591
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "Willkommen in der Chicnr\u00e9e Annl",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        840,
+        1624,
+        1001,
+        1675
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Weiter",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        78,
+        1628,
+        315,
+        1678
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Schliessen",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        497,
+        1653,
+        510,
+        1665
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        865,
+        497,
+        938,
+        572
+      ],
+      "text": "X",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        152,
+        768,
+        656,
+        840
+      ],
+      "text": "Neue App Version",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        145,
+        845,
+        427,
+        907
+      ],
+      "text": "verf\u00fcgbar",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        151,
+        966,
+        887,
+        1019
+      ],
+      "text": "Lade f\u00fcr das optimale Erlebnis",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        151,
+        1035,
+        767,
+        1086
+      ],
+      "text": "mit der Chicor\u00e9e App die",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        151,
+        1100,
+        779,
+        1147
+      ],
+      "text": "neueste Version herunter.",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        293,
+        1245,
+        781,
+        1309
+      ],
+      "text": "App aktualisieren",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/ch.allink.ChicApp.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5071267361111111,
+  "ocr_added": 7,
+  "ocr_filled": 4
+}

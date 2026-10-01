@@ -1,0 +1,551 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        956,
+        5,
+        1036,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        62,
+        7,
+        253,
+        41
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1119,
+        10,
+        1189,
+        40
+      ],
+      "id": 6,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        348,
+        1124,
+        1237
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        17,
+        1503,
+        1142,
+        1679
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Welcome to PrivateSpace",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        1699,
+        220,
+        1708
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1050,
+        1752,
+        1175,
+        1804
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Next",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        399,
+        377,
+        472,
+        402
+      ],
+      "text": "Sophia",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        405,
+        405,
+        486,
+        421
+      ],
+      "text": "17327003",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        449,
+        497,
+        472,
+        522
+      ],
+      "text": "+",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        108,
+        574,
+        230,
+        632
+      ],
+      "text": "Messaging",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        191,
+        568,
+        517,
+        690
+      ],
+      "text": "Wow, It's great! Now our message conversati....",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        446,
+        542,
+        497,
+        572
+      ],
+      "text": "11:42",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        519,
+        541,
+        600,
+        559
+      ],
+      "text": "1 hours ago",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        832,
+        525,
+        974,
+        604
+      ],
+      "text": "View Contact",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        533,
+        580,
+        720,
+        597
+      ],
+      "text": "at app. It can protect",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        539,
+        603,
+        681,
+        620
+      ],
+      "text": "alls between us.",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        807,
+        586,
+        879,
+        631
+      ],
+      "text": "Sophia",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        201,
+        683,
+        296,
+        733
+      ],
+      "text": "Alice (1)",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        214,
+        700,
+        350,
+        760
+      ],
+      "text": "Where are u guys?",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        497,
+        687,
+        539,
+        709
+      ],
+      "text": "11:40",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        575,
+        712,
+        600,
+        728
+      ],
+      "text": "lgo",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        790,
+        700,
+        848,
+        737
+      ],
+      "text": "127003",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        223,
+        752,
+        325,
+        804
+      ],
+      "text": "Laura (1)",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        586,
+        748,
+        706,
+        767
+      ],
+      "text": "1 can get it by",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        234,
+        789,
+        319,
+        829
+      ],
+      "text": "I miss you",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        589,
+        770,
+        720,
+        793
+      ],
+      "text": "in Google Play.",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        780,
+        749,
+        900,
+        817
+      ],
+      "text": "ION DETAILS",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        597,
+        790,
+        645,
+        815
+      ],
+      "text": "Yeah.",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        784,
+        884,
+        910,
+        949
+      ],
+      "text": "imessagest...",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        645,
+        940,
+        692,
+        960
+      ],
+      "text": "sage",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        650,
+        960,
+        728,
+        982
+      ],
+      "text": "secret.:)",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        793,
+        1002,
+        832,
+        1030
+      ],
+      "text": "Call",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        530,
+        1077,
+        569,
+        1111
+      ],
+      "text": "*",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        533,
+        1108,
+        583,
+        1130
+      ],
+      "text": "Setting",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        620,
+        1083,
+        659,
+        1102
+      ],
+      "text": "More",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        373,
+        1152,
+        431,
+        1183
+      ],
+      "text": "Contact",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        449,
+        1125,
+        511,
+        1160
+      ],
+      "text": "Call Log",
+      "source": "ocr"
+    },
+    {
+      "id": 46,
+      "kind": "text",
+      "bounds": [
+        290,
+        1177,
+        358,
+        1210
+      ],
+      "text": "Message",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0184.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5071332465277778,
+  "ocr_added": 32,
+  "ocr_filled": 2
+}

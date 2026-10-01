@@ -1,0 +1,125 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        199,
+        8,
+        255,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        9,
+        183,
+        64
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        13,
+        115,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        335,
+        13,
+        383,
+        59
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        268,
+        16,
+        319,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        405,
+        192,
+        672,
+        672
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        333,
+        1571,
+        737,
+        1693
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "GAIA GROUP",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        242,
+        1824,
+        287,
+        1872
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1825,
+        560,
+        1871
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        784,
+        1825,
+        833,
+        1872
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.sama.tv.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.07881924659702437,
+  "ocr_added": 0,
+  "ocr_filled": 1
+}

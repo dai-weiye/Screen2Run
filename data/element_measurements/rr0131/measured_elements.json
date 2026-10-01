@@ -1,0 +1,323 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1086,
+        6,
+        1189,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        49,
+        7,
+        195,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        115,
+        84,
+        323,
+        134
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Wallpapers",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        90,
+        72,
+        122
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        268,
+        195,
+        331,
+        225
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "TOP",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        830,
+        198,
+        970,
+        222
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "FEATURED",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        278,
+        1199,
+        878
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        29,
+        889,
+        354,
+        961
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Baby Animal Wallpapers",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1101,
+        889,
+        1171,
+        917
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "1,000+",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1068,
+        894,
+        1090,
+        914
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        987,
+        1199,
+        1567
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        724,
+        1578,
+        807,
+        1587
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        28,
+        1598,
+        283,
+        1672
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Bicycle Wallpapers",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1100,
+        1600,
+        1171,
+        1626
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "2,000+",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1068,
+        1603,
+        1090,
+        1623
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1696,
+        1199,
+        1823
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1143,
+        1856,
+        1153,
+        1867
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1143,
+        1870,
+        1153,
+        1881
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1143,
+        1884,
+        1153,
+        1895
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        727,
+        273,
+        1190,
+        377
+      ],
+      "text": "Baby animal",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        784,
+        375,
+        1150,
+        473
+      ],
+      "text": "wallpaper",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        795,
+        1328,
+        1196,
+        1500
+      ],
+      "text": "Wallpapers-",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0131.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7167938368055555,
+  "ocr_added": 3,
+  "ocr_filled": 7
+}

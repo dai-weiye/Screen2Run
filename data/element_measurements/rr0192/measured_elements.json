@@ -1,0 +1,127 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        3,
+        240,
+        45
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1067,
+        5,
+        1192,
+        44
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        44,
+        94,
+        316,
+        139
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "Modifiye \u015eahin",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        299,
+        198,
+        899,
+        524
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        299,
+        564,
+        899,
+        890
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        299,
+        930,
+        899,
+        1257
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        299,
+        1297,
+        899,
+        1624
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0192.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3552339409722222,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

@@ -1,0 +1,149 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        0,
+        0,
+        1199,
+        1613
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        983,
+        861,
+        1200,
+        953
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "BlanK",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        978,
+        1126,
+        1200,
+        1209
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "Magic",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        960,
+        1399,
+        1200,
+        1474
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "sallery",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "id": 7,
+      "kind": "text",
+      "bounds": [
+        363,
+        56,
+        430,
+        103
+      ],
+      "text": "No",
+      "source": "ocr"
+    },
+    {
+      "id": 8,
+      "kind": "text",
+      "bounds": [
+        349,
+        100,
+        444,
+        151
+      ],
+      "text": "Ads",
+      "source": "ocr"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        592,
+        64,
+        659,
+        151
+      ],
+      "text": "f",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        934,
+        548,
+        1170,
+        606
+      ],
+      "text": "coloring",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        985,
+        611,
+        1122,
+        670
+      ],
+      "text": "BOOK",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0151.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8432690972222222,
+  "ocr_added": 5,
+  "ocr_filled": 3
+}

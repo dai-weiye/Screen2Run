@@ -1,0 +1,841 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        940,
+        8,
+        961,
+        41
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1074,
+        8,
+        1095,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1105,
+        8,
+        1189,
+        41
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        16,
+        95,
+        32
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        510,
+        115,
+        688,
+        185
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Sign Up",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        536,
+        1167,
+        1792
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        84,
+        580,
+        407,
+        620
+      ],
+      "text": "Set Date of Birth",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        762,
+        699,
+        932,
+        732
+      ],
+      "text": "June 1999",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        684,
+        765,
+        887,
+        793
+      ],
+      "text": "SMTW",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        924,
+        765,
+        946,
+        793
+      ],
+      "text": "T",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        985,
+        765,
+        1066,
+        790
+      ],
+      "text": "FS",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        120,
+        812,
+        195,
+        854
+      ],
+      "text": "May",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        290,
+        809,
+        335,
+        851
+      ],
+      "text": "01",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        427,
+        807,
+        519,
+        854
+      ],
+      "text": "1998",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        614,
+        834,
+        653,
+        865
+      ],
+      "text": "23",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        675,
+        837,
+        723,
+        862
+      ],
+      "text": "30",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        726,
+        837,
+        770,
+        862
+      ],
+      "text": "31",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        809,
+        837,
+        823,
+        860
+      ],
+      "text": "1",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        865,
+        837,
+        887,
+        862
+      ],
+      "text": "2",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        929,
+        837,
+        946,
+        860
+      ],
+      "text": "3",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        988,
+        837,
+        1010,
+        862
+      ],
+      "text": "4",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        1055,
+        837,
+        1069,
+        860
+      ],
+      "text": "5",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        123,
+        935,
+        190,
+        968
+      ],
+      "text": "Jun",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        290,
+        929,
+        340,
+        971
+      ],
+      "text": "02",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        430,
+        929,
+        519,
+        974
+      ],
+      "text": "1999",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        614,
+        901,
+        656,
+        935
+      ],
+      "text": "24",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        684,
+        907,
+        703,
+        932
+      ],
+      "text": "6",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        748,
+        907,
+        765,
+        929
+      ],
+      "text": "7",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        807,
+        907,
+        826,
+        932
+      ],
+      "text": "8",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        868,
+        907,
+        885,
+        929
+      ],
+      "text": "9",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        918,
+        907,
+        966,
+        929
+      ],
+      "text": "10",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        974,
+        907,
+        1024,
+        929
+      ],
+      "text": "11",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        1035,
+        907,
+        1077,
+        932
+      ],
+      "text": "12",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        614,
+        971,
+        653,
+        1002
+      ],
+      "text": "25",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        675,
+        974,
+        709,
+        1002
+      ],
+      "text": "13",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        737,
+        974,
+        784,
+        1002
+      ],
+      "text": "14",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        787,
+        974,
+        834,
+        999
+      ],
+      "text": "15",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        857,
+        974,
+        896,
+        1002
+      ],
+      "text": "16",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        918,
+        974,
+        1030,
+        999
+      ],
+      "text": "17 18",
+      "source": "ocr"
+    },
+    {
+      "id": 46,
+      "kind": "text",
+      "bounds": [
+        1035,
+        974,
+        1077,
+        1002
+      ],
+      "text": "19",
+      "source": "ocr"
+    },
+    {
+      "id": 47,
+      "kind": "text",
+      "bounds": [
+        128,
+        1052,
+        187,
+        1086
+      ],
+      "text": "Jul",
+      "source": "ocr"
+    },
+    {
+      "id": 48,
+      "kind": "text",
+      "bounds": [
+        290,
+        1052,
+        338,
+        1091
+      ],
+      "text": "03",
+      "source": "ocr"
+    },
+    {
+      "id": 49,
+      "kind": "text",
+      "bounds": [
+        430,
+        1049,
+        519,
+        1094
+      ],
+      "text": "2000",
+      "source": "ocr"
+    },
+    {
+      "id": 50,
+      "kind": "text",
+      "bounds": [
+        608,
+        1038,
+        656,
+        1077
+      ],
+      "text": "26",
+      "source": "ocr"
+    },
+    {
+      "id": 51,
+      "kind": "text",
+      "bounds": [
+        673,
+        1044,
+        714,
+        1072
+      ],
+      "text": "20",
+      "source": "ocr"
+    },
+    {
+      "id": 52,
+      "kind": "text",
+      "bounds": [
+        726,
+        1044,
+        776,
+        1072
+      ],
+      "text": "21",
+      "source": "ocr"
+    },
+    {
+      "id": 53,
+      "kind": "text",
+      "bounds": [
+        795,
+        1044,
+        851,
+        1069
+      ],
+      "text": "22",
+      "source": "ocr"
+    },
+    {
+      "id": 54,
+      "kind": "text",
+      "bounds": [
+        857,
+        1044,
+        893,
+        1072
+      ],
+      "text": "23",
+      "source": "ocr"
+    },
+    {
+      "id": 55,
+      "kind": "text",
+      "bounds": [
+        918,
+        1043,
+        1077,
+        1072
+      ],
+      "text": "24 25 26",
+      "source": "ocr"
+    },
+    {
+      "id": 56,
+      "kind": "text",
+      "bounds": [
+        608,
+        1108,
+        656,
+        1147
+      ],
+      "text": "27",
+      "source": "ocr"
+    },
+    {
+      "id": 57,
+      "kind": "text",
+      "bounds": [
+        673,
+        1111,
+        714,
+        1141
+      ],
+      "text": "27",
+      "source": "ocr"
+    },
+    {
+      "id": 58,
+      "kind": "text",
+      "bounds": [
+        731,
+        1113,
+        893,
+        1139
+      ],
+      "text": "28 29 30",
+      "source": "ocr"
+    },
+    {
+      "id": 59,
+      "kind": "text",
+      "bounds": [
+        929,
+        1113,
+        946,
+        1136
+      ],
+      "text": "1",
+      "source": "ocr"
+    },
+    {
+      "id": 60,
+      "kind": "text",
+      "bounds": [
+        977,
+        1113,
+        1027,
+        1136
+      ],
+      "text": "2",
+      "source": "ocr"
+    },
+    {
+      "id": 61,
+      "kind": "text",
+      "bounds": [
+        1035,
+        1113,
+        1069,
+        1139
+      ],
+      "text": "3",
+      "source": "ocr"
+    },
+    {
+      "id": 62,
+      "kind": "text",
+      "bounds": [
+        611,
+        1180,
+        723,
+        1208
+      ],
+      "text": "28 4",
+      "source": "ocr"
+    },
+    {
+      "id": 63,
+      "kind": "text",
+      "bounds": [
+        734,
+        1180,
+        790,
+        1206
+      ],
+      "text": "5",
+      "source": "ocr"
+    },
+    {
+      "id": 64,
+      "kind": "text",
+      "bounds": [
+        793,
+        1180,
+        826,
+        1206
+      ],
+      "text": "6",
+      "source": "ocr"
+    },
+    {
+      "id": 65,
+      "kind": "text",
+      "bounds": [
+        564,
+        1273,
+        633,
+        1300
+      ],
+      "text": "Done",
+      "source": "ocr"
+    },
+    {
+      "id": 66,
+      "kind": "text",
+      "bounds": [
+        70,
+        1358,
+        182,
+        1385
+      ],
+      "text": "Password",
+      "source": "ocr"
+    },
+    {
+      "id": 67,
+      "kind": "text",
+      "bounds": [
+        73,
+        1482,
+        564,
+        1507
+      ],
+      "text": "Password must be at least 6 characters long.",
+      "source": "ocr"
+    },
+    {
+      "id": 68,
+      "kind": "text",
+      "bounds": [
+        382,
+        1557,
+        818,
+        1585
+      ],
+      "text": "By joining MapMyFitness you are agreeing to our",
+      "source": "ocr"
+    },
+    {
+      "id": 69,
+      "kind": "text",
+      "bounds": [
+        449,
+        1593,
+        751,
+        1624
+      ],
+      "text": "Privacy Policy & Terms of Use",
+      "source": "ocr"
+    },
+    {
+      "id": 70,
+      "kind": "text",
+      "bounds": [
+        544,
+        1693,
+        656,
+        1728
+      ],
+      "text": "SIGN UP",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0051.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6313506944444445,
+  "ocr_added": 58,
+  "ocr_filled": 1
+}

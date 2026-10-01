@@ -1,0 +1,443 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        13,
+        112,
+        58
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        201,
+        14,
+        246,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        334,
+        14,
+        379,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        141,
+        16,
+        176,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        269,
+        18,
+        312,
+        54
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        26,
+        1008,
+        48
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        115,
+        78,
+        179
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        117,
+        118,
+        251,
+        176
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Back",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        86,
+        341,
+        389,
+        378
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "PURE ROCK",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        92,
+        487,
+        985,
+        1775
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        285,
+        519,
+        720,
+        564
+      ],
+      "text": "\"Answer The Phone\"",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        290,
+        586,
+        561,
+        611
+      ],
+      "text": "HOOBASTANK",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        259,
+        766,
+        349,
+        805
+      ],
+      "text": "00:00",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        823,
+        762,
+        915,
+        809
+      ],
+      "text": "00:00",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        128,
+        890,
+        832,
+        940
+      ],
+      "text": "1. \"Answer The Phone\" - HOOBA...",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        848,
+        895,
+        955,
+        944
+      ],
+      "text": "3:34",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        128,
+        981,
+        837,
+        1033
+      ],
+      "text": "2. \"Wish You Were Here\" - INCUBUS",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        846,
+        991,
+        954,
+        1033
+      ],
+      "text": "3:35",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        131,
+        1072,
+        684,
+        1125
+      ],
+      "text": "3. \"In the End\" - LINKIN PARK",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        857,
+        1083,
+        954,
+        1133
+      ],
+      "text": "3:38",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        128,
+        1169,
+        444,
+        1217
+      ],
+      "text": "4. \"Nothing\" - A",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        856,
+        1174,
+        955,
+        1223
+      ],
+      "text": "3:45",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        131,
+        1261,
+        832,
+        1309
+      ],
+      "text": "5. \"How You Remind Me\" - NICKEL...",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        857,
+        1267,
+        952,
+        1312
+      ],
+      "text": "3:45",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        131,
+        1353,
+        583,
+        1401
+      ],
+      "text": "6. \"Forever\" - KID ROCK",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        862,
+        1361,
+        955,
+        1405
+      ],
+      "text": "3:47",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        128,
+        1446,
+        698,
+        1493
+      ],
+      "text": "7. \"The Hindo Times\" - OASIS",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        859,
+        1453,
+        952,
+        1496
+      ],
+      "text": "3:48",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        131,
+        1535,
+        952,
+        1588
+      ],
+      "text": "8. \"Truth Is a Whisper\" - GOO GOO... 4:00",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        131,
+        1630,
+        829,
+        1677
+      ],
+      "text": "9. \"It's Goin' Down\" - X-ECUTIONER...",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        876,
+        1638,
+        954,
+        1674
+      ],
+      "text": "4:11",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        128,
+        1722,
+        818,
+        1772
+      ],
+      "text": "10. \"It's Been Awhile (clean versio...",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        860,
+        1730,
+        952,
+        1767
+      ],
+      "text": "4:28",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.slowrock.collection.top.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5750718557098765,
+  "ocr_added": 23,
+  "ocr_filled": 2
+}

@@ -1,0 +1,261 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        938,
+        6,
+        1027,
+        42
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1103,
+        6,
+        1192,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        66,
+        8,
+        100,
+        42
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1074,
+        8,
+        1095,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        114,
+        10,
+        148,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        26,
+        94,
+        237,
+        142
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Languages",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1109,
+        96,
+        1144,
+        130
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        47,
+        216,
+        353,
+        264
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Select Language",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        62,
+        295,
+        104,
+        338
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        59,
+        297,
+        249,
+        530
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "\u2022 English",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        62,
+        551,
+        104,
+        594
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        208,
+        562,
+        221,
+        584
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        116,
+        567,
+        131,
+        590
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        131,
+        567,
+        174,
+        590
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        177,
+        568,
+        190,
+        584
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        192,
+        568,
+        205,
+        584
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        56,
+        611,
+        229,
+        852
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "\u2022 Fran\u00e7ais",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        1708,
+        1159,
+        1780
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0104.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.09442057291666667,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

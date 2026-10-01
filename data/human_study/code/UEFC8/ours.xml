@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="411.4dp"
+        android:layout_height="639.9dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="0.0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <FrameLayout
+            android:id="@+id/view_3"
+            android:layout_width="411.4dp"
+            android:layout_height="116.8dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="19.5dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <ImageView
+                android:id="@+id/view_4"
+                android:layout_width="41.9dp"
+                android:layout_height="19.1dp"
+                android:src="@drawable/img_1"
+                android:contentDescription="FtpUU"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="9.0dp"
+                android:layout_marginLeft="9.0dp"
+                android:layout_marginTop="95.3dp"
+                android:scaleType="fitXY" />
+
+            <Switch
+                android:id="@+id/view_5"
+                android:layout_width="46.0dp"
+                android:layout_height="25.1dp"
+                android:checked="false"
+                android:showText="false"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="41.3dp"
+                android:layout_marginLeft="41.3dp"
+                android:layout_marginTop="91.7dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_6"
+            android:layout_width="411.4dp"
+            android:layout_height="118.0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="69.2dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <Switch
+                android:id="@+id/view_7"
+                android:layout_width="38.1dp"
+                android:layout_height="26.8dp"
+                android:checked="false"
+                android:showText="false"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="44.3dp"
+                android:layout_marginLeft="44.3dp"
+                android:layout_marginTop="91.2dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp" />
+
+            <TextView
+                android:id="@+id/view_8"
+                android:layout_width="35.4dp"
+                android:layout_height="19.5dp"
+                android:text="Kljgf"
+                android:textColor="#080808"
+                android:textSize="15.6sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="10.0dp"
+                android:layout_marginLeft="10.0dp"
+                android:layout_marginTop="94.9dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.6sp"
+                android:autoSizeMaxTextSize="15.6sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_9"
+            android:layout_width="411.4dp"
+            android:layout_height="115.4dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="122.7dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <CheckBox
+                android:id="@+id/view_10"
+                android:layout_width="87.2dp"
+                android:layout_height="19.8dp"
+                android:buttonTint="#000000"
+                android:text="Obpfh"
+                android:textColor="#070707"
+                android:textSize="14.9sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="17.3dp"
+                android:layout_marginLeft="17.3dp"
+                android:layout_marginTop="95.5dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_11"
+            android:layout_width="411.4dp"
+            android:layout_height="117.6dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="175.9dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <Switch
+                android:id="@+id/view_12"
+                android:layout_width="38.1dp"
+                android:layout_height="26.4dp"
+                android:checked="false"
+                android:showText="false"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="53.2dp"
+                android:layout_marginLeft="53.2dp"
+                android:layout_marginTop="91.2dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp" />
+
+            <TextView
+                android:id="@+id/view_13"
+                android:layout_width="45.2dp"
+                android:layout_height="19.3dp"
+                android:text="Znuzy"
+                android:textColor="#080808"
+                android:textSize="15.5sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="10.0dp"
+                android:layout_marginLeft="10.0dp"
+                android:layout_marginTop="94.8dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.5sp"
+                android:autoSizeMaxTextSize="15.5sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_14"
+            android:layout_width="411.4dp"
+            android:layout_height="116.1dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="227.7dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <Switch
+                android:id="@+id/view_15"
+                android:layout_width="58.6dp"
+                android:layout_height="24.5dp"
+                android:checked="false"
+                android:showText="false"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="40.7dp"
+                android:layout_marginLeft="40.7dp"
+                android:layout_marginTop="91.6dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp" />
+
+            <TextView
+                android:id="@+id/view_16"
+                android:layout_width="52.5dp"
+                android:layout_height="18.0dp"
+                android:text="Medkm"
+                android:textColor="#0A0A0A"
+                android:textSize="14.4sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="10.0dp"
+                android:layout_marginLeft="10.0dp"
+                android:layout_marginTop="94.4dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="7.9sp"
+                android:autoSizeMaxTextSize="14.4sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_17"
+            android:layout_width="411.4dp"
+            android:layout_height="114.1dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="0.0dp"
+            android:layout_marginLeft="0.0dp"
+            android:layout_marginTop="279.2dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <CheckBox
+                android:id="@+id/view_18"
+                android:layout_width="88.6dp"
+                android:layout_height="20.0dp"
+                android:buttonTint="#000000"
+                android:text="Wsbtk"
+                android:textColor="#000000"
+                android:textSize="15.0sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="17.3dp"
+                android:layout_marginLeft="17.3dp"
+                android:layout_marginTop="94.2dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_19"
+        android:layout_width="411.4dp"
+        android:layout_height="85.6dp"
+        android:background="@drawable/shape_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="-3.7dp"
+        android:layout_marginLeft="-3.7dp"
+        android:layout_marginTop="0.0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_20"
+            android:layout_width="117.9dp"
+            android:layout_height="26.1dp"
+            android:gravity="center_vertical|start"
+            android:text="android_gui"
+            android:textColor="#FFFFFF"
+            android:textSize="21.2sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="20.0dp"
+            android:layout_marginLeft="20.0dp"
+            android:layout_marginTop="44.0dp"
+            android:fontFamily="sans-serif-medium"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="11.7sp"
+            android:autoSizeMaxTextSize="21.2sp"
+            android:autoSizeStepGranularity="1px" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="26.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#303F9F" />
+</FrameLayout>

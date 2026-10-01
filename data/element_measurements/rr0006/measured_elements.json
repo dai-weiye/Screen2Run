@@ -1,0 +1,747 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1060,
+        6,
+        1190,
+        41
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        65,
+        7,
+        101,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        118,
+        9,
+        143,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        43,
+        80,
+        1155,
+        184
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        360,
+        255,
+        570,
+        463
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        95,
+        257,
+        312,
+        460
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        899,
+        262,
+        952,
+        317
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        262,
+        1021,
+        317
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        624,
+        263,
+        837,
+        463
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1033,
+        263,
+        1093,
+        318
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        899,
+        331,
+        952,
+        389
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        331,
+        1021,
+        385
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        331,
+        1079,
+        385
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        398,
+        1021,
+        453
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1037,
+        398,
+        1090,
+        453
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        899,
+        399,
+        952,
+        453
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        91,
+        490,
+        315,
+        630
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "for Emoji",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        355,
+        490,
+        578,
+        630
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Middle",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        620,
+        491,
+        833,
+        630
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Love Emoji",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        883,
+        491,
+        1106,
+        629
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "New Emoji",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        303,
+        504,
+        310,
+        520
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        567,
+        504,
+        573,
+        520
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        831,
+        504,
+        838,
+        520
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1095,
+        504,
+        1102,
+        520
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        820,
+        606,
+        839,
+        625
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        682,
+        576,
+        899
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        100,
+        687,
+        305,
+        897
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        628,
+        687,
+        830,
+        895
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        893,
+        694,
+        1099,
+        885
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        355,
+        922,
+        578,
+        1062
+      ],
+      "id": 33,
+      "kind": "text",
+      "text": "Cute Smiley",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        92,
+        923,
+        316,
+        1062
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Poo Emoji",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        619,
+        923,
+        843,
+        1061
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "Cute Beer Gif",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        883,
+        923,
+        1107,
+        1062
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "Free",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        303,
+        927,
+        309,
+        952
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        567,
+        927,
+        573,
+        952
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        831,
+        927,
+        838,
+        942
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1095,
+        927,
+        1101,
+        942
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        1114,
+        575,
+        1331
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        95,
+        1129,
+        311,
+        1330
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        641,
+        1130,
+        822,
+        1314
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        907,
+        1138,
+        1089,
+        1311
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        92,
+        1355,
+        315,
+        1494
+      ],
+      "id": 45,
+      "kind": "text",
+      "text": "Pink Love",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        355,
+        1355,
+        578,
+        1494
+      ],
+      "id": 46,
+      "kind": "text",
+      "text": "Cute Emoji",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        618,
+        1355,
+        843,
+        1494
+      ],
+      "id": 47,
+      "kind": "text",
+      "text": "Summer",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        884,
+        1355,
+        1107,
+        1494
+      ],
+      "id": 48,
+      "kind": "text",
+      "text": "Surprise",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        303,
+        1359,
+        309,
+        1384
+      ],
+      "id": 49,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        567,
+        1359,
+        573,
+        1384
+      ],
+      "id": 50,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        831,
+        1359,
+        838,
+        1384
+      ],
+      "id": 51,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1095,
+        1368,
+        1102,
+        1384
+      ],
+      "id": 52,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        95,
+        1546,
+        311,
+        1763
+      ],
+      "id": 53,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        624,
+        1558,
+        838,
+        1763
+      ],
+      "id": 54,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        887,
+        1559,
+        1103,
+        1762
+      ],
+      "id": 55,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        398,
+        1561,
+        545,
+        1593
+      ],
+      "id": 56,
+      "kind": "text",
+      "text": "Let'sparty",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        378,
+        1599,
+        454,
+        1746
+      ],
+      "id": 57,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        463,
+        1617,
+        567,
+        1742
+      ],
+      "id": 58,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        90,
+        1785,
+        181,
+        1823
+      ],
+      "id": 59,
+      "kind": "text",
+      "text": "Happy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        357,
+        1787,
+        522,
+        1818
+      ],
+      "id": 60,
+      "kind": "text",
+      "text": "Party Sticker",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        621,
+        1788,
+        745,
+        1816
+      ],
+      "id": 61,
+      "kind": "text",
+      "text": "Free Cute",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        886,
+        1788,
+        1053,
+        1815
+      ],
+      "id": 62,
+      "kind": "text",
+      "text": "Sticker Heart :",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        303,
+        1791,
+        309,
+        1816
+      ],
+      "id": 63,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        567,
+        1791,
+        573,
+        1816
+      ],
+      "id": 64,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        831,
+        1791,
+        838,
+        1816
+      ],
+      "id": 65,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1095,
+        1791,
+        1101,
+        1816
+      ],
+      "id": 66,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 67,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 68,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 69,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0006.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5072903645833333,
+  "ocr_added": 0,
+  "ocr_filled": 17
+}

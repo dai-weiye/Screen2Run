@@ -1,0 +1,129 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        795,
+        572,
+        879,
+        649
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        319,
+        573,
+        434,
+        692
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        602,
+        612,
+        695,
+        653
+      ],
+      "id": 2,
+      "kind": "text",
+      "text": "Enter",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        724,
+        1147,
+        818
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        880,
+        417,
+        924
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Do you want to exit ?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        51,
+        987,
+        1147,
+        1097
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        339,
+        1144,
+        435,
+        1240
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        614,
+        1171,
+        684,
+        1214
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Exit",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0168.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.12229079861111111,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

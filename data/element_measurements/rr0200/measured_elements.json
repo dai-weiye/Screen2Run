@@ -1,0 +1,139 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        3,
+        159,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1087,
+        5,
+        1191,
+        44
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        155,
+        92,
+        355,
+        141
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "< Book a trip",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1116,
+        95,
+        1154,
+        133
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        354,
+        228,
+        844,
+        275
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "No internet connection",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        176,
+        347,
+        1022,
+        390
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Please check your network connection and try again.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0200.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.03944357638888889,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

@@ -1,0 +1,175 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        311,
+        0,
+        859,
+        112
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        29,
+        30,
+        45,
+        46
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1120,
+        37,
+        1150,
+        89
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1016,
+        42,
+        1062,
+        86
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        925,
+        43,
+        961,
+        85
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        79,
+        392,
+        1119,
+        1432
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "id": 9,
+      "kind": "text",
+      "bounds": [
+        717,
+        619,
+        809,
+        651
+      ],
+      "text": "Brush",
+      "source": "ocr"
+    },
+    {
+      "id": 10,
+      "kind": "text",
+      "bounds": [
+        717,
+        703,
+        804,
+        734
+      ],
+      "text": "Blend",
+      "source": "ocr"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        717,
+        790,
+        801,
+        818
+      ],
+      "text": "Erase",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        717,
+        868,
+        784,
+        901
+      ],
+      "text": "Size",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        717,
+        951,
+        801,
+        983
+      ],
+      "text": "Color",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        717,
+        1035,
+        832,
+        1072
+      ],
+      "text": "Opacity",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0048.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5015711805555556,
+  "ocr_added": 6,
+  "ocr_filled": 0
+}

@@ -1,0 +1,725 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        64,
+        6,
+        150,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1086,
+        6,
+        1190,
+        44
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        21,
+        7,
+        50,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        344,
+        73,
+        856,
+        124
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Drug Dictionary (Medical)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        174,
+        49,
+        179
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        174,
+        81,
+        179
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        743,
+        174,
+        761,
+        179
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        763,
+        174,
+        781,
+        179
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        174,
+        799,
+        179
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        174,
+        839,
+        179
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        841,
+        174,
+        869,
+        179
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        871,
+        174,
+        891,
+        179
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1041,
+        174,
+        1061,
+        179
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1163,
+        174,
+        1199,
+        179
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        9,
+        184,
+        1190,
+        254
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        9,
+        267,
+        79,
+        368
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1142,
+        267,
+        1190,
+        368
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        84,
+        294,
+        210,
+        345
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        25,
+        390,
+        79,
+        450
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        87,
+        396,
+        378,
+        448
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Abilify (Generic)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        401,
+        1168,
+        439
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        491,
+        79,
+        551
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        85,
+        497,
+        277,
+        550
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        502,
+        1168,
+        540
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        592,
+        79,
+        652
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        599,
+        412,
+        651
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "Accupril (Generic)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        603,
+        1168,
+        641
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        693,
+        79,
+        753
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        700,
+        434,
+        751
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "Accutane (Generic)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        704,
+        1168,
+        742
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        794,
+        79,
+        854
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        801,
+        379,
+        853
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "Aceon (Generic)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        805,
+        1168,
+        843
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        895,
+        79,
+        955
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        87,
+        904,
+        547,
+        952
+      ],
+      "id": 38,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        906,
+        1168,
+        944
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        996,
+        79,
+        1056
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        87,
+        1003,
+        408,
+        1054
+      ],
+      "id": 41,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        1007,
+        1168,
+        1045
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1097,
+        79,
+        1157
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        1104,
+        369,
+        1155
+      ],
+      "id": 44,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        1108,
+        1168,
+        1146
+      ],
+      "id": 45,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1198,
+        79,
+        1258
+      ],
+      "id": 46,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        85,
+        1204,
+        260,
+        1258
+      ],
+      "id": 47,
+      "kind": "text",
+      "text": "Acyclovir",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        1209,
+        1168,
+        1247
+      ],
+      "id": 48,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1299,
+        79,
+        1359
+      ],
+      "id": 49,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        1306,
+        381,
+        1357
+      ],
+      "id": 50,
+      "kind": "text",
+      "text": "Adalat (Generic)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        1310,
+        1168,
+        1348
+      ],
+      "id": 51,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1400,
+        79,
+        1460
+      ],
+      "id": 52,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        85,
+        1405,
+        577,
+        1458
+      ],
+      "id": 53,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        1411,
+        1168,
+        1449
+      ],
+      "id": 54,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1501,
+        79,
+        1561
+      ],
+      "id": 55,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        1507,
+        258,
+        1556
+      ],
+      "id": 56,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        1512,
+        1168,
+        1550
+      ],
+      "id": 57,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1602,
+        79,
+        1662
+      ],
+      "id": 58,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        1609,
+        445,
+        1660
+      ],
+      "id": 59,
+      "kind": "text",
+      "text": "Aldactone (Generic)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        1613,
+        1168,
+        1651
+      ],
+      "id": 60,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1703,
+        79,
+        1763
+      ],
+      "id": 61,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        1707,
+        385,
+        1761
+      ],
+      "id": 62,
+      "kind": "text",
+      "text": "Alesse (Generic)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1142,
+        1714,
+        1168,
+        1752
+      ],
+      "id": 63,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        9,
+        1785,
+        1189,
+        1823
+      ],
+      "id": 64,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 65,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 66,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 67,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0228.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.20521006944444445,
+  "ocr_added": 0,
+  "ocr_filled": 16
+}

@@ -1,0 +1,231 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        13,
+        106,
+        59
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        267,
+        13,
+        313,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        335,
+        14,
+        379,
+        57
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        180,
+        57
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        206,
+        18,
+        243,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        43,
+        138,
+        115,
+        197
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        41,
+        271,
+        389,
+        328
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Get Started",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        40,
+        396,
+        477,
+        514
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Country",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        459,
+        102,
+        513
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        460,
+        133,
+        513
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        997,
+        476,
+        1034,
+        497
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        42,
+        623,
+        313,
+        657
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Mobile Number",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        859,
+        1034,
+        1012
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        510,
+        1083,
+        568,
+        1123
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "or",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        42,
+        1200,
+        1034,
+        1350
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        42,
+        1395,
+        1034,
+        1545
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        42,
+        1590,
+        1034,
+        1740
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 20,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.dukaan.app.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3396682098765432,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

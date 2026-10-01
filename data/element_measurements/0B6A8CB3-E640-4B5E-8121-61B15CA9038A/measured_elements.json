@@ -1,0 +1,213 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        687,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        192,
+        170,
+        261
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        184,
+        193,
+        326,
+        256
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        349,
+        205,
+        464,
+        247
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        510,
+        205,
+        619,
+        247
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        485,
+        209,
+        559,
+        238
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Jctoh",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        302,
+        85,
+        335
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Wjles",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        550,
+        303,
+        631,
+        332
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Rlmwz",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        105,
+        309,
+        528,
+        332
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        378,
+        138,
+        422
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "\u2022 Hiolh",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        438,
+        1026,
+        467,
+        1062
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        596,
+        1026,
+        626,
+        1062
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        170,
+        1027,
+        185,
+        1046
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        188,
+        1027,
+        203,
+        1039
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        188,
+        1042,
+        203,
+        1061
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        170,
+        1049,
+        185,
+        1061
+      ],
+      "id": 18,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/0B6A8CB3-E640-4B5E-8121-61B15CA9038A.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.08723782873288416,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

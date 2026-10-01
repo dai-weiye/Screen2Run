@@ -1,0 +1,421 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        2,
+        113,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1115,
+        7,
+        1185,
+        41
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1092,
+        8,
+        1113,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        10,
+        143,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        156,
+        93,
+        457,
+        137
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Help & feedback",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        88,
+        130
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        161,
+        243,
+        1038,
+        294
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "What would you like to file feedback for?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        15,
+        356,
+        23,
+        438
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1176,
+        356,
+        1183,
+        438
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        96,
+        375,
+        257,
+        409
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Chromecast",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        377,
+        80,
+        417
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        468,
+        23,
+        550
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1176,
+        468,
+        1183,
+        550
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        97,
+        488,
+        320,
+        519
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Chromecast Ultra",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        489,
+        80,
+        529
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        580,
+        23,
+        662
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1176,
+        580,
+        1183,
+        662
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        97,
+        599,
+        333,
+        630
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Chromecast Audio",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        601,
+        80,
+        641
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        692,
+        23,
+        774
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1176,
+        692,
+        1183,
+        774
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        96,
+        712,
+        274,
+        746
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Google Home",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        713,
+        80,
+        753
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        804,
+        23,
+        886
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1176,
+        804,
+        1183,
+        886
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        97,
+        823,
+        456,
+        856
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Chromecast built-in speaker",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        825,
+        80,
+        865
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        916,
+        23,
+        998
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1176,
+        916,
+        1183,
+        998
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        97,
+        936,
+        394,
+        967
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "Chromecast built-in TV",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        937,
+        80,
+        977
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        1028,
+        23,
+        1110
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1176,
+        1028,
+        1183,
+        1110
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        95,
+        1047,
+        328,
+        1083
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Google Home app",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        39,
+        1049,
+        80,
+        1089
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 38,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0015.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.06539756944444444,
+  "ocr_added": 0,
+  "ocr_filled": 9
+}

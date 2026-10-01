@@ -1,0 +1,159 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        5,
+        146,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1072,
+        9,
+        1189,
+        41
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        344,
+        64,
+        855,
+        90
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "Call Us : 803-575-2135 or 803-220-3700 (Espanol)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        205,
+        119,
+        330,
+        227
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1017,
+        142,
+        1109,
+        234
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        85,
+        230,
+        468,
+        269
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "USEDMOBILEHOMES",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        356,
+        409,
+        813,
+        810
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        321,
+        812,
+        867,
+        908
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "UsedMobileHomes123.com",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        89,
+        963,
+        1109,
+        1552
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        90,
+        1592,
+        1109,
+        1823
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0166.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4944392361111111,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

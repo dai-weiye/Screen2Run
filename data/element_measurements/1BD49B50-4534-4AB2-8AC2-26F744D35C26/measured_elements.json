@@ -1,0 +1,129 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        687,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        74,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        10,
+        183,
+        88,
+        226
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Ozdip",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        69,
+        186,
+        147,
+        228
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        65,
+        275,
+        150,
+        311
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Rhcch",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        29,
+        279,
+        62,
+        312
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        171,
+        1026,
+        201,
+        1062
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        435,
+        1027,
+        471,
+        1059
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        592,
+        1027,
+        629,
+        1059
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/1BD49B50-4534-4AB2-8AC2-26F744D35C26.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.03548005868289502,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

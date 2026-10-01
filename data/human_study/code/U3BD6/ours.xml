@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8F8"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="423.5dp"
+        android:layout_height="86.4dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="-3.0dp"
+        android:layout_marginLeft="-3.0dp"
+        android:layout_marginTop="0.0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_3"
+            android:layout_width="117.9dp"
+            android:layout_height="26.1dp"
+            android:text="android_gui"
+            android:textColor="#FFFFFF"
+            android:textSize="21.2sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="19.2dp"
+            android:layout_marginLeft="19.2dp"
+            android:layout_marginTop="44.0dp"
+            android:fontFamily="sans-serif-medium"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="11.7sp"
+            android:autoSizeMaxTextSize="21.2sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_4"
+        android:layout_width="423.5dp"
+        android:layout_height="508.2dp"
+        android:background="@drawable/shape_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="-3.0dp"
+        android:layout_marginLeft="-3.0dp"
+        android:layout_marginTop="86.4dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <FrameLayout
+            android:id="@+id/view_5"
+            android:layout_width="81.6dp"
+            android:layout_height="29.9dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="14.3dp"
+            android:layout_marginLeft="14.3dp"
+            android:layout_marginTop="24.6dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <CheckBox
+                android:id="@+id/view_6"
+                android:layout_width="19.7dp"
+                android:layout_height="19.7dp"
+                android:buttonTint="#000000"
+                android:checked="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="6.0dp"
+                android:layout_marginLeft="6.0dp"
+                android:layout_marginTop="5.0dp" />
+
+            <TextView
+                android:id="@+id/view_7"
+                android:layout_width="48.2dp"
+                android:layout_height="18.1dp"
+                android:text="Dswdq"
+                android:textColor="#000000"
+                android:textSize="14.4sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="33.4dp"
+                android:layout_marginLeft="33.4dp"
+                android:layout_marginTop="5.9dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="7.9sp"
+                android:autoSizeMaxTextSize="14.4sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_8"
+            android:layout_width="296.3dp"
+            android:layout_height="41.3dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="11.9dp"
+            android:layout_marginLeft="11.9dp"
+            android:layout_marginTop="84.0dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <ImageView
+                android:id="@+id/view_9"
+                android:layout_width="50.8dp"
+                android:layout_height="17.3dp"
+                android:src="@drawable/img_1"
+                android:contentDescription="Hxwvo"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="11.4dp"
+                android:scaleType="fitXY" />
+
+            <Switch
+                android:id="@+id/view_10"
+                android:layout_width="47.2dp"
+                android:layout_height="24.5dp"
+                android:checked="false"
+                android:minHeight="0dp"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="38.3dp"
+                android:layout_marginLeft="38.3dp"
+                android:layout_marginTop="9.0dp"
+                android:minWidth="0dp" />
+
+            <Button
+                android:id="@+id/view_11"
+                android:layout_width="88.5dp"
+                android:layout_height="41.3dp"
+                android:background="@drawable/shape_3"
+                android:text="TPIVB"
+                android:textColor="#1C1C1C"
+                android:textSize="15.2sp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="103.5dp"
+                android:layout_marginLeft="103.5dp"
+                android:layout_marginTop="0.0dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.4sp"
+                android:autoSizeMaxTextSize="15.2sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp"
+                android:gravity="center"
+                android:stateListAnimator="@null" />
+
+            <Button
+                android:id="@+id/view_12"
+                android:layout_width="88.5dp"
+                android:layout_height="41.3dp"
+                android:background="@drawable/shape_3"
+                android:text="XADLP"
+                android:textColor="#1C1C1C"
+                android:textSize="15.0sp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="197.9dp"
+                android:layout_marginLeft="197.9dp"
+                android:layout_marginTop="0.0dp"
+                android:fontFamily="sans-serif-medium"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.2sp"
+                android:autoSizeMaxTextSize="15.0sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp"
+                android:gravity="center"
+                android:stateListAnimator="@null" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_13"
+            android:layout_width="75.0dp"
+            android:layout_height="28.7dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="15.4dp"
+            android:layout_marginLeft="15.4dp"
+            android:layout_marginTop="155.1dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <RadioButton
+                android:id="@+id/view_14"
+                android:layout_width="22.7dp"
+                android:layout_height="22.7dp"
+                android:buttonTint="#000000"
+                android:checked="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="3.7dp"
+                android:layout_marginLeft="3.7dp"
+                android:layout_marginTop="2.4dp" />
+
+            <TextView
+                android:id="@+id/view_15"
+                android:layout_width="43.3dp"
+                android:layout_height="18.4dp"
+                android:text="Trwyc"
+                android:textColor="#070707"
+                android:textSize="14.7sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="31.7dp"
+                android:layout_marginLeft="31.7dp"
+                android:layout_marginTop="4.3dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.1sp"
+                android:autoSizeMaxTextSize="14.7sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_16"
+            android:layout_width="77.5dp"
+            android:layout_height="33.0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="13.7dp"
+            android:layout_marginLeft="13.7dp"
+            android:layout_marginTop="204.6dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <CheckBox
+                android:id="@+id/view_17"
+                android:layout_width="19.7dp"
+                android:layout_height="19.7dp"
+                android:buttonTint="#000000"
+                android:checked="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="6.6dp"
+                android:layout_marginLeft="6.6dp"
+                android:layout_marginTop="10.4dp" />
+
+            <TextView
+                android:id="@+id/view_18"
+                android:layout_width="72.2dp"
+                android:layout_height="31.6dp"
+                android:text="Uefhy"
+                android:textColor="#000000"
+                android:textSize="25.9sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="5.3dp"
+                android:layout_marginLeft="5.3dp"
+                android:layout_marginTop="0.0dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="14.3sp"
+                android:autoSizeMaxTextSize="25.9sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_19"
+            android:layout_width="189.7dp"
+            android:layout_height="25.6dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="13.0dp"
+            android:layout_marginLeft="13.0dp"
+            android:layout_marginTop="266.4dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <Switch
+                android:id="@+id/view_20"
+                android:layout_width="46.6dp"
+                android:layout_height="24.5dp"
+                android:checked="false"
+                android:minHeight="0dp"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="44.4dp"
+                android:layout_marginLeft="44.4dp"
+                android:layout_marginTop="0.0dp"
+                android:minWidth="0dp" />
+
+            <TextView
+                android:id="@+id/view_21"
+                android:layout_width="57.5dp"
+                android:layout_height="19.1dp"
+                android:text="Wqbmp"
+                android:textColor="#090909"
+                android:textSize="15.3sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="1.8dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.4sp"
+                android:autoSizeMaxTextSize="15.3sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+
+            <Switch
+                android:id="@+id/view_22"
+                android:layout_width="46.6dp"
+                android:layout_height="24.5dp"
+                android:checked="false"
+                android:minHeight="0dp"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="141.3dp"
+                android:layout_marginLeft="141.3dp"
+                android:layout_marginTop="0.0dp"
+                android:minWidth="0dp" />
+
+            <TextView
+                android:id="@+id/view_23"
+                android:layout_width="47.7dp"
+                android:layout_height="18.8dp"
+                android:text="Mfuaq"
+                android:textColor="#000000"
+                android:textSize="15.1sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="106.5dp"
+                android:layout_marginLeft="106.5dp"
+                android:layout_marginTop="2.0dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.3sp"
+                android:autoSizeMaxTextSize="15.1sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_24"
+            android:layout_width="367.9dp"
+            android:layout_height="19.8dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="12.5dp"
+            android:layout_marginLeft="12.5dp"
+            android:layout_marginTop="312.9dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <SeekBar
+                android:id="@+id/view_25"
+                android:layout_width="265.5dp"
+                android:layout_height="15.6dp"
+                android:max="100"
+                android:progress="50"
+                android:progressTint="#E91E63"
+                android:thumbTint="#E91E63"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="38.4dp"
+                android:layout_marginLeft="38.4dp"
+                android:layout_marginTop="2.2dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp" />
+
+            <TextView
+                android:id="@+id/view_26"
+                android:layout_width="39.7dp"
+                android:layout_height="19.5dp"
+                android:text="Sevrf"
+                android:textColor="#252525"
+                android:textSize="15.2sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.4dp"
+                android:layout_marginLeft="0.4dp"
+                android:layout_marginTop="0.0dp"
+                android:fontFamily="sans-serif-medium"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.4sp"
+                android:autoSizeMaxTextSize="15.2sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+
+            <TextView
+                android:id="@+id/view_27"
+                android:layout_width="45.2dp"
+                android:layout_height="18.7dp"
+                android:text="Dnywr"
+                android:textColor="#212121"
+                android:textSize="14.8sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="322.8dp"
+                android:layout_marginLeft="322.8dp"
+                android:layout_marginTop="1.1dp"
+                android:fontFamily="sans-serif-medium"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.1sp"
+                android:autoSizeMaxTextSize="14.8sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/view_28"
+            android:layout_width="356.8dp"
+            android:layout_height="47.9dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="16.5dp"
+            android:layout_marginLeft="16.5dp"
+            android:layout_marginTop="360.9dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <Button
+                android:id="@+id/view_29"
+                android:layout_width="87.9dp"
+                android:layout_height="41.3dp"
+                android:background="@drawable/shape_3"
+                android:text="DRENM"
+                android:textColor="#1C1C1C"
+                android:textSize="14.6sp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.2dp"
+                android:layout_marginLeft="0.2dp"
+                android:layout_marginTop="0.0dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.0sp"
+                android:autoSizeMaxTextSize="14.6sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp"
+                android:gravity="center"
+                android:stateListAnimator="@null" />
+
+            <Button
+                android:id="@+id/view_30"
+                android:layout_width="84.9dp"
+                android:layout_height="37.7dp"
+                android:background="@drawable/shape_3"
+                android:text="RUTXG"
+                android:textColor="#1C1C1C"
+                android:textSize="14.6sp"
+                android:backgroundTint="@null"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="96.5dp"
+                android:layout_marginLeft="96.5dp"
+                android:layout_marginTop="0.6dp"
+                android:fontFamily="sans-serif-medium"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.0sp"
+                android:autoSizeMaxTextSize="14.6sp"
+                android:autoSizeStepGranularity="1px"
+                android:padding="0dp"
+                android:gravity="center"
+                android:stateListAnimator="@null" />
+
+            <Switch
+                android:id="@+id/view_31"
+                android:layout_width="50.8dp"
+                android:layout_height="24.5dp"
+                android:checked="false"
+                android:minHeight="0dp"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="207.2dp"
+                android:layout_marginLeft="207.2dp"
+                android:layout_marginTop="8.4dp"
+                android:minWidth="0dp" />
+
+            <TextView
+                android:id="@+id/view_32"
+                android:layout_width="38.5dp"
+                android:layout_height="19.6dp"
+                android:text="Ynjiq"
+                android:textColor="#000000"
+                android:textSize="15.7sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="184.8dp"
+                android:layout_marginLeft="184.8dp"
+                android:layout_marginTop="9.6dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.6sp"
+                android:autoSizeMaxTextSize="15.7sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+
+            <Switch
+                android:id="@+id/view_33"
+                android:layout_width="62.2dp"
+                android:layout_height="24.5dp"
+                android:checked="false"
+                android:minHeight="0dp"
+                android:thumbTint="#FFFFFF"
+                android:trackTint="#E0E0E0"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="291.5dp"
+                android:layout_marginLeft="291.5dp"
+                android:layout_marginTop="8.4dp"
+                android:minWidth="0dp" />
+
+            <TextView
+                android:id="@+id/view_34"
+                android:layout_width="48.4dp"
+                android:layout_height="19.9dp"
+                android:text="Tbmxj"
+                android:textColor="#000000"
+                android:textSize="15.9sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="272.1dp"
+                android:layout_marginLeft="272.1dp"
+                android:layout_marginTop="9.4dp"
+                android:fontFamily="sans-serif"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="8.8sp"
+                android:autoSizeMaxTextSize="15.9sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_35"
+        android:layout_width="423.5dp"
+        android:layout_height="45.3dp"
+        android:background="@drawable/shape_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="-3.0dp"
+        android:layout_marginLeft="-3.0dp"
+        android:layout_marginTop="594.6dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_36"
+            android:layout_width="17.9dp"
+            android:layout_height="21.5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_2"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="105.2dp"
+            android:layout_marginLeft="105.2dp"
+            android:layout_marginTop="19.0dp" />
+
+        <ImageView
+            android:id="@+id/view_37"
+            android:layout_width="19.7dp"
+            android:layout_height="21.5dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_3"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="263.7dp"
+            android:layout_marginLeft="263.7dp"
+            android:layout_marginTop="19.0dp" />
+
+        <ImageView
+            android:id="@+id/view_38"
+            android:layout_width="18.4dp"
+            android:layout_height="26.6dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_4"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="362.6dp"
+            android:layout_marginLeft="362.6dp"
+            android:layout_marginTop="16.6dp" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="26.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#303F9F" />
+</FrameLayout>

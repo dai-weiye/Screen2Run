@@ -1,0 +1,515 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        12,
+        12,
+        174,
+        176
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        198,
+        40,
+        895,
+        147
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "Water Your Body",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1041,
+        62,
+        1188,
+        115
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        957,
+        196,
+        1037,
+        276
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1049,
+        196,
+        1175,
+        276
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        31,
+        212,
+        77,
+        263
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1162,
+        524,
+        1199,
+        590
+      ],
+      "id": 6,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        0,
+        526,
+        902,
+        1243
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        902,
+        526,
+        1123,
+        1242
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1144,
+        693,
+        1170,
+        771
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1149,
+        777,
+        1164,
+        833
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1144,
+        840,
+        1164,
+        878
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1149,
+        883,
+        1170,
+        943
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1177,
+        905,
+        1199,
+        978
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1149,
+        950,
+        1164,
+        989
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1184,
+        992,
+        1199,
+        1036
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1149,
+        995,
+        1167,
+        1056
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1184,
+        1040,
+        1199,
+        1052
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1144,
+        1062,
+        1170,
+        1150
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1184,
+        1069,
+        1199,
+        1149
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1126,
+        1171,
+        1199,
+        1243
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1088,
+        1487,
+        1150,
+        1551
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        122,
+        1615,
+        167,
+        1660
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        349,
+        1615,
+        395,
+        1660
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        1616,
+        1076,
+        1661
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        809,
+        1621,
+        819,
+        1631
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1624,
+        604,
+        1634
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        578,
+        1642,
+        588,
+        1652
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        592,
+        1645,
+        620,
+        1649
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        833,
+        1645,
+        843,
+        1655
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        997,
+        1715,
+        1002,
+        1769
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        574,
+        1719,
+        629,
+        1766
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        177,
+        1720,
+        222,
+        1765
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        976,
+        1723,
+        994,
+        1764
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1005,
+        1723,
+        1022,
+        1764
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        178,
+        1773,
+        221,
+        1798
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "Crop",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        555,
+        1781,
+        645,
+        1798
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "ROTATE+90",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        949,
+        1781,
+        1051,
+        1798
+      ],
+      "id": 37,
+      "kind": "text",
+      "text": "HORIZONTAL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        413,
+        527,
+        776,
+        547
+      ],
+      "text": "Drinking water can make you more healthy.",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        466,
+        578,
+        516,
+        594
+      ],
+      "text": "listant",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        848,
+        575,
+        879,
+        589
+      ],
+      "text": "Next",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        134,
+        862,
+        151,
+        901
+      ],
+      "text": "CLOb",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        33,
+        901,
+        50,
+        924
+      ],
+      "text": "3:5",
+      "source": "ocr"
+    },
+    {
+      "id": 46,
+      "kind": "text",
+      "bounds": [
+        589,
+        932,
+        611,
+        946
+      ],
+      "text": "\u202200",
+      "source": "ocr"
+    },
+    {
+      "id": 47,
+      "kind": "text",
+      "bounds": [
+        656,
+        993,
+        740,
+        1007
+      ],
+      "text": "vho8 woY 19t6W",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0017.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4259908854166667,
+  "ocr_added": 7,
+  "ocr_filled": 4
+}

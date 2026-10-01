@@ -1,0 +1,253 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        228,
+        13,
+        272,
+        57
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        22,
+        14,
+        135,
+        58
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        959,
+        14,
+        1024,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1030,
+        15,
+        1056,
+        57
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        16,
+        201,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        729,
+        121,
+        1040,
+        196
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "ASDetect",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        47,
+        136,
+        109,
+        145
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        47,
+        149,
+        111,
+        162
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        47,
+        164,
+        111,
+        176
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        54,
+        296,
+        1037,
+        1775
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        244,
+        1824,
+        287,
+        1872
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1824,
+        833,
+        1872
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1826,
+        560,
+        1871
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        102,
+        1143,
+        852,
+        1190
+      ],
+      "text": "Thank you for using ASDetect. This",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        105,
+        1201,
+        941,
+        1248
+      ],
+      "text": "evidence-based application is designed",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        102,
+        1258,
+        818,
+        1309
+      ],
+      "text": "to assess early signs of autism in",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        102,
+        1320,
+        818,
+        1367
+      ],
+      "text": "children aged between 11 and 30",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        105,
+        1378,
+        283,
+        1428
+      ],
+      "text": "months.",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        102,
+        1520,
+        880,
+        1571
+      ],
+      "text": "After answering the questions about",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        102,
+        1582,
+        832,
+        1633
+      ],
+      "text": "your child, you'll receive a result of",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        95,
+        1633,
+        822,
+        1684
+      ],
+      "text": "'LOWER' or 'HIGHER' likelihood of",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        104,
+        1697,
+        270,
+        1746
+      ],
+      "text": "autism.",
+      "source": "ocr"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/au.edu.latrobe.asdetect.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5927033871478316,
+  "ocr_added": 9,
+  "ocr_filled": 1
+}

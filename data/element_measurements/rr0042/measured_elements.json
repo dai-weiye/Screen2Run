@@ -1,0 +1,303 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1087,
+        4,
+        1192,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        22,
+        9,
+        47,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        11,
+        145,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        58,
+        1185,
+        158
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        160,
+        1199,
+        1823
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        820,
+        198,
+        921,
+        229
+      ],
+      "text": "About",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        86,
+        894,
+        291,
+        939
+      ],
+      "text": "Turkey Calls",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        360,
+        901,
+        558,
+        932
+      ],
+      "text": "Instructions",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        647,
+        898,
+        823,
+        932
+      ],
+      "text": "Duck Calls",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        924,
+        901,
+        1089,
+        933
+      ],
+      "text": "Deer Calls",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        89,
+        949,
+        287,
+        980
+      ],
+      "text": "Soundboard",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        639,
+        948,
+        832,
+        986
+      ],
+      "text": "Google Play",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        912,
+        948,
+        1105,
+        986
+      ],
+      "text": "Google Play",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        647,
+        1021,
+        818,
+        1153
+      ],
+      "text": "APEX",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        86,
+        1180,
+        293,
+        1220
+      ],
+      "text": "Coyote Calls",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        391,
+        1180,
+        533,
+        1214
+      ],
+      "text": "Elk Calls",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        607,
+        1178,
+        863,
+        1224
+      ],
+      "text": "More Ringtones",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        92,
+        1227,
+        288,
+        1271
+      ],
+      "text": "Google Play",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        366,
+        1228,
+        561,
+        1270
+      ],
+      "text": "Google Play",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        639,
+        1227,
+        835,
+        1270
+      ],
+      "text": "Google Play",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0042.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.9225946180555555,
+  "ocr_added": 15,
+  "ocr_filled": 0
+}

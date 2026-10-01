@@ -1,0 +1,223 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        349,
+        12,
+        412,
+        55
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        19,
+        13,
+        216,
+        57
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        294,
+        13,
+        337,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1032,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        227,
+        21,
+        270,
+        51
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        969,
+        26,
+        1008,
+        48
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        441,
+        30,
+        453,
+        42
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        206,
+        124,
+        919,
+        202
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "< Beginner Challenge, Day 2",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        132,
+        106,
+        180
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        970,
+        294,
+        1031,
+        354
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        859,
+        306,
+        914,
+        342
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        364,
+        480,
+        712,
+        936
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        42,
+        1007,
+        1036,
+        1775
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        323,
+        1025,
+        751,
+        1096
+      ],
+      "text": "Triangle Right",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        480,
+        1113,
+        600,
+        1161
+      ],
+      "text": "Next",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        497,
+        1423,
+        580,
+        1485
+      ],
+      "text": "13",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        402,
+        1712,
+        681,
+        1771
+      ],
+      "text": "Prepare for",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.homefit.yoga.health.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.486216724537037,
+  "ocr_added": 4,
+  "ocr_filled": 1
+}

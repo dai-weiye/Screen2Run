@@ -1,0 +1,505 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        2,
+        162,
+        47
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1088,
+        6,
+        1190,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        124,
+        94,
+        444,
+        138
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "< Manage Versions",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        967,
+        95,
+        1078,
+        131
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1117,
+        96,
+        1152,
+        131
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        225,
+        189,
+        259
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "ALL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        384,
+        228,
+        573,
+        255
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "DOWNLOADED",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        60,
+        363,
+        162,
+        392
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Albanian",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        59,
+        435,
+        208,
+        477
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Albanian",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        438,
+        1106,
+        475
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        58,
+        568,
+        138,
+        600
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Arabic",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        61,
+        644,
+        517,
+        685
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "New Arabic (Ketab El Hayat)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        644,
+        1106,
+        681
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        59,
+        751,
+        217,
+        797
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Van Dyke",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        754,
+        1106,
+        791
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        60,
+        886,
+        171,
+        914
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Armenian",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        62,
+        960,
+        615,
+        1001
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Zwjtntu (wptr\u00fauwhwytntu) NT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        960,
+        1106,
+        997
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        1088,
+        148,
+        1122
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Awadhi",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        62,
+        1163,
+        338,
+        1204
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "3raeit, Awadhi NT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1166,
+        1106,
+        1203
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        59,
+        1297,
+        188,
+        1328
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "Azerbaijani",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        61,
+        1371,
+        236,
+        1413
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "M\u00fcqaddas",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1372,
+        1106,
+        1409
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        834,
+        1479,
+        847,
+        1511
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        621,
+        1482,
+        671,
+        1523
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        728,
+        1482,
+        777,
+        1520
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        782,
+        1482,
+        800,
+        1520
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        891,
+        1482,
+        931,
+        1511
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1069,
+        1482,
+        1106,
+        1519
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        819,
+        1485,
+        834,
+        1511
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        985,
+        1486,
+        1038,
+        1511
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        674,
+        1493,
+        689,
+        1511
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        857,
+        1493,
+        886,
+        1520
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        800,
+        1496,
+        816,
+        1520
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        943,
+        1496,
+        982,
+        1523
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        702,
+        1502,
+        723,
+        1523
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        60,
+        1613,
+        149,
+        1645
+      ],
+      "id": 40,
+      "kind": "text",
+      "text": "Basque",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        60,
+        1687,
+        271,
+        1729
+      ],
+      "id": 41,
+      "kind": "text",
+      "text": "Basque 1571",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1069,
+        1688,
+        1106,
+        1725
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 45,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0039.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.07362890625,
+  "ocr_added": 0,
+  "ocr_filled": 16
+}

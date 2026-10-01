@@ -1,0 +1,367 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        267,
+        13,
+        313,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        333,
+        13,
+        379,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        17,
+        14,
+        109,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        201,
+        14,
+        247,
+        58
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        180,
+        57
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        967,
+        16,
+        1005,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        914,
+        26,
+        954,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        128,
+        205,
+        311,
+        386
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        863,
+        238,
+        948,
+        352
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        759,
+        239,
+        790,
+        352
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        344,
+        243,
+        432,
+        353
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        576,
+        243,
+        651,
+        352
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        659,
+        245,
+        755,
+        352
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        793,
+        268,
+        855,
+        353
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        436,
+        273,
+        505,
+        353
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        508,
+        273,
+        573,
+        353
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        445,
+        1079,
+        520
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        583,
+        574,
+        935,
+        695
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        142,
+        772,
+        594,
+        815
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "Enter Mobile Number",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        141,
+        874,
+        935,
+        1011
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        141,
+        1059,
+        935,
+        1179
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        153,
+        1211,
+        922,
+        1291
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "You must be an Indian citizen, NRI or OCI to use",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        196,
+        1400,
+        250,
+        1458
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        288,
+        1409,
+        787,
+        1453
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "Trusted by 200,000+ users",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        86,
+        1523,
+        393,
+        1657
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "3SE",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        855,
+        1532,
+        998,
+        1664
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "5Bi",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        432,
+        1544,
+        521,
+        1648
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        549,
+        1566,
+        821,
+        1624
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "Association of",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        169,
+        1704,
+        908,
+        1746
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "AMFI registered mutual fund distributor",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 33,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.cashrich.cashrich.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.31907793209876545,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

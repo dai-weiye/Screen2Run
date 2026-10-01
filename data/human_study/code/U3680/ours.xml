@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4083F7"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="180.0dp"
+        android:layout_height="127.2dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="115.2dp"
+        android:layout_marginLeft="115.2dp"
+        android:layout_marginTop="148.5dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_3"
+            android:layout_width="36.5dp"
+            android:layout_height="38.7dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_1"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="72.7dp"
+            android:layout_marginLeft="72.7dp"
+            android:layout_marginTop="20.5dp" />
+
+        <FrameLayout
+            android:layout_width="143.2dp"
+            android:layout_height="24.4dp"
+            android:background="#FEFEFE"
+            android:id="@+id/view_4"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="19.1dp"
+            android:layout_marginLeft="19.1dp"
+            android:layout_marginTop="63.5dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <EditText
+                android:id="@+id/view_5"
+                android:layout_width="140.9dp"
+                android:layout_height="32.4dp"
+                android:background="@drawable/shape_2"
+                android:cursorVisible="false"
+                android:focusable="false"
+                android:fontFamily="Roboto"
+                android:gravity="center_vertical|start"
+                android:inputType="none"
+                android:letterSpacing="0.4"
+                android:text="5 7 8 9 6 9"
+                android:textColor="#465B65"
+                android:textSize="18.0sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="2.6dp"
+                android:layout_marginLeft="2.6dp"
+                android:layout_marginTop="-8.9dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="9.9sp"
+                android:autoSizeMaxTextSize="18.0sp"
+                android:autoSizeStepGranularity="1px"
+                android:paddingStart="6.4dp"
+                android:paddingLeft="6.4dp"
+                android:paddingTop="0dp"
+                android:paddingBottom="0dp"
+                android:paddingEnd="0dp" />
+        </FrameLayout>
+
+        <Button
+            android:id="@+id/view_6"
+            android:layout_width="142.1dp"
+            android:layout_height="23.2dp"
+            android:background="@drawable/shape_3"
+            android:enabled="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:padding="0dp"
+            android:text=""
+            android:backgroundTint="@null"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="19.3dp"
+            android:layout_marginLeft="19.3dp"
+            android:layout_marginTop="97.2dp" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/view_7"
+        android:layout_width="164.4dp"
+        android:layout_height="19.7dp"
+        android:fontFamily="Roboto"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Your Security Matters"
+        android:textColor="#FFFFFF"
+        android:textSize="16.3sp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="125.7dp"
+        android:layout_marginLeft="125.7dp"
+        android:layout_marginTop="294.9dp"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:maxLines="1"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="8.9sp"
+        android:autoSizeMaxTextSize="16.3sp"
+        android:autoSizeStepGranularity="1px" />
+
+    <TextView
+        android:id="@+id/view_8"
+        android:layout_width="291.3dp"
+        android:layout_height="29.2dp"
+        android:fontFamily="Roboto"
+        android:text="During sign in, you can tell us not to ask for a code again on that computer."
+        android:textColor="#FFFFFF"
+        android:textSize="9.5sp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="54.4dp"
+        android:layout_marginLeft="54.4dp"
+        android:layout_marginTop="326.4dp"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:lineSpacingExtra="3.9dp"
+        android:gravity="top|start" />
+
+    <TextView
+        android:id="@+id/view_9"
+        android:layout_width="303.9dp"
+        android:layout_height="30.0dp"
+        android:fontFamily="Roboto"
+        android:text="You'll still be covered because we'll ask for codes when you (or anyone else) tries to sign in to your account from other computers."
+        android:textColor="#FFFFFF"
+        android:textSize="9.6sp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="54.0dp"
+        android:layout_marginLeft="54.0dp"
+        android:layout_marginTop="366.9dp"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:lineSpacingExtra="2.8dp"
+        android:gravity="top|start" />
+
+    <FrameLayout
+        android:id="@+id/view_10"
+        android:layout_width="411.4dp"
+        android:layout_height="43.9dp"
+        android:background="#4285F4"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="581.5dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <Button
+            android:id="@+id/view_11"
+            android:layout_width="25.0dp"
+            android:layout_height="12.1dp"
+            android:background="@drawable/shape_4"
+            android:fontFamily="Roboto"
+            android:gravity="center"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:text="SKIP"
+            android:textColor="#FFFFFF"
+            android:textSize="11.0sp"
+            android:backgroundTint="@null"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="14.9dp"
+            android:layout_marginLeft="14.9dp"
+            android:layout_marginTop="16.2dp"
+            android:includeFontPadding="false"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="6.1sp"
+            android:autoSizeMaxTextSize="11.0sp"
+            android:autoSizeStepGranularity="1px"
+            android:padding="0dp"
+            android:stateListAnimator="@null" />
+
+        <FrameLayout
+            android:layout_width="32.3dp"
+            android:layout_height="3.6dp"
+            android:id="@+id/view_12"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="192.3dp"
+            android:layout_marginLeft="192.3dp"
+            android:layout_marginTop="21.3dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <View
+                android:id="@+id/view_13"
+                android:layout_width="5.4dp"
+                android:layout_height="3.6dp"
+                android:background="@drawable/shape_5"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="0.0dp" />
+
+            <View
+                android:id="@+id/view_14"
+                android:layout_width="5.4dp"
+                android:layout_height="3.6dp"
+                android:background="@drawable/shape_6"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="13.4dp"
+                android:layout_marginLeft="13.4dp"
+                android:layout_marginTop="0.0dp" />
+
+            <View
+                android:id="@+id/view_15"
+                android:layout_width="5.4dp"
+                android:layout_height="3.6dp"
+                android:background="@drawable/shape_5"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="26.9dp"
+                android:layout_marginLeft="26.9dp"
+                android:layout_marginTop="0.0dp" />
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/view_16"
+            android:layout_width="5.1dp"
+            android:layout_height="8.2dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_2"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="386.7dp"
+            android:layout_marginLeft="386.7dp"
+            android:layout_marginTop="17.8dp" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="17.1dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#000000" />
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="32.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="625.4dp"
+        android:background="#000000" />
+</FrameLayout>

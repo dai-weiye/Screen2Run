@@ -1,0 +1,76 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        484,
+        32,
+        717,
+        80
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "Photo Editor",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        17,
+        36,
+        57,
+        76
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "id": 5,
+      "kind": "component",
+      "bounds": [
+        0,
+        1822,
+        1200,
+        1920
+      ],
+      "source": "ink"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0146.png",
+  "width": 1200,
+  "ink_added": 1,
+  "ink_sparse": true,
+  "ink_coverage": 0.008713541666666666,
+  "ocr_added": 0,
+  "ocr_filled": 1
+}

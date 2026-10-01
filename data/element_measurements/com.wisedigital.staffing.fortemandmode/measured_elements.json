@@ -1,0 +1,241 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        159,
+        9,
+        207,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        225,
+        9,
+        272,
+        61
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        289,
+        9,
+        343,
+        64
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        20,
+        14,
+        135,
+        58
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        960,
+        24,
+        1015,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        25,
+        407,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        440,
+        25,
+        454,
+        47
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        192,
+        909,
+        367
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        369,
+        355,
+        568
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        711,
+        384,
+        959,
+        568
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        360,
+        392,
+        705,
+        568
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        404,
+        636,
+        673,
+        701
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Staff Login",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        85,
+        777,
+        983,
+        819
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "EKtemps is now Fortem & Mode. Please log in with your",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        87,
+        830,
+        990,
+        1046
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1077,
+        986,
+        1208
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        736,
+        1286,
+        991,
+        1320
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Forgot password?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        90,
+        1380,
+        987,
+        1496
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        240,
+        1557,
+        838,
+        1600
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Not yet registered with us? Click here",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        242,
+        1824,
+        287,
+        1872
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1825,
+        560,
+        1871
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        784,
+        1825,
+        833,
+        1872
+      ],
+      "id": 21,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.wisedigital.staffing.fortemandmode.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3171925451092118,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="411.4dp"
+        android:layout_height="658.3dp"
+        android:background="#2E8CC9"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="0.0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_3"
+            android:layout_width="280.7dp"
+            android:layout_height="72.7dp"
+            android:src="@drawable/img_1"
+            android:contentDescription="magicApp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="65.7dp"
+            android:layout_marginLeft="65.7dp"
+            android:layout_marginTop="24.2dp"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/view_4"
+            android:layout_width="318.9dp"
+            android:layout_height="29.5dp"
+            android:includeFontPadding="false"
+            android:gravity="center_vertical|center_horizontal"
+            android:fontFamily="sans-serif"
+            android:text="Make a FREE call right NOW"
+            android:textColor="#FFFFFF"
+            android:textSize="24.6sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="50.9dp"
+            android:layout_marginLeft="50.9dp"
+            android:layout_marginTop="97.8dp"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="13.5sp"
+            android:autoSizeMaxTextSize="24.6sp"
+            android:autoSizeStepGranularity="1px" />
+
+        <FrameLayout
+            android:id="@+id/view_5"
+            android:layout_width="336.0dp"
+            android:layout_height="85.7dp"
+            android:background="@drawable/shape_1"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="37.4dp"
+            android:layout_marginLeft="37.4dp"
+            android:layout_marginTop="146.1dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <EditText
+                android:id="@+id/view_6"
+                android:layout_width="327.3dp"
+                android:layout_height="37.3dp"
+                android:background="#00000000"
+                android:gravity="center_vertical|start"
+                android:hint="Email Address"
+                android:inputType="textEmailAddress"
+                android:fontFamily="sans-serif"
+                android:textColor="#A9A9A9"
+                android:textColorHint="#9E9E9E"
+                android:textSize="12.8sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="4.3dp"
+                android:layout_marginLeft="4.3dp"
+                android:layout_marginTop="2.3dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="7.1sp"
+                android:autoSizeMaxTextSize="12.8sp"
+                android:autoSizeStepGranularity="1px"
+                android:paddingStart="12.2dp"
+                android:paddingLeft="12.2dp"
+                android:paddingTop="0dp"
+                android:paddingBottom="0dp"
+                android:paddingEnd="0dp" />
+
+            <View
+                android:layout_width="327.3dp"
+                android:layout_height="1.2dp"
+                android:background="#E0E0E0"
+                android:id="@+id/view_7"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.0dp"
+                android:layout_marginLeft="0.0dp"
+                android:layout_marginTop="37.3dp" />
+
+            <EditText
+                android:id="@+id/view_8"
+                android:layout_width="327.3dp"
+                android:layout_height="44.9dp"
+                android:background="#00000000"
+                android:gravity="center_vertical|start"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:fontFamily="sans-serif"
+                android:textColor="#A9A9A9"
+                android:textColorHint="#9E9E9E"
+                android:textSize="12.7sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="4.3dp"
+                android:layout_marginLeft="4.3dp"
+                android:layout_marginTop="41.7dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="7.0sp"
+                android:autoSizeMaxTextSize="12.7sp"
+                android:autoSizeStepGranularity="1px"
+                android:paddingStart="12.2dp"
+                android:paddingLeft="12.2dp"
+                android:paddingTop="0dp"
+                android:paddingBottom="0dp"
+                android:paddingEnd="0dp" />
+        </FrameLayout>
+
+        <Button
+            android:id="@+id/view_9"
+            android:layout_width="336.0dp"
+            android:layout_height="38.4dp"
+            android:background="@drawable/shape_2"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:fontFamily="sans-serif"
+            android:text="Log In"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:textSize="13.1sp"
+            android:backgroundTint="@null"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="37.4dp"
+            android:layout_marginLeft="37.4dp"
+            android:layout_marginTop="242.1dp"
+            android:includeFontPadding="false"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="7.2sp"
+            android:autoSizeMaxTextSize="13.1sp"
+            android:autoSizeStepGranularity="1px"
+            android:padding="0dp"
+            android:stateListAnimator="@null" />
+
+        <FrameLayout
+            android:id="@+id/view_10"
+            android:layout_width="200.7dp"
+            android:layout_height="17.0dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="40.2dp"
+            android:layout_marginLeft="40.2dp"
+            android:layout_marginTop="289.8dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <TextView
+                android:id="@+id/view_11"
+                android:layout_width="199.4dp"
+                android:layout_height="15.5dp"
+                android:includeFontPadding="false"
+                android:fontFamily="sans-serif"
+                android:text="Did you lose your password? Click "
+                android:textColor="#FFFFFF"
+                android:textSize="12.6sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="1.3dp"
+                android:layout_marginLeft="1.3dp"
+                android:layout_marginTop="0.0dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6.9sp"
+                android:autoSizeMaxTextSize="12.6sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+
+            <TextView
+                android:id="@+id/view_12"
+                android:layout_width="24.0dp"
+                android:layout_height="13.5dp"
+                android:includeFontPadding="false"
+                android:fontFamily="sans-serif"
+                android:text="here"
+                android:textColor="#FFFF00"
+                android:textSize="11.0sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="171.5dp"
+                android:layout_marginLeft="171.5dp"
+                android:layout_marginTop="3.5dp"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="6.0sp"
+                android:autoSizeMaxTextSize="11.0sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="17.1dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#000000" />
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="32.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="625.4dp"
+        android:background="#000000" />
+</FrameLayout>

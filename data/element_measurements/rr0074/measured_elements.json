@@ -1,0 +1,239 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        504,
+        22,
+        695,
+        69
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        19,
+        25,
+        39,
+        63
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1084,
+        188,
+        1199,
+        304
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        309,
+        404,
+        401
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "1 YEAR",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        883,
+        310,
+        927,
+        400
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        936,
+        320,
+        980,
+        391
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1015,
+        320,
+        1059,
+        391
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1069,
+        320,
+        1113,
+        391
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        993,
+        380,
+        1003,
+        390
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        76,
+        483,
+        418,
+        552
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Total $39.99",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        836,
+        484,
+        1125,
+        560
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "per month",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        641,
+        1199,
+        684
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        34,
+        751,
+        1167,
+        911
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Please sign up before you upgrade",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        983,
+        1199,
+        1183
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        868,
+        1470,
+        1129,
+        1593
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "$6.99",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        84,
+        1489,
+        503,
+        1583
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "1 MONTH",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        74,
+        1662,
+        385,
+        1733
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Total $6.99",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        837,
+        1666,
+        1125,
+        1739
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "per month",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0074.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3065581597222222,
+  "ocr_added": 0,
+  "ocr_filled": 8
+}

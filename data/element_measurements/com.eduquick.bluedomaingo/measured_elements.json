@@ -1,0 +1,229 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        13,
+        113,
+        57
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        203,
+        15,
+        242,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        144,
+        24,
+        174,
+        53
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        962,
+        24,
+        986,
+        49
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        26,
+        952,
+        48
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        431,
+        262,
+        646,
+        542
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        27,
+        616,
+        1049,
+        1231
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        1391,
+        722,
+        1429
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "JOIN WITH LINK",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        59,
+        1539,
+        1019,
+        1634
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Have a meeting link? Simply enter the class without",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        292,
+        1866
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        145,
+        689,
+        427,
+        740
+      ],
+      "text": "Join Class",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        148,
+        767,
+        614,
+        809
+      ],
+      "text": "Enter link to join class",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        117,
+        932,
+        184,
+        963
+      ],
+      "text": "link",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        123,
+        982,
+        530,
+        1030
+      ],
+      "text": "dummy_user_input",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        572,
+        1130,
+        754,
+        1167
+      ],
+      "text": "CANCEL",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        812,
+        1129,
+        927,
+        1168
+      ],
+      "text": "JOIN",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.eduquick.bluedomaingo.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3903096064814815,
+  "ocr_added": 6,
+  "ocr_filled": 2
+}

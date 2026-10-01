@@ -1,0 +1,505 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        135,
+        10,
+        183,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        13,
+        114,
+        58
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1030,
+        15,
+        1056,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        577,
+        104,
+        655,
+        177
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        105,
+        1039,
+        179
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        719,
+        112,
+        784,
+        176
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        838,
+        112,
+        919,
+        176
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        47,
+        114,
+        103,
+        174
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        28,
+        216,
+        349,
+        292
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Miami (OH)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        348,
+        353,
+        460,
+        404
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Stats",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        584,
+        354,
+        816,
+        406
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Player Stats",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        45,
+        355,
+        224,
+        401
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Schedule",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        903,
+        356,
+        1080,
+        406
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Standing",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        33,
+        467,
+        332,
+        561
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Regular Season",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        711,
+        527,
+        891,
+        598
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Sun Oct 29",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        79,
+        528,
+        96,
+        532
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        98,
+        528,
+        111,
+        532
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        536,
+        26,
+        626
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        63,
+        536,
+        110,
+        568
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        684,
+        536,
+        692,
+        608
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1055,
+        536,
+        1063,
+        626
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        654,
+        30,
+        837
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1047,
+        654,
+        1063,
+        838
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        685,
+        672,
+        694,
+        819
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        710,
+        678,
+        881,
+        811
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "Win 19-0",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        53,
+        719,
+        287,
+        774
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "vs Akron",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        15,
+        864,
+        31,
+        1049
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1048,
+        864,
+        1063,
+        1049
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        685,
+        882,
+        693,
+        1030
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        709,
+        890,
+        901,
+        1021
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "Win 23-10",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        52,
+        928,
+        321,
+        986
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "vs Buffalo",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1075,
+        1079,
+        1755
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        239,
+        1824,
+        287,
+        1872
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        511,
+        1824,
+        567,
+        1872
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1824,
+        839,
+        1872
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        61,
+        1153,
+        122,
+        1207
+      ],
+      "text": "@",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        129,
+        1144,
+        377,
+        1196
+      ],
+      "text": "Ball State",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        710,
+        1105,
+        853,
+        1144
+      ],
+      "text": "1:00 AM",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        710,
+        1153,
+        853,
+        1187
+      ],
+      "text": "Week 13",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        710,
+        1200,
+        900,
+        1235
+      ],
+      "text": "Sun Nov 26",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        82,
+        1326,
+        567,
+        1371
+      ],
+      "text": "Updates are unavailable.",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        82,
+        1425,
+        907,
+        1473
+      ],
+      "text": "There may be a problem with the server or",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        82,
+        1473,
+        781,
+        1517
+      ],
+      "text": "network. Please check your internet",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        82,
+        1520,
+        581,
+        1568
+      ],
+      "text": "connection and try again.",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        815,
+        1648,
+        992,
+        1685
+      ],
+      "text": "Dismiss",
+      "source": "ocr"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.sports.schedules.football.ncaa.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.38275838873061097,
+  "ocr_added": 10,
+  "ocr_filled": 11
+}

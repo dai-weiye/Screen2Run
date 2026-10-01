@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#65310F"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <ImageView
+        android:id="@+id/view_2"
+        android:layout_width="195.8dp"
+        android:layout_height="85.4dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/img_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="17.8dp"
+        android:layout_marginLeft="17.8dp"
+        android:layout_marginTop="37.4dp" />
+
+    <ImageView
+        android:id="@+id/view_3"
+        android:layout_width="1.0dp"
+        android:layout_height="33.3dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/img_2"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="410.5dp"
+        android:layout_marginLeft="410.5dp"
+        android:layout_marginTop="19.8dp" />
+
+    <FrameLayout
+        android:id="@+id/view_4"
+        android:layout_width="246.5dp"
+        android:layout_height="153.9dp"
+        android:background="@drawable/img_3"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="87.9dp"
+        android:layout_marginLeft="87.9dp"
+        android:layout_marginTop="212.1dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_5"
+            android:layout_width="185.6dp"
+            android:layout_height="24.3dp"
+            android:fontFamily="sans-serif"
+            android:text="Create New Collage"
+            android:textColor="#666666"
+            android:textSize="20.1sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="7.5dp"
+            android:layout_marginLeft="7.5dp"
+            android:layout_marginTop="13.6dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="11.1sp"
+            android:autoSizeMaxTextSize="20.1sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+
+        <View
+            android:layout_width="231.7dp"
+            android:layout_height="1.1dp"
+            android:background="#D0D0D0"
+            android:id="@+id/view_6"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="8.5dp"
+            android:layout_marginLeft="8.5dp"
+            android:layout_marginTop="42.5dp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_7"
+        android:layout_width="322.0dp"
+        android:layout_height="79.1dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="50.9dp"
+        android:layout_marginLeft="50.9dp"
+        android:layout_marginTop="271.1dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_8"
+            android:layout_width="70.8dp"
+            android:layout_height="14.9dp"
+            android:fontFamily="sans-serif"
+            android:text="Buy Stickers"
+            android:textColor="#F3F3F3"
+            android:textSize="12.1sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="12.2dp"
+            android:layout_marginLeft="12.2dp"
+            android:layout_marginTop="11.0dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="6.6sp"
+            android:autoSizeMaxTextSize="12.1sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+
+        <Button
+            android:id="@+id/view_9"
+            android:layout_width="39.6dp"
+            android:layout_height="19.0dp"
+            android:background="@drawable/shape_2"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:text="Cancel"
+            android:textAllCaps="false"
+            android:textColor="#F3F3F3"
+            android:textSize="9.3sp"
+            android:backgroundTint="@null"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="57.7dp"
+            android:layout_marginLeft="57.7dp"
+            android:layout_marginTop="51.8dp"
+            android:fontFamily="sans-serif"
+            android:includeFontPadding="false"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.1sp"
+            android:autoSizeMaxTextSize="9.3sp"
+            android:autoSizeStepGranularity="1px"
+            android:padding="0dp"
+            android:stateListAnimator="@null" />
+
+        <Button
+            android:id="@+id/view_10"
+            android:layout_width="161.4dp"
+            android:layout_height="40.0dp"
+            android:background="@drawable/shape_2"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:text="Buy"
+            android:textAllCaps="false"
+            android:textColor="#F3F3F3"
+            android:textSize="9.6sp"
+            android:backgroundTint="@null"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="150.9dp"
+            android:layout_marginLeft="150.9dp"
+            android:layout_marginTop="42.4dp"
+            android:fontFamily="sans-serif"
+            android:includeFontPadding="false"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.3sp"
+            android:autoSizeMaxTextSize="9.6sp"
+            android:autoSizeStepGranularity="1px"
+            android:padding="0dp"
+            android:stateListAnimator="@null" />
+
+        <View
+            android:layout_width="322.0dp"
+            android:layout_height="1.3dp"
+            android:background="#555555"
+            android:id="@+id/view_11"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="-1.4dp"
+            android:layout_marginLeft="-1.4dp"
+            android:layout_marginTop="41.8dp" />
+
+        <View
+            android:layout_width="1.2dp"
+            android:layout_height="40.0dp"
+            android:background="#555555"
+            android:id="@+id/view_12"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="161.7dp"
+            android:layout_marginLeft="161.7dp"
+            android:layout_marginTop="41.8dp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_13"
+        android:layout_width="234.5dp"
+        android:layout_height="38.7dp"
+        android:background="@drawable/shape_3"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="88.1dp"
+        android:layout_marginLeft="88.1dp"
+        android:layout_marginTop="371.0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_14"
+            android:layout_width="12.8dp"
+            android:layout_height="11.4dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_4"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="19.9dp"
+            android:layout_marginLeft="19.9dp"
+            android:layout_marginTop="11.2dp" />
+
+        <TextView
+            android:id="@+id/view_15"
+            android:layout_width="196.2dp"
+            android:layout_height="28.1dp"
+            android:fontFamily="sans-serif"
+            android:text="Get More Stickers"
+            android:textColor="#666666"
+            android:textSize="23.4sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="37.9dp"
+            android:layout_marginLeft="37.9dp"
+            android:layout_marginTop="7.1dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="12.9sp"
+            android:autoSizeMaxTextSize="23.4sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/view_16"
+        android:layout_width="79.5dp"
+        android:layout_height="39.8dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/img_5"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="16.1dp"
+        android:layout_marginLeft="16.1dp"
+        android:layout_marginTop="416.6dp" />
+
+    <TextView
+        android:id="@+id/view_17"
+        android:layout_width="187.0dp"
+        android:layout_height="11.9dp"
+        android:fontFamily="sans-serif"
+        android:text="Bring zombie apocalypse into your photos"
+        android:textColor="#181716"
+        android:textSize="9.6sp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="100.3dp"
+        android:layout_marginLeft="100.3dp"
+        android:layout_marginTop="415.3dp"
+        android:includeFontPadding="false"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:maxLines="1"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="5.3sp"
+        android:autoSizeMaxTextSize="9.6sp"
+        android:autoSizeStepGranularity="1px"
+        android:gravity="center_vertical|start" />
+
+    <FrameLayout
+        android:id="@+id/view_18"
+        android:layout_width="294.9dp"
+        android:layout_height="32.9dp"
+        android:background="@drawable/shape_1"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="99.8dp"
+        android:layout_marginLeft="99.8dp"
+        android:layout_marginTop="429.6dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_19"
+            android:layout_width="100.2dp"
+            android:layout_height="11.9dp"
+            android:fontFamily="sans-serif"
+            android:text="Install Zombie Comics"
+            android:textColor="#666666"
+            android:textSize="9.5sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="3.0dp"
+            android:layout_marginLeft="3.0dp"
+            android:layout_marginTop="11.0dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="5.2sp"
+            android:autoSizeMaxTextSize="9.5sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+
+        <ImageView
+            android:id="@+id/view_20"
+            android:layout_width="9.6dp"
+            android:layout_height="10.1dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_6"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="279.1dp"
+            android:layout_marginLeft="279.1dp"
+            android:layout_marginTop="10.8dp" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="32.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="625.4dp"
+        android:background="#000000" />
+</FrameLayout>

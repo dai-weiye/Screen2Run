@@ -1,0 +1,401 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        1002,
+        4,
+        1192,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        69,
+        7,
+        98,
+        39
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        118,
+        9,
+        143,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        210,
+        13,
+        244,
+        37
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        848,
+        51,
+        865,
+        62
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1016,
+        51,
+        1061,
+        89
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1103,
+        51,
+        1118,
+        77
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        88,
+        130
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1015,
+        199,
+        1028,
+        207
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        361,
+        200,
+        377,
+        211
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        433,
+        216,
+        472,
+        231
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1151,
+        253,
+        1172,
+        281
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        427,
+        1199,
+        583
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        92,
+        583,
+        393,
+        622
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Upgrade to Premium",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        587,
+        55,
+        618
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        95,
+        742,
+        250,
+        770
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Date & Time",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        92,
+        840,
+        261,
+        914
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Date",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        21,
+        854,
+        57,
+        894
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        91,
+        980,
+        234,
+        1056
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Time",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        19,
+        1000,
+        59,
+        1040
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        92,
+        1156,
+        192,
+        1195
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Display",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        92,
+        1257,
+        213,
+        1333
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "Phrase",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        16,
+        1271,
+        60,
+        1316
+      ],
+      "id": 25,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        91,
+        1401,
+        683,
+        1475
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "Units",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        17,
+        1426,
+        61,
+        1450
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        91,
+        1564,
+        271,
+        1598
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "Font & color",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        28,
+        1566,
+        50,
+        1588
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        25,
+        1592,
+        53,
+        1596
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        93,
+        1703,
+        245,
+        1737
+      ],
+      "id": 31,
+      "kind": "text",
+      "text": "\u2022",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        967,
+        1704,
+        1062,
+        1747
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        1711,
+        54,
+        1741
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 36,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0123.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.1404409722222222,
+  "ocr_added": 0,
+  "ocr_filled": 9
+}

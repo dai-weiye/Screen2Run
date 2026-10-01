@@ -1,0 +1,171 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        15,
+        11,
+        112,
+        61
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "3:59 \u20ac #",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        204,
+        15,
+        243,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1872,
+        16,
+        1895,
+        55
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        141,
+        17,
+        179,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1802,
+        23,
+        1817,
+        49
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1828,
+        24,
+        1851,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1753,
+        25,
+        1792,
+        48
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        113,
+        96,
+        157
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        631,
+        282,
+        1288,
+        341
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Connect Parent's Device",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        47,
+        423,
+        1871,
+        842
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        455,
+        984,
+        497,
+        1032
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1416,
+        985,
+        1462,
+        1031
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        938,
+        987,
+        980,
+        1029
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        645,
+        508,
+        1275,
+        547
+      ],
+      "text": "Scan parent FamiSafe App QR code.",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        801,
+        670,
+        1125,
+        714
+      ],
+      "text": "E Scan QR Code",
+      "source": "ocr"
+    }
+  ],
+  "height": 1080,
+  "image": "Unseen/com.wondershare.famisafe.kids.png",
+  "width": 1920,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.39586805555555554,
+  "ocr_added": 2,
+  "ocr_filled": 2
+}

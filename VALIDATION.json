@@ -1,0 +1,44 @@
+{
+  "schema": "screen2run-release-validation/1",
+  "release_date": "2026-10-02",
+  "statistical_reproduction": {
+    "schema": "screen2run-reproduction-verification/1",
+    "passed": true,
+    "checks": [
+      "RQ1 means, paired tests, Holm, effect sizes, and confidence intervals",
+      "RQ2 140 cells and exact frozen-Full scalar identity",
+      "RQ3 84 seven-metric cells with the original Holm family",
+      "Backbone deepseek-v4.1-flash: means and paired statistics on 120 screens",
+      "Backbone gpt-5.6-sol: means and paired statistics on 120 screens",
+      "Backbone claude-opus-5: means and paired statistics on 120 screens",
+      "RQ4 six experts, UI60/code60, 24 paired comparisons and two-way confidence intervals",
+      "RQ2 current-paper primary-five and separate pixel-two Holm families",
+      "RQ3 current-paper primary-five Holm family",
+      "Current-paper RQ1/RQ3/RQ4 plot values, including all 60 code items"
+    ],
+    "numeric_values_compared": 9206,
+    "maximum_absolute_error": 0.0,
+    "absolute_tolerance": 1e-12,
+    "mismatches": []
+  },
+  "numeric_rows_and_order_preserved": true,
+  "measurement_change": "portable image path only",
+  "prompt_files_exact": 22,
+  "new_model_calls": 0,
+  "validation_scope": [
+    "offline statistical reproduction",
+    "frozen data identity",
+    "prompt identity",
+    "module and CLI checks",
+    "synthetic runtime contracts",
+    "English and privacy scan"
+  ],
+  "external_execution_requirements": [
+    "API credentials for generation",
+    "original dataset screenshots",
+    "macOS Vision for OCR",
+    "Android SDK and existing emulator",
+    "separately obtained pinned upstream baseline repositories"
+  ],
+  "paid_generation_or_android_reexperiment_performed_during_packaging": false
+}

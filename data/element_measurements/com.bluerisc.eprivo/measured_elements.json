@@ -1,0 +1,83 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        19,
+        13,
+        110,
+        58
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        959,
+        19,
+        1021,
+        61
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        73,
+        898,
+        1005,
+        1370
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        786,
+        2242,
+        833,
+        2293
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        244,
+        2243,
+        287,
+        2292
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        2245,
+        563,
+        2295
+      ],
+      "id": 6,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.bluerisc.eprivo.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": true,
+  "ink_coverage": 0.17977089268755936,
+  "ocr_added": 0,
+  "ocr_filled": 0
+}

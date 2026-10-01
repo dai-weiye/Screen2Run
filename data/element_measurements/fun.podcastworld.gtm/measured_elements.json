@@ -1,0 +1,227 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        13,
+        149,
+        59
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "11:57 H H",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        161,
+        14,
+        204,
+        57
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        227,
+        15,
+        266,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        293,
+        15,
+        332,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        15,
+        398,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        962,
+        24,
+        977,
+        49
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        26,
+        952,
+        48
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        570,
+        104,
+        590,
+        130
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        291,
+        124,
+        352,
+        184
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        725,
+        124,
+        786,
+        184
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        942,
+        124,
+        1001,
+        184
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        509,
+        127,
+        570,
+        181
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        74,
+        132,
+        135,
+        138
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        74,
+        151,
+        135,
+        158
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        225,
+        212,
+        236
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        432,
+        985,
+        645,
+        1030
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "No podcast",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 20,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/fun.podcastworld.gtm.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.02355999228395062,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

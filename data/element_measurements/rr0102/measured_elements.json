@@ -1,0 +1,337 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        13,
+        1,
+        57,
+        43
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "WRAL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        954,
+        4,
+        1192,
+        44
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        70,
+        9,
+        95,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        9,
+        150,
+        38
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "G+",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        727,
+        77,
+        789,
+        118
+      ],
+      "id": 6,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1141,
+        77,
+        1177,
+        115
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        78,
+        56,
+        114
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        541,
+        80,
+        659,
+        111
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Featured",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        395,
+        81,
+        484,
+        110
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Follow",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        51,
+        206,
+        418,
+        336
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "VERIFIED SINGER",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        571,
+        213,
+        1128,
+        493
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        58,
+        377,
+        306,
+        439
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        573,
+        516,
+        589,
+        524
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        9,
+        562,
+        19,
+        656
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1179,
+        562,
+        1189,
+        656
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        579,
+        105,
+        640
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        595,
+        352,
+        626
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Jessica-Ashley\"",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1042,
+        595,
+        1155,
+        623
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "FOLLOW",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        9,
+        658,
+        1189,
+        1612
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1622,
+        1199,
+        1810
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        525,
+        812,
+        572,
+        834
+      ],
+      "text": "Call Me",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        452,
+        965,
+        748,
+        1013
+      ],
+      "text": "Call Me Maybe",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        497,
+        1033,
+        695,
+        1060
+      ],
+      "text": "Carly Rae Jepsen",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        47,
+        1504,
+        279,
+        1535
+      ],
+      "text": "*Call Me Maybey",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        131,
+        1543,
+        204,
+        1568
+      ],
+      "text": "n 364",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0102.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7028155381944444,
+  "ocr_added": 5,
+  "ocr_filled": 7
+}

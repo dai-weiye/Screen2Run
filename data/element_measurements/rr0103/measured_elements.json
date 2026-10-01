@@ -1,0 +1,345 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        258,
+        8,
+        292,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        958,
+        8,
+        980,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1051,
+        8,
+        1187,
+        41
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        114,
+        10,
+        148,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        11,
+        337,
+        39
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        354,
+        13,
+        388,
+        37
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        17,
+        175,
+        27
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        177,
+        17,
+        190,
+        27
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        6,
+        58,
+        268,
+        88
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "About Kitchen Timer",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        198,
+        122,
+        997,
+        387
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "APPLABS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        168,
+        153,
+        351,
+        168
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        843,
+        153,
+        1028,
+        168
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        181,
+        351,
+        197
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        843,
+        181,
+        1028,
+        197
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        209,
+        351,
+        225
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        843,
+        209,
+        1028,
+        225
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        237,
+        351,
+        253
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        843,
+        237,
+        1028,
+        253
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        425,
+        1166,
+        486
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Want to support us? Please buy the Pro-version, tell your friends, or rate us at the Android",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        459,
+        529,
+        738,
+        559
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "User manual (English)",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        35,
+        598,
+        403,
+        676
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        415,
+        598,
+        783,
+        676
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        795,
+        598,
+        1163,
+        676
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        253,
+        735,
+        949,
+        1003
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "Background images:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        281,
+        1069,
+        916,
+        1152
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "\u00a9 Copyright 2011-2012 QweQweQ.com. All rights reserved.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 31,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0103.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2857278645833333,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

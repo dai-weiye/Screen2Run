@@ -1,0 +1,315 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        954,
+        4,
+        1190,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        16,
+        143,
+        32
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        17,
+        175,
+        27
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        177,
+        17,
+        190,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        152,
+        91,
+        312,
+        143
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Settings",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        59,
+        205,
+        395,
+        283
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Widget update mode",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        60,
+        325,
+        987,
+        435
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Force use of GPS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1057,
+        362,
+        1093,
+        398
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        61,
+        472,
+        268,
+        499
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "PRESENTATION",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        60,
+        546,
+        800,
+        625
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Use local time",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1057,
+        566,
+        1093,
+        602
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        31,
+        673,
+        1167,
+        1196
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        59,
+        1203,
+        971,
+        1315
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Use legacy layout",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1057,
+        1240,
+        1093,
+        1276
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        60,
+        1348,
+        203,
+        1379
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "DECODING",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        61,
+        1426,
+        692,
+        1504
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "FAA Categories",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        60,
+        1555,
+        850,
+        1634
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "NATO Color State",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        59,
+        1682,
+        456,
+        1763
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Cloudage",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        59,
+        1804,
+        404,
+        1824
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "LNITC OE MEACUREMENT",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 27,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0133.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.4673893229166667,
+  "ocr_added": 0,
+  "ocr_filled": 11
+}

@@ -1,0 +1,521 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        25,
+        6,
+        197,
+        41
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1066,
+        6,
+        1190,
+        41
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        939,
+        8,
+        1016,
+        39
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1107,
+        114,
+        1136,
+        152
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        171,
+        117,
+        547,
+        149
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Performer, event, or venue",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        66,
+        118,
+        104,
+        122
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        66,
+        129,
+        104,
+        133
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        66,
+        140,
+        104,
+        144
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        254,
+        248,
+        288
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Popular Events",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1043,
+        254,
+        1170,
+        282
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "VIEW ALL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        322,
+        344,
+        499
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        363,
+        322,
+        676,
+        498
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        695,
+        322,
+        1008,
+        498
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1027,
+        322,
+        1199,
+        498
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        528,
+        260,
+        596
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Mets at Nationals",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        361,
+        528,
+        654,
+        632
+      ],
+      "id": 17,
+      "kind": "text",
+      "text": "FC Barcelona VS.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        694,
+        528,
+        963,
+        596
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "Cowboys at Redskins",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1023,
+        529,
+        1200,
+        634
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "West Virginia",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1041,
+        707,
+        1169,
+        735
+      ],
+      "id": 20,
+      "kind": "text",
+      "text": "VIEW ALL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        710,
+        318,
+        741
+      ],
+      "id": 21,
+      "kind": "text",
+      "text": "Browse by Category",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        776,
+        343,
+        953
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        363,
+        776,
+        676,
+        953
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        695,
+        776,
+        1008,
+        953
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1027,
+        776,
+        1199,
+        953
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1042,
+        1023,
+        1169,
+        1051
+      ],
+      "id": 26,
+      "kind": "text",
+      "text": "VIEW ALL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        1024,
+        352,
+        1055
+      ],
+      "id": 27,
+      "kind": "text",
+      "text": "Popular This Weekend",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        1092,
+        343,
+        1269
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        363,
+        1092,
+        676,
+        1269
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        695,
+        1092,
+        1008,
+        1269
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1027,
+        1092,
+        1199,
+        1269
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        1296,
+        274,
+        1366
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "Braves at Nationals",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        694,
+        1298,
+        910,
+        1403
+      ],
+      "id": 33,
+      "kind": "text",
+      "text": "Sound of Music -",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1025,
+        1298,
+        1200,
+        1366
+      ],
+      "id": 34,
+      "kind": "text",
+      "text": "Mitski with Ju",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        361,
+        1299,
+        659,
+        1365
+      ],
+      "id": 35,
+      "kind": "text",
+      "text": "David Blaine - Baltimore",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1042,
+        1479,
+        1170,
+        1507
+      ],
+      "id": 36,
+      "kind": "text",
+      "text": "VIEW ALL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        1481,
+        163,
+        1509
+      ],
+      "id": 37,
+      "kind": "text",
+      "text": "Concerts",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        1547,
+        343,
+        1724
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        363,
+        1547,
+        1007,
+        1724
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1027,
+        1547,
+        1199,
+        1724
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        145,
+        1728,
+        981,
+        1823
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        29,
+        1751,
+        219,
+        1818
+      ],
+      "id": 42,
+      "kind": "text",
+      "text": "Travis Scott an",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1025,
+        1754,
+        1198,
+        1818
+      ],
+      "id": 43,
+      "kind": "text",
+      "text": "Bonnie Raitt",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 45,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 46,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0181.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.48785980902777776,
+  "ocr_added": 0,
+  "ocr_filled": 19
+}

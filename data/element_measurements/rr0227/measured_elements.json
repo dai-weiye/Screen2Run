@@ -1,0 +1,709 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        733,
+        0,
+        770,
+        5
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        538,
+        4,
+        597,
+        14
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        265,
+        28,
+        291,
+        32
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        278,
+        39,
+        328,
+        46
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1040,
+        41,
+        1080,
+        45
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        996,
+        62,
+        1041,
+        68
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        154,
+        64,
+        196,
+        69
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        969,
+        87,
+        1010,
+        91
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        886,
+        107,
+        916,
+        112
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        47,
+        125,
+        86,
+        134
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        684,
+        198,
+        702,
+        207
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        708,
+        198,
+        752,
+        214
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        307,
+        222,
+        350,
+        226
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        237,
+        104,
+        246
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        417,
+        244,
+        476,
+        297
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        472,
+        247,
+        774,
+        312
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "Wlivestream",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        249,
+        264,
+        256
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        266,
+        253,
+        314,
+        258
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        169,
+        280,
+        214,
+        285
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        281,
+        168,
+        285
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        202,
+        287,
+        282,
+        308
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1039,
+        292,
+        1089,
+        303
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        170,
+        308,
+        200,
+        312
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        338,
+        348,
+        862,
+        476
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "Watch or Broadcast",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        575,
+        404,
+        973,
+        955
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        546,
+        484,
+        574,
+        502
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        530,
+        488,
+        544,
+        495
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        431,
+        497,
+        456,
+        513
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        32,
+        524,
+        202,
+        558
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        237,
+        540,
+        305,
+        572
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        880,
+        1075,
+        885
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1121,
+        965,
+        1160,
+        976
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1082,
+        973,
+        1110,
+        992
+      ],
+      "id": 32,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        971,
+        990,
+        1048,
+        1008
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        86,
+        1299,
+        107,
+        1309
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        114,
+        1307,
+        139,
+        1313
+      ],
+      "id": 35,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1350,
+        47,
+        1364
+      ],
+      "id": 36,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        838,
+        1364,
+        854,
+        1368
+      ],
+      "id": 37,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        651,
+        1386,
+        688,
+        1393
+      ],
+      "id": 38,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        158,
+        1400,
+        889,
+        1531
+      ],
+      "id": 39,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1401,
+        29,
+        1425
+      ],
+      "id": 40,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        1423,
+        134,
+        1429
+      ],
+      "id": 41,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        889,
+        1437,
+        1142,
+        1468
+      ],
+      "id": 42,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1443,
+        33,
+        1450
+      ],
+      "id": 43,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        896,
+        1475,
+        1053,
+        1494
+      ],
+      "id": 44,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1084,
+        1489,
+        1108,
+        1493
+      ],
+      "id": 45,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1116,
+        1493,
+        1146,
+        1498
+      ],
+      "id": 46,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        309,
+        1563,
+        889,
+        1663
+      ],
+      "id": 47,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1034,
+        1671,
+        1199,
+        1696
+      ],
+      "id": 48,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        348,
+        1677,
+        371,
+        1685
+      ],
+      "id": 49,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        632,
+        1678,
+        713,
+        1685
+      ],
+      "id": 50,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        372,
+        1683,
+        414,
+        1687
+      ],
+      "id": 51,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        481,
+        1685,
+        514,
+        1689
+      ],
+      "id": 52,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        714,
+        1685,
+        788,
+        1699
+      ],
+      "id": 53,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        451,
+        1690,
+        604,
+        1724
+      ],
+      "id": 54,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        659,
+        1690,
+        677,
+        1698
+      ],
+      "id": 55,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        872,
+        1696,
+        918,
+        1706
+      ],
+      "id": 56,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        383,
+        1698,
+        426,
+        1705
+      ],
+      "id": 57,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        997,
+        1698,
+        1051,
+        1717
+      ],
+      "id": 58,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        211,
+        1701,
+        303,
+        1712
+      ],
+      "id": 59,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        305,
+        1703,
+        332,
+        1706
+      ],
+      "id": 60,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        89,
+        1710,
+        116,
+        1717
+      ],
+      "id": 61,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        302,
+        1712,
+        373,
+        1721
+      ],
+      "id": 62,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        325,
+        1726,
+        875,
+        1762
+      ],
+      "id": 63,
+      "kind": "text",
+      "text": "We'll never post without your permission",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        91,
+        1740,
+        196,
+        1762
+      ],
+      "id": 64,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        314,
+        1783,
+        362,
+        1792
+      ],
+      "id": 65,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 66,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 67,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 68,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0227.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.2771618923611111,
+  "ocr_added": 0,
+  "ocr_filled": 3
+}

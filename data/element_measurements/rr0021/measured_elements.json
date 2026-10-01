@@ -1,0 +1,213 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        16,
+        2,
+        101,
+        45
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1066,
+        6,
+        1190,
+        41
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        118,
+        10,
+        146,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        51,
+        1199,
+        632
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        67,
+        661,
+        201,
+        689
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Username",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        19,
+        743,
+        203,
+        827
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        533,
+        883,
+        665,
+        934
+      ],
+      "id": 9,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        0,
+        1092,
+        1199,
+        1146
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        427,
+        1196,
+        771,
+        1278
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "JOIN THE PARTY",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        1283,
+        1199,
+        1823
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        279,
+        490,
+        876,
+        614
+      ],
+      "text": "\u041bIWorks!",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        530,
+        1370,
+        661,
+        1396
+      ],
+      "text": "Get Started",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        530,
+        1747,
+        667,
+        1786
+      ],
+      "text": "v1.1.4",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0021.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.6431540798611111,
+  "ocr_added": 3,
+  "ocr_filled": 2
+}

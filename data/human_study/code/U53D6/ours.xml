@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="411.4dp"
+        android:layout_height="658.3dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0.0dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginTop="0.0dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <FrameLayout
+            android:id="@+id/video_group"
+            android:layout_width="374.5dp"
+            android:layout_height="267.6dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="18.7dp"
+            android:layout_marginLeft="18.7dp"
+            android:layout_marginTop="171.0dp"
+            android:clipChildren="false"
+            android:clipToPadding="false">
+
+            <ImageView
+                android:id="@+id/view_3"
+                android:layout_width="374.1dp"
+                android:layout_height="221.3dp"
+                android:contentDescription="@null"
+                android:scaleType="fitXY"
+                android:src="@drawable/img_1"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="0.4dp"
+                android:layout_marginLeft="0.4dp"
+                android:layout_marginTop="46.3dp" />
+
+            <ImageButton
+                android:id="@+id/view_4"
+                android:layout_width="14.1dp"
+                android:layout_height="25.7dp"
+                android:background="#00000000"
+                android:contentDescription="Pause"
+                android:scaleType="fitXY"
+                android:src="@drawable/img_2"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="179.8dp"
+                android:layout_marginLeft="179.8dp"
+                android:layout_marginTop="97.6dp" />
+
+            <TextView
+                android:id="@+id/view_5"
+                android:layout_width="72.7dp"
+                android:layout_height="12.2dp"
+                android:fontFamily="Roboto"
+                android:text="Tap to continue"
+                android:textAlignment="center"
+                android:textColor="#A181A1"
+                android:textSize="9.8sp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="150.9dp"
+                android:layout_marginLeft="150.9dp"
+                android:layout_marginTop="225.1dp"
+                android:includeFontPadding="false"
+                android:minWidth="0dp"
+                android:minHeight="0dp"
+                android:maxLines="1"
+                android:autoSizeTextType="uniform"
+                android:autoSizeMinTextSize="5.4sp"
+                android:autoSizeMaxTextSize="9.8sp"
+                android:autoSizeStepGranularity="1px"
+                android:gravity="center_vertical|start" />
+
+            <ImageView
+                android:id="@+id/view_6"
+                android:src="@drawable/img_3"
+                android:contentDescription="Friends"
+                android:layout_width="97.4dp"
+                android:layout_height="50.2dp"
+                android:layout_gravity="top|start"
+                android:layout_marginStart="154.6dp"
+                android:layout_marginLeft="154.6dp"
+                android:layout_marginTop="33.3dp"
+                android:scaleType="fitXY" />
+        </FrameLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_7"
+        android:layout_width="411.4dp"
+        android:layout_height="29.3dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="4.7dp"
+        android:layout_marginLeft="4.7dp"
+        android:layout_marginTop="22.7dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/view_8"
+            android:layout_width="206.6dp"
+            android:layout_height="13.6dp"
+            android:fontFamily="Roboto"
+            android:gravity="center_vertical|start"
+            android:text="LEGO Friends HD Gameplay music video"
+            android:textColor="#F2F2F2"
+            android:textSize="11.0sp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="3.4dp"
+            android:layout_marginLeft="3.4dp"
+            android:layout_marginTop="7.2dp"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="6.1sp"
+            android:autoSizeMaxTextSize="11.0sp"
+            android:autoSizeStepGranularity="1px" />
+
+        <ImageButton
+            android:id="@+id/view_9"
+            android:layout_width="21.0dp"
+            android:layout_height="13.4dp"
+            android:background="#00000000"
+            android:contentDescription="More options"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_4"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="293.9dp"
+            android:layout_marginLeft="293.9dp"
+            android:layout_marginTop="30.1dp" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_10"
+        android:layout_width="411.4dp"
+        android:layout_height="65.7dp"
+        android:background="@drawable/shape_1"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="4.7dp"
+        android:layout_marginLeft="4.7dp"
+        android:layout_marginTop="592.6dp"
+        android:clipChildren="false"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_11"
+            android:layout_width="247.5dp"
+            android:layout_height="8.2dp"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/img_5"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="36.1dp"
+            android:layout_marginLeft="36.1dp"
+            android:layout_marginTop="12.2dp" />
+
+        <TextView
+            android:id="@+id/view_12"
+            android:text="You Tube"
+            android:textColor="#DEDEDE"
+            android:layout_width="35.0dp"
+            android:layout_height="9.7dp"
+            android:layout_gravity="top|start"
+            android:layout_marginStart="333.4dp"
+            android:layout_marginLeft="333.4dp"
+            android:layout_marginTop="15.0dp"
+            android:textSize="7.6sp"
+            android:fontFamily="sans-serif"
+            android:textStyle="bold"
+            android:includeFontPadding="false"
+            android:minWidth="0dp"
+            android:minHeight="0dp"
+            android:maxLines="1"
+            android:autoSizeTextType="uniform"
+            android:autoSizeMinTextSize="4.2sp"
+            android:autoSizeMaxTextSize="7.6sp"
+            android:autoSizeStepGranularity="1px"
+            android:gravity="center_vertical|start" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="16.9dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="0.0dp"
+        android:background="#000000" />
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="48.7dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="609.6dp"
+        android:background="#000000" />
+</FrameLayout>

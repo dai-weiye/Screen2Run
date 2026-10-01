@@ -1,0 +1,325 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        21,
+        14,
+        116,
+        58
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        135,
+        16,
+        183,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        910,
+        16,
+        1022,
+        56
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        176,
+        119,
+        216
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        224,
+        192,
+        311,
+        200
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        316,
+        192,
+        400,
+        200
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        406,
+        192,
+        487,
+        203
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        495,
+        192,
+        759,
+        200
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        767,
+        192,
+        855,
+        200
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        284,
+        400,
+        794,
+        489
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Wake-up time",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        48,
+        522,
+        1030,
+        655
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Drinking water right after waking up will",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        135,
+        752,
+        367,
+        768
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        423,
+        752,
+        655,
+        768
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        711,
+        752,
+        943,
+        768
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        502,
+        819,
+        578,
+        876
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "48",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        783,
+        820,
+        872,
+        875
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "AM",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        231,
+        824,
+        271,
+        872
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        391,
+        838,
+        399,
+        848
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        391,
+        856,
+        399,
+        872
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        135,
+        928,
+        367,
+        944
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        423,
+        928,
+        655,
+        944
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        711,
+        928,
+        943,
+        944
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1033,
+        872,
+        1092
+      ],
+      "id": 23,
+      "kind": "text",
+      "text": "PM",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        503,
+        1036,
+        576,
+        1091
+      ],
+      "id": 24,
+      "kind": "text",
+      "text": "49",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        239,
+        1040,
+        263,
+        1088
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        1488,
+        815,
+        1632
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        242,
+        1827,
+        290,
+        1878
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1829,
+        835,
+        1877
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        515,
+        1838,
+        563,
+        1875
+      ],
+      "id": 29,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/com.water.reminder.tracker.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.1285153529597974,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

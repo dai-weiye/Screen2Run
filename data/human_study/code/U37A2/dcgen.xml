@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="411.4239dp"
+    android:layout_height="658.2782dp">
+
+    <RelativeLayout
+        android:background="#000000"
+        android:paddingStart="4dp"
+        android:paddingEnd="4dp"
+        android:id="@+id/view_2"
+        android:layout_width="411.4239dp"
+        android:layout_height="17.1427dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:paddingStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:background="#5F6368"
+                android:padding="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:paddingStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:paddingStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/img"
+                android:tint="#FFFFFF"
+                android:paddingStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="11:43"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                android:paddingStart="4dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@android:color/white"
+        android:id="@+id/view_3"
+        android:layout_width="411.4239dp"
+        android:layout_height="41.1424dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="17.1427dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="Manheim logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Manheim"
+            android:textColor="#111111"
+            android:textSize="30sp"
+            android:fontFamily="serif"
+            android:layout_gravity="center_vertical"
+            android:includeFontPadding="false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <TextView
+        android:background="#DCE3EA"
+        android:text="Please log in using your existing Manheim.com username and password."
+        android:textColor="#111111"
+        android:textSize="14sp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:gravity="center_vertical|start"
+        android:id="@+id/view_4"
+        android:layout_width="411.4239dp"
+        android:layout_height="26.0568dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="65.8278dp" />
+
+    <LinearLayout
+        android:background="#D9A521"
+        android:orientation="vertical"
+        android:padding="2dp"
+        android:id="@+id/view_5"
+        android:layout_width="411.4239dp"
+        android:layout_height="46.628dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="97.0275dp">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:gravity="center_vertical"
+            android:hint="Username"
+            android:inputType="text"
+            android:paddingStart="14dp"
+            android:paddingEnd="14dp"
+            android:singleLine="true"
+            android:textColor="#333333"
+            android:textColorHint="#9E9E9E"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#EDEFF2"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:id="@+id/view_6"
+        android:layout_width="411.4239dp"
+        android:layout_height="93.9418dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="149.8269dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:hint="Password"
+            android:textColorHint="#9AA0A6"
+            android:textColor="#333333"
+            android:textSize="18sp"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:gravity="center_vertical"
+            android:paddingStart="14dp"
+            android:paddingEnd="14dp"
+            android:background="#FFFFFF" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:text="Log In"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:backgroundTint="#E4811E" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="#2C5C88"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:id="@+id/view_7"
+        android:layout_width="411.4239dp"
+        android:layout_height="25.3711dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="599.6503dp">
+
+        <TextView
+            android:text="Legal"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="© 2011 Manheim. All rights reserved."
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/view_8"
+        android:layout_width="411.4239dp"
+        android:layout_height="32.9139dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="625.3643dp">
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:id="@+id/view_9"
+            android:layout_width="39.771dp"
+            android:layout_height="32.9139dp"
+            android:layout_marginStart="274.2826dp"
+            android:layout_marginTop="0dp" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:id="@+id/view_10"
+            android:layout_width="41.1424dp"
+            android:layout_height="32.9139dp"
+            android:layout_marginStart="185.1407dp"
+            android:layout_marginTop="0dp" />
+
+        <ImageView
+            android:src="@drawable/img"
+            android:scaleType="fitCenter"
+            android:id="@+id/view_11"
+            android:layout_width="38.3996dp"
+            android:layout_height="32.9139dp"
+            android:layout_marginStart="98.7417dp"
+            android:layout_marginTop="0dp" />
+    </FrameLayout>
+</FrameLayout>

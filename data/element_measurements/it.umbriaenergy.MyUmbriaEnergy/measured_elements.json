@@ -1,0 +1,235 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        12,
+        10,
+        817,
+        304
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "MyUmbriaEnergy",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        136,
+        15,
+        176,
+        56
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        909,
+        15,
+        1021,
+        58
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        980,
+        283,
+        1029,
+        315
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        43,
+        363,
+        1021,
+        1457
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1520,
+        1079,
+        1712
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        1730,
+        148,
+        1771
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "AVVISI",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        686,
+        1731,
+        850,
+        1771
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "SPORTEL...",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        222,
+        1734,
+        386,
+        1768
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "CHIAMACI",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        903,
+        1734,
+        1070,
+        1769
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "CONTATTI",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        410,
+        511,
+        589,
+        689
+      ],
+      "text": "x-",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        173,
+        765,
+        904,
+        826
+      ],
+      "text": "Errore di connessione",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        98,
+        938,
+        963,
+        996
+      ],
+      "text": "Al momento il dispositivo non \u00e8",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        158,
+        996,
+        911,
+        1072
+      ],
+      "text": "connesso alla rete internet,",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        84,
+        1077,
+        974,
+        1133
+      ],
+      "text": "verifica le impostazioni o riprova",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        419,
+        1144,
+        667,
+        1203
+      ],
+      "text": "pi\u00f9 tardi.",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/it.umbriaenergy.MyUmbriaEnergy.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7474045138888888,
+  "ocr_added": 6,
+  "ocr_filled": 5
+}

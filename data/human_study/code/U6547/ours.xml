@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:clipChildren="false"
+    android:clipToPadding="false">
+
+    <FrameLayout
+        android:id="@+id/view_2"
+        android:layout_width="54.5dp"
+        android:layout_height="242.7dp"
+        android:background="@drawable/shape_1"
+        android:clipChildren="false"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="344.9dp"
+        android:layout_marginLeft="344.9dp"
+        android:layout_marginTop="207.8dp"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/view_3"
+            android:layout_width="13.3dp"
+            android:layout_height="264.6dp"
+            android:src="@drawable/img_1"
+            android:contentDescription="Swipe down from the top to exit full screen."
+            android:layout_gravity="top|start"
+            android:layout_marginStart="15.4dp"
+            android:layout_marginLeft="15.4dp"
+            android:layout_marginTop="-16.2dp"
+            android:scaleType="fitXY" />
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/view_4"
+        android:layout_width="27.0dp"
+        android:layout_height="92.1dp"
+        android:background="@drawable/img_2"
+        android:backgroundTint="#64B5F6"
+        android:stateListAnimator="@null"
+        android:gravity="center"
+        android:paddingTop="0dp"
+        android:paddingBottom="0dp"
+        android:includeFontPadding="false"
+        android:maxLines="1"
+        android:text=""
+        android:textColor="#FFFFFF"
+        android:textSize="10.3sp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="299.8dp"
+        android:layout_marginLeft="299.8dp"
+        android:layout_marginTop="304.9dp" />
+
+    <ImageView
+        android:id="@+id/view_5"
+        android:src="@drawable/img_3"
+        android:contentDescription="liveli&lt;e"
+        android:layout_width="27.5dp"
+        android:layout_height="110.8dp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="273.4dp"
+        android:layout_marginLeft="273.4dp"
+        android:layout_marginTop="314.0dp"
+        android:scaleType="fitXY" />
+
+    <View
+        android:id="@+id/nav"
+        android:layout_width="match_parent"
+        android:layout_height="35.3dp"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="623.0dp"
+        android:background="#000000" />
+</FrameLayout>

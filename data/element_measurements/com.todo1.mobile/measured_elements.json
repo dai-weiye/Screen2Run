@@ -1,0 +1,387 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        335,
+        13,
+        379,
+        58
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        180,
+        57
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        17,
+        16,
+        110,
+        59
+      ],
+      "id": 2,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        267,
+        16,
+        313,
+        54
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        967,
+        16,
+        1005,
+        56
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        209,
+        17,
+        239,
+        55
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        914,
+        25,
+        954,
+        48
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        42,
+        121,
+        422,
+        175
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "=Bancolombia",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        679,
+        125,
+        738,
+        186
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        820,
+        125,
+        882,
+        186
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        964,
+        125,
+        1026,
+        186
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        249,
+        1079,
+        644
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        42,
+        733,
+        604,
+        789
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Transacciones principales",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        36,
+        852,
+        326,
+        1170
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        343,
+        852,
+        632,
+        1170
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        649,
+        852,
+        939,
+        1170
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        956,
+        852,
+        1079,
+        1170
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1263,
+        1079,
+        1551
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        74,
+        1587,
+        134,
+        1654
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        728,
+        1590,
+        793,
+        1650
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        942,
+        1590,
+        1002,
+        1650
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        520,
+        1595,
+        542,
+        1616
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        546,
+        1595,
+        568,
+        1616
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        291,
+        1597,
+        357,
+        1647
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        520,
+        1624,
+        542,
+        1645
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        546,
+        1624,
+        568,
+        1645
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        674,
+        1670,
+        845,
+        1752
+      ],
+      "id": 28,
+      "kind": "text",
+      "text": "Tramites y",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        60,
+        1671,
+        150,
+        1707
+      ],
+      "id": 29,
+      "kind": "text",
+      "text": "Inicio",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        211,
+        1671,
+        439,
+        1707
+      ],
+      "id": 30,
+      "kind": "text",
+      "text": "Transacciones",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        475,
+        1672,
+        614,
+        1711
+      ],
+      "id": 31,
+      "kind": "text",
+      "text": "Explorar",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        912,
+        1672,
+        1033,
+        1711
+      ],
+      "id": 32,
+      "kind": "text",
+      "text": "Ajustes",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 33,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 34,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 35,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.todo1.mobile.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5729566936728395,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

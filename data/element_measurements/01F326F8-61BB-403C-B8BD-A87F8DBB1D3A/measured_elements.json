@@ -1,0 +1,283 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        621,
+        6,
+        685,
+        40
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        553,
+        8,
+        589,
+        37
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        595,
+        8,
+        616,
+        38
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        75,
+        220,
+        117
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "android_gui",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        180,
+        82,
+        210
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "Uxalf",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        559,
+        180,
+        631,
+        209
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "\u2022 Vztcz",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        101,
+        187,
+        537,
+        209
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        195,
+        260,
+        343,
+        329
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        354,
+        260,
+        501,
+        329
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        512,
+        260,
+        660,
+        329
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        80,
+        274,
+        165,
+        315
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        278,
+        104,
+        306
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Wzkem",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        383,
+        170,
+        451
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        181,
+        383,
+        329,
+        451
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        177,
+        505,
+        325,
+        574
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        336,
+        505,
+        483,
+        574
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        519,
+        147,
+        560
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        259,
+        627,
+        407,
+        696
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        104,
+        629,
+        246,
+        692
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        14,
+        643,
+        100,
+        676
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "Wpkda",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        596,
+        1026,
+        626,
+        1062
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        168,
+        1027,
+        205,
+        1059
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        436,
+        1027,
+        451,
+        1046
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        454,
+        1027,
+        469,
+        1039
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        454,
+        1042,
+        469,
+        1061
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        436,
+        1049,
+        451,
+        1061
+      ],
+      "id": 25,
+      "kind": "component"
+    }
+  ],
+  "height": 1070,
+  "image": "Easy/01F326F8-61BB-403C-B8BD-A87F8DBB1D3A.png",
+  "width": 688,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.181228265594436,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

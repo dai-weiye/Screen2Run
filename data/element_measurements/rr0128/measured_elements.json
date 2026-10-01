@@ -1,0 +1,227 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        12,
+        7,
+        1187,
+        294
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "The most difficult thing players face in dragon city game, is learning how",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        8,
+        1010,
+        41
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        71,
+        10,
+        95,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        13,
+        343,
+        1110,
+        386
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "There are 8 basic elemental dragons in Dragon City game which are:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        12,
+        437,
+        265,
+        802
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Dark Dragon",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        887,
+        1176,
+        1020
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "These 8 types of elemental dragons can breed with each other to hatch",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        14,
+        1060,
+        1134,
+        1144
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Hybrid Dragons which can be hatched by breeding with Dark Dragons",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        12,
+        1188,
+        1155,
+        1644
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Zombie Dragon - Breeding between Dark Dragon & Metal Dragon",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        13,
+        1684,
+        1150,
+        1770
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "Hybrid Dragons which can be hatched by breeding with Metal Dragons",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        16,
+        1820,
+        35,
+        1823
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        148,
+        1820,
+        166,
+        1823
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        294,
+        1820,
+        311,
+        1823
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        691,
+        1820,
+        709,
+        1823
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        849,
+        1820,
+        867,
+        1823
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        933,
+        1820,
+        950,
+        1823
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0128.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5868502604166667,
+  "ocr_added": 0,
+  "ocr_filled": 7
+}

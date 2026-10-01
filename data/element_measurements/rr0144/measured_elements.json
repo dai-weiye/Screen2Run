@@ -1,0 +1,231 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        956,
+        7,
+        1038,
+        43
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        167,
+        8,
+        191,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        262,
+        10,
+        289,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        10,
+        335,
+        40
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1039,
+        10,
+        1189,
+        41
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        75,
+        13,
+        97,
+        24
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        120,
+        17,
+        127,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        129,
+        17,
+        142,
+        27
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        40,
+        58,
+        137,
+        154
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        41,
+        77,
+        832,
+        140
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "CL",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        15,
+        94,
+        31,
+        118
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        371,
+        181,
+        828,
+        233
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "BIBLIOTHECA CLOUD LIBRARY SERVICES",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        15,
+        267,
+        1184,
+        469
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "\"USER\") AND BIBLIOTHECA, LLC (\"BIBLIOTHECA\") REGARDING YOUR ACCESS TO ACCESS TO AND USE OF",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        11,
+        504,
+        1185,
+        1812
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "NOTICE.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        17,
+        931,
+        24,
+        949
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        15,
+        1609,
+        29,
+        1627
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 20,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0144.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8210138888888889,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

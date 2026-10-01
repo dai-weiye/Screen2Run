@@ -1,0 +1,443 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        69,
+        7,
+        98,
+        39
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1070,
+        7,
+        1186,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        23,
+        8,
+        47,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        118,
+        9,
+        143,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1026,
+        9,
+        1065,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        986,
+        10,
+        1013,
+        41
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1084,
+        80,
+        1170,
+        151
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        991,
+        92,
+        1023,
+        136
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        155,
+        94,
+        349,
+        140
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "Tip N Split",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        893,
+        94,
+        929,
+        134
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        100,
+        90,
+        104
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        111,
+        90,
+        115
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        122,
+        90,
+        126
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        212,
+        1141,
+        303
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        346,
+        1141,
+        437
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        446,
+        1147,
+        1378
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        103,
+        474,
+        572,
+        516
+      ],
+      "text": "Share Tip N Split Calculation",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        100,
+        575,
+        193,
+        606
+      ],
+      "text": "diners.",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        100,
+        541,
+        1055,
+        575
+      ],
+      "text": "Easily share the results of your tip and bill split calculations with your fellow",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        550,
+        666,
+        650,
+        696
+      ],
+      "text": "TODAY",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        310,
+        767,
+        502,
+        798
+      ],
+      "text": "Bill Amount",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        622,
+        764,
+        770,
+        804
+      ],
+      "text": ": 100.00",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        307,
+        812,
+        505,
+        849
+      ],
+      "text": "Tip Amount",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        622,
+        807,
+        854,
+        848
+      ],
+      "text": ": 20.00 (20%)",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        307,
+        854,
+        536,
+        885
+      ],
+      "text": "Total Amount",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        622,
+        851,
+        770,
+        891
+      ],
+      "text": ": 120.00",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        309,
+        934,
+        748,
+        984
+      ],
+      "text": "Each Person Pays : 40.00",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        310,
+        895,
+        536,
+        935
+      ],
+      "text": "No. of People",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        622,
+        896,
+        675,
+        929
+      ],
+      "text": ": 3",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        310,
+        1027,
+        745,
+        1066
+      ],
+      "text": "Calculated with Tip N Split",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        310,
+        1066,
+        675,
+        1108
+      ],
+      "text": "https://goo.gl/6Bfopg",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        871,
+        1080,
+        1027,
+        1111
+      ],
+      "text": "5:16 PM //",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        290,
+        1155,
+        753,
+        1194
+      ],
+      "text": "Had so much fun yesterday!",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        290,
+        1220,
+        954,
+        1261
+      ],
+      "text": "And guys, you still owe me for the drinks",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        1038,
+        1303,
+        1077,
+        1328
+      ],
+      "text": "OK",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0212.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5441480034722223,
+  "ocr_added": 19,
+  "ocr_filled": 1
+}

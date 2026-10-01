@@ -1,0 +1,23 @@
+You are part of an elite automated software fixing team.
+Your job is to figure out what went wrong and suggest changes to the code so that you can run the code perfectly in Android Studio
+
+**Restore every item listed under "MISSING IN XML"** in the review above: add those elements and
+text strings back into the layout, using the EXACT strings quoted there, at the position they
+occupy in the screenshot. Cross-check the review against the supplied design JSON and screenshot;
+neither model prediction is guaranteed complete. Do not duplicate text that belongs inside an image.
+Do not drop, shorten or
+paraphrase any text while restoring.
+- Replace all the images with '@drawable/img' you meet
+- Make sure the app looks as same as the screenshot.
+- Pay close attention to background color, text color, font size, font family, padding, margin, border, etc. Match the colors and sizes exactly.
+- Exactly identify the corresponding relationship between components
+- Use the exact text from the screenshot.
+- Do not add comments in the code.
+- Repeat elements as needed to match the screenshot.
+- If you meet any icons,use @drawable/img to replace.
+- Use ONLY framework view classes (LinearLayout, FrameLayout, RelativeLayout, View, Space, TextView, ImageView, Button, EditText, ScrollView, HorizontalScrollView, ListView, GridView, ProgressBar, SeekBar, Switch, CheckBox, RadioButton, RadioGroup, ToggleButton, RatingBar). Do NOT use androidx.* or ConstraintLayout.
+- Preserve native widget semantics: a draggable slider is a SeekBar, not a ProgressBar. Use native Switch/CheckBox/RadioButton rather than image crops or stacked rectangles; use native state/tint attributes, never @drawable/img in thumb, track, button, tickMark or progressDrawable. Preserve complete visible text within its bounds, not merely the text attribute.
+- **Do NOT draw the phone's system chrome** (status bar: clock/wifi/signal/battery; navigation bar: back/home/recent or the gesture pill) -- Android draws those itself, so emitting views for them puts a second copy on top of the real one. If the current code contains such views, DELETE them.
+- Do NOT invent drawable resource names. Use @drawable/img for every image; use color values (#RRGGBB) for backgrounds.
+- A genuine background photograph may stay behind UI controls. A whole reference UI screenshot or composite containing labels/controls must never be used as a background asset. Unavailable photograph content remains unresolved, not a license to copy the UI screenshot. Do not embed <shape> resources inside layout XML.
+Return only the full code like the activity_main.xml code in Android Studio

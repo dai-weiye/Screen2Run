@@ -1,0 +1,141 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        8,
+        422,
+        59
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "3:02",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        961,
+        24,
+        986,
+        49
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        988,
+        24,
+        1011,
+        49
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        912,
+        25,
+        952,
+        48
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        366,
+        738,
+        708,
+        837
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "JOHN",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        339,
+        889,
+        737,
+        978
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "LEWIS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        380,
+        1046,
+        700,
+        1085
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "& PARTNERS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 11,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.johnlewis.android.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.05384789737654321,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

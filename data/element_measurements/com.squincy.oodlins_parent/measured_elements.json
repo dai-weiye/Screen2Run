@@ -1,0 +1,193 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        13,
+        129,
+        57
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        202,
+        14,
+        247,
+        57
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        136,
+        15,
+        176,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        26,
+        1008,
+        48
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        132,
+        107,
+        180
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        296,
+        722,
+        375
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Hello, welcome back!",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        45,
+        409,
+        651,
+        453
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Sign in using your parent account",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        45,
+        573,
+        1031,
+        750
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        810,
+        1031,
+        987
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        41,
+        1116,
+        1035,
+        1252
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        1365,
+        478,
+        1409
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Forgot your password?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        1511,
+        413,
+        1552
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Not registered yet?",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        442,
+        1511,
+        781,
+        1549
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "Create an Account",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 16,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.squincy.oodlins_parent.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.30315538194444447,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

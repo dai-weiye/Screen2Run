@@ -1,0 +1,197 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        125,
+        11,
+        314,
+        60
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        16,
+        13,
+        122,
+        56
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        968,
+        26,
+        1008,
+        48
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        158,
+        134,
+        603,
+        213
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "< Feeding Times",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        144,
+        106,
+        192
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        189,
+        312,
+        887,
+        456
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        677,
+        1031,
+        1461
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1485,
+        157,
+        1605
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        502,
+        1576,
+        575,
+        1647
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        718,
+        1584,
+        791,
+        1638
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        294,
+        1590,
+        352,
+        1644
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        934,
+        1595,
+        1007,
+        1628
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        18,
+        1711,
+        67,
+        1754
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        153,
+        1712,
+        630,
+        1759
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Syncing: Harvest Reports",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 17,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.idfg.android.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.477788387345679,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

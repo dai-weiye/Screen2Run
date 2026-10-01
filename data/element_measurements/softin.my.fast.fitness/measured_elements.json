@@ -1,0 +1,351 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        223,
+        8,
+        279,
+        64
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        288,
+        8,
+        343,
+        64
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        159,
+        9,
+        207,
+        64
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        19,
+        12,
+        136,
+        59
+      ],
+      "id": 3,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        960,
+        15,
+        1022,
+        57
+      ],
+      "id": 4,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        360,
+        17,
+        399,
+        56
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        440,
+        25,
+        455,
+        47
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        201,
+        125,
+        457,
+        186
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Exercises",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        51,
+        136,
+        109,
+        144
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        152,
+        108,
+        160
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        52,
+        165,
+        111,
+        175
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        48,
+        252,
+        265,
+        474
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        306,
+        332,
+        438,
+        399
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "ABS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        986,
+        345,
+        1011,
+        384
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        604,
+        70,
+        654
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        75,
+        614,
+        1004,
+        1233
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        1269,
+        259,
+        1494
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        311,
+        1348,
+        507,
+        1412
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "CHEST",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        986,
+        1361,
+        1011,
+        1400
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        133,
+        1524,
+        158,
+        1557
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        158,
+        1526,
+        169,
+        1542
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        194,
+        1538,
+        256,
+        1625
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        68,
+        1564,
+        178,
+        1747
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        257,
+        1584,
+        269,
+        1669
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1605,
+        631,
+        1666
+      ],
+      "id": 25,
+      "kind": "text",
+      "text": "FOREARMS",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        986,
+        1616,
+        1010,
+        1652
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        239,
+        1660,
+        254,
+        1712
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        1698,
+        226,
+        1731
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        190,
+        1711,
+        193,
+        1738
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        244,
+        1824,
+        287,
+        1872
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1824,
+        833,
+        1872
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        518,
+        1826,
+        560,
+        1871
+      ],
+      "id": 32,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/softin.my.fast.fitness.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3110236625514403,
+  "ocr_added": 0,
+  "ocr_filled": 4
+}

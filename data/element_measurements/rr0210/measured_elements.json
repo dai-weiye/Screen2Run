@@ -1,0 +1,69 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        0,
+        6,
+        1184,
+        1735
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        594,
+        1866,
+        606,
+        1879
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "id": 2,
+      "kind": "text",
+      "bounds": [
+        896,
+        240,
+        1155,
+        368
+      ],
+      "text": "Spa",
+      "source": "ocr"
+    },
+    {
+      "id": 3,
+      "kind": "text",
+      "bounds": [
+        664,
+        362,
+        1055,
+        447
+      ],
+      "text": "For &Giels",
+      "source": "ocr"
+    },
+    {
+      "id": 4,
+      "kind": "text",
+      "bounds": [
+        781,
+        1560,
+        1105,
+        1607
+      ],
+      "text": "MORE APPS",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0210.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8885815972222222,
+  "ocr_added": 3,
+  "ocr_filled": 0
+}

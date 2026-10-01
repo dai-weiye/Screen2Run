@@ -1,0 +1,243 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        18,
+        13,
+        110,
+        57
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        269,
+        14,
+        313,
+        57
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        137,
+        15,
+        176,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        203,
+        15,
+        242,
+        56
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        967,
+        16,
+        1005,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        914,
+        26,
+        954,
+        48
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        210,
+        128,
+        555,
+        193
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "< Forgot Login",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        132,
+        106,
+        180
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        650,
+        976,
+        775
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "www.oneunitedo",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        57,
+        826,
+        611,
+        954
+      ],
+      "id": 10,
+      "kind": "text",
+      "text": "nline.com",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        63,
+        997,
+        878,
+        1288
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Verifying you are human.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        68,
+        1403,
+        145,
+        1495
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        359,
+        1747,
+        918,
+        1774
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "initadanlinaa",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        253,
+        1768,
+        282,
+        1775
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        291,
+        1768,
+        322,
+        1775
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        334,
+        1768,
+        361,
+        1775
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        113,
+        1769,
+        134,
+        1775
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        1769,
+        189,
+        1775
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 21,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.ifs.banking.fiid4794.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.23605854552469135,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

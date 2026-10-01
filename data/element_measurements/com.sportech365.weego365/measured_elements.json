@@ -1,0 +1,683 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        13,
+        458,
+        142
+      ],
+      "id": 0,
+      "kind": "text",
+      "text": "WEEG0365",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        135,
+        13,
+        181,
+        58
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        268,
+        13,
+        313,
+        58
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        203,
+        15,
+        246,
+        57
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        55
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        962,
+        17,
+        1001,
+        56
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        340,
+        21,
+        373,
+        51
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        416,
+        30,
+        429,
+        42
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        712,
+        219,
+        785,
+        258
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        179,
+        226,
+        523,
+        278
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "my_user_input",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        568,
+        228,
+        621,
+        276
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        806,
+        233,
+        949,
+        275
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "English",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        51,
+        237,
+        106,
+        243
+      ],
+      "id": 12,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        980,
+        245,
+        1016,
+        267
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        252,
+        106,
+        258
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        267,
+        106,
+        273
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        276,
+        1031,
+        1575
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        45,
+        1660,
+        508,
+        1775
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        898,
+        1703,
+        953,
+        1763
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        641,
+        1709,
+        893,
+        1758
+      ],
+      "id": 19,
+      "kind": "text",
+      "text": "2024-07-01 \u0e3f:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        243,
+        1824,
+        286,
+        1872
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        785,
+        1825,
+        832,
+        1871
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        517,
+        1827,
+        560,
+        1869
+      ],
+      "id": 22,
+      "kind": "component"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        117,
+        329,
+        363,
+        357
+      ],
+      "text": "SELECT DATE",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        122,
+        509,
+        505,
+        612
+      ],
+      "text": "Fri, Jul 5",
+      "source": "ocr"
+    },
+    {
+      "id": 25,
+      "kind": "text",
+      "bounds": [
+        109,
+        694,
+        355,
+        746
+      ],
+      "text": "July 2022-",
+      "source": "ocr"
+    },
+    {
+      "id": 26,
+      "kind": "text",
+      "bounds": [
+        123,
+        823,
+        148,
+        854
+      ],
+      "text": "S",
+      "source": "ocr"
+    },
+    {
+      "id": 27,
+      "kind": "text",
+      "bounds": [
+        257,
+        818,
+        287,
+        857
+      ],
+      "text": "M",
+      "source": "ocr"
+    },
+    {
+      "id": 28,
+      "kind": "text",
+      "bounds": [
+        513,
+        818,
+        558,
+        857
+      ],
+      "text": "W",
+      "source": "ocr"
+    },
+    {
+      "id": 29,
+      "kind": "text",
+      "bounds": [
+        793,
+        913,
+        818,
+        943
+      ],
+      "text": "1",
+      "source": "ocr"
+    },
+    {
+      "id": 30,
+      "kind": "text",
+      "bounds": [
+        123,
+        996,
+        151,
+        1033
+      ],
+      "text": "3",
+      "source": "ocr"
+    },
+    {
+      "id": 31,
+      "kind": "text",
+      "bounds": [
+        257,
+        996,
+        287,
+        1035
+      ],
+      "text": "4",
+      "source": "ocr"
+    },
+    {
+      "id": 32,
+      "kind": "text",
+      "bounds": [
+        391,
+        996,
+        419,
+        1033
+      ],
+      "text": "5",
+      "source": "ocr"
+    },
+    {
+      "id": 33,
+      "kind": "text",
+      "bounds": [
+        522,
+        999,
+        553,
+        1033
+      ],
+      "text": "6",
+      "source": "ocr"
+    },
+    {
+      "id": 34,
+      "kind": "text",
+      "bounds": [
+        793,
+        1002,
+        818,
+        1033
+      ],
+      "text": "8",
+      "source": "ocr"
+    },
+    {
+      "id": 35,
+      "kind": "text",
+      "bounds": [
+        112,
+        1086,
+        162,
+        1125
+      ],
+      "text": "10",
+      "source": "ocr"
+    },
+    {
+      "id": 36,
+      "kind": "text",
+      "bounds": [
+        246,
+        1086,
+        296,
+        1125
+      ],
+      "text": "11",
+      "source": "ocr"
+    },
+    {
+      "id": 37,
+      "kind": "text",
+      "bounds": [
+        380,
+        1086,
+        427,
+        1125
+      ],
+      "text": "12",
+      "source": "ocr"
+    },
+    {
+      "id": 38,
+      "kind": "text",
+      "bounds": [
+        513,
+        1086,
+        561,
+        1125
+      ],
+      "text": "13",
+      "source": "ocr"
+    },
+    {
+      "id": 39,
+      "kind": "text",
+      "bounds": [
+        650,
+        1088,
+        698,
+        1122
+      ],
+      "text": "14",
+      "source": "ocr"
+    },
+    {
+      "id": 40,
+      "kind": "text",
+      "bounds": [
+        784,
+        1088,
+        829,
+        1122
+      ],
+      "text": "15",
+      "source": "ocr"
+    },
+    {
+      "id": 41,
+      "kind": "text",
+      "bounds": [
+        918,
+        1088,
+        963,
+        1122
+      ],
+      "text": "16",
+      "source": "ocr"
+    },
+    {
+      "id": 42,
+      "kind": "text",
+      "bounds": [
+        112,
+        1175,
+        162,
+        1214
+      ],
+      "text": "17",
+      "source": "ocr"
+    },
+    {
+      "id": 43,
+      "kind": "text",
+      "bounds": [
+        246,
+        1175,
+        296,
+        1214
+      ],
+      "text": "18",
+      "source": "ocr"
+    },
+    {
+      "id": 44,
+      "kind": "text",
+      "bounds": [
+        380,
+        1175,
+        430,
+        1214
+      ],
+      "text": "19",
+      "source": "ocr"
+    },
+    {
+      "id": 45,
+      "kind": "text",
+      "bounds": [
+        513,
+        1175,
+        564,
+        1214
+      ],
+      "text": "20",
+      "source": "ocr"
+    },
+    {
+      "id": 46,
+      "kind": "text",
+      "bounds": [
+        650,
+        1178,
+        695,
+        1208
+      ],
+      "text": "21",
+      "source": "ocr"
+    },
+    {
+      "id": 47,
+      "kind": "text",
+      "bounds": [
+        784,
+        1178,
+        829,
+        1208
+      ],
+      "text": "22",
+      "source": "ocr"
+    },
+    {
+      "id": 48,
+      "kind": "text",
+      "bounds": [
+        918,
+        1175,
+        963,
+        1211
+      ],
+      "text": "23",
+      "source": "ocr"
+    },
+    {
+      "id": 49,
+      "kind": "text",
+      "bounds": [
+        114,
+        1264,
+        162,
+        1300
+      ],
+      "text": "24",
+      "source": "ocr"
+    },
+    {
+      "id": 50,
+      "kind": "text",
+      "bounds": [
+        246,
+        1264,
+        293,
+        1303
+      ],
+      "text": "25",
+      "source": "ocr"
+    },
+    {
+      "id": 51,
+      "kind": "text",
+      "bounds": [
+        380,
+        1264,
+        430,
+        1303
+      ],
+      "text": "26",
+      "source": "ocr"
+    },
+    {
+      "id": 52,
+      "kind": "text",
+      "bounds": [
+        511,
+        1261,
+        564,
+        1309
+      ],
+      "text": "27",
+      "source": "ocr"
+    },
+    {
+      "id": 53,
+      "kind": "text",
+      "bounds": [
+        647,
+        1264,
+        695,
+        1306
+      ],
+      "text": "28",
+      "source": "ocr"
+    },
+    {
+      "id": 54,
+      "kind": "text",
+      "bounds": [
+        781,
+        1264,
+        832,
+        1303
+      ],
+      "text": "29",
+      "source": "ocr"
+    },
+    {
+      "id": 55,
+      "kind": "text",
+      "bounds": [
+        913,
+        1264,
+        966,
+        1300
+      ],
+      "text": "30",
+      "source": "ocr"
+    },
+    {
+      "id": 56,
+      "kind": "text",
+      "bounds": [
+        112,
+        1353,
+        162,
+        1390
+      ],
+      "text": "31",
+      "source": "ocr"
+    },
+    {
+      "id": 57,
+      "kind": "text",
+      "bounds": [
+        594,
+        1476,
+        767,
+        1513
+      ],
+      "text": "CANCEL",
+      "source": "ocr"
+    },
+    {
+      "id": 58,
+      "kind": "text",
+      "bounds": [
+        879,
+        1476,
+        943,
+        1513
+      ],
+      "text": "OK",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Unseen/com.sportech365.weego365.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.7256013695987654,
+  "ocr_added": 36,
+  "ocr_filled": 4
+}

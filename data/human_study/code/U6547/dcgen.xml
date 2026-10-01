@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FF000000"
+    android:clipChildren="false"
+    android:id="@+id/view_1"
+    android:layout_width="411.4239dp"
+    android:layout_height="658.2782dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical|end"
+        android:rotation="90"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clipChildren="false">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#FF4FA6E5"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:paddingTop="18dp"
+                android:paddingBottom="18dp"
+                android:text="Swipe down from the top to exit full screen."
+                android:textColor="#FFFFFFFF"
+                android:textSize="14sp" />
+
+            <View
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:layout_gravity="top|center_horizontal"
+                android:background="#FF4FA6E5"
+                android:rotation="45"
+                android:translationY="-7dp" />
+        </FrameLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="16dp" />
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:background="#FF4FA6E5"
+            android:gravity="center"
+            android:paddingTop="9dp"
+            android:paddingBottom="9dp"
+            android:text="OK"
+            android:textColor="#FFFFFFFF"
+            android:textSize="14sp" />
+    </LinearLayout>
+</FrameLayout>

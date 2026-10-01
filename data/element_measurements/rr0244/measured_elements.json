@@ -1,0 +1,355 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        937,
+        5,
+        1190,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        17,
+        7,
+        53,
+        43
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        119,
+        8,
+        143,
+        42
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        10,
+        191,
+        40
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        72,
+        17,
+        79,
+        27
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        81,
+        17,
+        94,
+        27
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        44,
+        82,
+        73,
+        132
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        388,
+        83,
+        810,
+        138
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Add an appointment",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        20,
+        195,
+        1179,
+        318
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        323,
+        23,
+        446
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1175,
+        323,
+        1199,
+        446
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        51,
+        356,
+        168,
+        413
+      ],
+      "id": 11,
+      "kind": "text",
+      "text": "Time",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1041,
+        362,
+        1132,
+        406
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "12:44",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1145,
+        364,
+        1172,
+        404
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        450,
+        23,
+        573
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1178,
+        450,
+        1199,
+        573
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        53,
+        485,
+        163,
+        538
+      ],
+      "id": 16,
+      "kind": "text",
+      "text": "Alert",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1145,
+        492,
+        1169,
+        531
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        915,
+        494,
+        1128,
+        529
+      ],
+      "id": 18,
+      "kind": "text",
+      "text": "2 hours before",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        577,
+        24,
+        700
+      ],
+      "id": 19,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1178,
+        577,
+        1199,
+        700
+      ],
+      "id": 20,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1023,
+        602,
+        1168,
+        672
+      ],
+      "id": 21,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        57,
+        616,
+        291,
+        661
+      ],
+      "id": 22,
+      "kind": "text",
+      "text": "Alert or not",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        702,
+        1199,
+        787
+      ],
+      "id": 23,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        789,
+        22,
+        912
+      ],
+      "id": 24,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1174,
+        789,
+        1199,
+        912
+      ],
+      "id": 25,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        914,
+        1199,
+        999
+      ],
+      "id": 26,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1001,
+        23,
+        1124
+      ],
+      "id": 27,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1178,
+        1001,
+        1199,
+        1124
+      ],
+      "id": 28,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        0,
+        1127,
+        1199,
+        1823
+      ],
+      "id": 29,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 30,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 31,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 32,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0244.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.5642638888888889,
+  "ocr_added": 0,
+  "ocr_filled": 6
+}

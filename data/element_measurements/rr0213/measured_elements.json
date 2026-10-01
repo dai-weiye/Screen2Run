@@ -1,0 +1,295 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        936,
+        5,
+        1189,
+        43
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        17,
+        6,
+        208,
+        44
+      ],
+      "id": 1,
+      "kind": "text",
+      "text": "#",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        263,
+        10,
+        287,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        11,
+        241,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        58,
+        120,
+        154
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        991,
+        84,
+        1031,
+        126
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        127,
+        88,
+        603,
+        129
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Sign Language For Beginners",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        0,
+        162,
+        1199,
+        1824
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "id": 11,
+      "kind": "text",
+      "bounds": [
+        128,
+        229,
+        564,
+        265
+      ],
+      "text": "Upgrade to Ad free Version",
+      "source": "ocr"
+    },
+    {
+      "id": 12,
+      "kind": "text",
+      "bounds": [
+        820,
+        192,
+        957,
+        235
+      ],
+      "text": "Settings",
+      "source": "ocr"
+    },
+    {
+      "id": 13,
+      "kind": "text",
+      "bounds": [
+        820,
+        294,
+        921,
+        328
+      ],
+      "text": "About",
+      "source": "ocr"
+    },
+    {
+      "id": 14,
+      "kind": "text",
+      "bounds": [
+        128,
+        366,
+        296,
+        413
+      ],
+      "text": "Alphabets",
+      "source": "ocr"
+    },
+    {
+      "id": 15,
+      "kind": "text",
+      "bounds": [
+        131,
+        419,
+        519,
+        449
+      ],
+      "text": "Learn sign language alphabets",
+      "source": "ocr"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        131,
+        532,
+        279,
+        567
+      ],
+      "text": "Numbers",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        131,
+        578,
+        508,
+        611
+      ],
+      "text": "Learn sign language numbers",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        126,
+        714,
+        497,
+        753
+      ],
+      "text": "Greetings and Phrases",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        123,
+        876,
+        388,
+        910
+      ],
+      "text": "Question Words",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        128,
+        1038,
+        488,
+        1077
+      ],
+      "text": "Days and Time Of Day",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        0,
+        1167,
+        272,
+        1273
+      ],
+      "text": "55 clothing",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        126,
+        1362,
+        589,
+        1401
+      ],
+      "text": "Family members and People",
+      "source": "ocr"
+    },
+    {
+      "id": 23,
+      "kind": "text",
+      "bounds": [
+        123,
+        1524,
+        500,
+        1563
+      ],
+      "text": "Emotions and Feelings",
+      "source": "ocr"
+    },
+    {
+      "id": 24,
+      "kind": "text",
+      "bounds": [
+        117,
+        1688,
+        237,
+        1720
+      ],
+      "text": "Colors",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0213.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.8892196180555556,
+  "ocr_added": 14,
+  "ocr_filled": 2
+}

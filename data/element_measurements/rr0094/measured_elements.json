@@ -1,0 +1,265 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        20,
+        3,
+        204,
+        44
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        983,
+        4,
+        1190,
+        45
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        263,
+        11,
+        289,
+        39
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        131,
+        95,
+        456,
+        140
+      ],
+      "id": 4,
+      "kind": "text",
+      "text": "< Backup & Restore",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        98,
+        87,
+        130
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        223,
+        171,
+        262
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "Restore",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        38,
+        348,
+        168,
+        395
+      ],
+      "id": 7,
+      "kind": "text",
+      "text": "Backup",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        41,
+        477,
+        319,
+        518
+      ],
+      "id": 8,
+      "kind": "text",
+      "text": "Backup reminder",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        1123,
+        481,
+        1163,
+        512
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        39,
+        583,
+        1159,
+        1293
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1056,
+        680,
+        1170,
+        784
+      ],
+      "id": 11,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1053,
+        879,
+        1171,
+        992
+      ],
+      "id": 12,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 13,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 14,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 15,
+      "kind": "component"
+    },
+    {
+      "id": 16,
+      "kind": "text",
+      "bounds": [
+        45,
+        616,
+        170,
+        651
+      ],
+      "text": "Restore",
+      "source": "ocr"
+    },
+    {
+      "id": 17,
+      "kind": "text",
+      "bounds": [
+        128,
+        720,
+        371,
+        756
+      ],
+      "text": "Google Account",
+      "source": "ocr"
+    },
+    {
+      "id": 18,
+      "kind": "text",
+      "bounds": [
+        128,
+        820,
+        338,
+        858
+      ],
+      "text": "Local storage",
+      "source": "ocr"
+    },
+    {
+      "id": 19,
+      "kind": "text",
+      "bounds": [
+        131,
+        923,
+        257,
+        958
+      ],
+      "text": "Dropbox",
+      "source": "ocr"
+    },
+    {
+      "id": 20,
+      "kind": "text",
+      "bounds": [
+        50,
+        1019,
+        220,
+        1063
+      ],
+      "text": "M Email",
+      "source": "ocr"
+    },
+    {
+      "id": 21,
+      "kind": "text",
+      "bounds": [
+        125,
+        1126,
+        341,
+        1163
+      ],
+      "text": "Cloud storage",
+      "source": "ocr"
+    },
+    {
+      "id": 22,
+      "kind": "text",
+      "bounds": [
+        123,
+        1228,
+        204,
+        1264
+      ],
+      "text": "Help",
+      "source": "ocr"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0094.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.3767517361111111,
+  "ocr_added": 7,
+  "ocr_filled": 4
+}

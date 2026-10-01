@@ -1,0 +1,137 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        20,
+        13,
+        206,
+        58
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        957,
+        15,
+        1022,
+        58
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1031,
+        16,
+        1055,
+        56
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        128,
+        111,
+        184
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        448,
+        239,
+        630,
+        416
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        242,
+        473,
+        842,
+        552
+      ],
+      "id": 5,
+      "kind": "text",
+      "text": "Select your server",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        86,
+        588,
+        992,
+        697
+      ],
+      "id": 6,
+      "kind": "text",
+      "text": "What is the address of your server? This is",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        47,
+        752,
+        1031,
+        938
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        55,
+        1004,
+        1024,
+        1123
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        271,
+        1824,
+        301,
+        1871
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        783,
+        1829,
+        834,
+        1876
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        514,
+        1840,
+        562,
+        1874
+      ],
+      "id": 11,
+      "kind": "component"
+    }
+  ],
+  "height": 2340,
+  "image": "Unseen/im.vector.app.png",
+  "width": 1080,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.19681980056980056,
+  "ocr_added": 0,
+  "ocr_filled": 2
+}

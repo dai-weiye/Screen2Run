@@ -1,0 +1,223 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        71,
+        8,
+        95,
+        42
+      ],
+      "id": 0,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 1,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        215,
+        10,
+        239,
+        40
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1004,
+        10,
+        1031,
+        41
+      ],
+      "id": 3,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        167,
+        11,
+        193,
+        39
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        1086,
+        11,
+        1187,
+        40
+      ],
+      "id": 5,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        114,
+        13,
+        148,
+        37
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        24,
+        17,
+        31,
+        27
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        33,
+        17,
+        46,
+        27
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        159,
+        87,
+        391,
+        124
+      ],
+      "id": 9,
+      "kind": "text",
+      "text": "< Need access",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        55,
+        90,
+        88,
+        122
+      ],
+      "id": 10,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        34,
+        643,
+        145,
+        725
+      ],
+      "id": 11,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        166,
+        669,
+        718,
+        700
+      ],
+      "id": 12,
+      "kind": "text",
+      "text": "Enable mobile access at your control panel.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        24,
+        789,
+        63,
+        1126
+      ],
+      "id": 13,
+      "kind": "text",
+      "text": "1.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        104,
+        789,
+        1093,
+        1128
+      ],
+      "id": 14,
+      "kind": "text",
+      "text": "Tap Settings from the main screen and enter your PIN.",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        26,
+        1193,
+        505,
+        1225
+      ],
+      "id": 15,
+      "kind": "text",
+      "text": "If you need help, please give us a call:",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        31,
+        1266,
+        1168,
+        1363
+      ],
+      "id": 16,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 17,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 18,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 19,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0248.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.22803515625,
+  "ocr_added": 0,
+  "ocr_filled": 5
+}

@@ -1,0 +1,125 @@
+{
+  "detector": "UIED (Xie et al. 2020), detection stage only",
+  "elements": [
+    {
+      "bounds": [
+        17,
+        0,
+        148,
+        46
+      ],
+      "id": 0,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1087,
+        6,
+        1189,
+        42
+      ],
+      "id": 1,
+      "kind": "text"
+    },
+    {
+      "bounds": [
+        1044,
+        9,
+        1083,
+        39
+      ],
+      "id": 2,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        448,
+        88,
+        753,
+        125
+      ],
+      "id": 3,
+      "kind": "text",
+      "text": "Change transit agency",
+      "source": "ocr"
+    },
+    {
+      "bounds": [
+        36,
+        89,
+        73,
+        124
+      ],
+      "id": 4,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        30,
+        192,
+        1169,
+        275
+      ],
+      "id": 5,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        41,
+        815,
+        1158,
+        1058
+      ],
+      "id": 6,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        573,
+        1758,
+        625,
+        1811
+      ],
+      "id": 7,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        563,
+        1854,
+        635,
+        1892
+      ],
+      "id": 8,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        310,
+        1858,
+        376,
+        1892
+      ],
+      "id": 9,
+      "kind": "component"
+    },
+    {
+      "bounds": [
+        823,
+        1858,
+        891,
+        1892
+      ],
+      "id": 10,
+      "kind": "component"
+    }
+  ],
+  "height": 1920,
+  "image": "Real/rr0040.png",
+  "width": 1200,
+  "ink_added": 0,
+  "ink_sparse": false,
+  "ink_coverage": 0.17337847222222222,
+  "ocr_added": 0,
+  "ocr_filled": 1
+}
